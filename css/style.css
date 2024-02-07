@@ -6798,7 +6798,7 @@ input[type=radio]:checked+label:before {
 .loading-box {
 	width: 100%;
 	height: 100%;
-	background-color: #23252d;
+	background-color: #F1F5FF;
 	position: absolute;
 	left: 0;
 	top: 0;
