@@ -1,0 +1,165 @@
+.bg-theme {
+    background-color: #004C86 !important;
+}
+
+.bg-thin-ice {
+    background-color: #F1F5FF !important;
+}
+
+.bg-ice-blue {
+    background-color: #A2D9F7 !important;
+}
+
+.bg-theme-grey {
+    background-color: #9D9E9E !important;
+}
+
+.text-theme {
+    color: #004C86 !important;
+}
+
+.text-theme-1 {
+    color: #009846 !important;
+}
+
+.hover-change-theme:hover {
+    color: #009846 !important;
+}
+
+.hover-change-theme1:hover {
+    color: #004C86 !important;
+}
+
+@media only screen and (max-width: 767px) {
+
+    .logo__img-secondary {
+        height: 80%;
+    }
+
+    .desktop-only {
+        display: none;
+    }
+
+    .mobile-only {
+        min-height: var(767px);
+    }
+
+    .contact-nav .contact_close {
+        right: 350px !important;
+    }
+
+    .extended-slider {
+        height: 100vh !important;
+    }
+
+    .uranus.tparrows {
+        display: none !important;
+    }
+
+    .owl-btn-vertical-center .owl-nav .owl-next {
+        right: 0% !important;
+    }
+
+    .owl-btn-vertical-center .owl-nav .owl-prev,
+    .owl-btn-vertical-center .owl-nav .owl-next {
+        position: absolute;
+        top: 50%;
+        margin: -15px 0;
+    }
+}
+
+.mobile-only {
+    display: none;
+}
+
+/*-------------------------
+	Title Hover
+---------------------------*/
+
+.underline-effect:before,
+.underline-effect:after {
+    position: absolute;
+    -webkit-transition: all 0.35s ease;
+    transition: all 0.35s ease;
+}
+
+.underline-effect:before {
+    bottom: -2px;
+    display: block;
+    height: 2px;
+    width: 0%;
+    content: "";
+    background-color: #004C86;
+}
+
+.underline-effect:hover:before {
+    opacity: 1;
+    width: 100%;
+}
+
+.underline-effect:hover:after {
+    max-width: 100%;
+}
+
+.tp-bannertimer {
+    background: rgba(0, 76, 134, 0.3) !important;
+}
+
+
+.underline-transition {
+    position: relative;
+    text-decoration: none;
+    color: #009846;
+}
+
+.underline-transition::after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 2px;
+    background: #009846;
+    transition: width .3s;
+    bottom: -2px;
+    left: 0%;
+}
+
+.underline-transition:hover::after {
+    width: 100%;
+    left: 0;
+}
+
+.top-bar.bg-thin-ice .fa {
+    color: #004C86;
+}
+
+.top-bar.bg-thin-ice .fa:hover {
+    color: #009846;
+}
+
+
+.body-no-scroll {
+    overflow: hidden;
+    padding-right: 15px;
+    /* Adjust this value to match the width of your scrollbar */
+}
+
+.pattern-bg {
+    background: #F1F5FF url(../images/pattern.png) repeat;
+}
+
+.text-thin-ice{
+    color: #F1F5FF !important;
+}
+.accolades{
+    display: flex !important;
+    justify-content: center !important;
+}
+#copyright-text{
+    justify-content: center !important; 
+}
+.copyright-strong{
+    font-weight: bolder !important;
+}
+.font-mbold{
+    font-weight: bold !important;
+}
