@@ -15,11 +15,9 @@
                     <div class="widget widget_services inline-links">
                         <h5 class="widget-title">The Apartments</h5>
                         <ul>
-                            <li><a href="about-1.html">Stay</a></li>
-                            <li><a href="services-1.html">Work</a></li>
-                            <li><a href="project-grid.html">Offers</a></li>
-                            <li><a href="blog-grid.html">Blog</a></li>
-                            <li><a href="contact-1.html">Contact Us</a></li>
+                            <li><a href="stay.php">Stay</a></li>
+                            <li><a href="work.php">Work</a></li>
+                            <li><a href="offers.php">Offers</a></li>
                         </ul>
                     </div>
                 </div>
@@ -29,9 +27,9 @@
                     <div class="widget widget_services inline-links">
                         <h5 class="widget-title">Explore More</h5>
                         <ul>
-                            <li><a href="about-1.html">Locations</a></li>
-                            <li><a href="services-1.html">Neighbourhood</a></li>
-                            <li><a href="project-grid.html">Contact Us</a></li>
+                            <li><a href="stay.php">Locations</a></li>
+                            <li><a href="neighbourhood.php">Neighbourhood</a></li>
+                            <li><a href="contact-us.php">Contact Us</a></li>
                         </ul>
                     </div>
                 </div>
@@ -41,11 +39,11 @@
                     <div class="widget widget_services inline-links">
                         <h5 class="widget-title">Quick Links</h5>
                         <ul>
-                            <li><a href="about-1.html">Terms &amp Conditions</a></li>
-                            <li><a href="services-1.html">Sustainability</a></li>
-                            <li><a href="project-grid.html">Privacy Policy </a></li>
-                            <li><a href="blog-grid.html">Blog</a></li>
-                            <li><a href="contact-1.html">Property Management</a></li>
+                            <li><a href="terms-conditions.php">Terms &amp; Conditions</a></li>
+                            <li><a href="property-management.php">Property Management</a></li>
+                            <li><a href="sustainability.php">Sustainability</a></li>
+                            <li><a href="privacy-policy.php">Privacy Policy </a></li>
+                            <li><a href="cookies-policy.php">Cookies Policy </a></li>
                         </ul>
                     </div>
                 </div>
@@ -73,13 +71,21 @@
                                 <div class="icon-content">
                                     <!-- <h6 class="m-t0">Office Address</h6> -->
                                     <a class="font-mbold text-theme underline-transition" target="_blank"
-                                        href="https://www.google.com/maps/place/672,+784+Fulham+Rd.,+London+SW6+5SL/data=!4m2!3m1!1s0x48760f754fa5c9db:0x8c6583d5433b5598?sa=X&ved=2ahUKEwjrjsGn_peEAxX5-gIHHa9JDDAQ8gF6BAgbEAA">672,
-                                        784 Fulham Rd., London SW6 5SJ, United Kingdom</a>
+                                        href="https://www.google.co.uk/maps/place/672+Fulham+Rd.,+London+SW6+5RX/@51.475456,-0.2089199,17z/data=!3m1!4b1!4m6!3m5!1s0x48760f9e89d3fb59:0xb20cc100d6e40985!8m2!3d51.4754527!4d-0.206345!16s%2Fg%2F11b8txkbxs?entry=ttu">672
+                                        Fulham Road, London SW6 5RX, United Kingdom</a>
                                 </div>
                             </li>
                         </ul>
 
                     </div>
+                    <ul class="social-icons  sx-social-links">
+                        <li><a target="_blank" href="https://www.instagram.com/hybridresi/" class="fa fa-instagram"></a>
+                        </li>
+                        <li><a target="_blank" href="https://www.facebook.com/HybridResi/" class="fa fa-facebook"></a>
+                        </li>
+                        <li><a target="_blank" href="https://www.linkedin.com/company/hybrid-resi"
+                                class="fa fa-linkedin"></a></li>
+                    </ul>
                 </div>
             </div>
         </div>
@@ -91,10 +97,12 @@
             <div id="copyright-text" class="row">
                 <div class="sx-footer-bot-left">
                     <span class="copyrights-text">&COPY;
-                        <script>document.write(new Date().getFullYear());</script> Hybrid Resi is Developed by <a class="underline-transition text-theme1 copyright-strong" href="https://jayeshbetala.com/"
+                        <script>document.write(new Date().getFullYear());</script> Hybrid Resi is Developed by <a
+                            class="underline-transition text-theme1 copyright-strong" href="https://jayeshbetala.com/"
                             target="_blank">
-                            Jayesh Betala </a> &amp Proudly Powered by <a class="underline-transition text-theme1 copyright-strong" href="http://xandora.in"
-                            target="_blank"> Xandora
+                            Jayesh Betala </a> and Proudly Powered by <a
+                            class="underline-transition text-theme1 copyright-strong" href="http://xandora.in"
+                            target="_blank"> Xandora</a>
                     </span>
                 </div>
             </div>
@@ -169,6 +177,9 @@
 <script src="js/rev-script-1.js"></script>
 <!-- CHATBOT -->
 <script src='//eu.fw-cdn.com/12629429/648241.js' chat='true'></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script src="js/form.js"></script>
+
 
 
 

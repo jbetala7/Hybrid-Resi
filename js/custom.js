@@ -201,6 +201,7 @@ function sticky_header(){
 		})
 	}
 }		
+
 //________accordion active calss function by = custom.js________//	
 
 	function accordion_active() {
@@ -992,3 +993,24 @@ menuToggleButton.addEventListener('click', function() {
 });
 
 })(jQuery);
+
+
+// Banner Trigger if Not Closed
+if (!localStorage.bannerClosed) {
+	$('.privacy-banner').css('display', 'inherit');
+  } else {
+	$('.privacy-banner').css('display', 'none');
+  }
+  $('.privacy-banner button').click(function() {
+	$('.privacy-banner').css('display', 'none');
+	localStorage.bannerClosed = 'true';
+  });
+  $('.banner-accept').click(function() {
+	$('.privacy-banner').css('display', 'none');
+	localStorage.bannerClosed = 'true';
+  });
+  if (navigator.userAgent.match(/Opera|OPR\//)) {
+	$('.privacy-banner').css('display', 'inherit');
+  }
+
+  

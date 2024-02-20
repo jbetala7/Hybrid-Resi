@@ -454,13 +454,13 @@ html {
 
 body {
 	background-color: #F1F5FF;
-	font-family: 'montserratregular', sans-serif;
+	font-family: 'montserratlight', sans-serif;
 	font-size: 14px;
 	font-weight: 500;
 	color: #000;
 	padding: 0;
 	margin: 0;
-	overflow-x: hidden;
+	overflow-x: hidden !important;
 }
 
 a {
@@ -482,7 +482,7 @@ a:focus {
 }
 
 p {
-	font-family: 'montserratregular', sans-serif;
+	font-family: 'montserratlight', sans-serif;
 	font-weight: bold;
 }
 
@@ -528,11 +528,12 @@ table {
 
 table thead th {
 	padding: 12px 8px !important;
-	background-color: #f2f2f2;
+	background-color: #F1F5FF;
+	color: #004C86 !important;
 }
 
 table td {
-	padding: 15px 10px !important;
+	padding: 15px 10px;
 }
 
 @media only screen and (max-width:360px) {
@@ -640,48 +641,48 @@ h6 a.sx-text-white:hover {
 }
 
 h1 {
-	font-family: 'montserratbold', sans-serif;
-	font-weight: 700;
+	font-family: 'montserratregular', sans-serif;
+	font-weight: 900;
 	font-size: 50px;
-	color: #000;
+	color: #004C86;
 }
 
 h2 {
-	font-family: 'montserratbold', sans-serif;
-	font-weight: 700;
+	font-family: 'montserratregular', sans-serif;
+	font-weight: 900;
 	font-size: 44px;
-	color: #000;
+	color: #004C86;
 }
 
 h3 {
-	font-family: 'montserratbold', sans-serif;
-	font-weight: 700;
+	font-family: 'montserratregular', sans-serif;
+	font-weight: 900;
 	font-size: 38px;
-	color: #000;
+	color: #004C86;
 	margin-bottom: 20px;
 }
 
 h4 {
-	font-family: 'montserratbold', sans-serif;
-	font-weight: 700;
+	font-family: 'montserratregular', sans-serif;
+	font-weight: 900;
 	font-size: 22px;
-	color: #000;
+	color: #004C86;
 	margin-bottom: 15px;
 }
 
 h5 {
-	font-family: 'montserratbold', sans-serif;
-	font-weight: 700;
+	font-family: 'montserratregular', sans-serif;
+	font-weight: 900;
 	font-size: 18px;
-	color: #000;
+	color: #004C86;
 	margin-bottom: 10px;
 }
 
 h6 {
-	font-family: 'montserratbold', sans-serif;
-	font-weight: 700;
+	font-family: 'montserratregular', sans-serif;
+	font-weight: 900;
 	font-size: 16px;
-	color: #000;
+	color: #004C86;
 	margin-bottom: 10px;
 }
 
@@ -707,7 +708,7 @@ p {
 }
 
 strong {
-	font-weight: 700;
+	font-weight: 900;
 }
 
 
@@ -935,11 +936,11 @@ strong {
 }
 
 .font-weight-600 {
-	font-weight: 700;
+	font-weight: 900;
 }
 
 .font-weight-700 {
-	font-weight: 700;
+	font-weight: 900;
 }
 
 .font-weight-800 {
@@ -4304,7 +4305,7 @@ ol.list-num-count.list-outline-none>li:before {
 .masonry-filter>li a {
 	color: #000;
 	font-size: 14px;
-	font-weight: 700;
+	font-weight: 900;
 }
 
 .masonry-filter>li.active a,
@@ -4398,7 +4399,7 @@ ol.list-num-count.list-outline-none>li:before {
 	background-color: #666666;
 	color: #F1F5FF;
 	padding: 10px 20px;
-	font-weight: 700;
+	font-weight: 900;
 	display: inline-block;
 }
 
@@ -4436,7 +4437,7 @@ ol.list-num-count.list-outline-none>li:before {
 	border-color: #666666;
 	color: #666666;
 	padding: 10px 20px;
-	font-weight: 700;
+	font-weight: 900;
 	display: inline-block;
 }
 
@@ -4488,7 +4489,7 @@ btn-half {
 	display: block;
 	padding-left: 0%;
 	text-transform: uppercase;
-	font-weight: 700;
+	font-weight: 900;
 	transform: scaleX(0.9);
 	transform-origin: center center;
 	transition: color 0.3s ease;
@@ -4587,7 +4588,7 @@ btn-half {
 .sep-line-one:before {
 	position: absolute;
 	content: '';
-	background-color: #F1F5FF;
+	background-color: #004C86;
 	height: 4px;
 }
 
@@ -4625,7 +4626,7 @@ btn-half {
 }
 
 .sx-separator-outer.separator-center {
-	text-align: center
+	text-align: center;
 }
 
 .sx-separator-outer.separator-left .sep-line-one {
@@ -4700,19 +4701,19 @@ btn-half {
 	.sx-separator-outer.separator-left .sep-line-one {
 		padding: 10px 60px 10px 20px;
 		font-size: 26px;
-		font-weight: 700;
+		font-weight: 900;
 	}
 
 	.sx-separator-outer.separator-right .sep-line-one {
 		padding: 10px 20px 10px 60px;
 		font-size: 26px;
-		font-weight: 700;
+		font-weight: 900;
 	}
 
 	.sx-separator-outer.separator-center .sep-line-one {
 		padding: 10px 60px 10px 60px;
 		font-size: 26px;
-		font-weight: 700;
+		font-weight: 900;
 	}
 }
 
@@ -4726,7 +4727,7 @@ btn-half {
 	}
 
 	.sx-separator-outer.separator-center {
-		text-align: left;
+		text-align: center;
 	}
 }
 
@@ -5112,7 +5113,7 @@ btn-half {
 	display: block;
 	padding: 15px 50px 15px 15px;
 	font-size: 16px;
-	font-weight: 700;
+	font-weight: 900;
 }
 
 .acod-head a,
@@ -5597,7 +5598,7 @@ btn-half {
 	display: inline-block;
 	vertical-align: middle;
 	font-size: 24px;
-	font-weight: 700;
+	font-weight: 900;
 	position: absolute;
 	left: 10px;
 	top: 2px;
@@ -5621,7 +5622,7 @@ btn-half {
 	content: counter(slides-num);
 	display: inline-block;
 	font-size: 24px;
-	font-weight: 700;
+	font-weight: 900;
 	vertical-align: middle;
 	padding-left: 30px;
 	color: #000;
@@ -5688,9 +5689,8 @@ btn-half {
 
 .pricingtable-bx {
 	font-size: 70px;
-	font-family: Arial;
-	color: #666666;
-	color: #23252d;
+	font-family: 'montserratlight', sans-serif;
+	color: #004C86;
 }
 
 .pricingtable-type {
@@ -5743,7 +5743,7 @@ btn-half {
 .pricingtable-footer {
 	margin-top: 15px;
 	padding: 20px;
-	background-color: #23252d;
+	background-color: #009846;
 }
 
 .pricingtable-highlight {
@@ -5817,10 +5817,10 @@ btn-half {
 }
 
 .pricing-table-style-5 .pricingtable-type {
-	color: #23252d;
+	color: #004C86;
 	display: block;
 	font-size: 14px;
-	font-weight: 700;
+	font-weight: 900;
 	text-transform: capitalize;
 }
 
@@ -5834,8 +5834,8 @@ btn-half {
 }
 
 .pricing-table-style-5 .pricingtable-title * {
-	color: #222;
-	font-weight: 700;
+	color: #009846;
+	font-weight: 900;
 }
 
 .pricing-table-style-5 .pricingtable-price {
@@ -6544,7 +6544,7 @@ btn-half {
 -------------------------------------*/
 
 label {
-	font-weight: 700;
+	font-weight: 900;
 	margin-bottom: 10px;
 }
 
@@ -6898,7 +6898,7 @@ input[type=radio]:checked+label:before {
 
 
 .widget_services ul li a {
-	color: #000;
+	color: #004C86;
 	display: block;
 }
 
@@ -7116,7 +7116,7 @@ input[type=radio]:checked+label:before {
 	font-size: 12px;
 	display: inline-block;
 	margin: 0 0 5px;
-	font-weight: 700;
+	font-weight: 900;
 	color: #000;
 	position: relative;
 	border: 1px solid #e3e3e3;
@@ -7240,19 +7240,19 @@ input[type=radio]:checked+label:before {
 }
 
 .footer-dark .social-icons li a {
-	color: #23252d;
+	color: #F1F5FF;
 	font-size: 14px;
 	text-align: center;
 	width: 36px;
 	height: 36px;
 	line-height: 28px;
-	background-color: #F1F5FF;
+	background-color: #004C86;
 	border-radius: 50%;
 	border: 1px solid transparent;
 }
 
 .footer-dark .social-icons li a:hover {
-	color: #000;
+	color: #F1F5FF;
 	background-color: #009846;
 	border: 1px solid rgba(255, 255, 255, 0.1)
 }
@@ -7271,7 +7271,7 @@ input[type=radio]:checked+label:before {
 	background-color: #F1F5FF;
 	color: #000;
 	text-transform: uppercase;
-	font-weight: 700;
+	font-weight: 900;
 	letter-spacing: 2px;
 	height: 50px;
 	padding: 15px;
@@ -7338,7 +7338,7 @@ input[type=radio]:checked+label:before {
 	background-color: #F1F5FF;
 	color: #000;
 	text-transform: uppercase;
-	font-weight: 700;
+	font-weight: 900;
 	letter-spacing: 2px;
 	height: 50px;
 	padding: 15px;
@@ -7605,7 +7605,7 @@ blockquote.author-quote .fa-quote-left {
 	padding: 0;
 	display: inline-block;
 	font-size: 12px;
-	font-weight: 700;
+	font-weight: 900;
 	color: #23252d;
 }
 
@@ -7615,7 +7615,7 @@ blockquote.author-quote .fa-quote-left {
 
 .sx-post-meta li:after {
 	content: "-";
-	display: inline-block;
+	display: none;
 	font-weight: normal;
 	margin-left: 5px;
 	opacity: 0.5;
@@ -7631,7 +7631,7 @@ blockquote.author-quote .fa-quote-left {
 
 .sx-post-text p a {
 	text-transform: uppercase;
-	font-weight: 700;
+	font-weight: 900;
 	display: inline-block;
 }
 
@@ -7735,14 +7735,14 @@ ol.comment-list li.comment .comment-author .fn {
 	display: inline-block;
 	color: #000;
 	font-size: 16px;
-	font-weight: 700;
+	font-weight: 900;
 	font-style: normal;
 }
 
 ol.comment-list li.comment .comment-author .says {
 	display: none;
 	color: #999999;
-	font-weight: 700;
+	font-weight: 900;
 }
 
 ol.comment-list li.comment .comment-meta {
@@ -7774,7 +7774,7 @@ ol.comment-list li.comment .reply a {
 	font-size: 12px;
 	color: #000;
 	text-transform: uppercase;
-	font-weight: 700;
+	font-weight: 900;
 }
 
 ol.comment-list li .children {
@@ -7871,7 +7871,7 @@ ol.comment-list li .children li {
 	padding: 0 15px;
 	margin-bottom: 30px;
 	position: relative;
-	font-weight: 700;
+	font-weight: 900;
 }
 
 .comments-area .comment-form p.form-allowed-tags {
@@ -7923,7 +7923,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 	border-width: 0;
 	color: #F1F5FF;
 	display: inline-block;
-	font-weight: 700;
+	font-weight: 900;
 	padding: 10px 20px;
 	text-transform: uppercase;
 }
@@ -7945,14 +7945,14 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 	/* Chrome/Opera/Safari */
 	color: #000;
 	font-size: 14px;
-	font-weight: 700;
+	font-weight: 900;
 }
 
 .comment-form .form-control::-moz-placeholder {
 	/* Firefox 19+ */
 	color: #000;
 	font-size: 14px;
-	font-weight: 700;
+	font-weight: 900;
 
 }
 
@@ -7960,14 +7960,14 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 	/* IE 10+ */
 	color: #000;
 	font-size: 14px;
-	font-weight: 700;
+	font-weight: 900;
 }
 
 .comment-form .form-control:-moz-placeholder {
 	/* Firefox 18- */
 	color: #000;
 	font-size: 14px;
-	font-weight: 700;
+	font-weight: 900;
 }
 
 @media only screen and (max-width: 767px) {
@@ -8140,11 +8140,11 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 .date-style-3 .sx-post-meta li {
 	padding: 11px 20px 9px 20px;
 	border-right: 1px solid #eee;
-	font-weight: 700;
+	font-weight: 900;
 }
 
 .date-style-3 .sx-post-meta li strong {
-	font-weight: 700;
+	font-weight: 900;
 }
 
 .date-style-3 .sx-post-meta li:first-child {
@@ -8233,7 +8233,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 	display: inline-block;
 	font-size: 10px;
 	text-transform: uppercase;
-	font-weight: 700;
+	font-weight: 900;
 }
 
 .recent-posts-entry-date .sx-post-info {
@@ -8327,7 +8327,7 @@ HEADER (top part of page)
 ======================================*/
 
 .site-header {
-	position: relative;
+	position: sticky;
 	z-index: 999;
 }
 
@@ -8482,7 +8482,7 @@ HEADER (top part of page)
 .appint-btn a {
 	font-size: 12px;
 	text-transform: uppercase;
-	font-weight: 700;
+	font-weight: 900;
 	letter-spacing: 2px;
 }
 
@@ -8501,7 +8501,7 @@ HEADER (top part of page)
 .e-p-bx li {
 	display: inline;
 	font-size: 12px;
-	font-weight: 700;
+	font-weight: 900;
 	position: relative;
 }
 
@@ -8528,7 +8528,8 @@ HEADER (top part of page)
 	text-transform: uppercase;
 	display: inline-block;
 	padding-right: 10px;
-	font-weight: 700;
+	font-weight: 900;
+	font-family: 'montserratbold', sans-serif;
 }
 
 .e-p-bx li a {
@@ -8741,10 +8742,10 @@ HEADER (top part of page)
 	background: url(../images/pattern.png) repeat;
 }
 
-.header-style-1 .top-bar {
+/* .header-style-1 .top-bar {
 	position: relative;
 	z-index: 8;
-}
+} */
 
 .top-bar.bg-thin-ice {
 	color: inherit;
@@ -8940,6 +8941,7 @@ HEADER (top part of page)
 @media only screen and (max-width:480px) {
 	.navbar-toggler {
 		margin-left: 5px;
+		margin-right: 2px;
 	}
 
 	.extra-nav .extra-cell {
@@ -8995,6 +8997,7 @@ HEADER (top part of page)
 	margin: -7px 0;
 	font-weight: bold;
 	text-transform: capitalize;
+	font-family: 'montserratbold', sans-serif;
 }
 
 .header-nav .nav>li>a:hover {
@@ -9055,7 +9058,7 @@ HEADER (top part of page)
 	display: block;
 	font-size: 14px;
 	padding: 14px 20px;
-	font-weight: 700;
+	font-weight: 900;
 	border-left: 0px solid transparent;
 	-webkit-transition: all 0.2s linear;
 	-moz-transition: all 0.2s linear;
@@ -9255,7 +9258,7 @@ HEADER (top part of page)
 	cursor: pointer;
 	padding: 10px;
 	font-size: 21px;
-	font-weight: 700;
+	font-weight: 900;
 	display: none;
 }
 
@@ -9560,7 +9563,7 @@ HEADER (top part of page)
 		display: block;
 		color: #004C86;
 		font-size: 21px;
-		font-weight: 700;
+		font-weight: 900;
 	}
 
 	.nav-transparent .main-bar .container {
@@ -9653,7 +9656,7 @@ HEADER (top part of page)
 	.nav-dark.header-nav .nav>li>a:active,
 	.nav-dark.header-nav .nav>li>a:focus {
 		background-color: #009846;
-		color: #009846;
+		color: #F1F5FF;
 	}
 
 	.nav-dark.header-nav .nav>li ul,
@@ -9668,6 +9671,7 @@ HEADER (top part of page)
 		left: 50%;
 		overflow-y: scroll;
 		-webkit-overflow-scrolling: touch;
+		z-index: 2000;
 	}
 
 	.nav-dark.header-nav .nav>li .sub-menu {
@@ -9834,7 +9838,7 @@ HEADER (top part of page)
 	.header-nav .nav>li>a {
 		margin: 0;
 		padding: 25px 15px;
-		font-weight: 700;
+		font-weight: 900;
 		display: block;
 	}
 
@@ -10209,7 +10213,7 @@ HEADER (top part of page)
 	background-color: #F1F5FF;
 	border: 1px solid #acacac;
 	color: #767676;
-	font-weight: 700;
+	font-weight: 900;
 	font-size: 12px;
 	padding: 10px 15px;
 }
@@ -10290,7 +10294,7 @@ HEADER (top part of page)
 /*footer fixed with boxed view*/
 
 .site-footer .widget>.widget-title {
-	font-weight: 700;
+	font-weight: 900;
 }
 
 .site-footer p,
@@ -10617,7 +10621,7 @@ HEADER (top part of page)
 button.scroltop {
 	height: 40px;
 	width: 40px;
-	background: #004C86;
+	background: #009846;
 	border: none;
 	position: fixed;
 	left: 15px;
@@ -10801,7 +10805,7 @@ button.scroltop span {
 .section-head h3 {
 	margin-top: 0;
 	margin-bottom: 0;
-	font-family: 'montserratbold', sans-serif;
+	font-family: 'montserratlight', sans-serif;
 }
 
 .title-small {
@@ -10858,7 +10862,7 @@ button.scroltop span {
 	h1,
 	h2,
 	h3 {
-		font-size: 22px;
+		font-size: 30px;
 	}
 
 	.sx-post-title h2.post-title {
@@ -11043,7 +11047,7 @@ ul.contact-info li .fa {
 	font-size: 16px;
 	color: #999999;
 	margin: 4px 4px;
-	font-weight: 700;
+	font-weight: 900;
 }
 
 .sx-product-box .price ins {
@@ -11051,7 +11055,7 @@ ul.contact-info li .fa {
 	color: #111111;
 	text-decoration: none;
 	margin: 4px 4px;
-	font-weight: 700;
+	font-weight: 900;
 }
 
 .sx-product-box .rating-bx {
@@ -11409,28 +11413,28 @@ Background Effects
 	/* Chrome/Opera/Safari */
 	color: #23252d;
 	font-size: 14px;
-	font-weight: 700;
+	font-weight: 900;
 }
 
 .contact-one .form-control::-moz-placeholder {
 	/* Firefox 19+ */
 	color: #23252d;
 	font-size: 14px;
-	font-weight: 700;
+	font-weight: 900;
 }
 
 .contact-one .form-control:-ms-input-placeholder {
 	/* IE 10+ */
 	color: #23252d;
 	font-size: 14px;
-	font-weight: 700;
+	font-weight: 900;
 }
 
 .contact-one .form-control:-moz-placeholder {
 	/* Firefox 18- */
 	color: #23252d;
 	font-size: 14px;
-	font-weight: 700;
+	font-weight: 900;
 }
 
 
@@ -11596,7 +11600,7 @@ Background Effects
 	display: block;
 	font-size: 18px;
 	line-height: 18px;
-	font-weight: 700;
+	font-weight: 900;
 }
 
 .our-story-time .month {
@@ -11641,7 +11645,7 @@ Background Effects
 		margin-left: 0px;
 		display: inline-block;
 		font-size: 14px;
-		font-weight: 700;
+		font-weight: 900;
 	}
 
 	.our-story-time {
@@ -13319,7 +13323,7 @@ Background Effects
 	font-size: 80px;
 	line-height: 80px;
 	color: rgba(0, 0, 0, 0.1);
-	font-weight: 700;
+	font-weight: 900;
 	letter-spacing: 20px;
 	transform: rotate(270deg);
 	position: absolute;
@@ -13425,10 +13429,10 @@ Background Effects
 	right: 30px;
 	top: 20px;
 	font-size: 80px;
-	font-weight: 700;
+	font-weight: 900;
 	color: rgba(177, 177, 177, 0.2);
 	line-height: 120px;
-	font-family: 'montserratbold', sans-serif;
+	font-family: 'montserratlight', sans-serif;
 
 	-webkit-transition: all 0.5s linear;
 	-moz-transition: all 0.5s linear;
@@ -13900,6 +13904,7 @@ Background Effects
 	z-index: 1;
 	padding: 30px;
 	margin-bottom: 30px;
+	margin-top: 30px;
 	border: 20px solid #e8d7cb;
 }
 
@@ -14086,7 +14091,7 @@ Background Effects
 	content: counter(slides-num);
 	display: inline-block;
 	font-size: 14px;
-	font-weight: 700;
+	font-weight: 900;
 	vertical-align: middle;
 	padding-left: 0px;
 }
@@ -14106,7 +14111,7 @@ Background Effects
 	display: inline-block;
 	vertical-align: middle;
 	font-size: 14px;
-	font-weight: 700;
+	font-weight: 900;
 	position: absolute;
 	left: 0;
 	top: 0;
@@ -14117,7 +14122,7 @@ Background Effects
 	display: inline-block;
 	vertical-align: middle;
 	font-size: 14px;
-	font-weight: 700;
+	font-weight: 900;
 	position: absolute;
 	left: 16px;
 	top: 0;
@@ -14168,7 +14173,7 @@ Background Effects
 	width: 100%;
 	height: auto;
 	background-color: transparent;
-	border: 20px solid #23252d;
+	border: 20px solid #009846;
 	z-index: 0;
 	bottom: -40px;
 
@@ -14356,7 +14361,7 @@ Background Effects
 	font-size: 42px;
 	line-height: 42px;
 	height: 36px;
-	font-weight: 700;
+	font-weight: 900;
 	margin-top: 50px;
 	display: block;
 }
@@ -14549,7 +14554,7 @@ Background Effects
 .number-block-two .figcaption-number span {
 	font-size: 40px;
 	line-height: 40px;
-	font-weight: 700;
+	font-weight: 900;
 	display: block;
 }
 
@@ -14621,7 +14626,7 @@ Background Effects
 .number-block-three .figcaption-number span {
 	font-size: 60px;
 	line-height: 60px;
-	font-weight: 700;
+	font-weight: 900;
 	display: block;
 }
 
@@ -14842,7 +14847,7 @@ Filter Hover Navigation
 	letter-spacing: 1px;
 	margin: 0px;
 	text-decoration: none;
-	font-weight: 700;
+	font-weight: 900;
 }
 
 .hover-navigation a:before,
@@ -15157,7 +15162,7 @@ Image Effect Two
 	background-size: 0% 2px;
 	transition: background-size .3s;
 	padding-bottom: 3px;
-	font-weight: 700;
+	font-weight: 900;
 }
 
 .anchor-line a:hover,
@@ -15180,7 +15185,7 @@ Image Effect Two
 	color: #009846;
 	font-size: 45px;
 	line-height: 45px;
-	font-weight: 700;
+	font-weight: 900;
 	text-transform: uppercase;
 	margin: 13px 0 14px;
 }
@@ -15226,7 +15231,7 @@ Image Effect Two
 
 @media only screen and (max-width:768px) {
 	.mobile-page-padding {
-		padding: 30px 0px;
+		/* padding: 30px 0px; */
 	}
 
 	.mobile-page-padding.p-b10 {
@@ -15397,7 +15402,7 @@ Image Effect Two
 	font-size: 10px;
 	letter-spacing: 5px;
 	text-transform: uppercase;
-	font-weight: 700;
+	font-weight: 900;
 }
 
 @media (max-width: 778px) {
@@ -15617,7 +15622,7 @@ Image effect one
 	border: 2px solid #009846;
 	color: #F1F5FF;
 	font-size: 1em;
-	font-weight: 700;
+	font-weight: 900;
 	letter-spacing: 1px;
 	margin: 0;
 	padding: 5px 10px;
@@ -15666,7 +15671,7 @@ Image effect one
 .bgcall-block-number {
 	position: absolute;
 	font-size: 120px;
-	font-weight: 700;
+	font-weight: 900;
 	opacity: 0.2;
 	color: #F1F5FF;
 	line-height: 1;
@@ -15934,7 +15939,7 @@ large-title-block
 @media only screen and (max-width:768px) {
 	.large-title-block.full-content {
 		padding-top: 30px;
-		margin-bottom: 0px;
+		/* margin-bottom: 0px; */
 		margin-top: 30px;
 	}
 
@@ -16159,6 +16164,7 @@ large-title-block
 	display: inline-block;
 	font-weight: 900;
 	border: 3px solid #009846;
+	font-family: 'montserratbold', sans-serif;
 }
 
 .get-in-touch-btn:before,
@@ -16255,7 +16261,7 @@ New Menu Style for mobile device (august/2021)
 		width: 100%;
 		display: block;
 		height: 100%;
-		padding-top: 95px;
+		padding-top: 5px;
 		background-color: #F1F5FF;
 		background-image: url(../images/pattern.png);
 		background-repeat: repeat;
@@ -16593,7 +16599,7 @@ New Menu Style for mobile device (august/2021)
 	background-color: #00CC00;
 	border-radius: 3px;
 	color: #F1F5FF;
-	font-weight: 700;
+	font-weight: 900;
 	z-index: 1;
 	padding: 2px 10px;
 }
@@ -16642,7 +16648,7 @@ New Menu Style for mobile device (august/2021)
 	font-weight: 500;
 	font-size: 18px;
 	color: #569bb3;
-	font-weight: 700;
+	font-weight: 900;
 }
 
 .sx-product-box .sx-thum-bx {
@@ -16729,12 +16735,12 @@ New Menu Style for mobile device (august/2021)
 }
 
 /*select-box-border-style1*/
-select {
+/* select {
 	appearance: none;
 	background-image: url(...);
 	padding: 10px 30px 10px 10px;
 	background-color: #F1F5FF;
-}
+} */
 
 .select-box-border-style1 {
 	border: 1px solid #ddd;
@@ -16857,14 +16863,14 @@ form.woocommerce-ordering:after {
 .p-single-new-price {
 	font-size: 26px;
 	color: #569bb3;
-	font-weight: 700;
+	font-weight: 900;
 }
 
 .product-single-availability {
 	margin-bottom: 15px;
 	margin-top: 15px;
 	color: #979797;
-	font-weight: 700;
+	font-weight: 900;
 	letter-spacing: 1px;
 }
 
@@ -16892,7 +16898,7 @@ form.woocommerce-ordering:after {
 
 .product_meta a {
 	color: #979797;
-	font-weight: 700;
+	font-weight: 900;
 	letter-spacing: 1px;
 }
 
@@ -16902,14 +16908,14 @@ form.woocommerce-ordering:after {
 
 .product_meta .sku_wrapper {
 	color: #979797;
-	font-weight: 700;
+	font-weight: 900;
 	letter-spacing: 1px;
 	margin-bottom: 7px;
 }
 
 .product_meta .posted_in {
 	color: #979797;
-	font-weight: 700;
+	font-weight: 900;
 	letter-spacing: 1px;
 }
 
@@ -17076,7 +17082,7 @@ form.woocommerce-ordering:after {
 .pagination-st-1>li>a {
 	background-color: #F1F5FF;
 	color: #000;
-	font-weight: 700;
+	font-weight: 900;
 	font-size: 14;
 	padding: 10px 15px;
 }
@@ -17127,7 +17133,7 @@ form.woocommerce-ordering:after {
 	padding: 15px;
 	border: 0px;
 	display: block;
-	font-weight: 700;
+	font-weight: 900;
 	border: 1px solid transparent;
 	border-bottom: 0px;
 }

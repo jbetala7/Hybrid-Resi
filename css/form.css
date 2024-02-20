@@ -1,0 +1,432 @@
+.booking-form {
+    max-width: 80%;
+    margin: 20px 20px;
+    background-color: #fff;
+    padding: 10px 20px;
+    /* border-radius: 50px; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 7px 7px 7px 7px rgba(0, 0, 0, 0.1);
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.form-item {
+    display: flex;
+    align-items: center;
+    position: relative;
+    padding: 10px;
+    flex-direction: column;
+    /* For absolute positioning of the separator */
+}
+
+.form-item:not(:last-child):after {
+    content: "|";
+    position: absolute;
+    right: -20px;
+    color: #ccc;
+}
+
+.form-item label {
+    font-size: 16px;
+    margin-right: 10px;
+    margin-bottom: 0px !important;
+}
+
+.form-item input[type="text"],
+.form-item input[type="number"],
+.form-item select {
+    background: #F1F5FF;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 8px 12px;
+    font-size: 14px;
+    margin-right: 10px;
+    font-family: 'montserratregular', sans-serif;
+}
+
+/* Remove default number input spinners */
+.form-item input[type="number"]::-webkit-inner-spin-button,
+.form-item input[type="number"]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.form-item input[type="number"] {
+    -moz-appearance: textfield;
+}
+
+/* Style the guest increment buttons */
+.increment-buttons {
+    display: flex;
+    align-items: center;
+}
+
+.increment-buttons button {
+    background-color: #ddd;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.increment-buttons input[type="number"] {
+    width: 40px;
+    text-align: center;
+    border: none;
+    margin: 0 5px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 767px) {
+    .booking-form {
+        flex-direction: column;
+        padding: 20px;
+    }
+
+    .form-item {
+        width: 100%;
+        margin-bottom: 10px;
+        justify-content: center;
+        display: flex;
+        align-items: stretch;
+        position: relative;
+        flex-direction: column;
+    }
+
+    .form-item:not(:last-child):after {
+        display: none;
+    }
+
+    .custom-dropdown.date-range-dropdown,
+    .increment-buttons,
+    .form-item input[type="text"],
+    .form-item input[type="number"] {
+        box-sizing: border-box;
+        /* This ensures padding is included in the total width */
+    }
+
+    .form-item {
+        display: flex;
+        flex-direction: column;
+        /* Stack the label and input vertically */
+        margin-bottom: 10px;
+        /* Add space between the form items */
+    }
+
+    .custom-dropdown.date-range-dropdown .dropbtn {
+        width: 100%;
+        /* Make the button fill the container */
+    }
+
+    /* Ensure all form items have the same width */
+    .form-item .custom-dropdown,
+    .form-item input[type="text"],
+    .form-item .increment-buttons {
+        width: calc(100% - 20px);
+        /* Adjust the width by reducing the total padding */
+        margin: 0 auto;
+        /* This will center the elements if they are within a container */
+    }
+
+    /* Optional: Adjust the width of the input fields if necessary */
+    .form-item input[type="text"],
+    .form-item input[type="number"] {
+        max-width: none;
+        /* This will allow the input to fill the container */
+    }
+
+    /* Adjust the margins for the increment buttons if necessary */
+    .increment-buttons button {
+        margin: 0;
+        /* Adjust as necessary */
+    }
+
+    /* Adjust the size of the Select Apartment dropdown to match the other fields */
+    .custom-dropdown.date-range-dropdown {
+        width: calc(100% - 20px);
+        /* Adjust the width to match the input fields, assuming they have padding or margins */
+    }
+    .custom-dropdown .dropdown-content a {
+        padding-right: 30px; /* Add enough padding to account for long text and scrollbar */
+    }
+
+    .custom-dropdown .dropdown-content a {
+        white-space: nowrap; /* This prevents text from wrapping */
+        overflow: hidden; /* This hides any overflow */
+        text-overflow: ellipsis; /* This adds an ellipsis to any text that overflows */
+        padding: 12px 16px; /* Adjust padding as needed, but ensure it's not too large */
+        display: block; /* This ensures each link is on its own line */
+        box-sizing: border-box; /* This ensures padding is included in the width */
+    }
+
+    .custom-dropdown{
+        width: 100%;
+    
+    }
+
+}
+
+/* Customizing the jQuery UI datepicker */
+.ui-datepicker {
+    border: 1px solid #aaa;
+    background: #fff;
+    padding: 10px;
+}
+
+/* Dropdown Button */
+.dropbtn {
+    background-color: #F1F5FF;
+    color: #000;
+    padding: 6px;
+    /* border: none; */
+    border: 1px solid #ddd;
+    cursor: pointer;
+    /* border-radius: 20px; */
+    display: inline-flex;
+    align-items: center;
+    /* justify-content: center; */
+    width: 100%;
+    text-align: left;
+    /* Align text to the left */
+    font-size: 15px;
+    box-shadow: none;
+    /* Remove box-shadow if not needed */
+    font-family: 'montserratregular', sans-serif;
+}
+.dropbtn-text{
+    color: #7d7d7d;
+}
+
+.dropbtn:hover {
+    background-color: #aaa;
+
+}
+
+/* Style for the button when the dropdown is open */
+.dropbtn.active {
+    background-color: #aaa;
+    /* Or any other color you prefer */
+}
+
+.dropbtn span.selected-text {
+    color: black; /* Set the color of the selected text to black */
+}
+/* The container <div> - needed to position the dropdown content */
+.custom-dropdown {
+    position: relative;
+    display: inline-block;
+    width: 300px;
+    /* Adjust width as needed */
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #F1F5FF;
+    width: 100%;
+    /* Adjust as needed */
+    max-height: 300px;
+    /* Set a max-height for your dropdown */
+    overflow-y: scroll;
+    /* Allows scrolling */
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    border-radius: 4px;
+    margin-top: 2px;
+    box-sizing: border-box;
+    z-index: 5555 !important;
+    /* Adjust as needed */
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    white-space: nowrap;
+    /* Prevents text wrapping */
+    /* text-align: center; */
+}
+
+
+/* Icons in links */
+.icon {
+    margin-right: 5px;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown-content:hover {
+    display: block;
+}
+
+/* Add custom scrollbar styles */
+.dropdown-content::-webkit-scrollbar {
+    width: 5px;
+    /* width of the entire scrollbar */
+}
+
+.dropdown-content::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    /* color of the tracking area */
+}
+
+.dropdown-content::-webkit-scrollbar-thumb {
+    background-color: #888;
+    /* color of the scroll thumb */
+    border-radius: 10px;
+    /* roundness of the scroll thumb */
+    border: 3px solid #f1f1f1;
+    /* creates padding around scroll thumb */
+}
+
+.dropdown-content::-webkit-scrollbar-thumb:hover {
+    background: #555;
+    /* color of the scroll thumb when hovered or active */
+}
+
+
+/* Show the dropdown menu on click */
+.show {
+    display: block;
+}
+
+.dp-none {
+    display: none !important;
+}
+
+.increment-buttons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.increment-buttons button {
+    background-color: #F1F5FF;
+    /* Light grey background */
+    border: none;
+    color: #333;
+    /* Dark grey text */
+    padding: 5px 10px;
+    font-size: 18px;
+    line-height: 1;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    border-radius: 50%;
+    /* Makes the buttons round */
+    width: 30px;
+    /* Fixed width */
+    height: 30px;
+    /* Fixed height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 5px;
+}
+
+.increment-buttons button:hover {
+    background-color: #e0e0e0;
+    /* Slightly darker grey on hover */
+}
+
+/* Adjust the input field size and style */
+.increment-buttons input[type="number"] {
+    width: 50px;
+    text-align: center;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 5px;
+    margin: 0 5px;
+}
+
+/* Remove default number input spinners */
+.increment-buttons input[type="number"]::-webkit-inner-spin-button,
+.increment-buttons input[type="number"]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.increment-buttons input[type="number"] {
+    -moz-appearance: textfield;
+}
+
+.table td>.td.ui-datepicker-week-end {
+    padding: 0px !important;
+}
+
+.increment-buttons button:focus {
+    outline: none;
+}
+
+@media (max-width: 1400px){
+    .form-booking{
+        max-width: 100% !important;
+    }
+}
+.ui-datepicker .ui-datepicker-header{
+	background: #F1F5FF !important;
+}
+.ui-datepicker .ui-datepicker-title{
+	color: #004C86 !important;
+}
+.ui-state-hover, .ui-widget-content .ui-state-hover, .ui-widget-header .ui-state-hover, .ui-state-focus, .ui-widget-content .ui-state-focus, .ui-widget-header .ui-state-focus, .ui-button:hover, .ui-button:focus{
+	border: 1px solid #004C86 !important;
+    color: #004C86 !important;
+}
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default, .ui-button, html .ui-button.ui-state-disabled:hover, html .ui-button.ui-state-disabled:active{
+	background: #F1F5FF !important;
+}
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active, a.ui-button:active, .ui-button:active, .ui-button.ui-state-active:hover{
+	background: #004C86 !important;
+	color: #F1F5FF !important;
+	border: none !important;
+}
+.ui-datepicker select.ui-datepicker-month, .ui-datepicker select.ui-datepicker-year{
+	background: #F1F5FF !important;
+}
+.ui-widget.ui-widget-content{
+    background-color: #F1F5FF !important;
+    font-family: 'montserratregular', sans-serif;
+}
+
+.error-message {
+    display: none; /* Hidden by default */
+    color: #FF2400 ; /* Error message color */
+    font-family: 'montserratbold', sans-serif;
+    /* Other styling as needed */
+}
+
+
+/* Style the invalid input fields */
+input:invalid, select:invalid {
+    border: 2px solid #FF2400 ;
+}
+
+/* Hide the default browser tooltips */
+input:invalid[title], select:invalid[title] {
+    position: relative;
+}
+
+input:invalid[title]::after, select:invalid[title]::after {
+    content: attr(title);
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: #FF2400 ;
+    color: white;
+    padding: 4px;
+    border-radius: 5px;
+    z-index: 1;
+}
+
+/* Hide the content when the input/select is valid */
+input:valid[title]::after, select:valid[title]::after {
+    display: none;
+}
