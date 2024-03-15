@@ -28,25 +28,25 @@ include 'header.php' ?>
 </div>
 <!-- INNER PAGE BANNER END -->
 <!-- SECTION CONTENT START -->
-<div class="section-full p-t80 mobile-page-padding">
-    <div class="container">
-        <!-- TITLE START -->
-        <div class="section-head">
-            <div class="sx-separator-outer separator-center">
-                <div class="sx-separator bg-moving bg-repeat-x" style="background-image:url(images/pattern.png);">
-                    <h3 class="sep-line-one text-theme text-uppercase">environmental, Social and Governance (ESG)</h3>
+<div class="section-full mobile-page-padding">
+    <!-- TITLE -->
+    <div class="large-title-block full-content bg-theme bg-moving bg-repeat-x" style="background-image:url(images/background/green-leaves-pattern.png);">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12">
+                <div class="large-title text-white text-center">
+                    <h1 class="m-tb0 text-uppercase">Environmental, Social and Governance (ESG)</h1>
                 </div>
             </div>
         </div>
-        <!-- TITLE END -->
     </div>
+    <!-- TITLE -->
 
-    <div class="container">
+    <div class="container p-t50">
         <div class="section-content ">
             <div class="our-history text-black">
                 <div class="row">
                     <div class="col-12 pic-bg-border">
-                        <div class="our-history-pic bg-no-repeat bg-center bg-cover" data-stellar-background-ratio="0.9" style="background-image:url(images/sustainability/1.jpg);">
+                        <div class="mb-6 our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/sustainability/1.jpg);">
 
                         </div>
                     </div>
@@ -74,7 +74,7 @@ include 'header.php' ?>
 
                 <div class="row">
                     <div class="col-12 pic-bg-border">
-                        <div class="our-history-pic bg-no-repeat bg-center bg-cover" data-stellar-background-ratio="0.9" style="background-image:url(images/sustainability/2.jpg);">
+                        <div class="mb-6 our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/sustainability/2.jpg);">
 
                         </div>
                     </div>
@@ -95,7 +95,7 @@ include 'header.php' ?>
 
                 <div class="row">
                     <div class="col-12 pic-bg-border">
-                        <div class="our-history-pic bg-no-repeat bg-center bg-cover" data-stellar-background-ratio="0.9" style="background-image:url(images/sustainability/3.jpg);">
+                        <div class="mb-6 our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/sustainability/3.jpg);">
 
                         </div>
                     </div>
@@ -124,11 +124,11 @@ include 'header.php' ?>
         <!-- GALLERY CONTENT START -->
         <div class="row">
 
-            <div class="col-lg-4 col-md-12 sticky_column no-padding-mobile p-t30 no-padding-mobile p-tb100">
-                <div class="about4-section m-b20 p-a20 pattern-bg">
+            <div class="col-lg-4 col-md-12 sticky_column p-tb50">
+                <div class="about4-section m-b20 p-a20 pattern-bg1">
                     <div class="widget widget_services">
                         <h4 class="widget-title text-theme-1">Topics</h4>
-                        <ul class="pattern-bg font-mbold">
+                        <ul class="pattern-bg1 font-mbold">
                             <li><a href="#environment">Environment</a></li>
                             <li><a href="#social-responsibility">Social Responsibility</a></li>
                             <li><a href="#governance">Governance</a></li>
@@ -141,13 +141,13 @@ include 'header.php' ?>
 
             <div class="col-lg-8 col-md-12">
                 <div class="section-content">
-                    <div id="environment" class="service-single-block p-t100 ">
+                    <div id="environment" class="service-single-block p-t50 ">
                         <div class="sx-post-title ">
                             <h4 class="post-title text-center">1. ENVIRONMENT</h4>
                         </div>
                         <div class="sx-post-text">
                             <p class="text-theme-1">1.1 Overview:
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> We aim to implant environmental ethos in everything we
                                         do. We believe we have a responsibility to minimize the energy, carbon, water
                                         and waste impacts of our business and recognize that these impacts occur not
@@ -158,7 +158,7 @@ include 'header.php' ?>
                             </ul>
                             </p>
                             <p class="text-theme-1">1.2 Statement on Climate Change
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> We are committed to driving down our energy and carbon
                                         impacts, our sustainability program is committed to environmentally sustainable
                                         initiatives that deliver near-term efficiency, value, and health for our
@@ -185,7 +185,7 @@ include 'header.php' ?>
                             </ul>
                             </p>
                             <p class="text-theme-1">1.3 Business Operations
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> We have a long-term environmental performance target
                                         for the portfolio that addresses energy and water consumption. Our energy
                                         consumption initiatives include energy retrofits, energy management system
@@ -195,7 +195,7 @@ include 'header.php' ?>
                             </ul>
                             </p>
                             <p class="text-theme-1">1.4 Guests Engagement
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> Because we control only a small part of our total
                                         environmental footprint, we must engage both internal and external stakeholders
                                         to drive sustainable innovation and systematic change. Guests’ engagement is at
@@ -210,7 +210,7 @@ include 'header.php' ?>
                             </ul>
                             </p>
                             <p class="text-theme-1">1.5 Industry Engagement
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> We also strive to engage with key industry
                                         players—including vendors, peers, and standard- setters—on sustainability, as
                                         preventing a climate crisis and other environmental disasters requires a
@@ -236,7 +236,7 @@ include 'header.php' ?>
                         </div>
                         <div class="sx-post-text">
                             <p class="text-theme-1">2.1 Overview
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> A deep commitment to social responsibility is core to
                                         who we are as a company. We believe people are at the heart of our business and
                                         take pride in our outstanding work culture. We strive to be an optimal employer
@@ -246,7 +246,7 @@ include 'header.php' ?>
                             </ul>
                             </p>
                             <p class="text-theme-1">2.2 Compensation and Benefits
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> We know that the first step in hiring and retaining
                                         the best talent is to create safe and inspiring workplaces where people feel
                                         valued. We offer competitive compensation and benefits to all regular full-time
@@ -258,7 +258,7 @@ include 'header.php' ?>
                             </ul>
                             </p>
                             <p class="text-theme-1">2.3 Culture, Engagement and Growth
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> We create fun, spirited work environments that reward
                                         innovation and collaboration at all levels. We also aim to foster both personal
                                         and professional growth for employees at all levels of the organization through
@@ -267,7 +267,7 @@ include 'header.php' ?>
                             </ul>
                             </p>
                             <p class="text-theme-1">3.3 Human Rights:
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> The health and safety of our employees, guests, and
                                         vendors are of the utmost importance to us. We expect suppliers to Hybrid Resi
                                         to provide a safe and healthy working environment for their employees which
@@ -297,13 +297,13 @@ include 'header.php' ?>
                         </div>
                     </div>
 
-                    <div id="governance" class="service-single-block p-tb100">
+                    <div id="governance" class="service-single-block p-t100 p-b50">
                         <div class="sx-post-title ">
                             <h4 class="post-title text-center">3. GOVERNANCE</h4>
                         </div>
                         <div class="sx-post-text">
                             <p class="text-theme-1">3.1 Overview
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> We embrace and value diversity in all its forms,
                                         whether gender, age, ethnicity or cultural background. Equal opportunity is
                                         integral to our recruitment process, as we aim to develop a community of diverse
@@ -320,7 +320,7 @@ include 'header.php' ?>
                             </ul>
                             </p>
                             <p class="text-theme-1">3.2 Ethics
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> Our employees, including senior management, conduct
                                         themselves following the highest moral and ethical standards, informed by a
                                         robust Code of Business Conduct and Ethics. We are committed to ensuring a fair
@@ -338,7 +338,7 @@ include 'header.php' ?>
                             </ul>
                             </p>
                             <p class="text-theme-1">3.3 Human Rights:
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> Hybrid Resi is committed to upholding all laws
                                         relating to the protection of human rights including but not limited to the UN
                                         Universal Declaration of Human Rights. In line with our Modern Slavery policy,

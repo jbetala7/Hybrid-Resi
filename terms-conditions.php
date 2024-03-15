@@ -30,28 +30,28 @@ include 'header.php' ?>
 <!-- INNER PAGE BANNER END -->
 
 <!-- SECTION CONTENT START -->
-<div class="section-full p-t80 mobile-page-padding">
-    <div class="container">
-        <!-- TITLE START -->
-        <div class="section-head">
-            <div class="sx-separator-outer separator-center">
-                <div class="sx-separator bg-moving bg-repeat-x" style="background-image:url(images/pattern.png);">
-                    <h3 class="sep-line-one text-theme text-uppercase">Our Terms &amp; Conditions</h3>
+<div class="section-full mobile-page-padding">
+    <!-- TITLE -->
+    <div class="large-title-block full-content bg-theme bg-moving bg-repeat-x" style="background-image:url(images/background/green-leaves-pattern.png);">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12">
+                <div class="large-title text-white text-center">
+                    <h1 class="m-tb0 text-uppercase">Our Terms &amp; Conditions</h1>
                 </div>
             </div>
         </div>
-        <!-- TITLE END -->
     </div>
+    <!-- TITLE -->
     <div class="container">
 
         <!-- GALLERY CONTENT START -->
         <div class="row">
 
-            <div class="col-lg-4 col-md-12 sticky_column no-padding-mobile p-t30 p-b100">
-                <div class="about4-section m-b20 p-a20 pattern-bg">
+            <div class="col-lg-4 col-md-12 sticky_column no-padding-mobile p-tb50">
+                <div class="about4-section m-b20 p-a20 pattern-bg1">
                     <div class="widget widget_services">
                         <h4 class="widget-title text-theme-1">Topics</h4>
-                        <ul class="pattern-bg font-mbold">
+                        <ul class="pattern-bg1 font-mbold">
                             <li><a href="#summary">Summary</a></li>
                             <li><a href="#definitions">Defintions</a></li>
                             <li><a href="#a-brief-disclaimer">A Brief Disclaimer</a></li>
@@ -82,7 +82,7 @@ include 'header.php' ?>
             <div class="col-lg-8 col-md-12">
                 <div class="section-content">
 
-                    <div class="service-single-block p-t30">
+                    <div class="service-single-block p-t50">
                         <div class="sx-media">
                             <img src="images/term-conditions/1.jpg" alt="">
                         </div>
@@ -123,7 +123,7 @@ include 'header.php' ?>
                                 Terms and Conditions prevail.</p>
                             <p align="justify">In brief, you agree to the following Booking Terms and Conditions when you place a
                                 booking through The Hybrid Resi:
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify"class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> The Hybrid Resi may change, update, or delete the
                                         Booking Terms and Conditions without prior notice.</a></li>
                                 <li><a href="javascript:void(0)">You must be over the age of 18 to place a booking.</a>
@@ -157,7 +157,7 @@ include 'header.php' ?>
                         <div class="sx-post-text">
                             <p align="justify">Terms and conditions need definitions, so everyone knows what is happening. These
                                 are the definitions that apply:
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> The Hybrid Resi/us/we/our: The Hybrid Residences
                                         Limited.</a></li>
                                 <li><a href="javascript:void(0)">The Booker/you/your/guest: The person using
@@ -184,7 +184,7 @@ include 'header.php' ?>
                             <p align="justify"> The Hybrid Resi is also not liable for any direct or indirect loss resulting from
                                 your use of the information on this contract.</p>
                             <p class="text-theme-1">3.1 Details of your Booking
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> Any booking made Offline will only exist when your
                                         payment has been made in full and you’ve received a confirmation from us.
                                         Once you have completed your booking and received your confirmation, you
@@ -219,7 +219,7 @@ include 'header.php' ?>
                             </ul>
                             </p>
                             <p class="text-theme-1">3.2 Special Requests
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> We want to make your stay with us a special one,
                                         so we’ll do everything we can to help guests with special requirements or
                                         requests. If you have a special requirement, please let us know when you
@@ -228,7 +228,7 @@ include 'header.php' ?>
                             </ul>
                             </p>
                             <p class="text-theme-1">3.3 Group Bookings
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> Special conditions might apply, and we’ll let you
                                         know at the time of booking. Cancellation charges and notice periods may
                                         differ from those in Early departures and cancellations section and will be
@@ -244,7 +244,7 @@ include 'header.php' ?>
                         </div>
                         <div class="sx-post-text">
                             <p class="text-theme-1">4.1
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> Any booking made Offline will only exist when your
                                         payment has been made in full and
                                         you’ve received a confirmation from us. Once you have completed your booking
@@ -269,7 +269,7 @@ include 'header.php' ?>
                             </ul>
                             </p>
                             <p class="text-theme-1">4.2
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> Restrictions may apply in certain locations
                                         including, but not limited to, a minimum night stay and age restrictions;
                                         but we’ll tell you about any restrictions at the time of booking (where
@@ -278,7 +278,7 @@ include 'header.php' ?>
                             </ul>
                             </p>
                             <p class="text-theme-1">4.3
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> All guest names and contact telephone numbers are
                                         required at the time of booking, including whether guests are adults or
                                         minors.</a>
@@ -286,7 +286,7 @@ include 'header.php' ?>
                             </ul>
                             </p>
                             <p class="text-theme-1">4.4
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)">Upon check-in, guests are required to show the
                                         credit or debit card that was used to pay for the booking and a valid photo
                                         ID, such as a passport or driving licence, to go with it.</a>
@@ -294,7 +294,7 @@ include 'header.php' ?>
                             </ul>
                             </p>
                             <p class="text-theme-1">4.5
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> Please check the details and fine print on both
                                         your booking confirmation and invoice as soon as you receive them. If you
                                         notice something isn’t quite right, or you have a question, please let us
@@ -307,7 +307,7 @@ include 'header.php' ?>
                             </ul>
                             </p>
                             <p class="text-theme-1">4.6 Special Requests
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> We want to make your stay with us a special one,
                                         so we’ll do everything we can to help guests with special requirements or
                                         requests. If you have a special requirement, please let us know when you
@@ -319,7 +319,7 @@ include 'header.php' ?>
                             </ul>
                             </p>
                             <p class="text-theme-1">4.7 Group Bookings
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> Special conditions might apply, and we’ll let you
                                         know at the time of booking. Cancellation charges and notice periods may
                                         differ from those in clause 7.3 and will be advised at the time of the
@@ -335,7 +335,7 @@ include 'header.php' ?>
                         </div>
                         <div class="sx-post-text">
                             <p class="text-theme-1">5.1 General Payment Terms
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> Your full payment is required at the time of
                                         booking unless otherwise agreed. If your payment doesn't get to us before
                                         the required time, we reserve the right to suspend or cancel your booking.
@@ -364,7 +364,7 @@ include 'header.php' ?>
                             </ul>
                             </p>
                             <p class="text-theme-1">5.2 Security Deposits
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> We want to make your stay with us a special one,
                                         so we’ll do everything we can to help guests with special requirements or
                                         requests. If you have a special requirement, please let us know when you
@@ -373,7 +373,7 @@ include 'header.php' ?>
                             </ul>
                             </p>
                             <p class="text-theme-1">3.3 Group Bookings
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> Special conditions might apply, and we’ll let you
                                         know at the time of booking. Cancellation charges and notice periods may
                                         differ from those in Early departures and cancellations section and will be
@@ -388,14 +388,14 @@ include 'header.php' ?>
                             <h4 class="post-title text-center">6. PRICING</h4>
                         </div>
                         <div class="sx-post-text">
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)">Rates are per apartment, not per person and include
                                         VAT unless otherwise stated.</a></li>
                                 <li><a href="javascript:void(0)"> Monthly charges will be collected in advance
                                         unless 30 days of credit are offered from the check-in date.</a></li>
                             </ul>
                             <p class="text-theme-1">5.2 Security Deposits
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> We want to make your stay with us a special one,
                                         so we’ll do everything we can to help guests with special requirements or
                                         requests. If you have a special requirement, please let us know when you
@@ -404,7 +404,7 @@ include 'header.php' ?>
                             </ul>
                             </p>
                             <p class="text-theme-1">3.3 Group Bookings
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> Special conditions might apply, and we’ll let you
                                         know at the time of booking. Cancellation charges and notice periods may
                                         differ from those in Early departures and cancellations section and will be
@@ -419,7 +419,7 @@ include 'header.php' ?>
                             <h4 class="post-title text-center">7. CHANGES BY THE GUEST</h4>
                         </div>
                         <div class="sx-post-text">
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> Any requests for changes, extensions, and
                                         cancellations must be made in writing, otherwise, you will be liable to pay
                                         the full amount of the booking.</a></li>
@@ -431,7 +431,7 @@ include 'header.php' ?>
                                 </li>
                             </ul>
                             <p class="text-theme-1">7.1 Changes
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)">All changes of date are 'subject to availability.
                                         The original booking will be reinstated if any change is rejected. Once
                                         in-house, any changes to the departure date that result in a reduction in
@@ -440,7 +440,7 @@ include 'header.php' ?>
                             </ul>
                             </p>
                             <p class="text-theme-1">7.2 Extensions
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> If you want to extend your stay with us, please
                                         give us as much notice as possible so we can facilitate your request. All
                                         extensions are subject to availability and rate change.</a></li>
@@ -452,7 +452,7 @@ include 'header.php' ?>
                             </ul>
                             </p>
                             <p class="text-theme-1">7.3 Early Departures and Cancellations
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> The Hybrid Resi reserves the right to treat a
                                         postponed arrival, early departure, or reduction in the number of nights or
                                         apartments booked as a cancellation. Because of this, apartments may be
@@ -475,7 +475,7 @@ include 'header.php' ?>
                             <h4 class="post-title text-center">8. CHANGES BY THE HYBRID RESI</h4>
                         </div>
                         <div class="sx-post-text">
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)">We don't expect to have to make any changes to your
                                         booking, but sometimes bookings must be changed, cancelled, or errors in
                                         information or other details need to be corrected and we reserve the right
@@ -503,7 +503,7 @@ include 'header.php' ?>
                             <h4 class="post-title text-center">9. WEBSITE</h4>
                         </div>
                         <div class="sx-post-text">
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)">Reasonable care has been taken to ensure that the
                                         content of our website (and/or other means of promotion or advertising) is
                                         correct, but it is subject to amendment at any time without notice. All
@@ -530,7 +530,7 @@ include 'header.php' ?>
                             <h4 class="post-title text-center">10. INSURANCE</h4>
                         </div>
                         <div class="sx-post-text">
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)">We are not responsible for the theft and/or damage
                                         of your personal belongings during your stay in any apartment booked. We
                                         recommend that you make sure you have appropriate insurance in place. In
@@ -547,7 +547,7 @@ include 'header.php' ?>
                         <div class="sx-post-text">
                             <p class="text-theme-1">11.1 Our responsibility for loss or damage suffered by you if
                                 you are a consumer
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)">We are responsible for our operated apartments,
                                         subject to the following conditions.</a></li>
                                 <li><a href="javascript:void(0)">We shall only be liable to you for direct
@@ -565,7 +565,7 @@ include 'header.php' ?>
                             </p>
                             <p class="text-theme-1">11.2 Our responsibility for loss or damage suffered by you if
                                 you are a business
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> If you are booking for, as, or on behalf of a
                                         business or business employee, that business shall indemnify us against all
                                         liabilities, costs, expenses, damages, and losses (including any direct or
@@ -620,7 +620,7 @@ include 'header.php' ?>
                             <h4 class="post-title text-center">12. YOUR ACCOMMODATION</h4>
                         </div>
                         <div class="sx-post-text">
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)">All apartments are occupied as serviced apartments
                                         and are only to be used as temporary or holiday accommodation for you, or
                                         your organisation. They are not for use as the principal, additional home,
@@ -641,7 +641,7 @@ include 'header.php' ?>
                                     apartments.</a></li>
                             </ul>
                             <p class="text-theme-1">12.1 Arriving and Departing
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)">The arrival and departure policy will be provided
                                         at the time of booking and will be stated in the confirmation email. Arrival
                                         or late departure may be available for an additional charge but cannot be
@@ -651,7 +651,7 @@ include 'header.php' ?>
                             </ul>
                             </p>
                             <p class="text-theme-1">12.2 Check-in
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> Key collection details will be provided to you via
                                         e-mail before your arrival. You must have a valid government recognised
                                         photo ID and valid credit card in your name with you on your arrival.
@@ -667,7 +667,7 @@ include 'header.php' ?>
                         </div>
                         <div class="sx-post-text">
                             <p class="text-theme-1">13.1 Cleaning
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)">We provide full weekly housekeeping service for
                                         stays of 7 nights or more. We'll tell you which day your cleaning is
                                         scheduled for on your arrival. If the apartment is left in an excessively
@@ -680,7 +680,7 @@ include 'header.php' ?>
                             </ul>
                             </p>
                             <p class="text-theme-1">13.2 Maintenance
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> Routine maintenance is carried out regularly by
                                         our Management Team; however, we may occasionally need access to your
                                         apartment to carry out essential maintenance. We will normally give you 24
@@ -690,7 +690,7 @@ include 'header.php' ?>
                             </ul>
                             </p>
                             <p class="text-theme-1">13.3 Telephone Usage
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> Where telephones are provided in apartments,
                                         guests are responsible for any call charges that they incur during their
                                         stay. In some cases, the call charges are provided by a third-party supplier
@@ -701,7 +701,7 @@ include 'header.php' ?>
                             </ul>
                             </p>
                             <p class="text-theme-1">13.4 Internet / Wi-Fi access
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> High-speed WIFI internet is available free of
                                         charge throughout every area of the Property. Information about Internet
                                         access will be provided at the time of booking and on arrival. Internet
@@ -729,7 +729,7 @@ include 'header.php' ?>
                             </ul>
                             </p>
                             <p class="text-theme-1">13.5 Security
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> Guests will be given a pin code/fob/Keys to access
                                         the apartment. Additional sets can be provided on request. It is your
                                         responsibility to ensure that you are always in possession of a key and that
@@ -738,7 +738,7 @@ include 'header.php' ?>
                             </ul>
                             </p>
                             <p class="text-theme-1">13.6 Interruption to Services
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> We will always make every effort to ensure that
                                         guests enjoy a peaceful and enjoyable stay. However, we cannot guarantee or
                                         be held responsible for any failure or interruption of services to the
@@ -752,7 +752,7 @@ include 'header.php' ?>
                             </ul>
                             </p>
                             <p class="text-theme-1">13.7 Guest Services
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> Our guest services team is available to make sure
                                         your stay is as comfortable and enjoyable as possible. Their contact details
                                         and working hours are available on your arrival.
@@ -767,7 +767,7 @@ include 'header.php' ?>
                             <h4 class="post-title text-center">14. GUEST RESPONSIBILITY</h4>
                         </div>
                         <div class="sx-post-text">
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)">Guests are expected to comply with any regulations
                                         or policies for use of the apartment. These are available on arrival,
                                         usually in the Guest Information Folder, in the apartment. If any guest
@@ -776,13 +776,13 @@ include 'header.php' ?>
                                 </li>
                             </ul>
                             <p class="text-theme-1">14.1 Smoking
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)">Smoking is not permitted in any apartment or on the
                                         property. This includes the use of electronic cigarettes and vapes.</a></li>
                             </ul>
                             </p>
                             <p class="text-theme-1">14.2 Pets
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> Pets are not allowed in any apartment or the
                                         Property unless otherwise agreed at the time of booking as a special
                                         request.
@@ -790,7 +790,7 @@ include 'header.php' ?>
                             </ul>
                             </p>
                             <p class="text-theme-1">14.3 Nusaince
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> Guests are required to behave responsibly, respect
                                         the apartment and their fellow guests, and keep noise to a minimum between
                                         the hours of 10 pm and 7 am. This includes causing any sort of nuisance or
@@ -803,7 +803,7 @@ include 'header.php' ?>
                             </ul>
                             </p>
                             <p class="text-theme-1">14.4 Age restrictions
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)">We want to ensure our guests enjoy a stay free from
                                         disturbance, so non-corporate bookings may not be accepted by any paying
                                         guests under the age of 18. There will need to be at least one person aged
@@ -814,7 +814,7 @@ include 'header.php' ?>
                             </ul>
                             </p>
                             <p class="text-theme-1">14.5 Visitors
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> Guests are responsible for their Visitors.
                                         Non-residents will not be allowed access to the apartments after 10 pm and
                                         we operate a strict no party policy.
@@ -822,7 +822,7 @@ include 'header.php' ?>
                             </ul>
                             </p>
                             <p class="text-theme-1">14.6 Damage
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> Guests are required to keep the apartment,
                                         furniture, fittings, and effects in the same condition as it was on their
                                         arrival. Inventories and condition reports can be provided at the start and
@@ -836,7 +836,7 @@ include 'header.php' ?>
                             </ul>
                             </p>
                             <p class="text-theme-1">14.7 Cleanliness
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> We expect the apartments to be left in a
                                         reasonable state of cleanliness and order on departure. An additional charge
                                         will be made for any extra or specialist cleaning that is needed to return
@@ -846,7 +846,7 @@ include 'header.php' ?>
                             </ul>
                             </p>
                             <p class="text-theme-1">14.8 Lost Property
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="mailto:info@hybridresi.com"> All your possessions should be removed from the
                                         apartment on the date of departure. We will do our best to hold onto any
                                         lost items for up to 1 week after your departure date. Email us at
@@ -855,7 +855,7 @@ include 'header.php' ?>
                             </ul>
                             </p>
                             <p class="text-theme-1">14.9 Luggage storage
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> If there are facilities available, we may provide
                                         luggage storage at the owner's risk. An additional charge may apply.
                                     </a></li>
@@ -870,7 +870,7 @@ include 'header.php' ?>
                         </div>
                         <div class="sx-post-text">
                             <p class="text-theme-1">As a guide, additional charges include, but are not limited to:
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> Breakages, loss, or damage to the apartment or any
                                         of its contents.</a></li>
                                 Cleaning or specialist treatment charges where more than routine cleaning is
@@ -896,7 +896,7 @@ include 'header.php' ?>
                             <h4 class="post-title text-center">16. HEALTH AND SAFETY</h4>
                         </div>
                         <div class="sx-post-text">
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)">We take the health and safety of all our guests
                                         seriously. On arrival, you should familiarise yourself with the layout of
                                         the apartment and building and the health and safety procedures as detailed
@@ -910,7 +910,7 @@ include 'header.php' ?>
                             <h4 class="post-title text-center">17. QUALITY AND FEEDBACK</h4>
                         </div>
                         <div class="sx-post-text">
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)">We are committed to providing quality accommodation
                                         and regularly conduct audits to make sure that our high standards are
                                         maintained at the apartments. We always welcome feedback from our guests and
@@ -926,7 +926,7 @@ include 'header.php' ?>
                             <h4 class="post-title text-center">18. COMPLAINTS</h4>
                         </div>
                         <div class="sx-post-text">
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="mailto:info@hybridresi.com">In the unlikely event that you are dissatisfied
                                         with any aspect of your accommodation, please notify the apartment manager
                                         as soon as possible in the first instance. If you do not allow us to resolve
@@ -943,7 +943,7 @@ include 'header.php' ?>
                             <h4 class="post-title text-center">19. PRIVACY</h4>
                         </div>
                         <div class="sx-post-text">
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)">Any information that we collect or properly
                                         obtained during the booking process will be carefully processed following
                                         our Privacy Policy which is incorporated into these Booking Terms and
@@ -957,7 +957,7 @@ include 'header.php' ?>
                             <h4 class="post-title text-center">20. GENERAL</h4>
                         </div>
                         <div class="sx-post-text">
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)">We reserve the right to change these Booking Terms
                                         and Conditions where needed. If a guest is in breach of any of these Booking
                                         Terms and Conditions, we reserve the right to request that they vacate their
@@ -969,12 +969,12 @@ include 'header.php' ?>
                         </div>
                     </div>
 
-                    <div id="governing-law" class="service-single-block p-tb100">
+                    <div id="governing-law" class="service-single-block p-t100 p-b50">
                         <div class="sx-post-title ">
                             <h4 class="post-title text-center">21. GOVERNING LAW</h4>
                         </div>
                         <div class="sx-post-text">
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)">These Terms and conditions are governed by and
                                         shall be constructed following the Laws of England and under the
                                         jurisdiction of the English Courts.</a></li>

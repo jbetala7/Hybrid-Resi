@@ -4,8 +4,7 @@ $title = 'Hybrid Resi | Home Page';
 include 'header.php' ?>
 
 <!-- INNER PAGE BANNER -->
-<div class="mobile-size sx-bnr-inr overlay-wraper bg-parallax"
-    style="background-image:url(images/banner-images/about-us.jpg);">
+<div class="mobile-size sx-bnr-inr overlay-wraper bg-parallax" style="background-image:url(images/banner-images/about-us.jpg);">
     <div class="overlay-main bg-black opacity-05"></div>
     <div class="container">
         <div class="sx-bnr-inr-entry">
@@ -30,22 +29,22 @@ include 'header.php' ?>
 <!-- INNER PAGE BANNER END -->
 
 <!-- ABOUT COMPANY START -->
-<div class="section-full mobile-page-padding p-t80 p-b50">
-    <div class="container">
-        <!-- TITLE START -->
-        <div class="section-head">
-            <div class="sx-separator-outer separator-center">
-                <div class="sx-separator bg-moving bg-repeat-x" style="background-image:url(images/pattern.png);">
-                    <h3 class="sep-line-one text-theme text-uppercase">About Us</h3>
+<div class="section-full mobile-page-padding p-b50">
+    <!-- TITLE -->
+    <div class="large-title-block full-content bg-theme bg-moving bg-repeat-x" style="background-image:url(images/background/green-leaves-pattern.png);">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12">
+                <div class="large-title text-white text-center">
+                    <h1 class="m-tb0 text-uppercase">About Us</h1>
                 </div>
             </div>
         </div>
-        <!-- TITLE END -->
     </div>
-    <div class="container">
+    <!-- TITLE -->
+    <div class="container m-t50">
         <div class="section-content">
             <div class="row">
-                <div class="col-xl-6 col-lg-6 col-md-12">
+                <div class="col-xl-12 col-lg-12 col-md-12">
 
                     <div class="about-home-3 m-b30 bg-white">
                         <h3 class="m-t0 m-b20 sx-tilte">Most trusted integrator and solutions provider</h3>
@@ -70,38 +69,6 @@ include 'header.php' ?>
                                 our ongoing journey to sustainable development and climate resilience and play our part
                                 to support future-proof hospitality businesses globally.</li>
                         </ul>
-
-                        <div class="text-left">
-                            <a href="#what-we" class="site-button btn-half"><span>Read More</span></a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-xl-6 col-lg-6 col-md-12">
-                    <div class="about-home-right">
-                        <div class="owl-carousel about-home number-slider owl-btn-vertical-center">
-                            <!-- COLUMNS 1 -->
-                            <div class="item ">
-                                <div class="sx-img-effect zoom-slow">
-                                    <a href="javascript:void(0);"><img src="images/about-us/1.jpg" alt=""></a>
-                                </div>
-                            </div>
-                            <!-- COLUMNS 2 -->
-                            <div class="item ">
-                                <div class="sx-img-effect zoom-slow">
-                                    <a href="javascript:void(0);"><img src="images/about-us/2.jpg" alt=""></a>
-                                </div>
-                            </div>
-                            <!-- COLUMNS 3 -->
-                            <div class="item ">
-                                <div class="sx-img-effect zoom-slow">
-                                    <a href="javascript:void(0);"><img src="images/about-us/3.jpg" alt=""></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="about-home-before">
-                            <img src="images/about-slider/1-ab.jpg" alt="">
-                        </div>
                     </div>
                 </div>
 
@@ -113,14 +80,16 @@ include 'header.php' ?>
 <!-- ABOUT COMPANY END -->
 
 <!-- SPECIAL OFFERS SECTION START -->
-<div class="section-full  mobile-page-padding  p-t80 p-b30 bg-repeat overflow-hide"
-    style="background-image:url(images/background/bg-5.png);">
-    <!-- TITLE -->
-    <div class="large-title-block full-content bg-moving bg-repeat-x" style="background-image:url(images/pattern.png);">
-        <div class="row">
-            <div class="col-lg-12 col-md-12 col-sm-12">
-                <div class="large-title text-white text-center">
-                    <h3 class="m-tb0 text-theme text-uppercase">Special Offers</h3>
+<div class="section-full  mobile-page-padding p-b50 overflow-hide">
+    <div class="container">
+        <!-- TITLE -->
+        <div class="large-title-block full-content bg-theme bg-moving bg-repeat-x"
+            style="background-image:url(images/background/green-leaves-pattern.png);">
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12">
+                    <div class="large-title text-white text-center">
+                        <h1 class="m-tb0 text-uppercase">Special Offers</h1>
+                    </div>
                 </div>
             </div>
         </div>
@@ -138,7 +107,8 @@ include 'header.php' ?>
                             <img src="images/home-page/special-offers/1.jpg" alt="" />
                             <div class="figcaption bg-white text-center p-a20">
                                 <h4 class="m-a0">Extended Stays</h4>
-                                <p class="p-t10" align="justify">Stay longer, save more. Stay 30+ nights and save 15% on BAR rates. </p>
+                                <p class="p-t10" align="justify">Stay longer, save more. Stay 30+ nights and save 15% on
+                                    BAR rates. </p>
                             </div>
                             <div class="figcaption-number text-center sx-text-primary animate-in-to-top-content">
                                 <span>01</span>
@@ -192,150 +162,101 @@ include 'header.php' ?>
 <!-- SPECIAL OFFERS SECTION END -->
 
 <!-- PERKS SECTION START -->
-<div class="section-full mobile-page-padding p-t30 bg-change-section">
-    <!-- TITLE -->
-    <div class="large-title-block full-content bg-moving bg-repeat-x" style="background-image:url(images/pattern.png);">
-        <div class="row">
-            <div class="col-lg-12 col-md-12 col-sm-12">
-                <div class="large-title text-white text-center">
-                    <h3 class="m-tb0 text-theme text-uppercase">Perks</h3>
+<div class="section-full mobile-page-padding p-b50 bg-change-section">
+    <div class="container">
+        <!-- TITLE -->
+        <div class="large-title-block full-content bg-theme bg-moving bg-repeat-x"
+            style="background-image:url(images/background/green-leaves-pattern.png);">
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12">
+                    <div class="large-title text-white text-center">
+                        <h1 class="m-tb0 text-uppercase">Perks</h1>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
-    <!-- TITLE -->
-    <div class="section-content">
-        <div class="row number-block-two-outer m-t30">
-            <div class="col-lg-4 col-md-6 col-sm-12 m-b30">
 
-                <div class="number-block-two animate-in-to-top bdr-gray-light bdr-solid bdr-1">
-                    <div class="figcaption bg-white  p-a30">
-                        <div id="cameras" class="icon-xl inline-icon m-b30 scale-in-center">
-                            <span class="icon-cell"><img src="images/home-page/icons/fiber-optic.png" alt=""></span>
-                        </div>
-                        <h4 class="m-t0">Fiber Optic
-                            Fast Wifi</h4>
-                        <a href="javascript:void(0)" class="site-button-link">View All</a>
-                        <div class="figcaption-number animate-in-to-top-content">
-                            <span>01</span>
+        <!-- TITLE -->
+        <div class="section-content">
+
+            <div class="row">
+                <div class="col-md-12" data-aos="fade-up" data-aos-duration="800">
+                    <div class="ambox m-t30">
+                        <div class="row">
+                            <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/icons/fiber-optic.png"
+                                    class="img-center">
+                                <p class="text-center">Fiber Optic Fast Wifi</p>
+                            </div>
+                            <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/icons/larger.png"
+                                    class="img-center">
+                                <p class="text-center">Larger than most Apartments</p>
+                            </div>
+                            <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/icons/king-bed.png"
+                                    class="img-center">
+                                <p class="text-center">Super King & King Size Beds</p>
+                            </div>
+                            <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/icons/washing-machine.png"
+                                    class="img-center">
+                                <p class="text-center">Washing Machine</p>
+                            </div>
+                            <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/icons/kitchen.png"
+                                    class="img-center">
+                                <p class="text-center">Fully Equipped Kitchen</p>
+                            </div>
+                            <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/icons/work-chair-desk.png"
+                                    class="img-center">
+                                <p class="text-center">Working Desk & Executive Chair</p>
+                            </div>
+                            <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/icons/pet-friendly.png"
+                                    class="img-center">
+                                <p class="text-center">Pet Friendly</p>
+                            </div>
+                            <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/icons/weekly-cleaning.png"
+                                    class="img-center">
+                                <p class="text-center">Weekly Housekeeping</p>
+                            </div>
+                            <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/icons/bills-inclusive.png"
+                                    class="img-center">
+                                <p class="text-center">All Bills & Utilities Inclusive</p>
+                            </div>
+
                         </div>
                     </div>
                 </div>
-
             </div>
-
-            <div class="col-lg-4 col-md-6 col-sm-12 m-b30">
-
-                <div class="number-block-two animate-in-to-top bdr-gray-light bdr-solid bdr-1">
-
-                    <div class="figcaption bg-white p-a30">
-                        <div id="cameras" class="icon-xl inline-icon m-b30 scale-in-center">
-                            <span class="icon-cell"><img src="images/home-page/icons/larger.png" alt=""></span>
-                        </div>
-                        <h4 class="m-t0">Larger than
-                            most Apartments</h4>
-                        <a href="javascript:void(0)" class="site-button-link">View All</a>
-                        <div class="figcaption-number text-black animate-in-to-top-content">
-                            <span>02</span>
-                        </div>
-                    </div>
-
-                </div>
-
-            </div>
-
-            <div class="col-lg-4 col-md-6 col-sm-12 m-b30">
-
-                <div class="number-block-two animate-in-to-top bdr-gray-light bdr-solid bdr-1">
-
-                    <div class="figcaption bg-white p-a30">
-                        <div id="cameras" class="icon-xl inline-icon m-b30 scale-in-center">
-                            <span class="icon-cell"><img src="images/home-page/icons/king-bed.png" alt=""></span>
-                        </div>
-                        <h4 class="m-t0">Super King &
-                            King Size Beds</h4>
-                        <a href="javascript:void(0)" class="site-button-link">View All</a>
-                        <div class="figcaption-number text-black animate-in-to-top-content">
-                            <span>03</span>
-                        </div>
-                    </div>
-
-                </div>
-
-            </div>
-
-            <div class="col-lg-4 col-md-6 col-sm-12 m-b30">
-
-                <div class="number-block-two animate-in-to-top bdr-gray-light bdr-solid bdr-1">
-
-                    <div class="figcaption bg-white  p-a30">
-                        <div id="cameras" class="icon-xl inline-icon m-b30 scale-in-center">
-                            <span class="icon-cell"><img src="images/home-page/icons/split-screen.png" alt=""></span>
-                        </div>
-                        <h4 class="m-t0">Split Screen
-                            Monitor</h4>
-                        <a href="javascript:void(0)" class="site-button-link">View All</a>
-                        <div class="figcaption-number text-black animate-in-to-top-content">
-                            <span>04</span>
-                        </div>
-                    </div>
-
-                </div>
-
-            </div>
-
-            <div class="col-lg-4 col-md-6 col-sm-12 m-b30">
-
-                <div class="number-block-two animate-in-to-top bdr-gray-light bdr-solid bdr-1">
-
-                    <div class="figcaption bg-white  p-a30">
-                        <div id="cameras" class="icon-xl inline-icon m-b30 scale-in-center">
-                            <span class="icon-cell"><img src="images/home-page/icons/appliances.png" alt=""></span>
-                        </div>
-                        <h4 class="m-t0">High-end
-                            Appliances</h4>
-                        <a href="thermal-cameras.php" class="site-button-link">View All</a>
-                        <div class="figcaption-number text-black animate-in-to-top-content">
-                            <span>05</span>
-                        </div>
-                    </div>
-
-                </div>
-
-            </div>
-
         </div>
-
     </div>
 
 </div>
 <!-- PERKS SECTION END -->
 
 <!-- GALLERY SECTION START -->
-<div class="section-full p-tb50 inner-page-padding" style="background-image:url(images/background/bg-5.png);">
+<div class="section-full p-b50 inner-page-padding">
     <div class="container">
         <div class="section-content">
-                <!-- TITLE START -->
-                <div class="section-head">
-                    <div class="sx-separator-outer separator-center">
-                        <div class="sx-separator bg-moving bg-repeat-x" style="background-image:url(images/pattern.png);">
-                            <h3 class="sep-line-one text-theme text-uppercase">Gallery</h3>
+            <!-- TITLE -->
+            <div class="large-title-block full-content bg-theme bg-moving bg-repeat-x"
+                style="background-image:url(images/background/green-leaves-pattern.png);">
+                <div class="row">
+                    <div class="col-lg-12 col-md-12 col-sm-12">
+                        <div class="large-title text-white text-center">
+                            <h1 class="m-tb0 text-uppercase">Gallery</h1>
                         </div>
                     </div>
                 </div>
-                <!-- TITLE END -->
-            <div class="work-carousel-outer">
+            </div>
+            <!-- TITLE -->
+            <div class="work-carousel-outer m-t30">
                 <div class="owl-carousel mfp-gallery project-carousel project-carousel1 owl-btn-vertical-center">
                     <!-- COLUMNS 1 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
                             style="background-image:url(images/home-page/gallery/1.jpg)">
 
-                            <!-- <div class="sx-info  p-t20 text-white">
+                            <div class="sx-info  p-t20 text-white">
                                 <h4 class="sx-tilte m-t0"><a href="#">Interior Work Avroko</a></h4>
-                                <p align="justify">Many of our projects cannot be featured in this section due to the Security levels of the space.</p>
-                                <a href="#" class="site-button btn-half button-sm"><span>View All</span></a>
-                            </div> -->
+                                <!-- <a href="#" class="site-button btn-half button-sm"><span>View All</span></a> -->
+                            </div>
 
                         </div>
                     </div>
@@ -343,48 +264,80 @@ include 'header.php' ?>
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
                             style="background-image:url(images/home-page/gallery/2.jpg)">
+                            <div class="sx-info  p-t20 text-white">
+                                <h4 class="sx-tilte m-t0"><a href="#">Interior Work Avroko</a></h4>
+                                <!-- <a href="#" class="site-button btn-half button-sm"><span>View All</span></a> -->
+                            </div>
                         </div>
                     </div>
                     <!-- COLUMNS 3 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
                             style="background-image:url(images/home-page/gallery/3.jpg)">
+                            <div class="sx-info  p-t20 text-white">
+                                <h4 class="sx-tilte m-t0"><a href="#">Interior Work Avroko</a></h4>
+                                <!-- <a href="#" class="site-button btn-half button-sm"><span>View All</span></a> -->
+                            </div>
                         </div>
                     </div>
                     <!-- COLUMNS 4 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
                             style="background-image:url(images/home-page/gallery/4.jpg)">
+                            <div class="sx-info  p-t20 text-white">
+                                <h4 class="sx-tilte m-t0"><a href="#">Interior Work Avroko</a></h4>
+                                <!-- <a href="#" class="site-button btn-half button-sm"><span>View All</span></a> -->
+                            </div>
                         </div>
                     </div>
                     <!-- COLUMNS 5 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
                             style="background-image:url(images/home-page/gallery/5.jpg)">
+                            <div class="sx-info  p-t20 text-white">
+                                <h4 class="sx-tilte m-t0"><a href="#">Interior Work Avroko</a></h4>
+                                <!-- <a href="#" class="site-button btn-half button-sm"><span>View All</span></a> -->
+                            </div>
                         </div>
                     </div>
                     <!-- COLUMNS 6 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
                             style="background-image:url(images/home-page/gallery/6.jpg)">
+                            <div class="sx-info  p-t20 text-white">
+                                <h4 class="sx-tilte m-t0"><a href="#">Interior Work Avroko</a></h4>
+                                <!-- <a href="#" class="site-button btn-half button-sm"><span>View All</span></a> -->
+                            </div>
                         </div>
                     </div>
                     <!-- COLUMNS 7 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
                             style="background-image:url(images/home-page/gallery/7.jpg)">
+                            <div class="sx-info  p-t20 text-white">
+                                <h4 class="sx-tilte m-t0"><a href="#">Interior Work Avroko</a></h4>
+                                <!-- <a href="#" class="site-button btn-half button-sm"><span>View All</span></a> -->
+                            </div>
                         </div>
                     </div>
                     <!-- COLUMNS 8 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
                             style="background-image:url(images/home-page/gallery/8.jpg)">
+                            <div class="sx-info  p-t20 text-white">
+                                <h4 class="sx-tilte m-t0"><a href="#">Interior Work Avroko</a></h4>
+                                <!-- <a href="#" class="site-button btn-half button-sm"><span>View All</span></a> -->
+                            </div>
                         </div>
                     </div>
                     <!-- COLUMNS 9 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
                             style="background-image:url(images/home-page/gallery/9.jpg)">
+                            <div class="sx-info  p-t20 text-white">
+                                <h4 class="sx-tilte m-t0"><a href="#">Interior Work Avroko</a></h4>
+                                <!-- <a href="#" class="site-button btn-half button-sm"><span>View All</span></a> -->
+                            </div>
                         </div>
                     </div>
 
@@ -395,27 +348,130 @@ include 'header.php' ?>
 </div>
 <!-- GALLERY SECTION END  -->
 
-<!-- <script src="https://widget.trustmary.com/sME42HtgW"></script> -->
-<!-- <div class='sk-ww-google-reviews' data-embed-id='25360103'></div><script src='https://widgets.sociablekit.com/google-reviews/widget.js' async defer></script> -->
-<!-- <div class='sk-ww-google-reviews' data-embed-id='25361404'></div>
-<script src='https://widgets.sociablekit.com/google-reviews/widget.js' async defer></script> -->
+<!-- TESTIMONIAL START -->
+<div class="section-full mobile-page-padding p-b50">
+    <div class="section-content">
+        <div class="container">
+            <!-- TITLE -->
+            <div class="large-title-block full-content bg-theme bg-moving bg-repeat-x"
+                style="background-image:url(images/background/green-leaves-pattern.png);">
+                <div class="row">
+                    <div class="col-lg-12 col-md-12 col-sm-12">
+                        <div class="large-title text-white text-center">
+                            <h1 class="m-tb0 text-uppercase">Testimonials</h1>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- TITLE -->
+
+            <!-- TESTIMONIAL START -->
+            <div class="owl-carousel testimonial-home-two owl-btn-vertical-center m-t50">
+                <div class="item">
+                    <div class="testimonials-box testimonial-1 hover-animation-1 bg-white">
+                        <div class="testimonial-detail clearfix">
+                            <span class="testimonial-position">Adiuvo Adiuvo</span>
+                            <span class="fa fa-quote-right"></span>
+                        </div>
+                        <div class="testimonial-text">
+                            <p align="justify">The building wherein the apartment is situated is in an amazing location
+                                right next to the river, restaurants, cafe, Tesco, Dry Cleaners and the DLR connecting
+                                to Jubilee & Elizabeth lines and a few minutes walk to Upper Bank Street…</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="testimonials-box testimonial-1  hover-animation-1 bg-white">
+                        <div class="testimonial-detail clearfix">
+                            <span class="testimonial-position">Justin Williams</span>
+                            <span class="fa fa-quote-right"></span>
+                        </div>
+                        <div class="testimonial-text">
+                            <p align="justify">I had the pleasure in staying at one of Hybrid Resi's luxury apartments
+                                in Canary Wharf. It sure was a very warm, cozy and impressive place. The apartment is
+                                fully stocked with everything a home should need...</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="testimonials-box testimonial-1 hover-animation-1 bg-white">
+                        <div class="testimonial-detail clearfix">
+                            <span class="testimonial-position">Martyna</span>
+                            <span class="fa fa-quote-right"></span>
+                        </div>
+                        <div class="testimonial-text">
+                            <p align="justify">The apartment has everything one could wish for. Ideal for a short and
+                                long stay. Super clean, spacious, modern yet very homely. Desk and screen provided made
+                                working from home super comfortable.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="testimonials-box testimonial-1  hover-animation-1 bg-white">
+                        <div class="testimonial-detail clearfix">
+                            <span class="testimonial-position">SMJ Aka</span>
+                            <span class="fa fa-quote-right"></span>
+                        </div>
+                        <div class="testimonial-text">
+                            <p align="justify">We stayed here for a month in December 2022. Clean and large apartment.
+                                Enough space for a family of 3. Provided us with extra bowls when we asked. House
+                                keeping is friendly and does a good job. Highly recommend!</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="testimonials-box testimonial-1  hover-animation-1 bg-white">
+                        <div class="testimonial-detail clearfix">
+                            <span class="testimonial-position">Gordon Pang</span>
+                            <span class="fa fa-quote-right"></span>
+                        </div>
+                        <div class="testimonial-text">
+                            <p align="justify">Stayed here for close to half a year, experience has been nothing but
+                                perfect, hybrid resi team are available around the clock to assist, cleaning happens
+                                every week to keep the space clean n tidy, definitely recommended for professionals
+                                looking for a hybrid working environment..</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="testimonials-box testimonial-1 hover-animation-1 bg-white">
+                        <div class="testimonial-detail clearfix">
+                            <span class="testimonial-position">Kate Garrahy</span>
+                            <span class="fa fa-quote-right"></span>
+                        </div>
+                        <div class="testimonial-text">
+                            <p align="justify">Wonderful stay in this perfectly located property. 2 mins from Cross
+                                Harbour tube station and quick journey into Canary Wharf . Apartment was luxurious and
+                                felt really safe . Thank you</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+<!-- TESTIMONIAL  END -->
 
 <!-- OUR SECTION ACCOLADES -->
-<div class="section-full  mobile-page-padding p-t80 p-b10">
+<div class="section-full  mobile-page-padding p-b50">
 
     <div class="container">
 
-         <!-- TITLE START -->
-         <div class="section-head">
-            <div class="sx-separator-outer separator-center">
-                <div class="sx-separator bg-moving bg-repeat-x" style="background-image:url(images/pattern.png);">
-                    <h3 class="sep-line-one text-theme text-uppercase">Our Accolades</h3>
+        <!-- TITLE -->
+        <div class="large-title-block full-content bg-theme bg-moving bg-repeat-x"
+            style="background-image:url(images/background/green-leaves-pattern.png);">
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12">
+                    <div class="large-title text-white text-center">
+                        <h1 class="m-tb0 text-uppercase">Our Accolades</h1>
+                    </div>
                 </div>
             </div>
         </div>
-        <!-- TITLE END -->
+        <!-- TITLE -->
         <div class="section-content">
-            <div class="client-grid p-tb50">
+            <div class="client-grid p-t50">
 
                 <div class="row justify-content-center">
                     <div class="accolades col-lg-6 col-md-6 col-sm-6 col-6 m-b30">
@@ -435,19 +491,22 @@ include 'header.php' ?>
 
 
 <!-- OUR PARTNERS SECTION START-->
-<div class="section-full  mobile-page-padding p-b20">
+<div class="section-full  mobile-page-padding p-b50">
 
     <div class="container">
 
-        <!-- TITLE START -->
-        <div class="section-head">
-            <div class="sx-separator-outer separator-center">
-                <div class="sx-separator bg-moving bg-repeat-x" style="background-image:url(images/pattern.png);">
-                    <h3 class="sep-line-one text-theme text-uppercase">Our Partners</h3>
+        <!-- TITLE -->
+        <div class="large-title-block full-content bg-theme bg-moving bg-repeat-x"
+            style="background-image:url(images/background/green-leaves-pattern.png);">
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12">
+                    <div class="large-title text-white text-center">
+                        <h1 class="m-tb0 text-uppercase">Our Partners</h1>
+                    </div>
                 </div>
             </div>
         </div>
-        <!-- TITLE END -->
+        <!-- TITLE -->
         <!-- CLIENT LOGO SECTION START -->
         <div class="section-full mobile-page-padding p-tb50 ">
             <div class="container">
@@ -455,48 +514,19 @@ include 'header.php' ?>
                     <div class="owl-carousel home-client-carousel-2">
 
                         <div class="item">
-                            <a href="javascript:;" class="client-logo-pic">
-                                <img src="images/home-page/partners/asap.png" alt="">
-                                <div>
-                                    <span>View More</span>
-                                </div>
-                            </a>
+                            <img src="images/home-page/partners/asap.png" alt="">
                         </div>
 
                         <div class="item">
-                            <a href="javascript:;" class="client-logo-pic">
-                                <img src="images/home-page/partners/bt-business.png" alt="">
-                                <div>
-                                    <span>View More</span>
-                                </div>
-                            </a>
+                            <img src="images/home-page/partners/bt-business.png" alt="">
                         </div>
 
                         <div class="item">
-                            <a href="javascript:;" class="client-logo-pic">
-                                <img src="images/home-page/partners/elis.png" alt="">
-                                <div>
-                                    <span>View More</span>
-                                </div>
-                            </a>
+                            <img src="images/home-page/partners/elis.png" alt="">
                         </div>
 
                         <div class="item">
-                            <a href="javascript:;" class="client-logo-pic">
-                                <img src="images//home-page/partners/positive.png" alt="">
-                                <div>
-                                    <span>View More</span>
-                                </div>
-                            </a>
-                        </div>
-
-                        <div class="item">
-                            <a href="javascript:;" class="client-logo-pic">
-                                <img src="images/home-page/partners/surrey.png" alt="">
-                                <div>
-                                    <span>View More</span>
-                                </div>
-                            </a>
+                            <img src="images//home-page/partners/positive.png" alt="">
                         </div>
 
                     </div>

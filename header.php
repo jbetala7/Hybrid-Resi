@@ -10,9 +10,7 @@
     <meta name="keywords" content="" />
     <meta name="author" content="Jayesh Betala" />
     <meta name="robots" content="" />
-    <meta name="description"
-        content="Book Luxury Serviced Apartments in London. Available for both short & long term corporate stays. Enjoy suites and furnished apartments with full kitchens and amenities." />
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Book Luxury Serviced Apartments in London. Available for both short & long term corporate stays. Enjoy suites and furnished apartments with full kitchens and amenities." />
 
 
     <!-- FAVICONS ICON -->
@@ -26,12 +24,11 @@
 
     <!-- PAGE TITLE HERE -->
     <title>
-        <?php echo $title?>
+        <?php echo $title ?>
     </title>
 
     <!-- MOBILE SPECIFIC -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
     <!-- BOOTSTRAP STYLE SHEET -->
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
     <!-- BOOTSTRAP SLECT BOX STYLE SHEET  -->
@@ -61,10 +58,12 @@
     <!-- REVOLUTION NAVIGATION STYLE -->
     <link rel="stylesheet" type="text/css" href="plugins/revolution/revolution/css/navigation.css">
 
+    <!-- BEFORE/AFTER ADD-ON FILES  MUST BE INSERTED AFTER THE SLIDER DOM ELEMENTS !-->
+    <link rel='stylesheet' href='plugins/revolution-addons/beforeafter/css/revolution.addon.beforeafter.css'
+        type='text/css' media='all' />
+
     <link rel="stylesheet" href="css/form.css">
     <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
-
-
 
 </head>
 
@@ -78,19 +77,13 @@
                 <div class="container">
                     <div class="d-flex justify-content-between ">
                         <ul class="list-unstyled e-p-bx text-theme">
-                            <li><span>Send an e-mail:</span> <a
-                                    class="underline-transition hover-change-theme text-theme"
-                                    href="mailto:info@hybridresi.com">info@hybridresi.com</a></li>
-                            <li><span>Call now:</span><a class="underline-transition hover-change-theme text-theme"
-                                    href="tel://+442034882904">+44 20 3488 2904 </a></li>
+                            <li><span>Send an e-mail:</span> <a class="underline-transition hover-change-theme text-theme" href="mailto:info@hybridresi.com">info@hybridresi.com</a></li>
+                            <li><span>Call now:</span><a class="underline-transition hover-change-theme text-theme" href="tel://+442034882904">+44 20 3488 2904 </a></li>
                         </ul>
                         <ul class="list-unstyled social-bx text-theme d-flex flex-wrap align-content-center">
-                            <li><a target="_blank" href="https://www.instagram.com/hybridresi/"
-                                    class="fa fa-instagram"></a></li>
-                            <li><a target="_blank" href="https://www.facebook.com/HybridResi/"
-                                    class="fa fa-facebook"></a></li>
-                            <li><a target="_blank" href="https://www.linkedin.com/company/hybrid-resi"
-                                    class="fa fa-linkedin"></a></li>
+                            <li><a target="_blank" href="https://www.instagram.com/hybridresi/" class="fa fa-instagram"></a></li>
+                            <li><a target="_blank" href="https://www.facebook.com/HybridResi/" class="fa fa-facebook"></a></li>
+                            <li><a target="_blank" href="https://www.linkedin.com/company/hybrid-resi" class="fa fa-linkedin"></a></li>
                         </ul>
                     </div>
                 </div>
@@ -106,8 +99,7 @@
                             </div>
                         </div>
                         <!-- NAV Toggle Button -->
-                        <button id="mobile-side-drawer" data-target=".header-nav" data-toggle="collapse" type="button"
-                            class="navbar-toggler collapsed">
+                        <button id="mobile-side-drawer" data-target=".header-nav" data-toggle="collapse" type="button" class="navbar-toggler collapsed">
                             <span class="sr-only">Toggle navigation</span>
                             <span class="icon-bar icon-bar-first"></span>
                             <span class="icon-bar icon-bar-two"></span>
@@ -117,45 +109,53 @@
                         <!-- EXTRA NAV -->
                         <div class="extra-nav">
                             <div class="extra-cell">
-                                <div class="contact-slide-show"><a target="_blank" rel="nofollow"
-                                        href="https://app.mews.com/distributor/63c1028b-e611-405d-bc62-af3500786b74"
-                                        onClick="gtag('event', 'Book Now', { event_category: 'Book Now', event_action: 'Book Now'}); "
-                                        class="get-in-touch-btn from-top">Book Now</a></div>
+                                <div class="contact-slide-show"><a target="_blank" rel="nofollow" href="https://app.mews.com/distributor/63c1028b-e611-405d-bc62-af3500786b74" onClick="gtag('event', 'Book Now', { event_category: 'Book Now', event_action: 'Book Now'}); " class="get-in-touch-btn from-top">Book Now</a></div>
                             </div>
                         </div>
                         <!-- EXTRA Nav -->
                         <!-- MAIN NAVIGATION -->
                         <div class="header-nav nav-dark navbar-collapse collapse justify-content-center collapse">
                             <ul class=" nav navbar-nav">
-                                <li class="<?php if($page == 'home'){echo 'active';}?>"><a href="index.php">Home</a>
+                                <li class="<?php if ($page == 'home') {
+                                                echo 'active';
+                                            } ?>"><a href="index.php">Home</a>
                                 </li>
-                                <li class="<?php if($page == 'about-us'){echo 'active';}?>"><a href="about-us.php">About
+                                <li class="<?php if ($page == 'about-us') {
+                                                echo 'active';
+                                            } ?>"><a href="about-us.php">About
                                         Us</a></li>
-                                <li class="<?php if($page == 'apartments'){echo 'active';}?>">
-                                    <a href="javascript:;">The Apartments</a>
+                                <li class="<?php if ($page == 'apartments') {
+                                                echo 'active';
+                                            } ?>">
+                                    <a href="javascript:;">Our Apartments</a>
                                     <ul class="sub-menu">
                                         <li><a href="stay.php">Stay</a></li>
                                         <li><a href="work.php">Work</a></li>
                                     </ul>
                                 </li>
-                                <li class="<?php if($page == 'locations'){echo 'active';}?>">
+                                <li class="<?php if ($page == 'locations') {
+                                                echo 'active';
+                                            } ?>">
                                     <a href="javascript:;">Locations</a>
                                     <ul class="sub-menu">
-                                        <li><a href="canary-wharf.php">Canary Wharf</a></li>
+                                        <li><a href="london.php">London</a></li>
+                                        <li><a href="dubai.php">Dubai</a></li>
+                                        <!-- <li><a href="canary-wharf.php">Canary Wharf</a></li>
                                         <li><a href="battersea.php">Battersea</a></li>
                                         <li><a href="sutton-cheam.php">Sutton Cheam</a></li>
                                         <li><a href="wandsworth.php">Wandsworth</a></li>
                                         <li><a href="fulham.php">Fulham</a></li>
                                         <li><a href="new-malden.php">New Malden</a></li>
                                         <li><a href="mitcham.php">Mitcham</a></li>
+                                        <li><a href="uxbridge.php">Uxbridge</a></li> -->
                                     </ul>
                                 </li>
-                                <li class="<?php if($page == 'neighbourhood'){echo 'active';}?>"><a
-                                        href="neighbourhood.php">Neighbourhood</a></li>
-                                <li class="<?php if($page == 'offers'){echo 'active';}?>"><a
-                                        href="offers.php">Offers</a></li>
-                                <li class="<?php if($page == 'contact-us'){echo 'active';}?>"><a
-                                        href="contact-us.php">Contact Us</a></li>
+                                <li class="<?php if ($page == 'offers') {
+                                                echo 'active';
+                                            } ?>"><a href="offers.php">Offers</a></li>
+                                <li class="<?php if ($page == 'contact-us') {
+                                                echo 'active';
+                                            } ?>"><a href="contact-us.php">Contact Us</a></li>
 
                             </ul>
                         </div>

@@ -453,10 +453,10 @@ html {
 
 
 body {
-	background-color: #F1F5FF;
+	background-color: #fff;
 	font-family: 'montserratlight', sans-serif;
-	font-size: 14px;
-	font-weight: 500;
+	font-size: 16px;
+	font-weight: 700;
 	color: #000;
 	padding: 0;
 	margin: 0;
@@ -4588,7 +4588,7 @@ btn-half {
 .sep-line-one:before {
 	position: absolute;
 	content: '';
-	background-color: #004C86;
+	background-color: #F1F5FF;
 	height: 4px;
 }
 
@@ -5348,7 +5348,6 @@ btn-half {
 -------------------------------------*/
 
 .testimonial-pic {
-	background: #F1F5FF;
 	width: 100px;
 	height: 100px;
 	position: relative;
@@ -5438,8 +5437,9 @@ btn-half {
 
 .testimonial-1 .testimonial-position {
 	color: #23252d;
-	font-size: 16px;
+	font-size: 21px;
 	margin-bottom: 10px;
+	font-family: 'montserratregular', sans-serif;
 }
 
 .testimonial-1 .quote-left:before {
@@ -5838,9 +5838,6 @@ btn-half {
 	font-weight: 900;
 }
 
-.pricing-table-style-5 .pricingtable-price {
-	background-color: #F1F5FF;
-}
 
 .pricing-table-style-5 .pricingtable-features li:nth-child(2n) {
 	background-color: inherit;
@@ -7235,9 +7232,9 @@ input[type=radio]:checked+label:before {
 	color: #F1F5FF;
 }
 
-.footer-dark .social-icons {
+/* .footer-dark .social-icons {
 	margin-top: 50px;
-}
+} */
 
 .footer-dark .social-icons li a {
 	color: #F1F5FF;
@@ -8717,8 +8714,8 @@ HEADER (top part of page)
 
 .header-style-1 .is-fixed.color-fill .main-bar {
 	background: #F1F5FF;
-	padding: 5px 0px;
-	background: url(../images/pattern.png) repeat;
+	padding: 0px 0px;
+	background: url(../images/background/transparent-leaves-pattern.png) repeat;
 }
 
 .nav-transparent .is-fixed.color-fill .main-bar {
@@ -8739,7 +8736,7 @@ HEADER (top part of page)
 
 .header-style-1 .main-bar {
 	border-bottom: 1px solid #F1F5FF;
-	background: url(../images/pattern.png) repeat;
+	background: url(../images/background/transparent-leaves-pattern.png) repeat;
 }
 
 /* .header-style-1 .top-bar {
@@ -8750,7 +8747,7 @@ HEADER (top part of page)
 .top-bar.bg-thin-ice {
 	color: inherit;
 	padding: 0px 0;
-	/* background: url(../images/pattern.png) repeat; */
+	/* background: url(../images/background/transparent-leaves-pattern.png) repeat; */
 }
 
 
@@ -8991,12 +8988,12 @@ HEADER (top part of page)
 	-moz-border-radius: 0;
 	color: #004C86;
 	display: inline-block;
-	font-size: 16px;
+	font-size: 14px;
 	padding: 33px 12px;
 	cursor: pointer;
 	margin: -7px 0;
 	font-weight: bold;
-	text-transform: capitalize;
+	/* text-transform: capitalize; */
 	font-family: 'montserratbold', sans-serif;
 }
 
@@ -9065,6 +9062,7 @@ HEADER (top part of page)
 	-ms-transition: all 0.2s linear;
 	-o-transition: all 0.2s linear;
 	transition: all 0.2s linear;
+	text-transform: uppercase;
 }
 
 .header-nav .nav>li .sub-menu li a:hover {
@@ -10777,7 +10775,7 @@ button.scroltop span {
 }
 
 .page-wraper {
-	background: #F1F5FF;
+	background: #fff;
 }
 
 .page-content {
@@ -10889,7 +10887,7 @@ button.scroltop span {
 
 .contact-info {
 	margin-left: -100px;
-	margin-top: 150px;
+	margin-top: 200px;
 }
 
 ul.contact-info li {
@@ -11460,15 +11458,17 @@ Background Effects
 }
 
 .project-carousel1 .image-single-carousel {
-	height: 500px;
+	height: 700px;
 }
 
 .project-carousel1 .image-single-carousel .sx-info {
 	position: absolute;
-	background-color: rgba(0, 0, 0, 0.8);
+	background-color: rgba(0, 76, 134, 0.7);
 	right: 50px;
-	bottom: 50px;
-	padding: 30px;
+	bottom: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 5px;
 	max-width: 360px;
 }
 
@@ -11491,7 +11491,9 @@ Background Effects
 	.project-carousel1 .image-single-carousel .sx-info {
 		right: 0px;
 		bottom: 0px;
-		padding: 30px;
+		padding-left: 20px;
+		padding-right: 20px;
+		padding-bottom: 5px;
 		max-width: 100%;
 		margin: 15px;
 	}
@@ -14044,6 +14046,7 @@ Background Effects
 	position: relative;
 	z-index: 1;
 	padding: 30px;
+	box-shadow: 7px 7px 7px 7px rgba(0, 0, 0, 0.1);
 }
 
 
@@ -14336,6 +14339,7 @@ Background Effects
 	-ms-transition: all 0.5s linear;
 	-o-transition: all 0.5s linear;
 	transition: all 0.5s linear;
+	box-shadow: 7px 7px 7px 7px rgba(0, 0, 0, 0.1);
 }
 
 .number-block-one .figcaption:after {
@@ -15133,7 +15137,7 @@ Image Effect Two
 		-webkit-transform: matrix(1, 0, 0, 1, -100, -50) !important;
 		transform: matrix(1, 0, 0, 1, -100, -50) !important;
 
-		
+
 	}
 
 	#rev_slider_26_1 .tp-leftarrow {
@@ -15940,7 +15944,7 @@ large-title-block
 	.large-title-block.full-content {
 		padding-top: 30px;
 		/* margin-bottom: 0px; */
-		margin-top: 30px;
+		/* margin-top: 30px; */
 	}
 
 	.large-title-block.full-content2 {
@@ -16036,9 +16040,9 @@ large-title-block
 ----------------------------------*/
 
 .our-history .our-history-pic {
-	height: 400px;
-	margin-right: 20%;
-	margin-bottom: 120px;
+	height: 550px;
+	margin-right: 3%;
+	margin-bottom: 3%;
 	position: relative;
 	z-index: 1
 }
@@ -16054,8 +16058,8 @@ large-title-block
 	position: absolute;
 	right: 15px;
 	bottom: 40px;
-	border: 30px solid #004C86;
-	background-image: url(../images/pattern.png);
+	border: 10px solid #004C86;
+	background-image: url(../images/background/transparent-leaves-pattern.png);
 }
 
 .our-history .our-history-content {
@@ -16066,8 +16070,8 @@ large-title-block
 
 
 .our-history .row:nth-child(even) .our-history-pic {
-	margin-left: 20%;
-	margin-right: 0%;
+	margin-left: 3%;
+	margin-right: 3%;
 }
 
 .our-history .row:nth-child(even) .our-history-content {
@@ -16098,7 +16102,7 @@ large-title-block
 @media only screen and (max-width:767px) {
 	.our-history .our-history-pic {
 		margin-right: 0%;
-		margin-bottom: 30px;
+		/* margin-bottom: 30px; */
 		background-position: 0px !important;
 	}
 
@@ -16118,14 +16122,14 @@ large-title-block
 
 }
 
-@media only screen and (max-width:768px) {
+/* @media only screen and (max-width:768px) {
 
 	.our-history .row:last-child .our-history-content.m-b30,
 	.our-history .row:last-child .our-history-content p {
 		margin-bottom: 0px;
 	}
 
-}
+} */
 
 
 /*--------------------------------
@@ -16263,7 +16267,7 @@ New Menu Style for mobile device (august/2021)
 		height: 100%;
 		padding-top: 5px;
 		background-color: #F1F5FF;
-		background-image: url(../images/pattern.png);
+		background-image: url(../images/background/transparent-leaves-pattern.png);
 		background-repeat: repeat;
 		overflow-y: scroll;
 		-webkit-overflow-scrolling: touch;
@@ -16458,7 +16462,7 @@ New Menu Style for mobile device (august/2021)
 		padding-top: 95px;
 		background-color: #F1F5FF;
 		/* Keep the color as a fallback */
-		background-image: url('../images/pattern.png');
+		background-image: url('../images/background/transparent-leaves-pattern.png');
 		/* Check this path */
 		background-repeat: repeat;
 		overflow-y: scroll;

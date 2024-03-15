@@ -30,6 +30,8 @@ $(document).ready(function () {
     function showErrorMessage(message) {
         var errorMessageSpan = $('.error-message');
         errorMessageSpan.text(message).show();
+        var formMessageSpan = $('.form-message');
+        formMessageSpan.hide();
     }
 
     // Function to hide error message
@@ -58,21 +60,27 @@ $(document).ready(function () {
                         }, 0);
                     }
                 },
-                onSelect: function(dateText, inst) {
+                onSelect: function (dateText, inst) {
                     // When a date is selected, enable the "Check-out" date input
                     $("#checkout").prop('disabled', false);
-                    // Set the "Check-out" datepicker's minDate to the selected "Check-in" date
-                    $("#checkout").datepicker("option", "minDate", getDate(this));
+                
+                    // Calculate 7 days after the selected "Check-in" date
+                    var minCheckoutDate = $(this).datepicker('getDate');
+                    minCheckoutDate.setDate(minCheckoutDate.getDate() + 7);
+                
+                    // Set the "Check-out" datepicker's minDate to 7 days after the "Check-in" date
+                    $("#checkout").datepicker("option", "minDate", minCheckoutDate);
                 }
+                
             })
             .on("change", function () {
                 to.datepicker("option", "minDate", getDate(this));
             }),
         to = $("#checkout").datepicker({
-            defaultDate: "+2d",
+            defaultDate: "+7d", // Set default date to 7 days from today
             changeMonth: true,
-            numberOfMonths: numberOfMonths, // And here
-            minDate: "+2d",
+            numberOfMonths: numberOfMonths,
+            minDate: "+7d", // Set minimum date to 7 days from today
             dateFormat: displayDateFormat,
             altField: "#api_checkout",
             altFormat: apiDateFormat,
@@ -134,29 +142,29 @@ $(document).ready(function () {
             adults = parseInt($('#adults').val(), 10),
             children = parseInt($('#children').val(), 10) || 0; // Default to 0 if not provided
 
-         // Hide any previous error messages
-         hideErrorMessage();
+        // Hide any previous error messages
+        hideErrorMessage();
 
-         // Validate the fields
-         if (!apartmentId) {
-             showErrorMessage('Please select an apartment category.');
-             return;
-         }
- 
-         if (!checkin) {
-             showErrorMessage('Please fill in Check-in Date.');
-             return;
-         }
- 
-         if (!checkout) {
-             showErrorMessage('Please fill in Check-out Date.');
-             return;
-         }
- 
-         if (adults <= 0) {
-             showErrorMessage('The number of adults must be at least 1.');
-             return;
-         }
+        // Validate the fields
+        if (!apartmentId) {
+            showErrorMessage('Please select an apartment category.');
+            return;
+        }
+
+        if (!checkin) {
+            showErrorMessage('Please fill in Check-in Date.');
+            return;
+        }
+
+        if (!checkout) {
+            showErrorMessage('Please fill in Check-out Date.');
+            return;
+        }
+
+        if (adults <= 0) {
+            showErrorMessage('The number of adults must be at least 1.');
+            return;
+        }
 
         // Construct the redirect URL
         var redirectUrl = "https://api.mews.com/distributor/63c1028b-e611-405d-bc62-af3500786b74" +
@@ -216,17 +224,17 @@ $(document).ready(function () {
     document.addEventListener('DOMContentLoaded', function () {
         var form = document.getElementById('myForm');
         form.noValidate = true; // Disable HTML5 default validation
-    
+
         form.addEventListener('submit', function (event) {
             event.preventDefault(); // Prevent the default form submit
-            
+
             var isValid = form.checkValidity();
             var errorMessageSpan = document.querySelector('.error-message');
             var selectField = document.getElementById('apartment-category');
-    
+
             // Clear any existing messages
             errorMessageSpan.textContent = '';
-    
+
             if (!isValid) {
                 if (!selectField.value) {
                     errorMessageSpan.textContent = 'Please select an apartment category.';

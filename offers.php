@@ -30,12 +30,23 @@ include 'header.php' ?>
 <!-- INNER PAGE BANNER END -->
 
 <!-- OFFERS SECTION START-->
-<div class="section-full text-center bg-repeat p-t50 p-b80 mobile-page-padding">
+<div class="section-full text-center bg-repeat p-b80 mobile-page-padding">
+    <!-- TITLE -->
+    <div class="large-title-block full-content bg-theme bg-moving bg-repeat-x" style="background-image:url(images/background/green-leaves-pattern.png);">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12">
+                <div class="large-title text-white text-center">
+                    <h1 class="m-tb0 text-uppercase">Offers</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- TITLE -->
     <div class="container">
 
 
         <div class="section-content">
-            <div class="pricingtable-row p-t20">
+            <div class="pricingtable-row p-t50">
                 <div class="row no-gutters justify-content-center">
 
                     <div class="col-lg-12  col-md-12 col-sm-12  m-b30">
@@ -45,8 +56,8 @@ include 'header.php' ?>
                                     <h4>EXTENDED STAY PROMOTION</h4>
                                 </div>
 
-                                <div class="pricingtable-price pattern-bg">
-                                    <span class="pricingtable-bx">$15%</span>
+                                <div class="pricingtable-price pattern-bg1">
+                                    <span class="pricingtable-bx">15%</span>
                                     <span class="pricingtable-type">Discount on BAR rates for booking 30+ nights</span>
                                 </div>
 
@@ -72,8 +83,8 @@ include 'header.php' ?>
                                     <h4>INDUSTRY PARTNER INCENTIVE</h4>
                                 </div>
 
-                                <div class="pricingtable-price pattern-bg">
-                                    <span class="pricingtable-bx">$18%</span>
+                                <div class="pricingtable-price pattern-bg1">
+                                    <span class="pricingtable-bx">18%</span>
                                     <span class="pricingtable-type">Incentive for booking 14+ nights on BAR rates</span>
                                 </div>
 

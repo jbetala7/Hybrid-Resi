@@ -28,29 +28,29 @@ include 'header.php' ?>
 </div>
 <!-- INNER PAGE BANNER END -->
 
-<div class="section-full p-t80 mobile-page-padding">
-    <div class="container">
-        <!-- TITLE START -->
-        <div class="section-head">
-            <div class="sx-separator-outer separator-center">
-                <div class="sx-separator bg-moving bg-repeat-x" style="background-image:url(images/pattern.png);">
-                    <h3 class="sep-line-one text-theme text-uppercase">Cookies Policy</h3>
+<div class="section-full mobile-page-padding">
+    <!-- TITLE -->
+    <div class="large-title-block full-content bg-theme bg-moving bg-repeat-x" style="background-image:url(images/background/green-leaves-pattern.png);">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12">
+                <div class="large-title text-white text-center">
+                    <h1 class="m-tb0 text-uppercase">Cookies Policy</h1>
                 </div>
             </div>
         </div>
-        <!-- TITLE END -->
     </div>
+    <!-- TITLE -->
 
     <div class="container">
         <!-- GALLERY CONTENT START -->
         <div class="row">
 
-            <div class="col-lg-4 col-md-12 sticky_column no-padding-mobile p-t30 no-padding-mobile p-tb100">
-                <div class="about4-section m-b20 p-a20 pattern-bg">
+            <div class="col-lg-4 col-md-12 sticky_column no-padding-mobile p-t30 no-padding-mobile p-tb50">
+                <div class="about4-section m-b20 p-a20 pattern-bg1">
                     <div class="widget widget_services">
                         <h4 class="widget-title text-theme-1">Topics</h4>
-                        <ul class="pattern-bg font-mbold">
-                            <li><a href="#cookies-policy">Cookie Policy</a></li>
+                        <ul class="pattern-bg1 font-mbold">
+                            <li><a href="#policy">Cookie Policy</a></li>
                             <li><a href="#what-are-cookies">What are Cookies?</a></li>
                             <li><a href="#why-do-we-use-cookies">Why do we use Cookies?</a></li>
                             <li><a href="#what-cookies-do-we-use">What Cookies do we use?</a></li>
@@ -62,7 +62,7 @@ include 'header.php' ?>
             </div>
             <div class="col-lg-8 col-md-12">
                 <div class="section-content">
-                    <div class="service-single-block p-t30">
+                    <div class="service-single-block p-t50">
                         <div class="sx-media">
                             <img src="images/cookies-policy/1.jpg" alt="">
                         </div>
@@ -73,12 +73,12 @@ include 'header.php' ?>
                             </ul>
                         </div>
                     </div>
-                    <div id="cookies-policy" class="service-single-block p-t100">
+                    <div id="policy" class="service-single-block p-t100">
                         <div class="sx-post-title ">
                             <h4 class="post-title text-center">COOKIES POLICY</h4>
                         </div>
                         <div class="sx-post-text">
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> Our customers should also be aware that information
                                         and data may be automatically collected through the standard operation of our
                                         internet servers and through the use of "cookies". "Cookies" are small text
@@ -119,7 +119,7 @@ include 'header.php' ?>
                             <h4 class="post-title text-center">WHAT ARE COOKIES?</h4>
                         </div>
                         <div class="sx-post-text">
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> Where we use the word 'device', we mean the computer,
                                         mobile phone, tablet or other device you use to access the internet.</a></li>
                                 <li><a href="javascript:void(0)">Cookies are created when you visit a website that uses
@@ -139,7 +139,7 @@ include 'header.php' ?>
                             <h4 class="post-title text-center">WHY DO WE USE COOKIES?</h4>
                         </div>
                         <div class="sx-post-text">
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)">We use cookies to distinguish you from other users of
                                         this website and to provide increased functionality on our website. This helps
                                         us to provide you with a better user experience and also allows us to work to
@@ -161,7 +161,7 @@ include 'header.php' ?>
                             <h4 class="post-title text-center">WHAT COOKIES DO WE USE?</h4>
                         </div>
                         <div class="sx-post-text">
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)">We use cookies to distinguish you from other users of
                                         this website and to provide increased functionality on our website. This helps
                                         us to provide you with a better user experience and also allows us to work to
@@ -183,7 +183,7 @@ include 'header.php' ?>
                             <h4 class="post-title text-center">HOW TO CONTROL COOKIES</h4>
                         </div>
                         <div class="sx-post-text">
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> How to control cookies on this and other websites: You
                                         can use your web browser (e.g. Internet Explorer, Google Chrome, Safari etc) to
                                         allow, switch off or delete cookies on this and other websites. Each web browser
@@ -198,13 +198,13 @@ include 'header.php' ?>
                             </ul>
                         </div>
                     </div>
-                    <div id="cookies-declaration" class="service-single-block p-tb100">
+                    <div id="cookies-declaration" class="service-single-block p-t100 p-b50">
                         <div class="sx-post-title ">
                             <h4 class="post-title text-center">
                                 COOKIES DECLARATION</h4>
                         </div>
                         <div class="sx-post-text">
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> We use cookies on our websites. You are free to manage
                                         this via your browser setting at any time. Learn more about our cookie policy
                                         here. </a></li>

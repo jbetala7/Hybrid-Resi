@@ -14,11 +14,11 @@ include 'header.php' ?>
             <!-- SLIDE 1 -->
             <li data-index="rs-72" data-transition="fade" data-slotamount="default" data-hideafterloop="0"
                 data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300"
-                data-thumb="images/banner-images/home-page/1new.jpg" data-rotate="0" data-saveperformance="off"
+                data-thumb="images/banner-images/home-page/1.jpg" data-rotate="0" data-saveperformance="off"
                 data-title="" data-param1="1" data-param2="" data-param3="" data-param4="" data-param5="" data-param6=""
                 data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                 <!-- MAIN IMAGE -->
-                <img src="images/banner-images/home-page/1new.jpg" data-bgcolor='#f8f8f8' alt=""
+                <img src="images/banner-images/home-page/1.jpg" data-bgcolor='#f8f8f8' alt=""
                     data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off"
                     class="rev-slidebg" data-no-retina>
 
@@ -32,39 +32,39 @@ include 'header.php' ?>
                     data-frames='[{"from":"opacity:0;","speed":1500,"to":"o:1;","delay":150,"ease":"Power2.easeInOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power2.easeInOut"}]'
                     data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]"
                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-                    style="z-index: 6;background-color:rgba(0,0,0,0.5);">
+                    style="z-index: 6;background-color:rgba(0,0,0,0.4);">
                 </div>
 
                 <!-- LAYER 2  Bold Title-->
                 <div class="tp-caption   tp-resizeme" id="slide-72-layer-4" data-x="['left','left','center','center']"
                     data-hoffset="['46','46','0','0']" data-y="['top','top','top','top']"
-                    data-voffset="['190','190','190','150']" data-fontsize="['63','63','60','40']"
+                    data-voffset="['250','250','250','100']" data-fontsize="['35','35','35','35']"
                     data-lineheight="['80','70','60','50']" data-width="['700','600','500','380']" data-height="none"
                     data-whitespace="normal" data-type="text" data-responsive_offset="on"
                     data-frames='[{"delay":200,"speed":750,"sfxcolor":"#fff","sfx_effect":"blockfromleft","frame":"0","from":"z:0;","to":"o:1;","ease":"Power3.easeInOut"},
                                 {"delay":"wait","speed":500,"sfxcolor":"#ffffff","sfx_effect":"blocktoleft","frame":"999","to":"z:0;","ease":"Power4.easeOut"}]'
                     data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]"
                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-                    style="z-index: 10;white-space: normal;font-weight: 800; color: #fff;font-family: 'montserratregular', sans-serif;">
-                    Extended Stays, Work, Relax</div>
+                    style="z-index: 10;white-space: normal;font-weight: 900; color: #fff;font-family: 'montserratregular', sans-serif; text-transform: uppercase;">
+                    Extended Stays, Work &amp; Relax</div>
 
                 <!-- LAYER 3  Paragraph-->
                 <div class="tp-caption   tp-resizeme" id="slide-72-layer-5" data-x="['left','left','center','center']"
                     data-hoffset="['50','50','0','0']" data-y="['middle','middle','middle','middle']"
-                    data-voffset="['30','60','50','50']" data-fontsize="['21','21','21','21']"
+                    data-voffset="['-10','-10','90','-10']" data-fontsize="['21','21','21','21']"
                     data-lineheight="['30','30','30','30']" data-width="['600','600','500','380']" data-height="none"
                     data-whitespace="normal" data-type="text" data-responsive_offset="on"
                     data-frames='[{"delay":200,"speed":750,"sfxcolor":"#fff","sfx_effect":"blockfromleft","frame":"0","from":"z:0;","to":"o:1;","ease":"Power3.easeInOut"},
                             {"delay":"wait","speed":500,"sfxcolor":"#ffffff","sfx_effect":"blocktoleft","frame":"999","to":"z:0;","ease":"Power4.easeOut"}]'
                     data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]"
                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-                    style="z-index: 10; white-space: normal; font-family: 'montserratregular', sans-serif; color: #fff; font-family: 'montserratlight', sans-serif;">
+                    style="z-index: 10; white-space: normal; font-family: 'montserratregular', sans-serif; color: #fff; font-family: 'montserratlight', sans-serif; text-transform: uppercase;">
                     Home - Office Hybrid Living</div>
 
-                <!-- LAYER 4  Read More-->
+                <!-- LAYER 4  View All Locations Button-->
                 <div class="tp-caption rev-btn  tp-resizeme" id="slide-72-layer-6"
-                    data-x="['left','left','center','center']" data-hoffset="['50','50','0','0']"
-                    data-y="['middle','middle','middle','middle']" data-voffset="['100','140','140','120']"
+                    data-x="['left','left','center','center']" data-hoffset="['50','50','0', 0']"
+                    data-y="['middle','middle','middle','middle']" data-voffset="['60','140','140','50']"
                     data-width="none" data-height="none" data-whitespace="nowrap" data-type="button"
                     data-responsive_offset="on"
                     data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;",
@@ -72,18 +72,33 @@ include 'header.php' ?>
                                 {"delay":"wait","speed":500,"to":"y:[-100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power1.easeIn"}]'
                     data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]"
                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-                    style="z-index:9; line-height:30px;"><a href="Javascript:;" class="site-button btn-half"><span> View
+                    style="z-index:9; line-height:30px;"><a href="stay.php" class="site-button btn-half"><span> View
                             All Locations</span></a></div>
+                <!-- LAYER 4  View Reviews Button-->
+                <div class="tp-caption rev-btn  tp-resizeme" id="slide-72-layer-7"
+                    data-x="['left','left','center','center']" data-hoffset="['50','50','0', 0']"
+                    data-y="['middle','middle','middle','middle']" data-voffset="['130','200','200','100']"
+                    data-width="none" data-height="none" data-whitespace="nowrap" data-type="button"
+                    data-responsive_offset="on"
+                    data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;",
+                            "speed":1500,"to":"o:1;","delay":1500,"ease":"Power3.easeInOut"},
+                            {"delay":"wait","speed":500,"to":"y:[-100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power1.easeIn"}]'
+                    data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]"
+                    data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
+                    style="z-index:9; line-height:30px;"><a href="#guest-reviews" class="site-button btn-half"><span>
+                            Guest
+                            Reviews</span></a></div>
             </li>
+
 
             <!-- SLIDE 2 -->
             <li data-index="rs-73" data-transition="fade" data-slotamount="default" data-hideafterloop="0"
                 data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300"
-                data-thumb="images/banner-images/home-page/2new.jpg" data-rotate="0" data-saveperformance="off"
+                data-thumb="images/banner-images/home-page/2.jpg" data-rotate="0" data-saveperformance="off"
                 data-title="" data-param1="1" data-param2="" data-param3="" data-param4="" data-param5="" data-param6=""
                 data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                 <!-- MAIN IMAGE -->
-                <img src="images/banner-images/home-page/2new.jpg" data-bgcolor='#f8f8f8' alt=""
+                <img src="images/banner-images/home-page/2.jpg" data-bgcolor='#f8f8f8' alt=""
                     data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off"
                     class="rev-slidebg" data-no-retina>
 
@@ -97,39 +112,39 @@ include 'header.php' ?>
                     data-frames='[{"from":"opacity:0;","speed":1500,"to":"o:1;","delay":150,"ease":"Power2.easeInOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power2.easeInOut"}]'
                     data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]"
                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-                    style="z-index: 6;background-color:rgba(0,0,0,0.5);">
+                    style="z-index: 6;background-color:rgba(0,0,0,0.4);">
                 </div>
 
                 <!-- LAYER 2  Bold Title-->
                 <div class="tp-caption   tp-resizeme" id="slide-73-layer-4" data-x="['left','left','center','center']"
                     data-hoffset="['46','46','0','0']" data-y="['top','top','top','top']"
-                    data-voffset="['190','190','190','150']" data-fontsize="['63','63','60','40']"
+                    data-voffset="['250','250','250','100']" data-fontsize="['35','35','35','35']"
                     data-lineheight="['80','70','60','50']" data-width="['700','600','500','380']" data-height="none"
                     data-whitespace="normal" data-type="text" data-responsive_offset="on"
                     data-frames='[{"delay":200,"speed":750,"sfxcolor":"#fff","sfx_effect":"blockfromleft","frame":"0","from":"z:0;","to":"o:1;","ease":"Power3.easeInOut"},
                                 {"delay":"wait","speed":500,"sfxcolor":"#ffffff","sfx_effect":"blocktoleft","frame":"999","to":"z:0;","ease":"Power4.easeOut"}]'
                     data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]"
                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-                    style="z-index: 10;white-space: normal;font-weight: 800; color: #fff;font-family: 'montserratregular', sans-serif;">
-                    Extended Stays, Work, Relax</div>
+                    style="z-index: 10;white-space: normal;font-weight: 900; color: #fff;font-family: 'montserratregular', sans-serif; text-transform: uppercase;">
+                    Extended Stays, Work &amp; Relax</div>
 
                 <!-- LAYER 3  Paragraph-->
                 <div class="tp-caption   tp-resizeme" id="slide-73-layer-5" data-x="['left','left','center','center']"
                     data-hoffset="['50','50','0','0']" data-y="['middle','middle','middle','middle']"
-                    data-voffset="['30','60','50','50']" data-fontsize="['21','21','21','21']"
+                    data-voffset="['-10','-10','90','-10']" data-fontsize="['21','21','21','21']"
                     data-lineheight="['30','30','30','30']" data-width="['600','600','500','380']" data-height="none"
                     data-whitespace="normal" data-type="text" data-responsive_offset="on"
                     data-frames='[{"delay":200,"speed":750,"sfxcolor":"#fff","sfx_effect":"blockfromleft","frame":"0","from":"z:0;","to":"o:1;","ease":"Power3.easeInOut"},
                             {"delay":"wait","speed":500,"sfxcolor":"#ffffff","sfx_effect":"blocktoleft","frame":"999","to":"z:0;","ease":"Power4.easeOut"}]'
                     data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]"
                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-                    style="z-index: 10; white-space: normal; color: #fff; font-family: 'montserratlight', sans-serif;">
+                    style="z-index: 10; white-space: normal; color: #fff; font-family: 'montserratlight', sans-serif; text-transform: uppercase;">
                     Home - Office Hybrid Living</div>
 
-                <!-- LAYER 4  Read More-->
+                <!-- LAYER 4  View All Locations Button-->
                 <div class="tp-caption rev-btn  tp-resizeme" id="slide-73-layer-6"
                     data-x="['left','left','center','center']" data-hoffset="['50','50','0','0']"
-                    data-y="['middle','middle','middle','middle']" data-voffset="['100','140','140','120']"
+                    data-y="['middle','middle','middle','middle']" data-voffset="['60','140','140','50']"
                     data-width="none" data-height="none" data-whitespace="nowrap" data-type="button"
                     data-responsive_offset="on"
                     data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;",
@@ -137,18 +152,32 @@ include 'header.php' ?>
                                 {"delay":"wait","speed":500,"to":"y:[-100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power1.easeIn"}]'
                     data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]"
                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-                    style="z-index:9; line-height:30px;"><a href="Javascript:;" class="site-button btn-half"><span> View
+                    style="z-index:9; line-height:30px;"><a href="stay.php" class="site-button btn-half"><span> View
                             All Locations</span></a></div>
+                <!-- LAYER 5  View Reviews Button-->
+                <div class="tp-caption rev-btn  tp-resizeme" id="slide-73-layer-7"
+                    data-x="['left','left','center','center']" data-hoffset="['50','50','0', 0']"
+                    data-y="['middle','middle','middle','middle']" data-voffset="['130','200','200','100']"
+                    data-width="none" data-height="none" data-whitespace="nowrap" data-type="button"
+                    data-responsive_offset="on"
+                    data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;",
+                        "speed":1500,"to":"o:1;","delay":1500,"ease":"Power3.easeInOut"},
+                        {"delay":"wait","speed":500,"to":"y:[-100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power1.easeIn"}]'
+                    data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]"
+                    data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
+                    style="z-index:9; line-height:30px;"><a href="#guest-reviews" class="site-button btn-half"><span>
+                            Guest
+                            Reviews</span></a></div>
             </li>
 
             <!-- SLIDE 3 -->
             <li data-index="rs-74" data-transition="fade" data-slotamount="default" data-hideafterloop="0"
                 data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300"
-                data-thumb="images/banner-images/home-page/3new.jpg" data-rotate="0" data-saveperformance="off"
+                data-thumb="images/banner-images/home-page/3.jpg" data-rotate="0" data-saveperformance="off"
                 data-title="" data-param1="1" data-param2="" data-param3="" data-param4="" data-param5="" data-param6=""
                 data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                 <!-- MAIN IMAGE -->
-                <img src="images/banner-images/home-page/3new.jpg" data-bgcolor='#f8f8f8' alt=""
+                <img src="images/banner-images/home-page/3.jpg" data-bgcolor='#f8f8f8' alt=""
                     data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off"
                     class="rev-slidebg" data-no-retina>
 
@@ -162,39 +191,39 @@ include 'header.php' ?>
                     data-frames='[{"from":"opacity:0;","speed":1500,"to":"o:1;","delay":150,"ease":"Power2.easeInOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power2.easeInOut"}]'
                     data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]"
                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-                    style="z-index: 6;background-color:rgba(0,0,0,0.5);">
+                    style="z-index: 6;background-color:rgba(0,0,0,0.4);">
                 </div>
 
                 <!-- LAYER 2  Bold Title-->
                 <div class="tp-caption   tp-resizeme" id="slide-74-layer-4" data-x="['left','left','center','center']"
                     data-hoffset="['46','46','0','0']" data-y="['top','top','top','top']"
-                    data-voffset="['190','190','190','150']" data-fontsize="['63','63','60','40']"
+                    data-voffset="['250','250','250','100']" data-fontsize="['35','35','35','35']"
                     data-lineheight="['80','70','60','50']" data-width="['700','600','500','380']" data-height="none"
                     data-whitespace="normal" data-type="text" data-responsive_offset="on"
                     data-frames='[{"delay":200,"speed":750,"sfxcolor":"#fff","sfx_effect":"blockfromleft","frame":"0","from":"z:0;","to":"o:1;","ease":"Power3.easeInOut"},
                                 {"delay":"wait","speed":500,"sfxcolor":"#ffffff","sfx_effect":"blocktoleft","frame":"999","to":"z:0;","ease":"Power4.easeOut"}]'
                     data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]"
                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-                    style="z-index: 10;white-space: normal;font-weight: 800; color: #fff;font-family: 'montserratregular', sans-serif;">
-                    Extended Stays, Work, Relax</div>
+                    style="z-index: 10;white-space: normal;font-weight: 900; color: #fff;font-family: 'montserratregular', sans-serif; text-transform: uppercase;">
+                    Extended Stays, Work &amp; Relax</div>
 
                 <!-- LAYER 3  Paragraph-->
                 <div class="tp-caption   tp-resizeme" id="slide-74-layer-5" data-x="['left','left','center','center']"
                     data-hoffset="['50','50','0','0']" data-y="['middle','middle','middle','middle']"
-                    data-voffset="['30','60','50','50']" data-fontsize="['21','21','21','21']"
+                    data-voffset="['-10','-10','90','-10']" data-fontsize="['21','21','21','21']"
                     data-lineheight="['30','30','30','30']" data-width="['600','600','500','380']" data-height="none"
                     data-whitespace="normal" data-type="text" data-responsive_offset="on"
                     data-frames='[{"delay":200,"speed":750,"sfxcolor":"#fff","sfx_effect":"blockfromleft","frame":"0","from":"z:0;","to":"o:1;","ease":"Power3.easeInOut"},
                             {"delay":"wait","speed":500,"sfxcolor":"#ffffff","sfx_effect":"blocktoleft","frame":"999","to":"z:0;","ease":"Power4.easeOut"}]'
                     data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]"
                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-                    style="z-index: 10; white-space: normal; color: #fff; font-family: 'montserratlight', sans-serif;">
+                    style="z-index: 10; white-space: normal; color: #fff; font-family: 'montserratlight', sans-serif; text-transform: uppercase;">
                     Home - Office Hybrid Living</div>
 
-                <!-- LAYER 4  Read More-->
+                <!-- LAYER 4  View All Locations Button-->
                 <div class="tp-caption rev-btn  tp-resizeme" id="slide-74-layer-6"
                     data-x="['left','left','center','center']" data-hoffset="['50','50','0','0']"
-                    data-y="['middle','middle','middle','middle']" data-voffset="['100','140','140','120']"
+                    data-y="['middle','middle','middle','middle']" data-voffset="['60','140','140','50']"
                     data-width="none" data-height="none" data-whitespace="nowrap" data-type="button"
                     data-responsive_offset="on"
                     data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;",
@@ -202,18 +231,32 @@ include 'header.php' ?>
                                 {"delay":"wait","speed":500,"to":"y:[-100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power1.easeIn"}]'
                     data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]"
                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-                    style="z-index:9; line-height:30px;"><a href="Javascript:;" class="site-button btn-half"><span> View
+                    style="z-index:9; line-height:30px;"><a href="stay.php" class="site-button btn-half"><span> View
                             All Locations</span></a></div>
+                <!-- LAYER 5  View Reviews Button-->
+                <div class="tp-caption rev-btn  tp-resizeme" id="slide-74-layer-7"
+                    data-x="['left','left','center','center']" data-hoffset="['50','50','0', 0']"
+                    data-y="['middle','middle','middle','middle']" data-voffset="['130','200','200','100']"
+                    data-width="none" data-height="none" data-whitespace="nowrap" data-type="button"
+                    data-responsive_offset="on"
+                    data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;",
+                        "speed":1500,"to":"o:1;","delay":1500,"ease":"Power3.easeInOut"},
+                        {"delay":"wait","speed":500,"to":"y:[-100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power1.easeIn"}]'
+                    data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]"
+                    data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
+                    style="z-index:9; line-height:30px;"><a href="#guest-reviews" class="site-button btn-half"><span>
+                            Guest
+                            Reviews</span></a></div>
             </li>
 
             <!-- SLIDE 4 -->
             <li data-index="rs-75" data-transition="fade" data-slotamount="default" data-hideafterloop="0"
                 data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300"
-                data-thumb="images/banner-images/home-page/4new.jpg" data-rotate="0" data-saveperformance="off"
+                data-thumb="images/banner-images/home-page/4.jpg" data-rotate="0" data-saveperformance="off"
                 data-title="" data-param1="1" data-param2="" data-param3="" data-param4="" data-param5="" data-param6=""
                 data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                 <!-- MAIN IMAGE -->
-                <img src="images/banner-images/home-page/4new.jpg" data-bgcolor='#f8f8f8' alt=""
+                <img src="images/banner-images/home-page/4.jpg" data-bgcolor='#f8f8f8' alt=""
                     data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off"
                     class="rev-slidebg" data-no-retina>
 
@@ -227,39 +270,39 @@ include 'header.php' ?>
                     data-frames='[{"from":"opacity:0;","speed":1500,"to":"o:1;","delay":150,"ease":"Power2.easeInOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power2.easeInOut"}]'
                     data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]"
                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-                    style="z-index: 6;background-color:rgba(0,0,0,0.5);">
+                    style="z-index: 6;background-color:rgba(0,0,0,0.4);">
                 </div>
 
                 <!-- LAYER 2  Bold Title-->
                 <div class="tp-caption   tp-resizeme" id="slide-75-layer-4" data-x="['left','left','center','center']"
                     data-hoffset="['46','46','0','0']" data-y="['top','top','top','top']"
-                    data-voffset="['190','190','190','150']" data-fontsize="['63','63','60','40']"
+                    data-voffset="['250','250','250','100']" data-fontsize="['35','35','35','35']"
                     data-lineheight="['80','70','60','50']" data-width="['700','600','500','380']" data-height="none"
                     data-whitespace="normal" data-type="text" data-responsive_offset="on"
                     data-frames='[{"delay":200,"speed":750,"sfxcolor":"#fff","sfx_effect":"blockfromleft","frame":"0","from":"z:0;","to":"o:1;","ease":"Power3.easeInOut"},
                                 {"delay":"wait","speed":500,"sfxcolor":"#ffffff","sfx_effect":"blocktoleft","frame":"999","to":"z:0;","ease":"Power4.easeOut"}]'
                     data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]"
                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-                    style="z-index: 10;white-space: normal;font-weight: 800; color: #fff;font-family: 'montserratregular', sans-serif;">
-                    Extended Stays, Work, Relax</div>
+                    style="z-index: 10;white-space: normal;font-weight: 900; color: #fff;font-family: 'montserratregular', sans-serif; text-transform: uppercase;">
+                    Extended Stays, Work &amp; Relax</div>
 
                 <!-- LAYER 3  Paragraph-->
                 <div class="tp-caption   tp-resizeme" id="slide-75-layer-5" data-x="['left','left','center','center']"
                     data-hoffset="['50','50','0','0']" data-y="['middle','middle','middle','middle']"
-                    data-voffset="['30','60','50','50']" data-fontsize="['21','21','21','21']"
+                    data-voffset="['-10','-10','90','-10']" data-fontsize="['21','21','21','21']"
                     data-lineheight="['30','30','30','30']" data-width="['600','600','500','380']" data-height="none"
                     data-whitespace="normal" data-type="text" data-responsive_offset="on"
                     data-frames='[{"delay":200,"speed":750,"sfxcolor":"#fff","sfx_effect":"blockfromleft","frame":"0","from":"z:0;","to":"o:1;","ease":"Power3.easeInOut"},
                             {"delay":"wait","speed":500,"sfxcolor":"#ffffff","sfx_effect":"blocktoleft","frame":"999","to":"z:0;","ease":"Power4.easeOut"}]'
                     data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]"
                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-                    style="z-index: 10; white-space: normal; color: #fff; font-family: 'montserratlight', sans-serif;">
+                    style="z-index: 10; white-space: normal; color: #fff; font-family: 'montserratlight', sans-serif; text-transform: uppercase;">
                     Home - Office Hybrid Living</div>
 
-                <!-- LAYER 4  Read More-->
+                <!-- LAYER 4  View All Locations Button-->
                 <div class="tp-caption rev-btn  tp-resizeme" id="slide-75-layer-6"
                     data-x="['left','left','center','center']" data-hoffset="['50','50','0','0']"
-                    data-y="['middle','middle','middle','middle']" data-voffset="['100','140','140','120']"
+                    data-y="['middle','middle','middle','middle']" data-voffset="['60','140','140','50']"
                     data-width="none" data-height="none" data-whitespace="nowrap" data-type="button"
                     data-responsive_offset="on"
                     data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;",
@@ -267,18 +310,32 @@ include 'header.php' ?>
                                 {"delay":"wait","speed":500,"to":"y:[-100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power1.easeIn"}]'
                     data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]"
                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-                    style="z-index:9; line-height:30px;"><a href="Javascript:;" class="site-button btn-half"><span> View
+                    style="z-index:9; line-height:30px;"><a href="stay.php" class="site-button btn-half"><span> View
                             All Locations</span></a></div>
+                <!-- LAYER 5  View Reviews Button-->
+                <div class="tp-caption rev-btn  tp-resizeme" id="slide-75-layer-7"
+                    data-x="['left','left','center','center']" data-hoffset="['50','50','0', 0']"
+                    data-y="['middle','middle','middle','middle']" data-voffset="['130','200','200','100']"
+                    data-width="none" data-height="none" data-whitespace="nowrap" data-type="button"
+                    data-responsive_offset="on"
+                    data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;",
+                    "speed":1500,"to":"o:1;","delay":1500,"ease":"Power3.easeInOut"},
+                    {"delay":"wait","speed":500,"to":"y:[-100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power1.easeIn"}]'
+                    data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]"
+                    data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
+                    style="z-index:9; line-height:30px;"><a href="#guest-reviews" class="site-button btn-half"><span>
+                            Guest
+                            Reviews</span></a></div>
             </li>
 
             <!-- SLIDE 5 -->
             <li data-index="rs-76" data-transition="fade" data-slotamount="default" data-hideafterloop="0"
                 data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300"
-                data-thumb="images/banner-images/home-page/5new.jpg" data-rotate="0" data-saveperformance="off"
+                data-thumb="images/banner-images/home-page/5.jpg" data-rotate="0" data-saveperformance="off"
                 data-title="" data-param1="1" data-param2="" data-param3="" data-param4="" data-param5="" data-param6=""
                 data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                 <!-- MAIN IMAGE -->
-                <img src="images/banner-images/home-page/5new.jpg" data-bgcolor='#f8f8f8' alt=""
+                <img src="images/banner-images/home-page/5.jpg" data-bgcolor='#f8f8f8' alt=""
                     data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off"
                     class="rev-slidebg" data-no-retina>
 
@@ -292,39 +349,39 @@ include 'header.php' ?>
                     data-frames='[{"from":"opacity:0;","speed":1500,"to":"o:1;","delay":150,"ease":"Power2.easeInOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power2.easeInOut"}]'
                     data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]"
                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-                    style="z-index: 6;background-color:rgba(0,0,0,0.5);">
+                    style="z-index: 6;background-color:rgba(0,0,0,0.4);">
                 </div>
 
                 <!-- LAYER 2  Bold Title-->
                 <div class="tp-caption   tp-resizeme" id="slide-76-layer-4" data-x="['left','left','center','center']"
                     data-hoffset="['46','46','0','0']" data-y="['top','top','top','top']"
-                    data-voffset="['190','190','190','150']" data-fontsize="['63','63','60','40']"
+                    data-voffset="['250','250','250','100']" data-fontsize="['35','35','35','35']"
                     data-lineheight="['80','70','60','50']" data-width="['700','600','500','380']" data-height="none"
                     data-whitespace="normal" data-type="text" data-responsive_offset="on"
                     data-frames='[{"delay":200,"speed":750,"sfxcolor":"#fff","sfx_effect":"blockfromleft","frame":"0","from":"z:0;","to":"o:1;","ease":"Power3.easeInOut"},
                                 {"delay":"wait","speed":500,"sfxcolor":"#ffffff","sfx_effect":"blocktoleft","frame":"999","to":"z:0;","ease":"Power4.easeOut"}]'
                     data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]"
                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-                    style="z-index: 10;white-space: normal;font-weight: 800; color: #fff;font-family: 'montserratregular', sans-serif;">
-                    Extended Stays, Work, Relax</div>
+                    style="z-index: 10;white-space: normal;font-weight: 900; color: #fff;font-family: 'montserratregular', sans-serif; text-transform: uppercase;">
+                    Extended Stays, Work &amp; Relax</div>
 
                 <!-- LAYER 3  Paragraph-->
                 <div class="tp-caption   tp-resizeme" id="slide-76-layer-5" data-x="['left','left','center','center']"
                     data-hoffset="['50','50','0','0']" data-y="['middle','middle','middle','middle']"
-                    data-voffset="['30','60','50','50']" data-fontsize="['21','21','21','21']"
+                    data-voffset="['-10','-10','90','-10']" data-fontsize="['21','21','21','21']"
                     data-lineheight="['30','30','30','30']" data-width="['600','600','500','380']" data-height="none"
                     data-whitespace="normal" data-type="text" data-responsive_offset="on"
                     data-frames='[{"delay":200,"speed":750,"sfxcolor":"#fff","sfx_effect":"blockfromleft","frame":"0","from":"z:0;","to":"o:1;","ease":"Power3.easeInOut"},
                             {"delay":"wait","speed":500,"sfxcolor":"#ffffff","sfx_effect":"blocktoleft","frame":"999","to":"z:0;","ease":"Power4.easeOut"}]'
                     data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]"
                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-                    style="z-index: 10; white-space: normal; color: #fff; font-family: 'montserratlight', sans-serif;">
+                    style="z-index: 10; white-space: normal; color: #fff; font-family: 'montserratlight', sans-serif; text-transform: uppercase;">
                     Home - Office Hybrid Living</div>
 
-                <!-- LAYER 4  Read More-->
+                <!-- LAYER 4  View All Locations Button-->
                 <div class="tp-caption rev-btn  tp-resizeme" id="slide-76-layer-6"
                     data-x="['left','left','center','center']" data-hoffset="['50','50','0','0']"
-                    data-y="['middle','middle','middle','middle']" data-voffset="['100','140','140','120']"
+                    data-y="['middle','middle','middle','middle']" data-voffset="['60','140','140','50']"
                     data-width="none" data-height="none" data-whitespace="nowrap" data-type="button"
                     data-responsive_offset="on"
                     data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;",
@@ -332,18 +389,32 @@ include 'header.php' ?>
                                 {"delay":"wait","speed":500,"to":"y:[-100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power1.easeIn"}]'
                     data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]"
                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-                    style="z-index:9; line-height:30px;"><a href="Javascript:;" class="site-button btn-half"><span> View
+                    style="z-index:9; line-height:30px;"><a href="stay.php" class="site-button btn-half"><span> View
                             All Locations</span></a></div>
+                <!-- LAYER 5  View Reviews Button-->
+                <div class="tp-caption rev-btn  tp-resizeme" id="slide-76-layer-7"
+                    data-x="['left','left','center','center']" data-hoffset="['50','50','0', 0']"
+                    data-y="['middle','middle','middle','middle']" data-voffset="['130','200','200','100']"
+                    data-width="none" data-height="none" data-whitespace="nowrap" data-type="button"
+                    data-responsive_offset="on"
+                    data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;",
+                    "speed":1500,"to":"o:1;","delay":1500,"ease":"Power3.easeInOut"},
+                    {"delay":"wait","speed":500,"to":"y:[-100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power1.easeIn"}]'
+                    data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]"
+                    data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
+                    style="z-index:9; line-height:30px;"><a href="#guest-reviews" class="site-button btn-half"><span>
+                            Guest
+                            Reviews</span></a></div>
             </li>
 
             <!-- SLIDE 6 -->
             <li data-index="rs-77" data-transition="fade" data-slotamount="default" data-hideafterloop="0"
                 data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300"
-                data-thumb="images/banner-images/home-page/6new.jpg" data-rotate="0" data-saveperformance="off"
+                data-thumb="images/banner-images/home-page/6.jpg" data-rotate="0" data-saveperformance="off"
                 data-title="" data-param1="1" data-param2="" data-param3="" data-param4="" data-param5="" data-param6=""
                 data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                 <!-- MAIN IMAGE -->
-                <img src="images/banner-images/home-page/6new.jpg" data-bgcolor='#f8f8f8' alt=""
+                <img src="images/banner-images/home-page/6.jpg" data-bgcolor='#f8f8f8' alt=""
                     data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off"
                     class="rev-slidebg" data-no-retina>
 
@@ -357,39 +428,39 @@ include 'header.php' ?>
                     data-frames='[{"from":"opacity:0;","speed":1500,"to":"o:1;","delay":150,"ease":"Power2.easeInOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power2.easeInOut"}]'
                     data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]"
                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-                    style="z-index: 6;background-color:rgba(0,0,0,0.5);">
+                    style="z-index: 6;background-color:rgba(0,0,0,0.4);">
                 </div>
 
                 <!-- LAYER 2  Bold Title-->
                 <div class="tp-caption   tp-resizeme" id="slide-77-layer-4" data-x="['left','left','center','center']"
                     data-hoffset="['46','46','0','0']" data-y="['top','top','top','top']"
-                    data-voffset="['190','190','190','150']" data-fontsize="['63','63','60','40']"
+                    data-voffset="['250','250','250','100']" data-fontsize="['35','35','35','35']"
                     data-lineheight="['80','70','60','50']" data-width="['700','600','500','380']" data-height="none"
                     data-whitespace="normal" data-type="text" data-responsive_offset="on"
                     data-frames='[{"delay":200,"speed":750,"sfxcolor":"#fff","sfx_effect":"blockfromleft","frame":"0","from":"z:0;","to":"o:1;","ease":"Power3.easeInOut"},
                                 {"delay":"wait","speed":500,"sfxcolor":"#ffffff","sfx_effect":"blocktoleft","frame":"999","to":"z:0;","ease":"Power4.easeOut"}]'
                     data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]"
                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-                    style="z-index: 10;white-space: normal;font-weight: 800; color: #fff;font-family: 'montserratregular', sans-serif;">
-                    Extended Stays, Work, Relax</div>
+                    style="z-index: 10;white-space: normal;font-weight: 900; color: #fff;font-family: 'montserratregular', sans-serif; text-transform: uppercase;">
+                    Extended Stays, Work &amp; Relax</div>
 
                 <!-- LAYER 3  Paragraph-->
                 <div class="tp-caption   tp-resizeme" id="slide-77-layer-5" data-x="['left','left','center','center']"
                     data-hoffset="['50','50','0','0']" data-y="['middle','middle','middle','middle']"
-                    data-voffset="['30','60','50','50']" data-fontsize="['21','21','21','21']"
+                    data-voffset="['-10','-10','90','-10']" data-fontsize="['21','21','21','21']"
                     data-lineheight="['30','30','30','30']" data-width="['600','600','500','380']" data-height="none"
                     data-whitespace="normal" data-type="text" data-responsive_offset="on"
                     data-frames='[{"delay":200,"speed":750,"sfxcolor":"#fff","sfx_effect":"blockfromleft","frame":"0","from":"z:0;","to":"o:1;","ease":"Power3.easeInOut"},
                             {"delay":"wait","speed":500,"sfxcolor":"#ffffff","sfx_effect":"blocktoleft","frame":"999","to":"z:0;","ease":"Power4.easeOut"}]'
                     data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]"
                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-                    style="z-index: 10; white-space: normal; color: #fff; font-family: 'montserratlight', sans-serif;">
+                    style="z-index: 10; white-space: normal; color: #fff; font-family: 'montserratlight', sans-serif; text-transform: uppercase;">
                     Home - Office Hybrid Living</div>
 
-                <!-- LAYER 4  Read More-->
+                <!-- LAYER 4  View All Locations Button-->
                 <div class="tp-caption rev-btn  tp-resizeme" id="slide-77-layer-6"
                     data-x="['left','left','center','center']" data-hoffset="['50','50','0','0']"
-                    data-y="['middle','middle','middle','middle']" data-voffset="['100','140','140','120']"
+                    data-y="['middle','middle','middle','middle']" data-voffset="['60','140','140','50']"
                     data-width="none" data-height="none" data-whitespace="nowrap" data-type="button"
                     data-responsive_offset="on"
                     data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;",
@@ -397,19 +468,33 @@ include 'header.php' ?>
                                 {"delay":"wait","speed":500,"to":"y:[-100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power1.easeIn"}]'
                     data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]"
                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-                    style="z-index:9; line-height:30px;"><a href="Javascript:;" class="site-button btn-half"><span> View
+                    style="z-index:9; line-height:30px;"><a href="stay.php" class="site-button btn-half"><span> View
                             All Locations</span></a></div>
+                <!-- LAYER 5  View Reviews Button-->
+                <div class="tp-caption rev-btn  tp-resizeme" id="slide-77-layer-7"
+                    data-x="['left','left','center','center']" data-hoffset="['50','50','0', 0']"
+                    data-y="['middle','middle','middle','middle']" data-voffset="['130','200','200','100']"
+                    data-width="none" data-height="none" data-whitespace="nowrap" data-type="button"
+                    data-responsive_offset="on"
+                    data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;",
+                    "speed":1500,"to":"o:1;","delay":1500,"ease":"Power3.easeInOut"},
+                    {"delay":"wait","speed":500,"to":"y:[-100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power1.easeIn"}]'
+                    data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]"
+                    data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
+                    style="z-index:9; line-height:30px;"><a href="#guest-reviews" class="site-button btn-half"><span>
+                            Guest
+                            Reviews</span></a></div>
             </li>
 
 
             <!-- SLIDE 7 -->
             <li data-index="rs-78" data-transition="fade" data-slotamount="default" data-hideafterloop="0"
                 data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300"
-                data-thumb="images/banner-images/home-page/7new.jpg" data-rotate="0" data-saveperformance="off"
+                data-thumb="images/banner-images/home-page/7.jpg" data-rotate="0" data-saveperformance="off"
                 data-title="" data-param1="1" data-param2="" data-param3="" data-param4="" data-param5="" data-param6=""
                 data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                 <!-- MAIN IMAGE -->
-                <img src="images/banner-images/home-page/7new.jpg" data-bgcolor='#f8f8f8' alt=""
+                <img src="images/banner-images/home-page/7.jpg" data-bgcolor='#f8f8f8' alt=""
                     data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off"
                     class="rev-slidebg" data-no-retina>
 
@@ -423,39 +508,39 @@ include 'header.php' ?>
                     data-frames='[{"from":"opacity:0;","speed":1500,"to":"o:1;","delay":150,"ease":"Power2.easeInOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power2.easeInOut"}]'
                     data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]"
                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-                    style="z-index: 6;background-color:rgba(0,0,0,0.5);">
+                    style="z-index: 6;background-color:rgba(0,0,0,0.4);">
                 </div>
 
                 <!-- LAYER 2  Bold Title-->
                 <div class="tp-caption   tp-resizeme" id="slide-78-layer-4" data-x="['left','left','center','center']"
                     data-hoffset="['46','46','0','0']" data-y="['top','top','top','top']"
-                    data-voffset="['190','190','190','150']" data-fontsize="['63','63','60','40']"
+                    data-voffset="['250','250','250','100']" data-fontsize="['35','35','35','35']"
                     data-lineheight="['80','70','60','50']" data-width="['700','600','500','380']" data-height="none"
                     data-whitespace="normal" data-type="text" data-responsive_offset="on"
                     data-frames='[{"delay":200,"speed":750,"sfxcolor":"#fff","sfx_effect":"blockfromleft","frame":"0","from":"z:0;","to":"o:1;","ease":"Power3.easeInOut"},
                                 {"delay":"wait","speed":500,"sfxcolor":"#ffffff","sfx_effect":"blocktoleft","frame":"999","to":"z:0;","ease":"Power4.easeOut"}]'
                     data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]"
                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-                    style="z-index: 10;white-space: normal;font-weight: 800; color: #fff;font-family: 'montserratregular', sans-serif;">
-                    Extended Stays, Work, Relax</div>
+                    style="z-index: 10;white-space: normal;font-weight: 900; color: #fff;font-family: 'montserratregular', sans-serif; text-transform: uppercase;">
+                    Extended Stays, Work &amp; Relax</div>
 
                 <!-- LAYER 3  Paragraph-->
                 <div class="tp-caption   tp-resizeme" id="slide-78-layer-5" data-x="['left','left','center','center']"
                     data-hoffset="['50','50','0','0']" data-y="['middle','middle','middle','middle']"
-                    data-voffset="['30','60','50','50']" data-fontsize="['21','21','21','21']"
+                    data-voffset="['-10','-10','90','-10']" data-fontsize="['21','21','21','21']"
                     data-lineheight="['30','30','30','30']" data-width="['600','600','500','380']" data-height="none"
                     data-whitespace="normal" data-type="text" data-responsive_offset="on"
                     data-frames='[{"delay":200,"speed":750,"sfxcolor":"#fff","sfx_effect":"blockfromleft","frame":"0","from":"z:0;","to":"o:1;","ease":"Power3.easeInOut"},
                             {"delay":"wait","speed":500,"sfxcolor":"#ffffff","sfx_effect":"blocktoleft","frame":"999","to":"z:0;","ease":"Power4.easeOut"}]'
                     data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]"
                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-                    style="z-index: 10; white-space: normal; color: #fff; font-family: 'montserratlight', sans-serif;">
+                    style="z-index: 10; white-space: normal; color: #fff; font-family: 'montserratlight', sans-serif; text-transform: uppercase;">
                     Home - Office Hybrid Living</div>
 
-                <!-- LAYER 4  Read More-->
+                <!-- LAYER 4  View All Locations Button-->
                 <div class="tp-caption rev-btn  tp-resizeme" id="slide-78-layer-6"
                     data-x="['left','left','center','center']" data-hoffset="['50','50','0','0']"
-                    data-y="['middle','middle','middle','middle']" data-voffset="['100','140','140','120']"
+                    data-y="['middle','middle','middle','middle']" data-voffset="['60','140','140','50']"
                     data-width="none" data-height="none" data-whitespace="nowrap" data-type="button"
                     data-responsive_offset="on"
                     data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;",
@@ -463,18 +548,32 @@ include 'header.php' ?>
                                 {"delay":"wait","speed":500,"to":"y:[-100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power1.easeIn"}]'
                     data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]"
                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-                    style="z-index:9; line-height:30px;"><a href="Javascript:;" class="site-button btn-half"><span> View
+                    style="z-index:9; line-height:30px;"><a href="stay.php" class="site-button btn-half"><span> View
                             All Locations</span></a></div>
+                <!-- LAYER 5  View Reviews Button-->
+                <div class="tp-caption rev-btn  tp-resizeme" id="slide-78-layer-7"
+                    data-x="['left','left','center','center']" data-hoffset="['50','50','0', 0']"
+                    data-y="['middle','middle','middle','middle']" data-voffset="['130','200','200','100']"
+                    data-width="none" data-height="none" data-whitespace="nowrap" data-type="button"
+                    data-responsive_offset="on"
+                    data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;",
+                    "speed":1500,"to":"o:1;","delay":1500,"ease":"Power3.easeInOut"},
+                    {"delay":"wait","speed":500,"to":"y:[-100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power1.easeIn"}]'
+                    data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]"
+                    data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
+                    style="z-index:9; line-height:30px;"><a href="#guest-reviews" class="site-button btn-half"><span>
+                            Guest
+                            Reviews</span></a></div>
             </li>
 
             <!-- SLIDE 8 -->
             <li data-index="rs-79" data-transition="fade" data-slotamount="default" data-hideafterloop="0"
                 data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300"
-                data-thumb="images/banner-images/home-page/mi-1.jpg" data-rotate="0" data-saveperformance="off"
+                data-thumb="images/banner-images/home-page/8.jpg" data-rotate="0" data-saveperformance="off"
                 data-title="" data-param1="1" data-param2="" data-param3="" data-param4="" data-param5="" data-param6=""
                 data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                 <!-- MAIN IMAGE -->
-                <img src="images/banner-images/home-page/mi-1.jpg" data-bgcolor='#f8f8f8' alt=""
+                <img src="images/banner-images/home-page/8.jpg" data-bgcolor='#f8f8f8' alt=""
                     data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off"
                     class="rev-slidebg" data-no-retina>
 
@@ -488,39 +587,39 @@ include 'header.php' ?>
                     data-frames='[{"from":"opacity:0;","speed":1500,"to":"o:1;","delay":150,"ease":"Power2.easeInOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power2.easeInOut"}]'
                     data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]"
                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-                    style="z-index: 6;background-color:rgba(0,0,0,0.5);">
+                    style="z-index: 6;background-color:rgba(0,0,0,0.4);">
                 </div>
 
                 <!-- LAYER 2  Bold Title-->
                 <div class="tp-caption   tp-resizeme" id="slide-79-layer-4" data-x="['left','left','center','center']"
                     data-hoffset="['46','46','0','0']" data-y="['top','top','top','top']"
-                    data-voffset="['190','190','190','150']" data-fontsize="['63','63','60','40']"
+                    data-voffset="['250','250','250','100']" data-fontsize="['35','35','35','35']"
                     data-lineheight="['80','70','60','50']" data-width="['700','600','500','380']" data-height="none"
                     data-whitespace="normal" data-type="text" data-responsive_offset="on"
                     data-frames='[{"delay":200,"speed":750,"sfxcolor":"#fff","sfx_effect":"blockfromleft","frame":"0","from":"z:0;","to":"o:1;","ease":"Power3.easeInOut"},
                                 {"delay":"wait","speed":500,"sfxcolor":"#ffffff","sfx_effect":"blocktoleft","frame":"999","to":"z:0;","ease":"Power4.easeOut"}]'
                     data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]"
                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-                    style="z-index: 10;white-space: normal;font-weight: 800; color: #fff;font-family: 'montserratregular', sans-serif;">
-                    Extended Stays, Work, Relax</div>
+                    style="z-index: 10;white-space: normal;font-weight: 900; color: #fff;font-family: 'montserratregular', sans-serif; text-transform: uppercase;">
+                    Extended Stays, Work &amp; Relax</div>
 
                 <!-- LAYER 3  Paragraph-->
                 <div class="tp-caption   tp-resizeme" id="slide-79-layer-5" data-x="['left','left','center','center']"
                     data-hoffset="['50','50','0','0']" data-y="['middle','middle','middle','middle']"
-                    data-voffset="['30','60','50','50']" data-fontsize="['21','21','21','21']"
+                    data-voffset="['-10','-10','90','-10']" data-fontsize="['21','21','21','21']"
                     data-lineheight="['30','30','30','30']" data-width="['600','600','500','380']" data-height="none"
                     data-whitespace="normal" data-type="text" data-responsive_offset="on"
                     data-frames='[{"delay":200,"speed":750,"sfxcolor":"#fff","sfx_effect":"blockfromleft","frame":"0","from":"z:0;","to":"o:1;","ease":"Power3.easeInOut"},
                             {"delay":"wait","speed":500,"sfxcolor":"#ffffff","sfx_effect":"blocktoleft","frame":"999","to":"z:0;","ease":"Power4.easeOut"}]'
                     data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]"
                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-                    style="z-index: 10; white-space: normal; color: #fff; font-family: 'montserratlight', sans-serif;">
+                    style="z-index: 10; white-space: normal; color: #fff; font-family: 'montserratlight', sans-serif; text-transform: uppercase;">
                     Home - Office Hybrid Living</div>
 
-                <!-- LAYER 4  Read More-->
+                <!-- LAYER 4  View All Locations Button-->
                 <div class="tp-caption rev-btn  tp-resizeme" id="slide-79-layer-6"
                     data-x="['left','left','center','center']" data-hoffset="['50','50','0','0']"
-                    data-y="['middle','middle','middle','middle']" data-voffset="['100','140','140','120']"
+                    data-y="['middle','middle','middle','middle']" data-voffset="['60','140','140','50']"
                     data-width="none" data-height="none" data-whitespace="nowrap" data-type="button"
                     data-responsive_offset="on"
                     data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;",
@@ -528,8 +627,22 @@ include 'header.php' ?>
                                 {"delay":"wait","speed":500,"to":"y:[-100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power1.easeIn"}]'
                     data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]"
                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-                    style="z-index:9; line-height:30px;"><a href="Javascript:;" class="site-button btn-half"><span> View
+                    style="z-index:9; line-height:30px;"><a href="stay.php" class="site-button btn-half"><span> View
                             All Locations</span></a></div>
+                <!-- LAYER 5  View Reviews Button-->
+                <div class="tp-caption rev-btn  tp-resizeme" id="slide-79-layer-7"
+                    data-x="['left','left','center','center']" data-hoffset="['50','50','0', 0']"
+                    data-y="['middle','middle','middle','middle']" data-voffset="['130','200','200','100']"
+                    data-width="none" data-height="none" data-whitespace="nowrap" data-type="button"
+                    data-responsive_offset="on"
+                    data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;",
+                    "speed":1500,"to":"o:1;","delay":1500,"ease":"Power3.easeInOut"},
+                    {"delay":"wait","speed":500,"to":"y:[-100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power1.easeIn"}]'
+                    data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]"
+                    data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
+                    style="z-index:9; line-height:30px;"><a href="#guest-reviews" class="site-button btn-half"><span>
+                            Guest
+                            Reviews</span></a></div>
             </li>
 
         </ul>
@@ -554,7 +667,7 @@ include 'header.php' ?>
 <!-- MEWS FORM SECTION START -->
 <div class="section-full justify-content-center flex-display">
     <div id="myForm" class="form-booking booking-form large-title-block full-content bg-repeat"
-        style="background-image:url(images/pattern.png);">
+        style="background-image:url(images/background/transparent-leaves-pattern.png);">
         <div class="form-item">
             <label for="checkout">Apartments*</label>
             <div class="custom-dropdown">
@@ -571,7 +684,7 @@ include 'header.php' ?>
                         Apartment </a>
                     <a href="#" data-value="87ad2a03-c757-4589-9131-af35007a5f9d"> Wandsworth 1
                         Bed Apartment </a>
-                    <a href="#" data-value="87ad2a03-c757-4589-9131-af35007a5f9d"> Wandsworth 2
+                    <a href="#" data-value="a36923f2-eb5b-4145-b59a-af35007a5f9d"> Wandsworth 2
                         Bed Apartment </a>
                     <a href="#" data-value="1c7c022b-3f7e-4640-af5f-af4900c50cf1">Battersea 1 Bed
                         Apartment </a>
@@ -597,6 +710,8 @@ include 'header.php' ?>
                         Apartment </a>
                     <a href="#" data-value="1c916087-2e2f-42a9-bb94-b09000ddbddd">Mitcham 3 Bed
                         Apartment </a>
+                    <a href="#" data-value="cf43eb8d-7a02-45e0-9a80-b11b013ac44a">Uxbride 1 Bed Apartment </a>
+                    <a href="#" data-value="17758ea3-6509-49d4-ae84-b1280120533f">Uxbride 2 Bed Apartment </a>
                     <!-- Add more options here -->
                 </div>
             </div>
@@ -646,23 +761,25 @@ include 'header.php' ?>
         </div>
 
         <div class="form-item">
-            <a href="#" class="site-button-secondry btn-half text-center" id="checkavailibilityBTN"><span>Check
+            <a href="#"
+                onClick="gtag('event', 'Check Availability', { event_category: 'Check Availability', event_action: 'Check Availability'});"
+                class="site-button-secondry btn-half text-center" id="checkavailibilityBTN"><span>Check
                     Availability</span></a>
-
-            <!-- <button class="site-button-secondry btn-half" type="submit" id="checkavailibilityBTN">Check Availability</button> -->
         </div>
         <span class="error-message"></span>
+        <span class="form-message">Minimum 7 nights stay required*</span>
+
     </div>
 </div>
 <!-- MEWS FORM SECTION END -->
 
 
 <!-- ABOUT SECTION START -->
-<div class="section-full mobile-page-padding p-t80 p-b50 bg-thin-ice bg-no-repeat bg-bottom-left"
-    style="background-image:url(images/background/bg-4.png)">
+<div class="section-full mobile-page-padding p-t80 p-b50 bg-no-repeat bg-bottom-left"
+    style="background-image:url(images/background/building-sketch.png)">
     <!-- TITLE -->
     <div class="large-title-block full-content bg-theme bg-moving bg-repeat-x"
-        style="background-image:url(images/background/pattern.png);">
+        style="background-image:url(images/background/green-leaves-pattern.png);">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12">
                 <div class="large-title text-white text-center">
@@ -679,13 +796,13 @@ include 'header.php' ?>
 
                 <div class="col-lg-12 col-md-12 col-sm-12">
                     <div class="about-home-left no-border">
-                        <h2 class="m-t0 sx-tilte">Hybrid Resi’ is formed on the key principle of ‘Hotelisation’ - ‘Ethos
+                        <h2 class="about-heading m-t0 m-b20 sx-tilte">Hybrid Resi is formed on the key principle of
+                            ‘Hotelisation’
                         </h2>
                         <p align="justify">We offer sustainable hospitality in the real estate world, whilst, creating
                             the right
                             environment for guest experience to thrive within our flexible Hybrid work-stay business
-                            model.
-                            <br> We are the UK based serviced accommodation company, which owns and operates serviced
+                            model. We are the UK based serviced accommodation company, which owns and operates serviced
                             apartments within the Greater London region of the United Kingdom.
                         </p>
                         <div class="text-left">
@@ -707,16 +824,16 @@ include 'header.php' ?>
 
 <!-- BREADCRUMB -->
 <div class="large-title-block full-content bg-theme bg-moving bg-repeat-x"
-    style="background-image:url(images/background/pattern.png);">
+    style="background-image:url(images/background/green-leaves-pattern.png);">
     <div class="row">
         <div class="col-lg-12 col-md-12 col-sm-12">
             <div class="large-title text-white text-center">
-                <h1 class="m-tb0">FUTURE - SUSTAINABLE WAY OF LIVING</h1>
+                <h1 class="m-t0 m-b20">FUTURE - SUSTAINABLE WAY OF LIVING</h1>
             </div>
         </div>
         <div class="col-lg-12 col-md-12	col-sm-12">
             <div class="large-title-info text-white text-center">
-                <p> Hybrid working is the future, offering businesses a way to cut costs, for emhloyees,
+                <p> Hybrid working is the future, offering businesses a way to cut costs, for employee,
                     a chance to
                     balance their career and personal life better, with an opportunity to reduce the carbon footprint of
                     the business process.</p>
@@ -732,10 +849,9 @@ include 'header.php' ?>
         <div class="section-content ">
             <div class="our-history text-black">
                 <div class="row">
-                    <div class="col-12 pic-bg-border">
+                    <div class="col-12 pic-bg-border theme-border">
                         <div class="work-carousel-outer">
-                            <div
-                                class="owl-carousel mfp-gallery project-carousel home-carousel owl-btn-vertical-center">
+                            <div class="owl-carousel mfp-gallery home-carousel owl-btn-vertical-center">
                                 <!-- COLUMNS 1 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
@@ -761,8 +877,7 @@ include 'header.php' ?>
                                         style="background-image:url(images/home-page/stay/4.jpg);">
                                     </div>
                                 </div>
-
-                                <!-- COLUMNS5 5-->
+                                <!-- COLUMNS 5 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
                                         style="background-image:url(images/home-page/stay/5.jpg);">
@@ -774,13 +889,25 @@ include 'header.php' ?>
                                         style="background-image:url(images/home-page/stay/6.jpg);">
                                     </div>
                                 </div>
+                                <!-- COLUMNS5 7-->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/home-page/stay/7.jpg);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS5 8-->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/home-page/stay/8.jpg);">
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
                     <div class="col-12">
                         <div class="our-history-content m-b30">
                             <div class="large-title">
-                                <h2 class="m-t0">Stay</h2>
+                                <h1 class="m-t20 text-uppercase">Stay</h1>
                                 <!-- <h4>Perth, Australia</h4> -->
                             </div>
                             <p align="justify">Located in the heart of London, Hybrid Resi gives you more than luxury
@@ -788,7 +915,7 @@ include 'header.php' ?>
                                 feeling of being at home when you choose to stay with us. Nothing compares to the
                                 comfort of a luxuriously furnished apartment giving you an experience with a space to
                                 call home that includes unparallel services with unrivalled amenities.</p>
-                            <a href="javascript:;" class="site-button-secondry btn-half"><span> Learn More</span></a>
+                            <a href="stay.php" class="site-button-secondry btn-half"><span> Learn More</span></a>
 
                         </div>
                     </div>
@@ -801,111 +928,93 @@ include 'header.php' ?>
                                 <!-- COLUMNS 1 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/home-page/work/1.jpg);">
+                                        style="background-image:url(images/work/1.jpg);">
                                     </div>
                                 </div>
 
                                 <!-- COLUMNS 2 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/home-page/work/2.jpg);">
+                                        style="background-image:url(images/work/2.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 3 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/home-page/work/3.jpg);">
+                                        style="background-image:url(images/work/3.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 4 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/home-page/work/4.jpg);">
+                                        style="background-image:url(images/work/4.jpg);">
                                     </div>
                                 </div>
 
                                 <!-- COLUMNS5 5-->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/home-page/work/5.jpg);">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-12">
-                        <div class="our-history-content m-b30">
-                            <div class="large-title">
-                                <h2 class="m-t0">Work</h2>
-                                <!-- <h4>Muscat, Sultanate of Oman.</h4> -->
-                            </div>
-                            <p align="justify">Hybrid Resi blends the facilities of a modern office with the comforts of
-                                a contemporary
-                                hotel room.
-                                <br>
-                                Free, fast, and secure Wi-Fi connection makes remote working easy. The LG wide split
-                                monitor screen in each workspace allows you to enhance your productivity and use two
-                                inputs for the monitor. The desk also has a desk lamp for adequate light and easy access
-                                to power points
-                            </p>
-                            <a href="javascript:;" class="site-button-secondry btn-half"><span> Learn More</span></a>
-
-                        </div>
-                    </div>
-                </div>
-
-                <div class="row">
-                    <div class="col-12 pic-bg-border">
-                        <div class="work-carousel-outer">
-                            <div class="owl-carousel mfp-gallery home-carousel owl-btn-vertical-center">
-                                <!-- COLUMNS 1 -->
-                                <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/home-page/leisure/1.jpg);">
-                                    </div>
-                                </div>
-
-                                <!-- COLUMNS 2 -->
-                                <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/home-page/leisure/2.jpg);">
-                                    </div>
-                                </div>
-                                <!-- COLUMNS 3 -->
-                                <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/home-page/leisure/3.jpg);">
-                                    </div>
-                                </div>
-                                <!-- COLUMNS 4 -->
-                                <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/home-page/leisure/4.jpg);">
-                                    </div>
-                                </div>
-
-                                <!-- COLUMNS5 5-->
-                                <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/home-page/leisure/5.jpg);">
+                                        style="background-image:url(images/work/5.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS5 6-->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/home-page/leisure/6.jpg);">
+                                        style="background-image:url(images/work/6.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS5 7-->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/home-page/leisure/7.jpg);">
+                                        style="background-image:url(images/work/7.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS5 8-->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/home-page/leisure/8.jpg);">
+                                        style="background-image:url(images/work/8.jpg);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS5 9-->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/work/9.jpg);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS5 10-->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/work/10.jpg);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS5 11-->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/work/11.jpg);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS5 12-->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/work/12.jpg);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS5 13-->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/work/13.jpg);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS5 14-->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/work/14.jpg);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS5 15-->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/work/15.jpg);">
                                     </div>
                                 </div>
                             </div>
@@ -914,17 +1023,106 @@ include 'header.php' ?>
                     <div class="col-12">
                         <div class="our-history-content m-b30">
                             <div class="large-title">
-                                <h2 class="m-t0">Leisure</h2>
+                                <h1 class="m-t20 text-uppercase">Work</h1>
+                            </div>
+                            <p align="justify">Hybrid Resi blends the facilities of a modern office with the comforts of
+                                a contemporary
+                                hotel room.
+                                Free, fast, and secure Wi-Fi connection makes remote working easy. The LG wide split
+                                monitor screen in each workspace allows you to enhance your productivity and use two
+                                inputs for the monitor. The desk also has a desk lamp for adequate light and easy access
+                                to power points
+                            </p>
+                            <a href="work.php" class="site-button-secondry btn-half"><span> Learn More</span></a>
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-12 pic-bg-border">
+                        <div class="work-carousel-outer">
+                            <div class="owl-carousel mfp-gallery home-carousel owl-btn-vertical-center">
+                                <!-- COLUMNS 1 -->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/work/1.jpg);">
+                                    </div>
+                                </div>
+
+                                <!-- COLUMNS 2 -->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/work/2.jpg);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS 3 -->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/work/3.jpg);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS 4 -->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/work/4.jpg);">
+                                    </div>
+                                </div>
+
+                                <!-- COLUMNS5 5-->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/work/5.jpg);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS5 6-->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/work/6.jpg);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS5 7-->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/work/7.jpg);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS5 8-->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/work/8.jpg);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS5 9-->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/work/9.jpg);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS5 10-->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/work/10.jpg);">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12">
+                        <div class="our-history-content m-b30">
+                            <div class="large-title">
+                                <h1 class="m-t20 text-uppercase">Leisure</h1>
                                 <!-- <h4>Amman, Jordan</h4> -->
                             </div>
-                            <p align="justify">Hybrid Resi provides every guest with their perfect home in the vibrant
+                            <p align="justify" class="m-b20">Hybrid Resi provides every guest with their perfect home in
+                                the vibrant
                                 City of London.
                                 The bustling capital offers something for everyone, including shopaholics, foodies,
                                 historians, photographers, and kids. Our properties are located within easy reach of
                                 tube stations and bus stops, making it very accessible to all parts of London from the
                                 apartment. Visiting all major attractions is extremely convenient and there will be so
                                 much to do just at your doorstep.</p>
-                            <a href="javascript:;" class="site-button-secondry btn-half"><span>Explore the
+                            <a href="neighbourhood.php" class="site-button-secondry btn-half"><span>Explore the
                                     Neighbourhood</span></a>
 
                         </div>
@@ -942,28 +1140,12 @@ include 'header.php' ?>
 </div>
 <!-- SECTION 2 END -->
 
-
-<!-- BREADCRUMB -->
-<div class="large-title-block full-content bg-theme bg-moving bg-repeat-x"
-    style="background-image:url(images/background/pattern.png);">
-    <div class=" row">
-        <div class="col-lg-12 col-md-12 col-sm-12">
-            <div class="large-title text-center text-white">
-                <h1 class="m-tb0">SERVICED APARTMENT STAYS, REINVENTED</h1>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- BREADCRUMB -->
-
-
 <!-- SPECIAL OFFERS SECTION START -->
-<div class="section-full  mobile-page-padding  p-t80 p-b30 bg-repeat overflow-hide"
-    style="background-image:url(images/background/bg-5.png);">
+<div class="section-full  mobile-page-padding p-b50 overflow-hide">
     <div class="container">
         <!-- TITLE -->
         <div class="large-title-block full-content bg-theme bg-moving bg-repeat-x"
-            style="background-image:url(images/background/pattern.png);">
+            style="background-image:url(images/background/green-leaves-pattern.png);">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12">
                     <div class="large-title text-white text-center">
@@ -1041,11 +1223,11 @@ include 'header.php' ?>
 <!-- SPECIAL OFFERS SECTION END -->
 
 <!-- PERKS SECTION START -->
-<div class="section-full mobile-page-padding p-t30 bg-change-section">
+<div class="section-full mobile-page-padding p-b50 bg-change-section">
     <div class="container">
         <!-- TITLE -->
         <div class="large-title-block full-content bg-theme bg-moving bg-repeat-x"
-            style="background-image:url(images/background/pattern.png);">
+            style="background-image:url(images/background/green-leaves-pattern.png);">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12">
                     <div class="large-title text-white text-center">
@@ -1062,224 +1244,47 @@ include 'header.php' ?>
                 <div class="col-md-12" data-aos="fade-up" data-aos-duration="800">
                     <div class="ambox m-t30">
                         <div class="row">
-                            <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/home-page/icons/fiber-optic.png"
+                            <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/icons/fiber-optic.png"
                                     class="img-center">
-                                <p class="text-center smallp">Fiber Optic Fast Wifi</p>
+                                <p class="text-center">Fiber Optic Fast Wifi</p>
                             </div>
-                            <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/home-page/icons/larger.png"
+                            <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/icons/larger.png"
                                     class="img-center">
-                                <p class="text-center smallp">Larger than most Apartments</p>
+                                <p class="text-center">Larger than most Apartments</p>
                             </div>
-                            <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/home-page/icons/king-bed.png"
+                            <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/icons/king-bed.png"
                                     class="img-center">
-                                <p class="text-center smallp">Super King & King Size Beds</p>
+                                <p class="text-center">Super King & King Size Beds</p>
                             </div>
-                            <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/home-page/icons/washing-machine.png"
+                            <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/icons/washing-machine.png"
                                     class="img-center">
-                                <p class="text-center smallp">Washing Machine</p>
+                                <p class="text-center">Washing Machine</p>
                             </div>
-                            <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/home-page/icons/kitchen.png"
+                            <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/icons/kitchen.png"
                                     class="img-center">
-                                <p class="text-center smallp">Fully Equipped Kitchen</p>
+                                <p class="text-center">Fully Equipped Kitchen</p>
                             </div>
-                            <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/home-page/icons/work-chair-desk.png"
+                            <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/icons/work-chair-desk.png"
                                     class="img-center">
-                                <p class="text-center smallp">Working Desk & Executive Chair</p>
+                                <p class="text-center">Working Desk & Executive Chair</p>
                             </div>
-                            <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/home-page/icons/pet-friendly.png"
+                            <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/icons/pet-friendly.png"
                                     class="img-center">
-                                <p class="text-center smallp">Pet Friendly</p>
+                                <p class="text-center">Pet Friendly</p>
                             </div>
-                            <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/home-page/icons/weekly-cleaning.png"
+                            <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/icons/weekly-cleaning.png"
                                     class="img-center">
-                                <p class="text-center smallp">Weekly Housekeeping</p>
+                                <p class="text-center">Weekly Housekeeping</p>
                             </div>
-                            <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/home-page/icons/bills-inclusive.png"
+                            <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/icons/bills-inclusive.png"
                                     class="img-center">
-                                <p class="text-center smallp">All Bills & Utilities Inclusive</p>
+                                <p class="text-center">All Bills & Utilities Inclusive</p>
                             </div>
 
                         </div>
                     </div>
                 </div>
             </div>
-            <!-- <div class="row number-block-two-outer m-t30">
-                <div class="col-lg-4 col-md-6 col-sm-12 m-b30">
-
-                    <div class="number-block-two animate-in-to-top bdr-gray-light bdr-solid bdr-1">
-                        <div class="figcaption bg-white  p-a30">
-                            <div id="cameras" class="icon-xl inline-icon m-b30 scale-in-center">
-                                <span class="icon-cell"><img src="images/home-page/icons/fiber-optic.png" alt=""></span>
-                            </div>
-                            <h4 class="m-t0">Fiber Optic
-                                Fast Wifi</h4>
-                            <a href="javascript:void(0)" class="site-button-link">View All</a>
-                            <div class="figcaption-number animate-in-to-top-content">
-                                <span>01</span>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-
-                <div class="col-lg-4 col-md-6 col-sm-12 m-b30">
-
-                    <div class="number-block-two animate-in-to-top bdr-gray-light bdr-solid bdr-1">
-
-                        <div class="figcaption bg-white p-a30">
-                            <div id="cameras" class="icon-xl inline-icon m-b30 scale-in-center">
-                                <span class="icon-cell"><img src="images/home-page/icons/larger.png" alt=""></span>
-                            </div>
-                            <h4 class="m-t0">Larger than
-                                most Apartments</h4>
-                            <a href="javascript:void(0)" class="site-button-link">View All</a>
-                            <div class="figcaption-number text-black animate-in-to-top-content">
-                                <span>02</span>
-                            </div>
-                        </div>
-
-                    </div>
-
-                </div>
-
-                <div class="col-lg-4 col-md-6 col-sm-12 m-b30">
-
-                    <div class="number-block-two animate-in-to-top bdr-gray-light bdr-solid bdr-1">
-
-                        <div class="figcaption bg-white p-a30">
-                            <div id="cameras" class="icon-xl inline-icon m-b30 scale-in-center">
-                                <span class="icon-cell"><img src="images/home-page/icons/king-bed.png" alt=""></span>
-                            </div>
-                            <h4 class="m-t0">Super King &
-                                King Size Beds</h4>
-                            <a href="javascript:void(0)" class="site-button-link">View All</a>
-                            <div class="figcaption-number text-black animate-in-to-top-content">
-                                <span>03</span>
-                            </div>
-                        </div>
-
-                    </div>
-
-                </div>
-
-                <div class="col-lg-4 col-md-6 col-sm-12 m-b30">
-
-                    <div class="number-block-two animate-in-to-top bdr-gray-light bdr-solid bdr-1">
-
-                        <div class="figcaption bg-white  p-a30">
-                            <div id="cameras" class="icon-xl inline-icon m-b30 scale-in-center">
-                                <span class="icon-cell"><img src="images/home-page/icons/split-screen.png"
-                                        alt=""></span>
-                            </div>
-                            <h4 class="m-t0">Washing Machine</h4>
-                            <a href="javascript:void(0)" class="site-button-link">View All</a>
-                            <div class="figcaption-number text-black animate-in-to-top-content">
-                                <span>04</span>
-                            </div>
-                        </div>
-
-                    </div>
-
-                </div>
-
-                <div class="col-lg-4 col-md-6 col-sm-12 m-b30">
-
-                    <div class="number-block-two animate-in-to-top bdr-gray-light bdr-solid bdr-1">
-
-                        <div class="figcaption bg-white  p-a30">
-                            <div id="cameras" class="icon-xl inline-icon m-b30 scale-in-center">
-                                <span class="icon-cell"><img src="images/home-page/icons/appliances.png" alt=""></span>
-                            </div>
-                            <h4 class="m-t0">Fully Equipped Kitchen</h4>
-                            <a href="thermal-cameras.php" class="site-button-link">View All</a>
-                            <div class="figcaption-number text-black animate-in-to-top-content">
-                                <span>05</span>
-                            </div>
-                        </div>
-
-                    </div>
-
-                </div>
-
-                <div class="col-lg-4 col-md-6 col-sm-12 m-b30">
-
-                    <div class="number-block-two animate-in-to-top bdr-gray-light bdr-solid bdr-1">
-
-                        <div class="figcaption bg-white  p-a30">
-                            <div id="cameras" class="icon-xl inline-icon m-b30 scale-in-center">
-                                <span class="icon-cell"><img src="images/home-page/icons/appliances.png" alt=""></span>
-                            </div>
-                            <h4 class="m-t0">Working Desk & Executive Chair</h4>
-                            <a href="thermal-cameras.php" class="site-button-link">View All</a>
-                            <div class="figcaption-number text-black animate-in-to-top-content">
-                                <span>06</span>
-                            </div>
-                        </div>
-
-                    </div>
-
-                </div>
-
-                <div class="col-lg-4 col-md-6 col-sm-12 m-b30">
-
-                    <div class="number-block-two animate-in-to-top bdr-gray-light bdr-solid bdr-1">
-
-                        <div class="figcaption bg-white  p-a30">
-                            <div id="cameras" class="icon-xl inline-icon m-b30 scale-in-center">
-                                <span class="icon-cell"><img src="images/home-page/icons/appliances.png" alt=""></span>
-                            </div>
-                            <h4 class="m-t0">Pet Friendly</h4>
-                            <a href="thermal-cameras.php" class="site-button-link">View All</a>
-                            <div class="figcaption-number text-black animate-in-to-top-content">
-                                <span>07</span>
-                            </div>
-                        </div>
-
-                    </div>
-
-                </div>
-
-                <div class="col-lg-4 col-md-6 col-sm-12 m-b30">
-
-                    <div class="number-block-two animate-in-to-top bdr-gray-light bdr-solid bdr-1">
-
-                        <div class="figcaption bg-white  p-a30">
-                            <div id="cameras" class="icon-xl inline-icon m-b30 scale-in-center">
-                                <span class="icon-cell"><img src="images/home-page/icons/appliances.png" alt=""></span>
-                            </div>
-                            <h4 class="m-t0">Weekly Housekeeping</h4>
-                            <a href="thermal-cameras.php" class="site-button-link">View All</a>
-                            <div class="figcaption-number text-black animate-in-to-top-content">
-                                <span>08</span>
-                            </div>
-                        </div>
-
-                    </div>
-
-                </div>
-
-                <div class="col-lg-4 col-md-6 col-sm-12 m-b30">
-
-                    <div class="number-block-two animate-in-to-top bdr-gray-light bdr-solid bdr-1">
-
-                        <div class="figcaption bg-white  p-a30">
-                            <div id="cameras" class="icon-xl inline-icon m-b30 scale-in-center">
-                                <span class="icon-cell"><img src="images/home-page/icons/bills-inclusive.png"
-                                        alt=""></span>
-                            </div>
-                            <h4 class="m-t0">All bills & Utilities Inclusive</h4>
-                            <a href="thermal-cameras.php" class="site-button-link">View All</a>
-                            <div class="figcaption-number text-black animate-in-to-top-content">
-                                <span>09</span>
-                            </div>
-                        </div>
-
-                    </div>
-
-                </div>
-
-            </div> -->
-
         </div>
     </div>
 
@@ -1287,12 +1292,12 @@ include 'header.php' ?>
 <!-- PERKS SECTION END -->
 
 <!-- GALLERY SECTION START -->
-<div class="section-full p-tb50 inner-page-padding" style="background-image:url(images/background/bg-5.png);">
+<div class="section-full p-b50 inner-page-padding">
     <div class="container">
         <div class="section-content">
             <!-- TITLE -->
             <div class="large-title-block full-content bg-theme bg-moving bg-repeat-x"
-                style="background-image:url(images/background/pattern.png);">
+                style="background-image:url(images/background/green-leaves-pattern.png);">
                 <div class="row">
                     <div class="col-lg-12 col-md-12 col-sm-12">
                         <div class="large-title text-white text-center">
@@ -1302,107 +1307,255 @@ include 'header.php' ?>
                 </div>
             </div>
             <!-- TITLE -->
-            <div class="work-carousel-outer m-t30">
+            <div class="work-carousel-outer m-t30 hide-dots">
                 <div class="owl-carousel mfp-gallery project-carousel project-carousel1 owl-btn-vertical-center">
                     <!-- COLUMNS 1 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
-                            style="background-image:url(images/home-page/gallery/1.jpg)">
-
-                            <div class="sx-info  p-t20 text-white">
-                                <h4 class="sx-tilte m-t0"><a href="#">Interior Work Avroko</a></h4>
-                                <p align="justify">Many of our projects cannot be featured in this section due to the Security levels of the space.</p>
-                                <a href="#" class="site-button btn-half button-sm"><span>View All</span></a>
+                            style="background-image:url(images/london/canary-wharf/1-bed/1.jpg)">
+                            <!-- Overlay starts here -->
+                            <div class="custom-overlay">
+                                <div class="sx-info  p-t20 text-white">
+                                    <p class="sx-tilte m-t0"><a href="canary-wharf.php">Canary Wharf One Bedroom</a></p>
+                                </div>
                             </div>
-
+                            <!-- Overlay ends here -->
                         </div>
                     </div>
                     <!-- COLUMNS 2 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
-                            style="background-image:url(images/home-page/gallery/2.jpg)">
-                            <div class="sx-info  p-t20 text-white">
-                                <h4 class="sx-tilte m-t0"><a href="#">Interior Work Avroko</a></h4>
-                                <p align="justify">Many of our projects cannot be featured in this section due to the Security levels of the space.</p>
-                                <a href="#" class="site-button btn-half button-sm"><span>View All</span></a>
+                            style="background-image:url(images/london/canary-wharf/2-bed/1.jpg)">
+                            <!-- Overlay starts here -->
+                            <div class="custom-overlay">
+                                <div class="sx-info  p-t20 text-white">
+                                    <p class="sx-tilte m-t0"><a href="canary-wharf.php">Canary Wharf Two Bedrooms</a>
+                                    </p>
+                                </div>
                             </div>
+                            <!-- Overlay ends here -->
                         </div>
                     </div>
                     <!-- COLUMNS 3 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
-                            style="background-image:url(images/home-page/gallery/3.jpg)">
-                            <div class="sx-info  p-t20 text-white">
-                                <h4 class="sx-tilte m-t0"><a href="#">Interior Work Avroko</a></h4>
-                                <p align="justify">Many of our projects cannot be featured in this section due to the Security levels of the space.</p>
-                                <a href="#" class="site-button btn-half button-sm"><span>View All</span></a>
+                            style="background-image:url(images/london/battersea/1-bed/1.jpg)">
+                            <!-- Overlay starts here -->
+                            <div class="custom-overlay">
+                                <div class="sx-info  p-t20 text-white">
+                                    <p class="sx-tilte m-t0"><a href="battersea.php">Battersea One Bedroom</a></p>
+                                </div>
                             </div>
+                            <!-- Overlay ends here -->
                         </div>
                     </div>
                     <!-- COLUMNS 4 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
-                            style="background-image:url(images/home-page/gallery/4.jpg)">
-                            <div class="sx-info  p-t20 text-white">
-                                <h4 class="sx-tilte m-t0"><a href="#">Interior Work Avroko</a></h4>
-                                <p align="justify">Many of our projects cannot be featured in this section due to the Security levels of the space.</p>
-                                <a href="#" class="site-button btn-half button-sm"><span>View All</span></a>
+                            style="background-image:url(images/london/battersea/2-bed/1.jpg)">
+                            <!-- Overlay starts here -->
+                            <div class="custom-overlay">
+                                <div class="sx-info  p-t20 text-white">
+                                    <p class="sx-tilte m-t0"><a href="battersea.php">Battersea Two Bedrooms</a></p>
+                                </div>
                             </div>
+                            <!-- Overlay ends here -->
                         </div>
                     </div>
                     <!-- COLUMNS 5 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
-                            style="background-image:url(images/home-page/gallery/5.jpg)">
-                            <div class="sx-info  p-t20 text-white">
-                                <h4 class="sx-tilte m-t0"><a href="#">Interior Work Avroko</a></h4>
-                                <p align="justify">Many of our projects cannot be featured in this section due to the Security levels of the space.</p>
-                                <a href="#" class="site-button btn-half button-sm"><span>View All</span></a>
+                            style="background-image:url(images/london/battersea/3-bed/1.jpg)">
+                            <!-- Overlay starts here -->
+                            <div class="custom-overlay">
+                                <div class="sx-info  p-t20 text-white">
+                                    <p class="sx-tilte m-t0"><a href="battersea.php">Battersea Three Bedrooms</a></p>
+                                </div>
                             </div>
+                            <!-- Overlay ends here -->
                         </div>
                     </div>
                     <!-- COLUMNS 6 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
-                            style="background-image:url(images/home-page/gallery/6.jpg)">
-                            <div class="sx-info  p-t20 text-white">
-                                <h4 class="sx-tilte m-t0"><a href="#">Interior Work Avroko</a></h4>
-                                <p align="justify">Many of our projects cannot be featured in this section due to the Security levels of the space.</p>
-                                <a href="#" class="site-button btn-half button-sm"><span>View All</span></a>
+                            style="background-image:url(images/london/sutton-cheam/1-bed/1.jpg)">
+                            <!-- Overlay starts here -->
+                            <div class="custom-overlay">
+                                <div class="sx-info  p-t20 text-white">
+                                    <p class="sx-tilte m-t0"><a href="sutton-cheam.php">Sutton Cheam One Bedroom</a></p>
+                                </div>
                             </div>
+                            <!-- Overlay ends here -->
                         </div>
                     </div>
                     <!-- COLUMNS 7 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
-                            style="background-image:url(images/home-page/gallery/7.jpg)">
-                            <div class="sx-info  p-t20 text-white">
-                                <h4 class="sx-tilte m-t0"><a href="#">Interior Work Avroko</a></h4>
-                                <p align="justify">Many of our projects cannot be featured in this section due to the Security levels of the space.</p>
-                                <a href="#" class="site-button btn-half button-sm"><span>View All</span></a>
+                            style="background-image:url(images/london/sutton-cheam/2-bed/1.jpg)">
+                            <!-- Overlay starts here -->
+                            <div class="custom-overlay">
+                                <div class="sx-info  p-t20 text-white">
+                                    <p class="sx-tilte m-t0"><a href="sutton-cheam.php">Sutton Cheam Two Bedrooms</a>
+                                    </p>
+                                </div>
                             </div>
+                            <!-- Overlay ends here -->
                         </div>
                     </div>
                     <!-- COLUMNS 8 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
-                            style="background-image:url(images/home-page/gallery/8.jpg)">
-                            <div class="sx-info  p-t20 text-white">
-                                <h4 class="sx-tilte m-t0"><a href="#">Interior Work Avroko</a></h4>
-                                <p align="justify">Many of our projects cannot be featured in this section due to the Security levels of the space.</p>
-                                <a href="#" class="site-button btn-half button-sm"><span>View All</span></a>
+                            style="background-image:url(images/london/wandsworth/cozy-1-bed/1.jpg)">
+                            <!-- Overlay starts here -->
+                            <div class="custom-overlay">
+                                <div class="sx-info  p-t20 text-white">
+                                    <p class="sx-tilte m-t0"><a href="wandsworth.php">Wandsworth Cozy One Bedroom</a>
+                                    </p>
+                                </div>
                             </div>
+                            <!-- Overlay ends here -->
                         </div>
                     </div>
                     <!-- COLUMNS 9 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
-                            style="background-image:url(images/home-page/gallery/9.jpg)">
-                            <div class="sx-info  p-t20 text-white">
-                                <h4 class="sx-tilte m-t0"><a href="#">Interior Work Avroko</a></h4>
-                                <p align="justify">Many of our projects cannot be featured in this section due to the Security levels of the space.</p>
-                                <a href="#" class="site-button btn-half button-sm"><span>View All</span></a>
+                            style="background-image:url(images/london/wandsworth/1-bed/1.jpg)">
+                            <!-- Overlay starts here -->
+                            <div class="custom-overlay">
+                                <div class="sx-info  p-t20 text-white">
+                                    <p class="sx-tilte m-t0"><a href="wandsworth.php">Wandsworth One Bedroom</a></p>
+                                </div>
                             </div>
+                            <!-- Overlay ends here -->
+                        </div>
+                    </div>
+
+                    <!-- COLUMNS 10 -->
+                    <!-- <div class="item">
+                        <div class="sx-box   image-single-carousel bg-cover"
+                            style="background-image:url(images/london/wandsworth/1-bed/1.jpg)">
+
+                            <div class="sx-info  p-t20 text-white">
+                                <p class="sx-tilte m-t0"><a href="wandsworth.php">Wandsworth Two Bedrooms</a></p>
+                            </div>
+
+                        </div>
+                    </div> -->
+                    <!-- COLUMNS 11 -->
+                    <div class="item">
+                        <div class="sx-box   image-single-carousel bg-cover"
+                            style="background-image:url(images/london/fulham/1-bed/1.jpg)">
+                            <!-- Overlay starts here -->
+                            <div class="custom-overlay">
+                                <div class="sx-info  p-t20 text-white">
+                                    <p class="sx-tilte m-t0"><a href="fulham.php">Fulham One Bedroom</a></p>
+                                </div>
+                            </div>
+                            <!-- Overlay ends here -->
+                        </div>
+                    </div>
+                    <!-- COLUMNS 12 -->
+                    <div class="item">
+                        <div class="sx-box   image-single-carousel bg-cover"
+                            style="background-image:url(images/london/fulham/2-bed/1.jpg)">
+                            <!-- Overlay starts here -->
+                            <div class="custom-overlay">
+                                <div class="sx-info  p-t20 text-white">
+                                    <p class="sx-tilte m-t0"><a href="fulham.php">Fulham Two Bedrooms</a></p>
+                                </div>
+                            </div>
+                            <!-- Overlay ends here -->
+                        </div>
+                    </div>
+                    <!-- COLUMNS 13 -->
+                    <div class="item">
+                        <div class="sx-box   image-single-carousel bg-cover"
+                            style="background-image:url(images/london/fulham/3-bed/1.jpg)">
+                            <!-- Overlay starts here -->
+                            <div class="custom-overlay">
+                                <div class="sx-info  p-t20 text-white">
+                                    <p class="sx-tilte m-t0"><a href="fulham.php">Fulham Three Bedrooms</a></p>
+                                </div>
+                            </div>
+                            <!-- Overlay ends here -->
+                        </div>
+                    </div>
+                    <!-- COLUMNS 14 -->
+                    <div class="item">
+                        <div class="sx-box   image-single-carousel bg-cover"
+                            style="background-image:url(images/london/fulham/duplex-3-bed/1.jpg)">
+                            <!-- Overlay starts here -->
+                            <div class="custom-overlay">
+                                <div class="sx-info  p-t20 text-white">
+                                    <p class="sx-tilte m-t0"><a href="fulham.php">Fulham Duplex Three Bedrooms</a></p>
+                                </div>
+                            </div>
+                            <!-- Overlay ends here -->
+                        </div>
+                    </div>
+                    <!-- COLUMNS 15 -->
+                    <div class="item">
+                        <div class="sx-box   image-single-carousel bg-cover"
+                            style="background-image:url(images/london/new-malden/1-bed/1.jpg)">
+                            <!-- Overlay starts here -->
+                            <div class="custom-overlay">
+                                <div class="sx-info  p-t20 text-white">
+                                    <p class="sx-tilte m-t0"><a href="new-malden.php">New Malden One Bedroom</a></p>
+                                </div>
+                            </div>
+                            <!-- Overlay ends here -->
+                        </div>
+                    </div>
+                    <!-- COLUMNS 16 -->
+                    <div class="item">
+                        <div class="sx-box   image-single-carousel bg-cover"
+                            style="background-image:url(images/london/new-malden/3-bed/1.jpg)">
+                            <!-- Overlay starts here -->
+                            <div class="custom-overlay">
+                                <div class="sx-info  p-t20 text-white">
+                                    <p class="sx-tilte m-t0"><a href="new-malden.php">New Malden Three Bedrooms</a></p>
+                                </div>
+                            </div>
+                            <!-- Overlay ends here -->
+                        </div>
+                    </div>
+                    <!-- COLUMNS 17 -->
+                    <div class="item">
+                        <div class="sx-box   image-single-carousel bg-cover"
+                            style="background-image:url(images/london/mitcham/1-bed/1.jpg)">
+                            <!-- Overlay starts here -->
+                            <div class="custom-overlay">
+                                <div class="sx-info  p-t20 text-white">
+                                    <p class="sx-tilte m-t0"><a href="mitcham.php">Mitcham One Bedroom</a></p>
+                                </div>
+                            </div>
+                            <!-- Overlay ends here -->
+                        </div>
+                    </div>
+                    <!-- COLUMNS 18 -->
+                    <div class="item">
+                        <div class="sx-box   image-single-carousel bg-cover"
+                            style="background-image:url(images/london/mitcham/2-bed/1.jpg)">
+                            <!-- Overlay starts here -->
+                            <div class="custom-overlay">
+                                <div class="sx-info  p-t20 text-white">
+                                    <p class="sx-tilte m-t0"><a href="mitcham.php">Mitcham Two Bedrooms</a></p>
+                                </div>
+                            </div>
+                            <!-- Overlay ends here -->
+                        </div>
+                    </div>
+                    <!-- COLUMNS 19 -->
+                    <div class="item">
+                        <div class="sx-box   image-single-carousel bg-cover"
+                            style="background-image:url(images/london/mitcham/3-bed/1.jpeg)">
+                            <!-- Overlay starts here -->
+                            <div class="custom-overlay">
+                                <div class="sx-info  p-t20 text-white">
+                                    <p class="sx-tilte m-t0"><a href="mitcham.php">Mitcham Three Bedrooms</a></p>
+                                </div>
+                            </div>
+                            <!-- Overlay ends here -->
                         </div>
                     </div>
 
@@ -1413,19 +1566,145 @@ include 'header.php' ?>
 </div>
 <!-- GALLERY SECTION END  -->
 
-<!-- <script src="https://widget.trustmary.com/sME42HtgW"></script> -->
-<!-- <div class='sk-ww-google-reviews' data-embed-id='25360103'></div><script src='https://widgets.sociablekit.com/google-reviews/widget.js' async defer></script> -->
-<!-- <div class='sk-ww-google-reviews' data-embed-id='25361404'></div>
-<script src='https://widgets.sociablekit.com/google-reviews/widget.js' async defer></script> -->
+<!-- GUEST REVIEWS SECTION START -->
+<div id="guest-reviews" class="section-full mobile-page-padding p-b50">
+    <div class="section-content">
+        <div class="container">
+            <!-- TITLE -->
+            <div class="large-title-block full-content bg-theme bg-moving bg-repeat-x"
+                style="background-image:url(images/background/green-leaves-pattern.png);">
+                <div class="row">
+                    <div class="col-lg-12 col-md-12 col-sm-12">
+                        <div class="large-title text-white text-center">
+                            <h1 class="m-tb0 text-uppercase">Guest Reviews</h1>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- TITLE -->
+
+            <!-- GUEST REVIEWS START -->
+            <div class="owl-carousel testimonial-home-two owl-btn-vertical-center m-t50">
+                <div class="item">
+                    <div class="testimonials-box testimonial-1 hover-animation-1 bg-white">
+                        <div class="testimonial-detail clearfix">
+                            <span class="testimonial-position">Adiuvo Adiuvo</span>
+                            <span class="fa fa-quote-right"></span>
+                        </div>
+                        <div class="testimonial-text">
+                            <p align="justify">The building wherein the apartment is situated is in an amazing
+                                location
+                                right next to the river, restaurants, cafe, Tesco, Dry Cleaners and the DLR
+                                connecting
+                                to Jubilee & Elizabeth lines and a few minutes walk to Upper Bank Street…</p>
+                        </div>
+                        <a class=" p-t20 text-theme-1 testimonial-position mediump" href="" target="_blank">Google Reviews,
+                            5 <img class="star-img" src="images/home-page/star.png" width="10" height="10" alt="">
+                        </a>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="testimonials-box testimonial-1  hover-animation-1 bg-white">
+                        <div class="testimonial-detail clearfix">
+                            <span class="testimonial-position">Justin Williams</span>
+                            <span class="fa fa-quote-right"></span>
+                        </div>
+                        <div class="testimonial-text">
+                            <p align="justify">I had the pleasure in staying at one of Hybrid Resi's luxury
+                                apartments
+                                in Canary Wharf. It sure was a very warm, cozy and impressive place. The apartment
+                                is
+                                fully stocked with everything a home should need...</p>
+                        </div>
+                        <a class=" p-t20 text-theme-1 testimonial-position mediump" href="" target="_blank">Google Reviews,
+                            5 <img class="star-img" src="images/home-page/star.png" width="10" height="10" alt="">
+                        </a>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="testimonials-box testimonial-1 hover-animation-1 bg-white">
+                        <div class="testimonial-detail clearfix">
+                            <span class="testimonial-position">Martyna</span>
+                            <span class="fa fa-quote-right"></span>
+                        </div>
+                        <div class="testimonial-text">
+                            <p align="justify">The apartment has everything one could wish for. Ideal for a short
+                                and
+                                long stay. Super clean, spacious, modern yet very homely. Desk and screen provided
+                                made
+                                working from home super comfortable.</p>
+                        </div>
+                        <a class=" p-t20 text-theme-1 testimonial-position mediump" href="" target="_blank">Google Reviews,
+                            5 <img class="star-img" src="images/home-page/star.png" width="10" height="10" alt="">
+                        </a>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="testimonials-box testimonial-1  hover-animation-1 bg-white">
+                        <div class="testimonial-detail clearfix">
+                            <span class="testimonial-position">SMJ Aka</span>
+                            <span class="fa fa-quote-right"></span>
+                        </div>
+                        <div class="testimonial-text">
+                            <p align="justify">We stayed here for a month in December 2022. Clean and large
+                                apartment.
+                                Enough space for a family of 3. Provided us with extra bowls when we asked. House
+                                keeping is friendly and does a good job. Highly recommend!</p>
+                        </div>
+                        <a class=" p-t20 text-theme-1 testimonial-position mediump" href="" target="_blank">Google Reviews,
+                            5 <img class="star-img" src="images/home-page/star.png" width="10" height="10" alt="">
+                        </a>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="testimonials-box testimonial-1  hover-animation-1 bg-white">
+                        <div class="testimonial-detail clearfix">
+                            <span class="testimonial-position">Gordon Pang</span>
+                            <span class="fa fa-quote-right"></span>
+                        </div>
+                        <div class="testimonial-text">
+                            <p align="justify">Stayed here for close to half a year, experience has been nothing but
+                                perfect, hybrid resi team are available around the clock to assist, cleaning happens
+                                every week to keep the space clean n tidy, definitely recommended for professionals
+                                looking for a hybrid working environment..</p>
+                        </div>
+                        <a class=" p-t20 text-theme-1 testimonial-position mediump" href="" target="_blank">Google Reviews,
+                            5 <img class="star-img" src="images/home-page/star.png" width="10" height="10" alt="">
+                        </a>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="testimonials-box testimonial-1 hover-animation-1 bg-white">
+                        <div class="testimonial-detail clearfix">
+                            <span class="testimonial-position">Kate Garrahy</span>
+                            <span class="fa fa-quote-right"></span>
+                        </div>
+                        <div class="testimonial-text">
+                            <p align="justify">Wonderful stay in this perfectly located property. 2 mins from Cross
+                                Harbour tube station and quick journey into Canary Wharf . Apartment was luxurious
+                                and
+                                felt really safe . Thank you</p>
+                        </div>
+                         <a class=" p-t20 text-theme-1 testimonial-position mediump" href="" target="_blank">Google Reviews,
+                            5 <img class="star-img" src="images/home-page/star.png" width="10" height="10" alt="">
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+<!-- GUEST REVIEWS SECTION END -->
 
 <!-- OUR SECTION ACCOLADES -->
-<div class="section-full  mobile-page-padding p-t80 p-b10">
+<div class="section-full  mobile-page-padding p-b50">
 
     <div class="container">
 
         <!-- TITLE -->
         <div class="large-title-block full-content bg-theme bg-moving bg-repeat-x"
-            style="background-image:url(images/background/pattern.png);">
+            style="background-image:url(images/background/green-leaves-pattern.png);">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12">
                     <div class="large-title text-white text-center">
@@ -1436,14 +1715,17 @@ include 'header.php' ?>
         </div>
         <!-- TITLE -->
         <div class="section-content">
-            <div class="client-grid p-tb50">
+            <div class="client-grid p-t50">
 
                 <div class="row justify-content-center">
-                    <div class="accolades col-lg-6 col-md-6 col-sm-6 col-6 m-b30">
+                    <div class="accolades col-lg-4 col-md-4 col-sm-4 col-4 m-b30">
                         <img src="images/home-page/accolades/1.png" alt="">
                     </div>
-                    <div class="accolades col-lg-6 col-md-6 col-sm-6 col-6 m-b30">
+                    <div class="accolades col-lg-4 col-md-4 col-sm-4 col-4 m-b30">
                         <img src="images/home-page/accolades/2.png" alt="">
+                    </div>
+                    <div class="accolades col-lg-4 col-md-4 col-sm-4 col-4 m-b30">
+                        <img src="images/home-page/accolades/3.png" alt="">
                     </div>
                 </div>
 
@@ -1456,13 +1738,13 @@ include 'header.php' ?>
 
 
 <!-- OUR PARTNERS SECTION START-->
-<div class="section-full  mobile-page-padding p-b20">
+<div class="section-full  mobile-page-padding p-b50">
 
     <div class="container">
 
         <!-- TITLE -->
         <div class="large-title-block full-content bg-theme bg-moving bg-repeat-x"
-            style="background-image:url(images/background/pattern.png);">
+            style="background-image:url(images/background/green-leaves-pattern.png);">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12">
                     <div class="large-title text-white text-center">
@@ -1479,48 +1761,19 @@ include 'header.php' ?>
                     <div class="owl-carousel home-client-carousel-2">
 
                         <div class="item">
-                            <a href="javascript:;" class="client-logo-pic">
-                                <img src="images/home-page/partners/asap.png" alt="">
-                                <div>
-                                    <span>View More</span>
-                                </div>
-                            </a>
+                            <img src="images/home-page/partners/asap.png" alt="">
                         </div>
 
                         <div class="item">
-                            <a href="javascript:;" class="client-logo-pic">
-                                <img src="images/home-page/partners/bt-business.png" alt="">
-                                <div>
-                                    <span>View More</span>
-                                </div>
-                            </a>
+                            <img src="images/home-page/partners/bt-business.png" alt="">
                         </div>
 
                         <div class="item">
-                            <a href="javascript:;" class="client-logo-pic">
-                                <img src="images/home-page/partners/elis.png" alt="">
-                                <div>
-                                    <span>View More</span>
-                                </div>
-                            </a>
+                            <img src="images/home-page/partners/elis.png" alt="">
                         </div>
 
                         <div class="item">
-                            <a href="javascript:;" class="client-logo-pic">
-                                <img src="images//home-page/partners/positive.png" alt="">
-                                <div>
-                                    <span>View More</span>
-                                </div>
-                            </a>
-                        </div>
-
-                        <div class="item">
-                            <a href="javascript:;" class="client-logo-pic">
-                                <img src="images/home-page/partners/surrey.png" alt="">
-                                <div>
-                                    <span>View More</span>
-                                </div>
-                            </a>
+                            <img src="images//home-page/partners/positive.png" alt="">
                         </div>
 
                     </div>

@@ -29,28 +29,28 @@ include 'header.php' ?>
 <!-- INNER PAGE BANNER END -->
 
 <!-- SECTION CONTENT START -->
-<div class="section-full p-t80 mobile-page-padding">
-    <div class="container">
-        <!-- TITLE START -->
-        <div class="section-head">
-            <div class="sx-separator-outer separator-center">
-                <div class="sx-separator bg-moving bg-repeat-x" style="background-image:url(images/pattern.png);">
-                    <h3 class="sep-line-one text-theme text-uppercase">Leisure</h3>
+<div class="section-full mobile-page-padding">
+    <!-- TITLE -->
+    <div class="large-title-block full-content bg-theme bg-moving bg-repeat-x" style="background-image:url(images/background/green-leaves-pattern.png);">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12">
+                <div class="large-title text-white text-center">
+                    <h1 class="m-tb0 text-uppercase">Leisure</h1>
                 </div>
             </div>
         </div>
-        <!-- TITLE END -->
     </div>
+    <!-- TITLE -->
     <div class="container">
 
         <!-- GALLERY CONTENT START -->
         <div class="row">
 
-            <div class="col-lg-4 col-md-12 sticky_column no-padding-mobile p-tb100">
-                <div class="about4-section m-b20 p-a20 pattern-bg">
+            <div class="col-lg-4 col-md-12 sticky_column p-tb50">
+                <div class="about4-section m-b20 p-a20 pattern-bg1">
                     <div class="widget widget_services">
                         <h4 class="widget-title text-theme-1">Locations</h4>
-                        <ul class="pattern-bg font-mbold">
+                        <ul class="pattern-bg1 font-mbold">
                             <li><a href="#fulham">Fulham Palace</a></li>
                             <li><a href="#hobble">Hobble Heath</a></li>
                             <li><a href="#buckingham">Buckingham Palace</a></li>
@@ -90,7 +90,7 @@ include 'header.php' ?>
 
             <div class="col-lg-8 col-md-12">
                 <div class="section-content">
-                    <div id="fulham" class="service-single-block p-t100">
+                    <div id="fulham" class="service-single-block p-t50">
                         <div class="sx-media">
                             <img src="images/neighbourhood/1.jpg" alt="">
                         </div>
@@ -227,7 +227,7 @@ include 'header.php' ?>
 
                     </div>
 
-                    <div id="hyde" class="service-single-block p-tb100">
+                    <div id="hyde" class="service-single-block p-t100 p-b50">
                         <div class="sx-media">
                             <img src="images/neighbourhood/7.jpg" alt="">
                         </div>

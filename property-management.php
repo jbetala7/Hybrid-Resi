@@ -29,25 +29,25 @@ include 'header.php' ?>
 </div>
 <!-- INNER PAGE BANNER END -->
 
-<div class="section-full p-tb100 mobile-page-padding">
-    <div class="container">
-       <!-- TITLE START -->
-       <div class="section-head">
-            <div class="sx-separator-outer separator-center">
-                <div class="sx-separator bg-moving bg-repeat-x" style="background-image:url(images/pattern.png);">
-                    <h3 class="sep-line-one text-theme text-uppercase">Property Management</h3>
+<div class="section-full p-b50 mobile-page-padding">
+     <!-- TITLE -->
+     <div class="large-title-block full-content bg-theme bg-moving bg-repeat-x" style="background-image:url(images/background/green-leaves-pattern.png);">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12">
+                <div class="large-title text-white text-center">
+                    <h1 class="m-tb0 text-uppercase">Property Management</h1>
                 </div>
             </div>
         </div>
-        <!-- TITLE END -->
     </div>
+    <!-- TITLE -->
 
-    <div class="container">
+    <div class="container p-t50">
         <div class="section-content ">
             <div class="our-history text-black">
                 <div class="row">
                     <div class="col-12 pic-bg-border">
-                        <div class="our-history-pic bg-no-repeat bg-center bg-cover" data-stellar-background-ratio="0.9"
+                        <div class="mb-6 our-history-pic bg-no-repeat bg-center bg-cover"
                             style="background-image:url(images/property-management/1.jpg);">
 
                         </div>
@@ -65,7 +65,7 @@ include 'header.php' ?>
 
                 <div class="row">
                     <div class="col-12 pic-bg-border">
-                        <div class="our-history-pic bg-no-repeat bg-center bg-cover" data-stellar-background-ratio="0.9"
+                        <div class="mb-6 our-history-pic bg-no-repeat bg-center bg-cover"
                             style="background-image:url(images/property-management/2.jpg);">
 
                         </div>
@@ -85,14 +85,14 @@ include 'header.php' ?>
 
                 <div class="row">
                     <div class="col-12 pic-bg-border">
-                        <div class="our-history-pic bg-no-repeat bg-center bg-cover" data-stellar-background-ratio="0.9"
+                        <div class="mb-6 our-history-pic bg-no-repeat bg-center bg-cover"
                             style="background-image:url(images/property-management/3.jpg);">
 
                         </div>
                     </div>
                     <div class="col-12">
                         <div class="our-history-content m-b30">
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> A Market we know and understand with a collective
                                         experience of 50+ years in the industry.</a></li>
                                 <li><a href="javascript:void(0)">Powerful Leadership Team</a></li>

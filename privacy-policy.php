@@ -29,28 +29,28 @@ include 'header.php' ?>
 </div>
 <!-- INNER PAGE BANNER END -->
 
-<div class="section-full p-t80 mobile-page-padding">
-    <div class="container">
-        <!-- TITLE START -->
-        <div class="section-head">
-            <div class="sx-separator-outer separator-center">
-                <div class="sx-separator bg-moving bg-repeat-x" style="background-image:url(images/pattern.png);">
-                    <h3 class="sep-line-one text-theme text-uppercase">Privacy Policy</h3>
+<div class="section-full mobile-page-padding">
+    <!-- TITLE -->
+    <div class="large-title-block full-content bg-theme bg-moving bg-repeat-x" style="background-image:url(images/background/green-leaves-pattern.png);">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12">
+                <div class="large-title text-white text-center">
+                    <h1 class="m-tb0 text-uppercase">Privacy Policy</h1>
                 </div>
             </div>
         </div>
-        <!-- TITLE END -->
     </div>
+    <!-- TITLE -->
 
     <div class="container">
         <!-- GALLERY CONTENT START -->
         <div class="row">
 
-            <div class="col-lg-4 col-md-12 sticky_column no-padding-mobile p-t30 no-padding-mobile p-tb100">
-                <div class="about4-section m-b20 p-a20 pattern-bg">
+            <div class="col-lg-4 col-md-12 sticky_column no-padding-mobile p-t30 no-padding-mobile p-tb50">
+                <div class="about4-section m-b20 p-a20 pattern-bg1">
                     <div class="widget widget_services">
                         <h4 class="widget-title text-theme-1">Topics</h4>
-                        <ul class="pattern-bg font-mbold">
+                        <ul class="pattern-bg1 font-mbold">
                             <li><a href="#gdpr">GDPR</a></li>
                             <li><a href="#our-policy">Our Policy</a></li>
                             <li><a href="#information-we-collect">Information We Collect</a></li>
@@ -69,12 +69,12 @@ include 'header.php' ?>
             </div>
             <div class="col-lg-8 col-md-12">
                 <div class="section-content">
-                    <div id="gdpr" class="service-single-block p-t100">
+                    <div id="gdpr" class="service-single-block p-t50">
                         <div class="sx-post-title ">
                             <h4 class="post-title text-center">GDPR (GENERAL DATA PROTECTION REGULATIONS)</h4>
                         </div>
                         <div class="sx-post-text">
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> We are committed to protecting your privacy and
                                         maintaining the security of any personal information you provide us with. This
                                         proclamation outlines how we ensure this and how we comply with legislation on
@@ -113,7 +113,7 @@ include 'header.php' ?>
                             <h4 class="post-title text-center">OUR POLICY</h4>
                         </div>
                         <div class="sx-post-text">
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> We are committed to protecting your privacy and
                                         maintaining the security of any personal information you provide us with. This
                                         proclamation outlines how we ensure this and how we comply with legislation on
@@ -144,7 +144,7 @@ include 'header.php' ?>
                             <h4 class="post-title text-center">INFORMATION WE COLLECT</h4>
                         </div>
                         <div class="sx-post-text">
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> We may collect personal information from you to fulfil
                                         your service requests. This includes email addresses, personal names, postal
                                         addresses, and contact numbers. Any personal information used is for the
@@ -176,7 +176,7 @@ include 'header.php' ?>
                             <h4 class="post-title text-center">KEEPING YOUR INFORMATION SECURE</h4>
                         </div>
                         <div class="sx-post-text">
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> Any data provided by you to us will be as secure as it
                                         can
                                         be. We are fully aware of our responsibilities regarding data under the Data
@@ -190,7 +190,7 @@ include 'header.php' ?>
                             <h4 class="post-title text-center">COOKIES</h4>
                         </div>
                         <div class="sx-post-text">
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> This website may use cookies to better the overall
                                         experience of our users. Following legislation and where necessary, this website
                                         ensures the user can accept and disable the use of cookies.
@@ -203,7 +203,7 @@ include 'header.php' ?>
                             <h4 class="post-title text-center">WHAT ARE COOKIES</h4>
                         </div>
                         <div class="sx-post-text">
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> Cookies are pieces of information which are sent from
                                         a
                                         website to your hard drive while you are viewing a site. These may be used by
@@ -236,7 +236,7 @@ include 'header.php' ?>
                         </div>
                         <div class="sx-post-text">
                             <p class="text-theme-1">We may use cookies for several reasons including:
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> To provide a more interactive and personal user
                                         experience.</a></li>
                                 <li><a href="javascript:void(0)">For statistical purposes.</a></li>
@@ -254,7 +254,7 @@ include 'header.php' ?>
                             <h4 class="post-title text-center">COOKIES USED BY SERVICE PROVIDERS</h4>
                         </div>
                         <div class="sx-post-text">
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> Third-party companies that are providing a service for
                                         us or our website may use cookies, and these may be stored on your computer when
                                         you visit our website.</a></li>
@@ -271,7 +271,7 @@ include 'header.php' ?>
                             <h4 class="post-title text-center">SOCIAL MEDIA PROFILES</h4>
                         </div>
                         <div class="sx-post-text">
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> We may use official profiles on social media channels.
                                         We advise our users to verify the legitimacy of any profile about our company
                                         before interacting with them. Our social media profiles will never ask for user
@@ -290,7 +290,7 @@ include 'header.php' ?>
                             <h4 class="post-title text-center">EXTERNAL WEB LINKS</h4>
                         </div>
                         <div class="sx-post-text">
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> This website contains links to external websites. We
                                         are not responsible for the privacy practices or the content on these sites. Our
                                         users are encouraged to be aware that when they leave this website they should
@@ -305,7 +305,7 @@ include 'header.php' ?>
                             <h4 class="post-title text-center">SPAM POLICY</h4>
                         </div>
                         <div class="sx-post-text">
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> We are strongly against spam. We only contact our
                                         customers when they have requested to receive communication or there is a need
                                         to update you on information about services you have requested from us when
@@ -314,12 +314,12 @@ include 'header.php' ?>
                             </ul>
                         </div>
                     </div>
-                    <div id="other-privacy-notices" class="service-single-block p-tb100">
+                    <div id="other-privacy-notices" class="service-single-block p-t100 p-b50">
                         <div class="sx-post-title ">
                             <h4 class="post-title text-center">OTHER PRIVACY NOTICES</h4>
                         </div>
                         <div class="sx-post-text">
-                            <ul class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> We retain personal information for the period
                                         necessary to fulfil the services requested unless a longer retention period is
                                         permitted or required by law.</a></li>

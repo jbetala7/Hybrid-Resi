@@ -45,8 +45,8 @@ include 'header.php' ?>
                             <!-- TITLE START -->
                             <div class="section-head">
                                 <div class="sx-separator-outer separator-left">
-                                    <div class="sx-separator bg-white bg-moving bg-repeat-x pattern-bg">
-                                        <h3 class="sep-line-one">Contact Form</h3>
+                                    <div class="sx-separator bg-white bg-moving bg-repeat-x bg-theme pattern-bg2">
+                                        <h3 class="sep-line-one text-thin-ice hide-lines">Contact Us</h3>
                                     </div>
                                 </div>
                             </div>
@@ -87,8 +87,8 @@ include 'header.php' ?>
                             <!-- TITLE START -->
                             <div class="section-head">
                                 <div class="sx-separator-outer separator-left">
-                                    <div class="sx-separator bg-white bg-moving bg-repeat-x pattern-bg">
-                                        <h3 class="sep-line-one">Info</h3>
+                                    <div class="sx-separator bg-theme bg-moving bg-repeat-x pattern-bg2">
+                                        <h3 class="sep-line-one text-thin-ice hide-lines">Get in Touch</h3>
                                     </div>
                                 </div>
                             </div>

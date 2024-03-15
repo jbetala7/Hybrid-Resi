@@ -31,24 +31,24 @@ include 'header.php' ?>
 <!-- INNER PAGE BANNER END -->
 
 <!-- WORK SECTION START -->
-<div class="section-full p-t80 p-b50 inner-page-padding">
-    <div class="container">
-        <!-- TITLE START -->
-        <div class="section-head">
-            <div class="sx-separator-outer separator-center">
-                <div class="sx-separator bg-moving bg-repeat-x" style="background-image:url(images/pattern.png);">
-                    <h3 class="sep-line-one text-theme text-uppercase">Work</h3>
+<div class="section-full p-b50 mobile-page-padding">
+     <!-- TITLE -->
+     <div class="large-title-block full-content bg-theme bg-moving bg-repeat-x" style="background-image:url(images/background/green-leaves-pattern.png);">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12">
+                <div class="large-title text-white text-center">
+                    <h1 class="m-tb0 text-uppercase">Work</h1>
                 </div>
             </div>
         </div>
-        <!-- TITLE END -->
     </div>
-    <div class="container">
-        <div class="section-content ">
+    <!-- TITLE -->
+    <div class="container p-t50">
+        <div class="section-content">
             <div class="our-history text-black">
                 <div class="row">
                     <div class="col-12 pic-bg-border">
-                        <div class="our-history-pic bg-no-repeat bg-center bg-cover" data-stellar-background-ratio="0.8" style="background-image:url(images/work/1.jpg);">
+                        <div class="mb-6 our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/work/1.jpg);">
 
                         </div>
                     </div>
@@ -57,7 +57,6 @@ include 'header.php' ?>
                             <p align="justify">The work area at Hybrid Resi is the heart of Home + Office Hybrid Living. Whilst you stay
                                 with us, we ensure your working area is ideal for you to be able to continue to work
                                 efficiently whilst travelling.
-                                <br>
                                 With working away from the office, having high-speed internet access is essential. At
                                 Hybrid Resi, enjoy fast speed no matter what you're doing. Whether you're sending or
                                 receiving files, on video calls or streaming movies, we will ensure your connection is
@@ -70,7 +69,7 @@ include 'header.php' ?>
 
                 <div class="row">
                     <div class="col-12 pic-bg-border">
-                        <div class="our-history-pic bg-no-repeat bg-center bg-cover" data-stellar-background-ratio="0.8" style="background-image:url(images/work/2.jpg);">
+                        <div class="mb-6 our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/work/2.jpg);">
 
                         </div>
                     </div>
@@ -80,7 +79,6 @@ include 'header.php' ?>
                                 screen. It allows you to easily divide the display surface into several parts so that
                                 you can broadcast up to 4 different windows simultaneously when using a computer. The 4
                                 zones are displayed side by side and one above the other.
-                                <br>
                                 Its compatibility with Type C USB completes your portable workstation with a single
                                 cable. It also has 2 built-in stereo speakers, which will exempt you from the use of
                                 external speakers. The height, tilt, and rotation support lets you customize the desktop

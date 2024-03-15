@@ -13,7 +13,7 @@
                 <!-- USEFUL LINKS -->
                 <div class="col-lg-3 col-md-6 col-sm-6 footer-col-3">
                     <div class="widget widget_services inline-links">
-                        <h5 class="widget-title">The Apartments</h5>
+                        <h5 class="widget-title">Our Apartments</h5>
                         <ul>
                             <li><a href="stay.php">Stay</a></li>
                             <li><a href="work.php">Work</a></li>
@@ -55,21 +55,18 @@
                         <ul class="widget_address">
                             <li>
                                 <div class="icon-content">
-                                    <!-- <h6 class="m-t0">Phone Number</h6> -->
                                     <a class="font-mbold text-theme underline-transition "
                                         href="tel://+442034882904">+44 20 3488 2904</a>
                                 </div>
                             </li>
                             <li>
                                 <div class="icon-content">
-                                    <!-- <h6 class="m-t0">Email Address</h6> -->
                                     <a class="font-mbold text-theme underline-transition"
                                         href="mailto:info@hybridresi.com">info@hybridresi.com</a>
                                 </div>
                             </li>
                             <li>
                                 <div class="icon-content">
-                                    <!-- <h6 class="m-t0">Office Address</h6> -->
                                     <a class="font-mbold text-theme underline-transition" target="_blank"
                                         href="https://www.google.co.uk/maps/place/672+Fulham+Rd.,+London+SW6+5RX/@51.475456,-0.2089199,17z/data=!3m1!4b1!4m6!3m5!1s0x48760f9e89d3fb59:0xb20cc100d6e40985!8m2!3d51.4754527!4d-0.206345!16s%2Fg%2F11b8txkbxs?entry=ttu">672
                                         Fulham Road, London SW6 5RX, United Kingdom</a>
@@ -86,6 +83,16 @@
                         <li><a target="_blank" href="https://www.linkedin.com/company/hybrid-resi"
                                 class="fa fa-linkedin"></a></li>
                     </ul>
+                    <div class="widget widget_address_outer m-t20">
+                        <ul class="widget_address">
+                            <li>
+                                <div class="icon-content">
+                                    <p class="smallp font-mbold text-theme">The Images, 3D tour and floor plans are for
+                                        Marketing purpose only.</p>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
                 </div>
             </div>
         </div>
@@ -172,13 +179,26 @@
 
 <!-- SLIDER REVOLUTION 5.0 EXTENSIONS  (Load Extensions only on Local File Systems !  The following part can be removed on Server for On Demand Loading) -->
 <script src="plugins/revolution/revolution/js/extensions/revolution-plugin.js"></script>
+<script src="plugins/revolution-addons/beforeafter/js/revolution.addon.beforeafter.min.js"></script>
 
 <!-- REVOLUTION SLIDER SCRIPT FILES -->
 <script src="js/rev-script-1.js"></script>
+
 <!-- CHATBOT -->
-<script src='//eu.fw-cdn.com/12629429/648241.js' chat='true'></script>
+<!-- <script src='//eu.fw-cdn.com/12629429/648241.js' chat='true'></script> -->
+<!-- MEW FORM -->
 <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 <script src="js/form.js"></script>
+
+<!-- Include jQuery -->
+<!-- <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script> -->
+
+<!-- Include Popper.js -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+
+<!-- Include Bootstrap JS -->
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
 
 
 

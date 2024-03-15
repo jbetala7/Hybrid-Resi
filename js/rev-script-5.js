@@ -55,7 +55,7 @@ tpj(document).ready(function() {
 								}
 							},
 							bullets: {
-								enable:true,
+								enable:false,
 								hide_onmobile:false,
 								style:"hephaistos",
 								
