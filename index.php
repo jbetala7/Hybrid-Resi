@@ -1059,20 +1059,19 @@ include 'header.php' ?>
                                 <!-- COLUMNS 3 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/leisure/fulham/stamford-bridge.JPG);">
+                                        style="background-image:url(images/leisure/new-malden/wimbeldon.jpg);">
                                     </div>
                                 </div>
-                                <!-- COLUMNS 4 -->
-                                <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/leisure/new-malden/motspur-park.jpg);">
-                                    </div>
-                                </div>
-
-                                <!-- COLUMNS5 5-->
+                                <!-- COLUMNS5 4-->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
                                         style="background-image:url(images/leisure/sutton-cheam/nonsuch-park.jpg);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS 5 -->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/leisure/fulham/stamford-bridge.JPG);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS5 6-->
@@ -1574,7 +1573,8 @@ include 'header.php' ?>
                                 connecting
                                 to Jubilee & Elizabeth lines and a few minutes walk to Upper Bank Street…</p>
                         </div>
-                        <a class=" p-t20 text-theme-1 testimonial-position mediump" href="" target="_blank">Google Reviews,
+                        <a class=" p-t20 text-theme-1 testimonial-position mediump" href="" target="_blank">Google
+                            Reviews,
                             5 <img class="star-img" src="images/home-page/star.png" width="10" height="10" alt="">
                         </a>
                     </div>
@@ -1592,7 +1592,8 @@ include 'header.php' ?>
                                 is
                                 fully stocked with everything a home should need...</p>
                         </div>
-                        <a class=" p-t20 text-theme-1 testimonial-position mediump" href="" target="_blank">Google Reviews,
+                        <a class=" p-t20 text-theme-1 testimonial-position mediump" href="" target="_blank">Google
+                            Reviews,
                             5 <img class="star-img" src="images/home-page/star.png" width="10" height="10" alt="">
                         </a>
                     </div>
@@ -1610,7 +1611,8 @@ include 'header.php' ?>
                                 made
                                 working from home super comfortable.</p>
                         </div>
-                        <a class=" p-t20 text-theme-1 testimonial-position mediump" href="" target="_blank">Google Reviews,
+                        <a class=" p-t20 text-theme-1 testimonial-position mediump" href="" target="_blank">Google
+                            Reviews,
                             5 <img class="star-img" src="images/home-page/star.png" width="10" height="10" alt="">
                         </a>
                     </div>
@@ -1627,7 +1629,8 @@ include 'header.php' ?>
                                 Enough space for a family of 3. Provided us with extra bowls when we asked. House
                                 keeping is friendly and does a good job. Highly recommend!</p>
                         </div>
-                        <a class=" p-t20 text-theme-1 testimonial-position mediump" href="" target="_blank">Google Reviews,
+                        <a class=" p-t20 text-theme-1 testimonial-position mediump" href="" target="_blank">Google
+                            Reviews,
                             5 <img class="star-img" src="images/home-page/star.png" width="10" height="10" alt="">
                         </a>
                     </div>
@@ -1644,7 +1647,8 @@ include 'header.php' ?>
                                 every week to keep the space clean n tidy, definitely recommended for professionals
                                 looking for a hybrid working environment..</p>
                         </div>
-                        <a class=" p-t20 text-theme-1 testimonial-position mediump" href="" target="_blank">Google Reviews,
+                        <a class=" p-t20 text-theme-1 testimonial-position mediump" href="" target="_blank">Google
+                            Reviews,
                             5 <img class="star-img" src="images/home-page/star.png" width="10" height="10" alt="">
                         </a>
                     </div>
@@ -1661,7 +1665,8 @@ include 'header.php' ?>
                                 and
                                 felt really safe . Thank you</p>
                         </div>
-                         <a class=" p-t20 text-theme-1 testimonial-position mediump" href="" target="_blank">Google Reviews,
+                        <a class=" p-t20 text-theme-1 testimonial-position mediump" href="" target="_blank">Google
+                            Reviews,
                             5 <img class="star-img" src="images/home-page/star.png" width="10" height="10" alt="">
                         </a>
                     </div>
