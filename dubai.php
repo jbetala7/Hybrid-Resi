@@ -1,6 +1,6 @@
 <?php
-$page = 'apartments';
-$title = 'Hybrid Resi | The Apartments';
+$page = 'locations';
+$title = 'Hybrid Resi | Dubai';
 include 'header.php' ?>
 
 <!-- SLIDER START -->
@@ -89,63 +89,63 @@ include 'header.php' ?>
                                 <!-- COLUMNS 1 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/fulham/1-bed/2.jpg);">
+                                        style="background-image:url(images/dubai/marina/1-bed/2.webp);">
                                     </div>
                                 </div>
 
                                 <!-- COLUMNS 2 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/fulham/2-bed/2.jpg);">
+                                        style="background-image:url(images/dubai/marina/2-bed/2.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 3 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/fulham/3-bed/2.jpg);">
+                                        style="background-image:url(images/dubai/marina/1-bed/4.webp);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 4 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/fulham/duplex-3-bed/2.jpg);">
+                                        style="background-image:url(images/dubai/marina/2-bed/4.webp);">
                                     </div>
                                 </div>
 
                                 <!-- COLUMNS 5 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/fulham/1-bed/5.jpg);">
+                                        style="background-image:url(images/dubai/marina/1-bed/6.webp);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 6 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/fulham/2-bed/6.jpg);">
+                                        style="background-image:url(images/dubai/marina/2-bed/6.webp);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 7 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/fulham/3-bed/6.jpg);">
+                                        style="background-image:url(images/dubai/marina/1-bed/8.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 8 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/fulham/duplex-3-bed/13.jpg);">
+                                        style="background-image:url(images/dubai/marina/2-bed/8.webp);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 9 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/fulham/3-bed/7.jpg);">
+                                        style="background-image:url(images/dubai/marina/1-bed/12.webp);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 10 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/fulham/duplex-3-bed/15.jpg);">
+                                        style="background-image:url(images/dubai/marina/2-bed/12.webp);">
                                     </div>
                                 </div>
                             </div>
@@ -154,25 +154,32 @@ include 'header.php' ?>
                     <div class="col-12">
                         <div class="our-history-content m-b30">
                             <div class="large-title">
-                                <h2 class="m-t20">Marina</h2>
-                                <!-- <h4>Perth, Australia</h4> -->
+                                <h2 class="m-t20">Marina - Dubai</h2>
                             </div>
-                            <p align="justify">These contemporary apartments on bustling Fulham Road provides every
-                                guest
-                                with their
-                                perfect home within London City.
-                                These Apartments are 4 miles from Buckingham Palace and a 7-minute walk from Putney
-                                Bridge tube station or 12-minutes to Parsons Green tube station. Fulham lies on the
-                                north bank of the River Thames, bordering Hammersmith, Kensington and Chelsea in Zone -
-                                2.
-                                As a corporate housing, you'll find everything you need for your stay.
+                            <p align="justify">Welcome to the epitome of luxury living at our serviced apartments in
+                                Marina Dubai.
+                                Nestled amidst the glimmering waters of the Arabian Gulf, these vibrant properties
+                                offer a haven of opulence and sophistication. Immerse yourself in the breathtaking
+                                views of the iconic Dubai Marina skyline from the comfort of your elegantly furnished
+                                apartment. Indulge in the seamless blend of contemporary design and lavish
+                                amenities, where every detail has been meticulously crafted to cater to your every
+                                need. Whether you choose to unwind by the infinity pool, rejuvenate at the state-of-
+                                the-art spa, or savor delectable cuisine at the exquisite restaurants, our Marina Dubai
+                                serviced apartments promise an unforgettable experience that will leave you longing
+                                to return.
+                                Additionally, select apartments, one-bedroom units and two-bedroom units in Dubai
+                                Marina offer close proximity to JBR, The Beach, The Palm, and various golf courses,
+                                along with an array of amenities such as a fully equipped gym, marina-view
+                                swimming pools, a kids's play area, tennis court, and boxing bag area. Positioned in
+                                Marina Quays Condominium, near Marina Mall and Pier 7, and just steps away from
+                                JBR, our apartments overlook the beach and provide convenient access to the vibrant
+                                dining and leisure scene.
                             </p>
-                            <a href="marina.php" class="site-button-secondry btn-half"><span> Learn More</span></a>
+                            <a href="marina.php" class="site-button-secondry btn-half"><span>Learn More</span></a>
 
                         </div>
                     </div>
                 </div>
-
 
                 <div class="row">
                     <div class="col-12 pic-bg-border">
@@ -182,51 +189,63 @@ include 'header.php' ?>
                                 <!-- COLUMNS 1 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/wandsworth/cozy-1-bed/3.jpg);">
+                                        style="background-image:url(images/dubai/downtown/1-bed/2.jpg);">
                                     </div>
                                 </div>
 
                                 <!-- COLUMNS 2 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/wandsworth/1-bed/2.jpg);">
+                                        style="background-image:url(images/dubai/downtown/2-bed/2.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 3 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/wandsworth/cozy-1-bed/7.jpg);">
+                                        style="background-image:url(images/dubai/downtown/1-bed/4.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 4 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/wandsworth/1-bed/5.jpg);">
+                                        style="background-image:url(images/dubai/downtown/2-bed/4.jpg);">
                                     </div>
                                 </div>
 
                                 <!-- COLUMNS 5 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/wandsworth/cozy-1-bed/8.jpg);">
+                                        style="background-image:url(images/dubai/downtown/1-bed/6.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 6 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/wandsworth/1-bed/6.jpg);">
+                                        style="background-image:url(images/dubai/downtown/2-bed/6.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 7 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/wandsworth/cozy-1-bed/9.jpg);">
+                                        style="background-image:url(images/dubai/downtown/1-bed/8.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 8 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/wandsworth/1-bed/7.jpg);">
+                                        style="background-image:url(images/dubai/downtown/2-bed/8.jpg);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS 9 -->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/dubai/downtown/1-bed/12.jpg);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS 10 -->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/dubai/downtown/2-bed/12.jpg);">
                                     </div>
                                 </div>
                             </div>
@@ -235,17 +254,25 @@ include 'header.php' ?>
                     <div class="col-12">
                         <div class="our-history-content m-b30">
                             <div class="large-title">
-                                <h2 class="m-t20">Downtown</h2>
+                                <h2 class="m-t20">Downtown - Dubai</h2>
                             </div>
-                            <p align="justify">These contemporary apartments in the vibrant Wandsworth area offer every
-                                guest their
-                                perfect home within London City.
-                                Hybrid Resi - Wandsworth provides corporate serviced accommodation in London, 14 miles
-                                from London Heathrow Airport and just a 10-minute walk to Gravity London's first active
-                                entertainment venue.
-                                As an extended serviced apartment, you'll find everything you need for a B'leisure stay.
+                            <p align="justify">Experience the pinnacle of luxury living in Dubai Downtown! Set amidst
+                                the vibrant
+                                energy of the city, our serviced apartments redefine urban sophistication. Select units
+                                of One- bedroom apartments and Two- bedroom apartments, offer a direct link to
+                                the iconic Dubai Mall and Metro, granting you unparalleled convenience. Enjoy
+                                exclusive access to a lavish fitness center, tennis courts, kid's area, squash
+                                courts, and
+                                two luxurious swimming pools and gymnasiums, ensuring every indulgence is within
+                                reach. Some of our apartments, just a 7-minute walk from the renowned fountains of
+                                Dubai Mall, feature additional amenities like swimming pools, squash courts, a
+                                barbecue area, and a fully equipped gym, providing a lifestyle of opulence and
+                                convenience. For those seeking the ultimate downtown living experience, our select
+                                units are strategically located just footsteps away from Dubai Mall, boasting two
+                                swimming pools and a gym right at your doorstep. Discover a new level of luxury in
+                                the heart of Dubai at our exclusive serviced apartments.
                             </p>
-                            <a href="downtown.php" class="site-button-secondry btn-half"><span> Learn More</span></a>
+                            <a href="downtown.php" class="site-button-secondry btn-half"><span>Learn More</span></a>
 
                         </div>
                     </div>

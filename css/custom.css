@@ -1,3 +1,4 @@
+@import url(../custom-font/stylesheet.css);
 .bg-theme {
     background-color: #004C86 !important;
 }
@@ -82,10 +83,13 @@
     .hide-dots .owl-carousel .owl-dots {
         display: none !important;
     }
-    .our-history .our-history-pic, .project-carousel1 .image-single-carousel{
+
+    .our-history .our-history-pic,
+    .project-carousel1 .image-single-carousel {
         height: 250px;
     }
-    a.text-theme-1.testimonial-position.mediump{
+
+    a.text-theme-1.testimonial-position.mediump {
         align-items: center !important;
     }
 
@@ -307,7 +311,8 @@
         /* Adjust this value as needed */
         margin-top: 100px !important;
     }
-    .about-heading{
+
+    .about-heading {
         font-size: 35px !important;
     }
 }
@@ -419,38 +424,56 @@
     justify-content: center;
     align-items: center;
 }
-#guest-reviews:before{
+
+#guest-reviews:before {
     content: "";
     display: block;
-    height: 100px; /* Adjust this value to match the height of your fixed header */
-    margin-top: -100px; /* This should be the same value but negative */
+    height: 100px;
+    /* Adjust this value to match the height of your fixed header */
+    margin-top: -100px;
+    /* This should be the same value but negative */
     visibility: hidden;
 }
 
-.hide-lines.sep-line-one:after{
+.hide-lines.sep-line-one:after {
     display: none !important;
 }
 
-h3.sep-line-one.text-thin-ice.hide-lines{
+h3.sep-line-one.text-thin-ice.hide-lines {
     padding: 20px 20px 20px 20px !important;
 }
 
-.span.rs-addon-beforeafter-btn.rs-before-after-element.rs-addon-beforeafter-btn-horizontal{
+.span.rs-addon-beforeafter-btn.rs-before-after-element.rs-addon-beforeafter-btn-horizontal {
     margin-top: 150px !important;
 }
 
-.rs-before-after-element{
+.rs-before-after-element {
     top: 60% !important;
 }
-.widget.widget_address_outer{
+
+.widget.widget_address_outer {
     margin-bottom: 0px;
 }
-img.star-img{
-    width: 4% !important; 
+
+img.star-img {
+    width: 4% !important;
     margin-left: 2px;
 }
-a.text-theme-1.testimonial-position.mediump{
+
+a.text-theme-1.testimonial-position.mediump {
     display: flex;
     justify-content: flex-start;
     align-items: flex-start;
+}
+
+@media only screen and (min-device-width: 834px) and (max-device-width: 1400px) {
+
+    .slide-left-social{
+        display: none;
+    }
+}
+
+.mediumbp{
+    font-size: 14px;
+    font-family: 'montserratbold', sans-serif;
 }

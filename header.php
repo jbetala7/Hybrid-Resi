@@ -94,7 +94,7 @@
                         <div class="logo-header">
                             <div class="logo-header-inner logo-header-one">
                                 <a href="index.php">
-                                    <img src="images/logo-1.png" alt="" />
+                                    <img src="images/logo.png" alt="" />
                                 </a>
                             </div>
                         </div>

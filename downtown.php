@@ -1,6 +1,6 @@
 <?php
 $page = 'locations';
-$title = 'Hybrid Resi | Mitcham';
+$title = 'Hybrid Resi | Downtown';
 include 'header.php' ?>
 
 <!-- SLIDER START -->
@@ -17,17 +17,17 @@ include 'header.php' ?>
                 data-param9=""
                 data-param10="{&quot;revslider-weather-addon&quot; : { &quot;type&quot; : &quot;&quot; ,&quot;name&quot; : &quot;&quot; ,&quot;woeid&quot; : &quot;&quot; ,&quot;unit&quot; : &quot;&quot; }}"
                 data-description=""
-                data-beforeafter='{"moveto":"50%|50%|50%|50%","bgColor":"#e7e7e7","bgType":"image","bgImage":"images/london/mitcham/banner.jpg",
+                data-beforeafter='{"moveto":"50%|50%|50%|50%","bgColor":"#e7e7e7","bgType":"image","bgImage":"images/dubai/downtown/2-bed/3.jpg",
                         "bgFit":"cover","bgPos":"center center","bgRepeat":"no-repeat","direction":"horizontal","easing":"Power2.easeInOut","delay":"500","time":"750","out":"fade","carousel":false}'>
                 <!-- MAIN IMAGE -->
-                <img src="images/london/mitcham/banner-black.jpg" data-beforeafter="after" data-bgcolor='' alt=""
+                <img src="images/dubai/downtown/banner.jpg" data-beforeafter="after" data-bgcolor='' alt=""
                     data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off"
                     class="rev-slidebg" data-no-retina>
                 <!-- LAYERS -->
 
                 <!-- LAYER NR. 1 text -->
                 <div class="tp-caption   tp-resizeme rs-parallaxlevel-5" id="slide-964-layer-1"
-                    data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                    data-x="['center','center','center','center']" data-hoffset="['-120','-120','-120','0']"
                     data-y="['middle','middle','middle','middle']" data-voffset="['-100','-100','-100','0']"
                     data-fontsize="['120','120','120','60']" data-lineheight="['120','120','120','60']"
                     data-letterspacing="['50','50','50','5']" data-width="['960','960','960','960']" data-height="none"
@@ -37,7 +37,7 @@ include 'header.php' ?>
                     data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]"
                     data-paddingright="[0,0,0,50]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[50,50,50,50]"
                     style="z-index: 16; white-space: nowrap; font-size: 120px; line-height: 120px; font-weight: 900; color: #fff; letter-spacing: 10px;font-family: 'montserratregular', sans-serif; text-transform: uppercase;">
-                    Mitcham </div>
+                    Downtown </div>
 
                 <!-- LAYER 1  right image overlay dark-->
                 <div class="tp-caption tp-shape tp-shapewrapper  rs-parallaxlevel-tobggroup" id="slide-72-layer-1"
@@ -56,7 +56,7 @@ include 'header.php' ?>
 
                 <!-- LAYER NR. 1  text-->
                 <div class="tp-caption   tp-resizeme  tp-blackshadow rs-parallaxlevel-5" id="slide-964-layer-4"
-                    data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                    data-x="['center','center','center','center']" data-hoffset="['-120','-120','-120','0']"
                     data-y="['middle','middle','middle','middle']" data-voffset="['-100','-100','-100','0']"
                     data-fontsize="['120','120','120','60']" data-lineheight="['120','120','120','60']"
                     data-letterspacing="['50','50','50','5']" data-width="['960','960','960','960']" data-height="none"
@@ -66,28 +66,13 @@ include 'header.php' ?>
                     data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]"
                     data-paddingright="[0,0,0,50]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[50,50,50,50]"
                     style="z-index: 16; white-space: nowrap; font-size: 120px; line-height: 120px; font-weight: 900; color: #000; letter-spacing: 10px;
-                        font-family: 'montserratregular', sans-serif; text-transform: uppercase;">Mitcham </div>
+                        font-family: 'montserratregular', sans-serif; text-transform: uppercase;">Downtown </div>
             </li>
 
         </ul>
     </div>
 </div>
 <!-- SLIDER END -->
-
-<!-- TITLE SECITON START -->
-<div class="section-full mobile-page-padding">
-    <div class="large-title-block full-content bg-theme bg-moving bg-repeat-x"
-        style="background-image:url(images/background/green-leaves-pattern.png);">
-        <div class="row">
-            <div class="col-lg-12 col-md-12 col-sm-12">
-                <div class="large-title text-white text-center">
-                    <h1 class="m-tb0 text-uppercase">Mitcham</h1>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- TITLE SECTION END -->
 
 <!-- MEWS FORM SECTION START -->
 <div class="section-full justify-content-center flex-display">
@@ -177,20 +162,22 @@ include 'header.php' ?>
                 <div class="col-xl-12 col-lg-12 col-md-12">
 
                     <div class="about-home-3 m-b30 bg-white">
-                        <h3 class="m-t0 m-b20 sx-tilte text-center text-uppercase">Hybrid Resi - Mitcham</h3>
+                        <h3 class="m-t0 m-b20 sx-tilte text-center text-uppercase">Hybrid Resi - Downtown</h3>
                         <p align="justify" class="list-angle-right anchor-line text-center">
-                            This brand-new sustainable Serviced Apartment building in Mitcham provides every guest with
-                            their perfect home within London City. Mitcham is in the east of the London Borough of
-                            Merton. Mitcham is close to Streatham, Croydon, Norbury, Morden, Sutton, Wimbledon, and
-                            Tooting. The River Wandle bounds the town to the southwest.
-
-                            As a Corporate serviced apartment, you'll find everything you need for a B'leisure stay.
-
-                            Mitcham is home to a large area (460 acres) of South London's open green space in the form
-                            of Mitcham Common, studded with a few ponds and buildings. Mitcham is served by two railway
-                            stations: Mitcham Junction and Mitcham Eastfields. Trains on the Thameslink route from
-                            Central London continue on via the Sutton Loop Line to Sutton and Wimbledon back towards
-                            Central London.
+                            Experience the pinnacle of luxury living in Dubai Downtown! Set amidst the vibrant
+                            energy of the city, our serviced apartments redefine urban sophistication. Select units
+                            of One- bedroom apartments and Two- bedroom apartments, offer a direct link to
+                            the iconic Dubai Mall and Metro, granting you unparalleled convenience. Enjoy
+                            exclusive access to a lavish fitness center, tennis courts, kid's area, squash courts,
+                            and
+                            two luxurious swimming pools and gymnasiums, ensuring every indulgence is within
+                            reach. Some of our apartments, just a 7-minute walk from the renowned fountains of
+                            Dubai Mall, feature additional amenities like swimming pools, squash courts, a
+                            barbecue area, and a fully equipped gym, providing a lifestyle of opulence and
+                            convenience. For those seeking the ultimate downtown living experience, our select
+                            units are strategically located just footsteps away from Dubai Mall, boasting two
+                            swimming pools and a gym right at your doorstep. Discover a new level of luxury in
+                            the heart of Dubai at our exclusive serviced apartments.
 
                         </p>
                     </div>
@@ -216,76 +203,107 @@ include 'header.php' ?>
                                 <!-- COLUMNS 1 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/1-bed/1.jpg);">
+                                        style="background-image:url(images/dubai/downtown/1-bed/1.jpg);">
                                     </div>
                                 </div>
 
                                 <!-- COLUMNS 2 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/1-bed/2.jpg);">
+                                        style="background-image:url(images/dubai/downtown/1-bed/2.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 3 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/1-bed/3.jpg);">
+                                        style="background-image:url(images/dubai/downtown/1-bed/3.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 4 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/1-bed/4.jpg);">
+                                        style="background-image:url(images/dubai/downtown/1-bed/4.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS5 5-->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/1-bed/5.jpg);">
+                                        style="background-image:url(images/dubai/downtown/1-bed/5.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 6 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/1-bed/6.jpg);">
+                                        style="background-image:url(images/dubai/downtown/1-bed/6.jpg);">
                                     </div>
                                 </div>
 
                                 <!-- COLUMNS 7 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/1-bed/7.jpg);">
+                                        style="background-image:url(images/dubai/downtown/1-bed/7.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 8 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/1-bed/8.jpg);">
+                                        style="background-image:url(images/dubai/downtown/1-bed/8.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 9 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/1-bed/9.jpg);">
+                                        style="background-image:url(images/dubai/downtown/1-bed/9.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS5 10-->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/1-bed/10.jpg);">
+                                        style="background-image:url(images/dubai/downtown/1-bed/10.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 11 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/1-bed/11.jpg);">
+                                        style="background-image:url(images/dubai/downtown/1-bed/11.jpg);">
                                     </div>
                                 </div>
 
                                 <!-- COLUMNS 12 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/1-bed/12.jpg);">
+                                        style="background-image:url(images/dubai/downtown/1-bed/12.jpg);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS 13 -->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/dubai/downtown/1-bed/13.webp);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS 14 -->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/dubai/downtown/1-bed/14.webp);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS5 15-->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/dubai/downtown/1-bed/15.webp);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS 16 -->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/dubai/downtown/1-bed/16.webp);">
+                                    </div>
+                                </div>
+
+                                <!-- COLUMNS 17 -->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/dubai/downtown/1-bed/17.jpg);">
                                     </div>
                                 </div>
                             </div>
@@ -297,20 +315,23 @@ include 'header.php' ?>
                                 <h1 class="m-t20 text-uppercase">One Bedroom Apartment</h1>
                                 <!-- <h4>Perth, Australia</h4> -->
                             </div>
-                            <p align="justify">Each of our individually designed one bed apartments in the heart of
-                                Mitcham are perfect for the extended stay or those looking for a larger space to unwind
-                                after a busy day. Relax in a separate lounge incorporating a fully fitted kitchen,
-                                dining area, and living room before you retreat to your bedroom. The apartment boasts a
-                                fully fitted kitchen, dining space with bathtub in bathroom.<br>
+                            <p align="justify">Located in the most prestigious buildings of Downtown Dubai, these luxuriously
+                                designed apartments provide unparalleled privacy and relaxation. Accommodating
+                                up to 2 people and each apartment comes with a dedicated parking space. The
+                                spacious living rooms exude elegance with contemporary design, complemented by
+                                fully equipped kitchens featuring everything from toasters to coffee machines. Some
+                                units offer balconies boasting iconic views on the famous Dubai Downtown
+                                Boulevard &amp; Dubai Opera, while select buildings feature swimming pools for
+                                residents to enjoy.<br>
                                 <span class="m-t10 badge badge-primary"><img src="images/icons/scale.png"> Area : Approx
                                     46 Sqm</span>
                             </p>
 
-                            <a target="_blank" href="https://my.matterport.com/show/?m=D7yu75N2zjn&play=1&hr=1&ts=0"
+                            <!-- <a target="_blank" href="https://my.matterport.com/show/?m=D7yu75N2zjn&play=1&hr=1&ts=0"
                                 class="site-button-secondry btn-half"><span> Virtual Tour</span></a>
                             <a href="#" class="site-button-secondry btn-half floor-plan-button"
                                 data-title="One Bedroom Apartment Floor Plan" data-floorplan="mitcham/1-bed"><span>Floor
-                                    Plan</span></a>
+                                    Plan</span></a> -->
                         </div>
                     </div>
                 </div>
@@ -415,97 +436,110 @@ include 'header.php' ?>
                                 <!-- COLUMNS 1 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/2-bed/1.jpg);">
+                                        style="background-image:url(images/dubai/downtown/2-bed/1.jpg);">
                                     </div>
                                 </div>
 
                                 <!-- COLUMNS 2 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/2-bed/2.jpg);">
+                                        style="background-image:url(images/dubai/downtown/2-bed/2.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 3 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/2-bed/3.jpg);">
+                                        style="background-image:url(images/dubai/downtown/2-bed/3.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 4 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/2-bed/4.jpg);">
+                                        style="background-image:url(images/dubai/downtown/2-bed/4.jpg);">
                                     </div>
                                 </div>
 
                                 <!-- COLUMNS5 5-->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/2-bed/5.jpg);">
+                                        style="background-image:url(images/dubai/downtown/2-bed/5.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 6 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/2-bed/6.jpg);">
+                                        style="background-image:url(images/dubai/downtown/2-bed/6.jpg);">
                                     </div>
                                 </div>
 
                                 <!-- COLUMNS 7 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/2-bed/7.jpg);">
+                                        style="background-image:url(images/dubai/downtown/2-bed/7.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 8 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/2-bed/8.jpg);">
+                                        style="background-image:url(images/dubai/downtown/2-bed/8.jpg);">
                                     </div>
                                 </div>
 
                                 <!-- COLUMNS5 9-->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/2-bed/9.jpg);">
+                                        style="background-image:url(images/dubai/downtown/2-bed/9.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 10 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/2-bed/10.jpg);">
+                                        style="background-image:url(images/dubai/downtown/2-bed/10.jpg);">
                                     </div>
                                 </div>
 
                                 <!-- COLUMNS 11 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/2-bed/11.jpg);">
+                                        style="background-image:url(images/dubai/downtown/2-bed/11.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 12 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/2-bed/12.jpg);">
+                                        style="background-image:url(images/dubai/downtown/2-bed/12.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS5 13-->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/2-bed/13.jpg);">
+                                        style="background-image:url(images/dubai/downtown/2-bed/13.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 14 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/2-bed/14.jpg);">
+                                        style="background-image:url(images/dubai/downtown/2-bed/14.jpg);">
                                     </div>
                                 </div>
 
                                 <!-- COLUMNS 15 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/2-bed/15.jpg);">
+                                        style="background-image:url(images/dubai/downtown/2-bed/1.jpg);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS 16 -->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/dubai/downtown/2-bed/16.jpg);">
+                                    </div>
+                                </div>
+
+                                <!-- COLUMNS 17 -->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/dubai/downtown/2-bed/17.jpg);">
                                     </div>
                                 </div>
                             </div>
@@ -516,20 +550,23 @@ include 'header.php' ?>
                             <div class="large-title">
                                 <h1 class="m-t20 text-uppercase">Two Bedrooms Apartment</h1>
                             </div>
-                            <p align="justify">Set within the brand new red-brick build, just a stone's throw from
-                                Mitcham shopping district our two bed apartments offer modern London living from
-                                buildings rooted in history. Luxurious space and comfort with the similar design as our
-                                other apartments. The apartment boasts a fully fitted kitchen, dining space with
-                                beautifully designed bathrooms. These apartments are the perfect home in London, with
-                                plenty of room for one to relax and work. Some with private balcony.<br>
+                            <p align="justify">These luxurious apartments offer breathtaking panoramic views. Situated in the
+                                vibrant heart of Dubai, residents have
+                                access to swimming pools, gym, and a range of amenities including a fitness center
+                                and squash courts. The meticulously designed two-bedroom spaces feature
+                                wardrobes, a spacious living room, and a terrace with stunning vistas of iconic
+                                landmarks. Furthermore, the state-of-the-art kitchens are fully equipped to facilitate
+                                convenient meal preparation and serving. Some units offer balconies boasting iconic
+                                views of the Burj Khalifa and the dancing fountain while select buildings feature
+                                swimming pools for residents to enjoy.<br>
                                 <span class="m-t10 badge badge-primary"><img src="images/icons/scale.png"> Area : Approx
-                                    68 Sqm</span>
+                                    110 to 150 Sqm</span>
                             </p>
-                            <a target="_blank" href="https://my.matterport.com/show/?m=yhzDGSqUz3g&play=1&hr=1&ts=0"
+                            <!-- <a target="_blank" href="https://my.matterport.com/show/?m=yhzDGSqUz3g&play=1&hr=1&ts=0"
                                 class="site-button-secondry btn-half"><span> Virtual Tour</span></a>
                             <a href="#" class="site-button-secondry btn-half floor-plan-button"
                                 data-title="Two Bedrooms Apartment Floor Plan"
-                                data-floorplan="mitcham/2-bed"><span>Floor Plan</span></a>
+                                data-floorplan="mitcham/2-bed"><span>Floor Plan</span></a> -->
 
                         </div>
                     </div>
@@ -627,196 +664,6 @@ include 'header.php' ?>
                 </div>
                 <!-- TWO BEDROOMS SECTION END -->
 
-                <!-- THREE BEDROOMS SECTION START -->
-                <div class="row">
-                    <div class="col-12 pic-bg-border theme-border">
-                        <div class="work-carousel-outer">
-                            <div class="owl-carousel mfp-gallery home-carousel owl-btn-vertical-center">
-                                <!-- COLUMNS 1 -->
-                                <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/3-bed/1.jpeg);">
-                                    </div>
-                                </div>
-
-                                <!-- COLUMNS 2 -->
-                                <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/3-bed/2.jpeg);">
-                                    </div>
-                                </div>
-                                <!-- COLUMNS 3 -->
-                                <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/3-bed/3.jpeg);">
-                                    </div>
-                                </div>
-                                <!-- COLUMNS 4 -->
-                                <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/3-bed/4.jpeg);">
-                                    </div>
-                                </div>
-
-                                <!-- COLUMNS5 5-->
-                                <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/3-bed/5.jpeg);">
-                                    </div>
-                                </div>
-                                <!-- COLUMNS 6 -->
-                                <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/3-bed/6.jpeg);">
-                                    </div>
-                                </div>
-
-                                <!-- COLUMNS 7 -->
-                                <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/3-bed/7.jpeg);">
-                                    </div>
-                                </div>
-
-                                <!-- COLUMNS 8 -->
-                                <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/3-bed/8.jpeg);">
-                                    </div>
-                                </div>
-                                <!-- COLUMNS5 9-->
-                                <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/3-bed/9.jpeg);">
-                                    </div>
-                                </div>
-                                <!-- COLUMNS 10 -->
-                                <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/3-bed/10.jpeg);">
-                                    </div>
-                                </div>
-
-                                <!-- COLUMNS 11 -->
-                                <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/3-bed/11.jpeg);">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-12">
-                        <div class="our-history-content m-b30">
-                            <div class="large-title">
-                                <h1 class="m-t20 text-uppercase">Three Bedrooms Apartment</h1>
-                            </div>
-                            <p align="justify">The most spacious of our apartments, three bed apartments is perfect for
-                                families or those looking for a larger apartment for a longer stay. Flooded with natural
-                                light through the skylight windows our beautiful bedrooms come with a Super King (Zip &
-                                link), King and double beds. The apartment boasts a fully fitted kitchen, dining space
-                                and one bathroom. These apartments are the perfect family home in London, with plenty of
-                                room for the whole family to relax and work.<br>
-                                <span class="m-t10 badge badge-primary"><img src="images/icons/scale.png"> Area : Approx
-                                    86 Sqm</span>
-                            </p>
-
-                        </div>
-                    </div>
-                </div>
-                <!-- AMENITIES -->
-                <div class="section-content">
-
-                    <div class="row">
-                        <div class="col-md-12" data-aos="fade-up" data-aos-duration="800">
-                            <h3 class="mt-tb20">Amenities in three bedrooms
-                                apartments:</h3>
-                            <div class="ambox m-b50">
-                                <div class="row">
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/guest.png"
-                                            class="img-center">
-                                        <p class="text-center smallp">6 Guests</p>
-                                    </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/fridge.png"
-                                            class="img-center">
-                                        <p class="text-center smallp">Fridge</p>
-                                    </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/microwave.png"
-                                            class="img-center">
-                                        <p class="text-center smallp">Microwave</p>
-                                    </div>
-
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
-                                            src="images/icons/double-bed.png" class="img-center">
-                                        <p class="text-center smallp">King Bed</p>
-                                    </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/hairdryer.png"
-                                            class="img-center">
-                                        <p class="text-center smallp">Hair Dryer</p>
-                                    </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/hob.png"
-                                            class="img-center">
-                                        <p class="text-center smallp">Hob & Oven</p>
-                                    </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/smart-tv.png"
-                                            class="img-center">
-                                        <p class="text-center smallp">Smart TV</p>
-                                    </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
-                                            src="images/icons/fiber-optic.png" class="img-center">
-                                        <p class="text-center smallp">Superfast WIFI</p>
-                                    </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/crockery.png"
-                                            class="img-center">
-                                        <p class="text-center smallp">Crockery & Cutlery</p>
-                                    </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
-                                            src="images/icons/washing-machine.png" class="img-center">
-                                        <p class="text-center smallp">Washing Machine</p>
-                                    </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
-                                            src="images/icons/work-chair-desk.png" class="img-center">
-                                        <p class="text-center smallp">Work Desk & Chair</p>
-                                    </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/kitchen.png"
-                                            class="img-center">
-                                        <p class="text-center smallp">Fully Fitted Kitchen</p>
-                                    </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
-                                            src="images/icons/welcome-kit.png" class="img-center">
-                                        <p class="text-center smallp">Welcome Kit</p>
-                                    </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
-                                            src="images/icons/furnitures.png" class="img-center">
-                                        <p class="text-center smallp">Designer Furnishing</p>
-                                    </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/ironing.png"
-                                            class="img-center">
-                                        <p class="text-center smallp">Iron & Ironing Board</p>
-                                    </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
-                                            src="images/icons/toiletries.png" class="img-center">
-                                        <p class="text-center smallp">400ml Toiletries</p>
-                                    </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/mattress.png"
-                                            class="img-center">
-                                        <p class="text-center smallp">Ortho Mattress</p>
-                                    </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
-                                            src="images/icons/weekly-cleaning.png" class="img-center">
-                                        <p class="text-center smallp">Weekly Housekeeping</p>
-                                    </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/check-in.png"
-                                            class="img-center">
-                                        <p class="text-center smallp">Self Checkin-in</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- THREE BEDROOMS SECTION END -->
-
                 <!-- MODAL STRUCTURE START -->
                 <div class="modal fade" id="floorPlanModal" tabindex="-1" role="dialog"
                     aria-labelledby="floorPlanModalLabel" aria-hidden="true">
@@ -833,7 +680,7 @@ include 'header.php' ?>
 <!-- CATEGORIES SECTION END -->
 
 <!-- MAPS 1 SECTION START -->
-<div class="section-full p-b50 inner-page-padding">
+<!-- <div class="section-full p-b50 inner-page-padding">
     <div class="container">
         <div class="section-content ">
             <iframe class="map-div" frameborder="0" style="border:0" referrerpolicy="no-referrer-when-downgrade"
@@ -842,7 +689,7 @@ include 'header.php' ?>
                 allowfullscreen>></iframe>
         </div>
     </div>
-</div>
+</div> -->
 <!-- MAPS 1 SECTION END -->
 
 <?php include 'locations-footer.php' ?>

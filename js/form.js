@@ -114,9 +114,6 @@ $(document).ready(function () {
     });
 
 
-
-    // ...your existing $(document).ready function...
-
     // Event delegation to handle click event on dynamically created dropdown items
     $('.dropdown-content a').on('click', function (e) {
         e.preventDefault();

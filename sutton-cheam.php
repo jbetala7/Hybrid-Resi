@@ -173,8 +173,9 @@ include 'header.php' ?>
                             Hybrid Resi – Sutton Cheam supplies corporate serviced accommodation in London, 19 miles
                             from London Gatwick Airport and only 2 minutes from Cheam Train Station. Under 15 minutes
                             to/from Lidl House (Great Britain Head Office) and only 15 minutes by car from Wimbledon.
-
                         </p>
+                        <p class="mediumbp" align="justify">Onsite car parking is subject to availability - The
+                                management bears no responsibility for vehicles parked in our parking bay.</p>
                     </div>
                 </div>
 

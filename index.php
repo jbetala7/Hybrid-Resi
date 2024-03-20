@@ -51,7 +51,7 @@ include 'header.php' ?>
                 <!-- LAYER 3  Paragraph-->
                 <div class="tp-caption   tp-resizeme" id="slide-72-layer-5" data-x="['left','left','center','center']"
                     data-hoffset="['50','50','0','0']" data-y="['middle','middle','middle','middle']"
-                    data-voffset="['-10','-10','90','-10']" data-fontsize="['21','21','21','21']"
+                    data-voffset="['-10','50','90','-10']" data-fontsize="['21','21','21','21']"
                     data-lineheight="['30','30','30','30']" data-width="['600','600','500','380']" data-height="none"
                     data-whitespace="normal" data-type="text" data-responsive_offset="on"
                     data-frames='[{"delay":200,"speed":750,"sfxcolor":"#fff","sfx_effect":"blockfromleft","frame":"0","from":"z:0;","to":"o:1;","ease":"Power3.easeInOut"},
@@ -131,7 +131,7 @@ include 'header.php' ?>
                 <!-- LAYER 3  Paragraph-->
                 <div class="tp-caption   tp-resizeme" id="slide-73-layer-5" data-x="['left','left','center','center']"
                     data-hoffset="['50','50','0','0']" data-y="['middle','middle','middle','middle']"
-                    data-voffset="['-10','-10','90','-10']" data-fontsize="['21','21','21','21']"
+                    data-voffset="['-10','50','90','-10']" data-fontsize="['21','21','21','21']"
                     data-lineheight="['30','30','30','30']" data-width="['600','600','500','380']" data-height="none"
                     data-whitespace="normal" data-type="text" data-responsive_offset="on"
                     data-frames='[{"delay":200,"speed":750,"sfxcolor":"#fff","sfx_effect":"blockfromleft","frame":"0","from":"z:0;","to":"o:1;","ease":"Power3.easeInOut"},
@@ -210,7 +210,7 @@ include 'header.php' ?>
                 <!-- LAYER 3  Paragraph-->
                 <div class="tp-caption   tp-resizeme" id="slide-74-layer-5" data-x="['left','left','center','center']"
                     data-hoffset="['50','50','0','0']" data-y="['middle','middle','middle','middle']"
-                    data-voffset="['-10','-10','90','-10']" data-fontsize="['21','21','21','21']"
+                    data-voffset="['-10','50','90','-10']" data-fontsize="['21','21','21','21']"
                     data-lineheight="['30','30','30','30']" data-width="['600','600','500','380']" data-height="none"
                     data-whitespace="normal" data-type="text" data-responsive_offset="on"
                     data-frames='[{"delay":200,"speed":750,"sfxcolor":"#fff","sfx_effect":"blockfromleft","frame":"0","from":"z:0;","to":"o:1;","ease":"Power3.easeInOut"},
@@ -289,7 +289,7 @@ include 'header.php' ?>
                 <!-- LAYER 3  Paragraph-->
                 <div class="tp-caption   tp-resizeme" id="slide-75-layer-5" data-x="['left','left','center','center']"
                     data-hoffset="['50','50','0','0']" data-y="['middle','middle','middle','middle']"
-                    data-voffset="['-10','-10','90','-10']" data-fontsize="['21','21','21','21']"
+                    data-voffset="['-10','50','90','-10']" data-fontsize="['21','21','21','21']"
                     data-lineheight="['30','30','30','30']" data-width="['600','600','500','380']" data-height="none"
                     data-whitespace="normal" data-type="text" data-responsive_offset="on"
                     data-frames='[{"delay":200,"speed":750,"sfxcolor":"#fff","sfx_effect":"blockfromleft","frame":"0","from":"z:0;","to":"o:1;","ease":"Power3.easeInOut"},
@@ -368,7 +368,7 @@ include 'header.php' ?>
                 <!-- LAYER 3  Paragraph-->
                 <div class="tp-caption   tp-resizeme" id="slide-76-layer-5" data-x="['left','left','center','center']"
                     data-hoffset="['50','50','0','0']" data-y="['middle','middle','middle','middle']"
-                    data-voffset="['-10','-10','90','-10']" data-fontsize="['21','21','21','21']"
+                    data-voffset="['-10','50','90','-10']" data-fontsize="['21','21','21','21']"
                     data-lineheight="['30','30','30','30']" data-width="['600','600','500','380']" data-height="none"
                     data-whitespace="normal" data-type="text" data-responsive_offset="on"
                     data-frames='[{"delay":200,"speed":750,"sfxcolor":"#fff","sfx_effect":"blockfromleft","frame":"0","from":"z:0;","to":"o:1;","ease":"Power3.easeInOut"},
@@ -447,7 +447,7 @@ include 'header.php' ?>
                 <!-- LAYER 3  Paragraph-->
                 <div class="tp-caption   tp-resizeme" id="slide-77-layer-5" data-x="['left','left','center','center']"
                     data-hoffset="['50','50','0','0']" data-y="['middle','middle','middle','middle']"
-                    data-voffset="['-10','-10','90','-10']" data-fontsize="['21','21','21','21']"
+                    data-voffset="['-10','50','90','-10']" data-fontsize="['21','21','21','21']"
                     data-lineheight="['30','30','30','30']" data-width="['600','600','500','380']" data-height="none"
                     data-whitespace="normal" data-type="text" data-responsive_offset="on"
                     data-frames='[{"delay":200,"speed":750,"sfxcolor":"#fff","sfx_effect":"blockfromleft","frame":"0","from":"z:0;","to":"o:1;","ease":"Power3.easeInOut"},
@@ -527,7 +527,7 @@ include 'header.php' ?>
                 <!-- LAYER 3  Paragraph-->
                 <div class="tp-caption   tp-resizeme" id="slide-78-layer-5" data-x="['left','left','center','center']"
                     data-hoffset="['50','50','0','0']" data-y="['middle','middle','middle','middle']"
-                    data-voffset="['-10','-10','90','-10']" data-fontsize="['21','21','21','21']"
+                    data-voffset="['-10','50','90','-10']" data-fontsize="['21','21','21','21']"
                     data-lineheight="['30','30','30','30']" data-width="['600','600','500','380']" data-height="none"
                     data-whitespace="normal" data-type="text" data-responsive_offset="on"
                     data-frames='[{"delay":200,"speed":750,"sfxcolor":"#fff","sfx_effect":"blockfromleft","frame":"0","from":"z:0;","to":"o:1;","ease":"Power3.easeInOut"},
@@ -606,7 +606,7 @@ include 'header.php' ?>
                 <!-- LAYER 3  Paragraph-->
                 <div class="tp-caption   tp-resizeme" id="slide-79-layer-5" data-x="['left','left','center','center']"
                     data-hoffset="['50','50','0','0']" data-y="['middle','middle','middle','middle']"
-                    data-voffset="['-10','-10','90','-10']" data-fontsize="['21','21','21','21']"
+                    data-voffset="['-10','50','90','-10']" data-fontsize="['21','21','21','21']"
                     data-lineheight="['30','30','30','30']" data-width="['600','600','500','380']" data-height="none"
                     data-whitespace="normal" data-type="text" data-responsive_offset="on"
                     data-frames='[{"delay":200,"speed":750,"sfxcolor":"#fff","sfx_effect":"blockfromleft","frame":"0","from":"z:0;","to":"o:1;","ease":"Power3.easeInOut"},
@@ -710,8 +710,8 @@ include 'header.php' ?>
                         Apartment </a>
                     <a href="#" data-value="1c916087-2e2f-42a9-bb94-b09000ddbddd">Mitcham 3 Bed
                         Apartment </a>
-                    <a href="#" data-value="cf43eb8d-7a02-45e0-9a80-b11b013ac44a">Uxbride 1 Bed Apartment </a>
-                    <a href="#" data-value="17758ea3-6509-49d4-ae84-b1280120533f">Uxbride 2 Bed Apartment </a>
+                    <a href="#" data-value="cf43eb8d-7a02-45e0-9a80-b11b013ac44a">Uxbridge 1 Bed Apartment </a>
+                    <a href="#" data-value="17758ea3-6509-49d4-ae84-b1280120533f">Uxbridge 2 Bed Apartment </a>
                     <!-- Add more options here -->
                 </div>
             </div>
@@ -1046,63 +1046,39 @@ include 'header.php' ?>
                                 <!-- COLUMNS 1 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/work/1.jpg);">
+                                        style="background-image:url(images/leisure/battersea/battersea.jpg);">
                                     </div>
                                 </div>
 
                                 <!-- COLUMNS 2 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/work/2.jpg);">
+                                        style="background-image:url(images/leisure/canary-wharf/canary-wharf.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 3 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/work/3.jpg);">
+                                        style="background-image:url(images/leisure/fulham/stamford-bridge.JPG);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 4 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/work/4.jpg);">
+                                        style="background-image:url(images/leisure/new-malden/motspur-park.jpg);">
                                     </div>
                                 </div>
 
                                 <!-- COLUMNS5 5-->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/work/5.jpg);">
+                                        style="background-image:url(images/leisure/sutton-cheam/nonsuch-park.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS5 6-->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/work/6.jpg);">
-                                    </div>
-                                </div>
-                                <!-- COLUMNS5 7-->
-                                <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/work/7.jpg);">
-                                    </div>
-                                </div>
-                                <!-- COLUMNS5 8-->
-                                <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/work/8.jpg);">
-                                    </div>
-                                </div>
-                                <!-- COLUMNS5 9-->
-                                <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/work/9.jpg);">
-                                    </div>
-                                </div>
-                                <!-- COLUMNS5 10-->
-                                <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/work/10.jpg);">
+                                        style="background-image:url(images/leisure/uxbridge/grand-union-canal.jpg);">
                                     </div>
                                 </div>
                             </div>

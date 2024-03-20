@@ -4,7 +4,8 @@ $title = 'Hybrid Resi | Neighbourhoood | Fulham Palace';
 include 'header.php' ?>
 
 <!-- INNER PAGE BANNER -->
-<div class="mobile-size sx-bnr-inr overlay-wraper bg-parallax" style="background-image:url(images/banner-images/apartments/stay.jpg);">
+<div class="mobile-size sx-bnr-inr overlay-wraper bg-parallax"
+    style="background-image:url(images/banner-images/apartments/stay.jpg);">
     <div class="overlay-main bg-black opacity-05"></div>
     <div class="container">
         <div class="sx-bnr-inr-entry">
@@ -31,7 +32,8 @@ include 'header.php' ?>
 <!-- SECTION CONTENT START -->
 <div class="section-full mobile-page-padding">
     <!-- TITLE -->
-    <div class="large-title-block full-content bg-theme bg-moving bg-repeat-x" style="background-image:url(images/background/green-leaves-pattern.png);">
+    <div class="large-title-block full-content bg-theme bg-moving bg-repeat-x"
+        style="background-image:url(images/background/green-leaves-pattern.png);">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12">
                 <div class="large-title text-white text-center">
@@ -51,38 +53,14 @@ include 'header.php' ?>
                     <div class="widget widget_services">
                         <h4 class="widget-title text-theme-1">Locations</h4>
                         <ul class="pattern-bg1 font-mbold">
-                            <li><a href="#fulham">Fulham Palace</a></li>
-                            <li><a href="#hobble">Hobble Heath</a></li>
-                            <li><a href="#buckingham">Buckingham Palace</a></li>
-                            <li><a href="#tower">Tower of London</a></li>
-                            <li><a href="#natural">Natural History Museum</a></li>
-                            <li><a href="#covent">Covent Garden</a></li>
-                            <li><a href="#hyde">Hyde Park</a></li>
+                            <li><a href="#battersea">Battersea</a></li>
+                            <li><a href="#canary-wharf">Canary Wharf</a></li>
+                            <li><a href="#fulham">Fulham</a></li>
+                            <li><a href="#new-malden">New Malden</a></li>
+                            <li><a href="#sutton-cheam">Sutton Cheam</a></li>
+                            <li><a href="#uxbridge">Uxbridge</a></li>
                         </ul>
                     </div>
-                    <!-- <div class="wt-icon-box-wraper left bg-white p-a15 m-b10">
-                        <a href="#" class="btn-block">
-                            <span class="text-black m-r10"><i class="fa fa-file-pdf-o"></i></span>
-                            <strong class="text-uppercase text-black">Download .PDF</strong>
-                        </a>
-                    </div>
-                    <div class="wt-icon-box-wraper left bg-white p-a15 m-b10">
-                        <a href="#" class="btn-block">
-                            <span class="text-black m-r10"><i class="fa fa-file-word-o"></i></span>
-                            <strong class="text-uppercase text-black"> Download .DOC</strong>
-                        </a>
-                    </div>
-                    <div class="wt-icon-box-wraper left bg-white p-a15 m-b10">
-                        <a href="#" class="btn-block">
-                            <span class="text-black m-r10"><i class="fa fa-file-powerpoint-o"></i></span>
-                            <strong class="text-uppercase text-black">Download .PPT</strong>
-                        </a>
-                    </div>
-                    <div class="about4-content m-t30">
-                        <h4>GET 10% OFF TODAY</h4>
-                        <p align="justify">A Completely Safe and Advanced Cleaning Solution for both Petrol and Diesel Engines</p>
-                        <a href="#" class="site-button-link">Read More</a>
-                    </div> -->
 
                 </div>
             </div>
@@ -90,140 +68,142 @@ include 'header.php' ?>
 
             <div class="col-lg-8 col-md-12">
                 <div class="section-content">
-                    <div id="fulham" class="service-single-block p-t50">
+                    <div id="battersea" class="service-single-block p-t50">
                         <div class="sx-media">
-                            <img src="images/neighbourhood/1.jpg" alt="">
+                            <img src="images/leisure/battersea/battersea.jpg" alt="">
                         </div>
-                        <h3 class="m-t30 sx-tilte text-theme-1">FULHAM PALACE</h3>
-                        <p align="justify">Built-in 658, The Stately Home has been the country residence of the Bishops of London for
-                            over 1300 years.
+                        <h3 class="m-t30 sx-tilte text-theme-1 text-uppercase">Battersea</h3>
+                        <p align="justify">In 2021, the Northern line underground saw expansion with two new stations
+                            opening in Nine Elms and Battersea Power Station, marking a significant development as part
+                            of a major revitalization project initiated in the 2010s. This endeavor aimed to transform
+                            the area into a vibrant district, characterized by luxury apartments, offices, and retail
+                            spaces.
 
-                        <p align="justify">The historic grounds of Fulham Palace on the River Thames have 13 acres of extensive walled
-                            gardens designed in authentic 18th and 19th layouts.</p>
+                        <p align="justify">Battersea Park stands as a cherished community sanctuary, offering a serene
+                            escape
+                            from the urban hustle and bustle. Meanwhile, the Battersea Arts Centre serves as a dynamic
+                            hub for arts and culture, showcasing theatre, comedy, and live music performances alongside
+                            community events.</p>
 
-                        <p align="justify">Stroll around the garden and explore wonderful specimens from Bishop Henry Compton's famous
-                            plant collection to 500-year-old evergreen oak trees.</p>
+                        <p align="justify">The River Thames, a prominent feature along Battersea's northern edge,
+                            provides stunning city views and various recreational opportunities. Northcote Road emerges
+                            as a bustling shopping and dining destination, hosting a weekly market brimming with fresh
+                            produce, delectable street food, and unique crafts. In terms of higher education, Battersea
+                            boasts the presence of esteemed institutions like the Royal College of Art and the
+                            University of Roehampton's Southlands College campus.</p>
 
-                        <p align="justify">Fulham Palace Museum and Art Galleries are also open to the public.</p>
-
-                        <!-- <h4 class="m-t30 sx-tilte">Professional Interior Design Service</h4>
-                        <div class="single-service-list">
-                            <div class="row">
-                                <div class="col-lg-6 col-md-12">
-                                    <ul class="list-angle-right anchor-line">
-                                        <li><a href="#">We provide high quality design services.</a></li>
-                                        <li><a href="#">We are confident about our projects.</a></li>
-                                        <li><a href="#">A good Work Environment For work</a></li>
-                                        <li><a href="#">Communication Skills to getting in touch</a></li>
-                                        <li><a href="#"> Renovations Benefit of Service</a></li>
-                                    </ul>
-                                </div>
-                                <div class="col-lg-6 col-md-12">
-                                    <ul class="list-angle-right anchor-line">
-                                        <li><a href="#">Sustainability and modern tech.</a></li>
-                                        <li><a href="#">A Career Overview opportunity Available</a></li>
-                                        <li><a href="#">Scientific Skills For getting a better result</a></li>
-                                        <li><a href="#"> Historic Renovations and Restorations.</a></li>
-                                        <li><a href="#">Project on time and Latest Design</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="sx-media sx-img-effect zoom-slow">
-                            <div class="sx-thum-bx sx-img-overlay1 sx-img-effect yt-thum-box">
-                                <img src="https://img.youtube.com/vi/Oy2QIiSQT2U/0.jpg" alt="">
-                                <a href="https://www.youtube.com/watch?v=OfFFZnOtqFQ" class="mfp-video play-now">
-                                    <i class="icon fa fa-play"></i>
-                                    <span class="ripple"></span>
-                                </a>
-                            </div>
-                        </div> -->
 
                     </div>
-                    <div id="hobble" class="service-single-block p-t100">
+                    <div id="canary-wharf" class="service-single-block p-t100">
                         <div class="sx-media">
-                            <img src="images/neighbourhood/2.jpg" alt="">
+                            <img src="images/leisure/canary-wharf/canary-wharf.jpg" alt="">
                         </div>
-                        <h3 class="m-t30 sx-tilte text-theme-1">HOBBLE HEATH</h3>
-                        <p align="justify">Hobble Heath is a unique attraction that is full of wonder, mystery, and adventures. The
-                            petting zoo has over 70 farm and zoo animals including capybaras, pygmy goats and meerkats
-                            and a specialist bird of prey center.</p>
+                        <h3 class="m-t30 sx-tilte text-theme-1 text-uppercase">Canary Wharf</h3>
+                        <p align="justify">Nestled within the dynamic district of Canary Wharf, London, Crossharbour
+                            offers an enticing blend of urban sophistication and tranquil charm. With convenient access
+                            to the heart of the city via the Docklands Light Railway (DLR), residents and visitors can
+                            explore iconic landmarks and cultural attractions within 20 minutes. </p>
 
-                        <p align="justify">It has the largest indoor play arenas in London for creative adventure play with wooden
-                            towers, tunnels, slides, chutes, wheels and levers. The outdoor adventure play area has
-                            amazing treehouses, vines and creepers for kids to play and climb around. It is the perfect
-                            place for families to have fun all day in both indoor and outdoor.</p>
+                        <p align="justify">Moreover, the
+                            neighbourhood's proximity to the charming borough of Greenwich provides ample opportunities
+                            for leisurely excursions to its historic sites and the lush expanses of Greenwich Park.
+                            Whether wandering along the scenic waterfront, indulging in world-class dining experiences,
+                            or immersing oneself in the rich history of nearby locales, Crossharbour serves as a vibrant
+                            hub for both relaxation and adventure in the bustling metropolis of London.</p>
 
                     </div>
 
-                    <div id="buckingham" class="service-single-block p-t100">
+                    <div id="fulham" class="service-single-block p-t100">
                         <div class="sx-media">
-                            <img src="images/neighbourhood/3.jpg" alt="">
+                            <img src="images/leisure/fulham/stamford-bridge.JPG" alt="">
                         </div>
-                        <h3 class="m-t30 sx-tilte text-theme-1">BUCKINGHAM PALACE</h3>
-                        <p align="justify">Buckingham Palace, one of Britain's most iconic buildings, was built in 1837 and has been the
-                            London residence of the Royal Family since Queen Victoria's accession.</p>
+                        <h3 class="m-t30 sx-tilte text-theme-1 text-uppercase">Fulham</h3>
+                        <p align="justify">In the bustling Fulham/Chelsea neighborhood of London, football enthusiasts
+                            can immerse themselves in the rich sporting history of London’s oldest professional football
+                            team, Fulham FC, while nearby, Chelsea FC holds court at Stamford Bridge, just a stone's
+                            throw from Fulham Road. </p>
 
-                        <p align="justify">Visitors can purchase tickets for tours of the State Rooms, the Queen’s Gallery and the Royal
-                            Mews when the Queen’s away at her summer palace. The flagpole atop the building indicates
-                            weather the Queen is present or away.</p>
+                        <p align="justify">Fulham residents boast a refined palate, exploring a myriad of
+                            dining options in their vicinity. Nature enthusiasts can unwind with leisurely strolls along
+                            the serene riverside of Bishops Park, Putney Bridge, or enjoy the scenic views by the River
+                            Thames, all conveniently close to Hammersmith. </p>
 
-                        <p align="justify">Experience the Changing of the Guard, the scene of London's most popular and colorful display
-                            of precision marching and music and follow along the band as they march between sites.</p>
+                        <p align="justify">The Design Centre at Chelsea Harbour offers a
+                            haven for design aficionados seeking inspiration and innovation, while foodies can indulge
+                            in the culinary delights of Parsons Green Farmers' Market or the Sunday Bishops Park
+                            Farmers’ and Fine Foods Market. </p>
+
+                        <p align="justify">The Fulham Broadway Shopping Centre beckons with its diverse
+                            array of shops, cinema, health club, and dining establishments. For families seeking
+                            educational options, Fulham hosts two French schools, L’Ecole des Petits for younger pupils
+                            and the French lycee Marie D’Orliac for older students, alongside the popular Fulham College
+                            Boys' School and private institutions like Fulham Prep School and the esteemed London
+                            Oratory School. </p>
 
                     </div>
 
-                    <div id="tower" class="service-single-block p-t100">
+                    <div id="new-malden" class="service-single-block p-t100">
                         <div class="sx-media">
-                            <img src="images/neighbourhood/4.jpg" alt="">
+                            <img src="images/leisure/new-malden/motspur-park.jpg" alt="">
                         </div>
-                        <h3 class="m-t30 sx-tilte text-theme-1">TOWER OF LONDON</h3>
-                        <p align="justify">The magnificent Tower of London, built in 1078 by William the Conqueror, holds the
-                            17th-century Line of Kings with its remarkable displays of royal armaments and armor within.
+                        <h3 class="m-t30 sx-tilte text-theme-1 text-uppercase">New Malden</h3>
+                        <p align="justify">New Malden, situated in the heart of South West London, offers a diverse
+                            array of attractions and activities. Notable landmarks include Motspur Park, home to Fulham
+                            FC's training ground, and the King's College London sports ground, frequented by AFC
+                            Wimbledon.
                         </p>
 
-                        <p align="justify">From prison to palace, treasure vault to private zoo, this spectacular World Heritage Site
-                            has fulfilled many different roles over the centuries thus offering hours of fascination for
-                            visitors with its rich history.</p>
+                        <p align="justify">The neighborhood is renowned for its vibrant Korean community, boasting
+                            Korean
+                            language churches, nursery schools, and a variety of restaurants and shops catering to
+                            Korean clientele. The Malden Centre serves as a hub for recreational activities, featuring a
+                            swimming pool, gym, and community facilities, along with adult learning courses. Beverley
+                            Park offers ample outdoor leisure opportunities, including a football pitch, tennis courts,
+                            playground, and open space.</p>
 
-                        <p align="justify">Other highlights include the famous Crown Jewels exhibition, the Beefeaters, the Royal Mint,
-                            gruesome exhibits about the executions as well as the Bloody Tower with stories of ancient
-                            torture.</p>
+                        <p align="justify">OFor family-friendly fun, residents can enjoy a round of
+                            "Dino-Golf" at the themed crazy golf course or practice their swing at the floodlit golf
+                            driving range. Nature enthusiasts will appreciate the proximity to Wimbledon Common and
+                            Richmond Park, while sports enthusiasts can join the Malden Wanderers Cricket & Lawn Tennis
+                            Club for a range of sporting activities.</p>
 
                     </div>
 
-                    <div id="natural" class="service-single-block p-t100">
+                    <div id="sutton-cheam" class="service-single-block p-t100">
                         <div class="sx-media">
-                            <img src="images/neighbourhood/5.jpg" alt="">
+                            <img src="images/leisure/sutton-cheam/nonsuch-park.jpg" alt="">
                         </div>
-                        <h3 class="m-t30 sx-tilte text-theme-1">NATURAL HISTORY MUSEUM</h3>
-                        <p align="justify">Established in 1754, London's spectacular Natural History Museum remains one of the
-                            most-visited such attractions on the planet and leading science research centre.</p>
+                        <h3 class="m-t30 sx-tilte text-theme-1 text-uppercase">Sutton Cheam</h3>
+                        <p align="justify">Cheam, situated within the vibrant community of Sutton, offers an array of
+                            attractions and activities for residents and visitors alike. Situated in close proximity to
+                            the picturesque Nonsuch Park and Cheam Park, outdoor enthusiasts can enjoy leisurely
+                            strolls, picnics, and various recreational activities. </p>
 
-                        <p align="justify">Many of the museum's original exhibits are still on display centuries later, and together
-                            comprise a massive collection of more than 80 million items. A highlight of a visit is
-                            seeing the preserved specimens that Charles Darwin collected on his epic journeys.</p>
-
-                        <p align="justify">A variety of fun events are held regularly, from workshops for kids to late night openings.
-                            Shopping opportunities are located on-site, along with several dining options.</p>
+                        <p align="justify">The neighborhood boasts a selection
+                            of esteemed schools, including Nonsuch High School, a prestigious grammar school for girls,
+                            and Cheam High School, a prominent mixed comprehensive school located on Chatsworth Road.
+                            Sports enthusiasts can indulge their passion at the renowned Sutton Tennis Academy, offering
+                            top-notch facilities and coaching for players of all levels.</p>
 
                     </div>
 
-                    <div id="covent" class="service-single-block p-t100">
+                    <div id="uxbridge" class="service-single-block p-t100">
                         <div class="sx-media">
                             <img src="images/neighbourhood/6.jpg" alt="">
                         </div>
-                        <h3 class="m-t30 sx-tilte text-theme-1">COVENT GARDEN</h3>
-                        <p align="justify">Covent Garden is a vibrant, must-see destination for anyone who enjoys shopping, restaurants,
-                            bars and theatre. The halls and arcades of the Covent Garden Market are lined with specialty
-                            shops and kiosks selling everything from teas to fine handcrafts to tacky souvenirs.</p>
+                        <h3 class="m-t30 sx-tilte text-theme-1 text-uppercase">Uxbridge</h3>
+                        <p align="justify">Uxbridge offers a delightful mix of suburban allure and modern conveniences.
+                            With the Metropolitan line providing quick access to Baker Street in just 30 minutes,
+                            residents and visitors can easily immerse themselves in the bustling heart of the city.
+                            Uxbridge boasts attractions such as the esteemed Brunel University and the tranquil Uxbridge
+                        </p>
 
-                        <p align="justify">It has over hundreds of restaurants offering a variety of dishes, making it a foodie
-                            paradise. You can enjoy afternoon tea with your family, taste some of the tastiest cocktails
-                            at the bars or book a show at the Royal Opera House and enjoy some of the best creative arts
-                            after a day of exploring. The London Transport Museum, a kid-centric haven for those who
-                            love all things vehicular. Filled with historic buses, trolleys, and trams, children and
-                            adults alike will love this interactive transportation hub.</p>
+                        <p align="justify">Public Golf Course, catering to academic pursuits and leisurely outdoor
+                            activities.
+                            Additionally, just 10 minutes to the south lies Stockley Park, a landscaped business hub
+                            housing numerous international companies. To the west, the Grand Union Canal offers a scenic
+                            escape, with locals often enjoying visits to Cowley Lock, a charming conservation area
+                            perfect for canal cruises and leisurely strolls.</p>
 
                     </div>
 
@@ -232,14 +212,17 @@ include 'header.php' ?>
                             <img src="images/neighbourhood/7.jpg" alt="">
                         </div>
                         <h3 class="m-t30 sx-tilte text-theme-1">HYDE PARK</h3>
-                        <p align="justify">Covering 350 acres in the heart of London, Hyde Park is London's largest open space and has
+                        <p align="justify">Covering 350 acres in the heart of London, Hyde Park is London's largest open
+                            space and has
                             been a destination for sightseers since 1635.</p>
 
-                        <p align="justify">Start the trail with the Diana Memorial Fountain, the Serpentine an 18th-century man-made
+                        <p align="justify">Start the trail with the Diana Memorial Fountain, the Serpentine an
+                            18th-century man-made
                             lake popular for boating and swimming and admire the views across the lake from a waterside
                             café.</p>
 
-                        <p align="justify">For indoor activities, explore the first duke of Wellington's magnificent collections of
+                        <p align="justify">For indoor activities, explore the first duke of Wellington's magnificent
+                            collections of
                             paintings, including Velázquez's The Waterseller of Seville, along with gifts presented by
                             grateful European kings and emperors in the Apsley House.</p>
 

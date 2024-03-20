@@ -1,6 +1,6 @@
 <?php
-$page = 'apartments';
-$title = 'Hybrid Resi | The Apartments';
+$page = 'locations';
+$title = 'Hybrid Resi | London';
 include 'header.php' ?>
 
 <!-- SLIDER START -->
@@ -74,6 +74,114 @@ include 'header.php' ?>
 </div>
 <!-- SLIDER END -->
 
+<!-- MEWS FORM SECTION START -->
+<div class="section-full justify-content-center flex-display">
+    <div id="myForm" class="form-booking booking-form large-title-block full-content bg-repeat"
+        style="background-image:url(images/background/transparent-leaves-pattern.png);">
+        <div class="form-item">
+            <label for="checkout">Apartments*</label>
+            <div class="custom-dropdown">
+                <button type="button" class="dropbtn">
+                    <!-- Replace with your actual icon -->
+                    <span class="dropbtn-text">Select Apartment</span>
+                </button>
+                <div id="myDropdown" class="dropdown-content">
+                    <a href="#" data-value="cd309169-8d29-4fc3-bd34-af35007a5f9d">Fulham 1 Bed
+                        Apartment</a>
+                    <a href="#" data-value="4f067641-dc29-4de9-bcb9-af35007a5f9d"> Fulham 2 Bed
+                        Apartment </a>
+                    <a href="#" data-value="7b38b08e-9642-42ba-b657-af35007a5f9d"> Fulham 3 Bed
+                        Apartment </a>
+                    <a href="#" data-value="87ad2a03-c757-4589-9131-af35007a5f9d"> Wandsworth 1
+                        Bed Apartment </a>
+                    <a href="#" data-value="a36923f2-eb5b-4145-b59a-af35007a5f9d"> Wandsworth 2
+                        Bed Apartment </a>
+                    <a href="#" data-value="1c7c022b-3f7e-4640-af5f-af4900c50cf1">Battersea 1 Bed
+                        Apartment </a>
+                    <a href="#" data-value="c0cd7d37-7f1a-4107-a02b-af4900c0bccd">Battersea 2 Bed
+                        Apartment </a>
+                    <a href="#" data-value="b9cb985e-c46b-451b-a898-af4900c6669f">Battersea 3 Bed
+                        Apartment </a>
+                    <a href="#" data-value="7953b35c-8460-4be6-8ac2-af9a00b493b9">Canary Wharf 1
+                        Bed Apartment </a>
+                    <a href="#" data-value="b2bce49e-49ba-4bd5-b52e-af9a00ba3405">Canary Wharf 2
+                        Bed Apartment </a>
+                    <a href="#" data-value="94b521d7-fe52-4575-8ff7-af9e00cf2fb3">Sutton Cheam 1
+                        Bed Apartment </a>
+                    <a href="#" data-value="6d21b484-418b-486c-a1d0-af9e00d1db7c">Sutton Cheam 2
+                        Bed Apartment </a>
+                    <a href="#" data-value="f93093c6-ba5b-4631-96a4-afd100b305bf">New Malden 1 Bed
+                        Apartment </a>
+                    <a href="#" data-value="d21f44dc-119f-4184-a562-afd100b6c0e2">New Malden 3 Bed
+                        Apartment </a>
+                    <a href="#" data-value="916ccc0f-b398-4812-808f-b09000d170e9">Mitcham 1 Bed
+                        Apartment </a>
+                    <a href="#" data-value="1253e90e-3881-46b2-b075-b09000dd27f2">Mitcham 2 Bed
+                        Apartment </a>
+                    <a href="#" data-value="1c916087-2e2f-42a9-bb94-b09000ddbddd">Mitcham 3 Bed
+                        Apartment </a>
+                    <a href="#" data-value="cf43eb8d-7a02-45e0-9a80-b11b013ac44a">Uxbridge 1 Bed Apartment </a>
+                    <a href="#" data-value="17758ea3-6509-49d4-ae84-b1280120533f">Uxbridge 2 Bed Apartment </a>
+                    <!-- Add more options here -->
+                </div>
+            </div>
+
+        </div>
+
+        <div class="form-item dp-none">
+            <input type="hidden" id="selected-apartment-id" name="apartment_id">
+        </div>
+
+        <div class="form-item">
+            <label for="checkin">Check-in*</label>
+            <!-- <div class="input-with-icon"> -->
+            <input type="text" id="checkin" name="checkin" placeholder="Check-in Date">
+            <!-- Include your calendar icon here -->
+            <!-- </div> -->
+        </div>
+
+
+
+        <div class="form-item">
+            <label for="checkout">Check-out*</label>
+            <input type="text" id="checkout" name="checkout" placeholder="Check-Out Date">
+        </div>
+
+        <div class="form-item dp-none">
+            <input type="hidden" id="api_checkin" name="api_checkin">
+            <input type="hidden" id="api_checkout" name="api_checkout">
+        </div>
+
+        <div class="form-item">
+            <label for="adults">Adults*</label>
+            <div class="increment-buttons">
+                <button type="button" id="decrease-adults">-</button>
+                <input type="number" id="adults" name="adults" min="1" value="2">
+                <button type="button" id="increase-adults">+</button>
+            </div>
+        </div>
+
+        <div class="form-item">
+            <label for="children">Children</label>
+            <div class="increment-buttons">
+                <button type="button" id="decrease-children">-</button>
+                <input type="number" id="children" name="children" value="0">
+                <button type="button" id="increase-children">+</button>
+            </div>
+        </div>
+
+        <div class="form-item">
+            <a href="#"
+                onClick="gtag('event', 'Check Availability', { event_category: 'Check Availability', event_action: 'Check Availability'});"
+                class="site-button-secondry btn-half text-center" id="checkavailibilityBTN"><span>Check
+                    Availability</span></a>
+        </div>
+        <span class="error-message"></span>
+        <span class="form-message">Minimum 7 nights stay required*</span>
+
+    </div>
+</div>
+<!-- MEWS FORM SECTION END -->
 
 <!-- SECTION 2 START -->
 <div class="section-full p-b50 mobile-page-padding">
@@ -154,8 +262,7 @@ include 'header.php' ?>
                     <div class="col-12">
                         <div class="our-history-content m-b30">
                             <div class="large-title">
-                                <h2 class="m-t20">Fulham</h2>
-                                <!-- <h4>Perth, Australia</h4> -->
+                                <h2 class="m-t20">Fulham - London</h2>
                             </div>
                             <p align="justify">These contemporary apartments on bustling Fulham Road provides every
                                 guest
@@ -235,7 +342,7 @@ include 'header.php' ?>
                     <div class="col-12">
                         <div class="our-history-content m-b30">
                             <div class="large-title">
-                                <h2 class="m-t20">Wandsworth</h2>
+                                <h2 class="m-t20">Wandsworth - London</h2>
                             </div>
                             <p align="justify">These contemporary apartments in the vibrant Wandsworth area offer every
                                 guest their
@@ -312,8 +419,7 @@ include 'header.php' ?>
                     <div class="col-12">
                         <div class="our-history-content m-b30">
                             <div class="large-title">
-                                <h2 class="m-t20">Battersea</h2>
-                                <!-- <h4>Amman, Jordan</h4> -->
+                                <h2 class="m-t20">Battersea - London</h2>
                             </div>
                             <p align="justify">This characterful Victorian-era building with curlicue trims, bright
                                 colours,
@@ -325,7 +431,7 @@ include 'header.php' ?>
                                 Clapham Junction Train Station.
                                 As an extended serviced apartment, you'll find everything you need for a B'leisure stay.
                             </p>
-                            <a href="javascript:;" class="site-button-secondry btn-half"><span>Learn More</span></a>
+                            <a href="battersea.php" class="site-button-secondry btn-half"><span>Learn More</span></a>
 
                         </div>
                     </div>
@@ -392,8 +498,7 @@ include 'header.php' ?>
                     <div class="col-12">
                         <div class="our-history-content m-b30">
                             <div class="large-title">
-                                <h2 class="m-t20">Canary Wharf</h2>
-                                <!-- <h4>Amman, Jordan</h4> -->
+                                <h2 class="m-t20">Canary Wharf - London</h2>
                             </div>
                             <p align="justify">On the doorstep of Canary Wharf but with a creative dockside identity all
                                 its
@@ -404,7 +509,7 @@ include 'header.php' ?>
                                 from London City Airport and only 2 minutes from Cross harbour Train Station.
                                 As an extended serviced apartment, you'll find everything you need for a B'leisure stay.
                             </p>
-                            <a href="javascript:;" class="site-button-secondry btn-half"><span>Learn More</span></a>
+                            <a href="canary-wharf.php" class="site-button-secondry btn-half"><span>Learn More</span></a>
 
                         </div>
                     </div>
@@ -471,8 +576,7 @@ include 'header.php' ?>
                     <div class="col-12">
                         <div class="our-history-content m-b30">
                             <div class="large-title">
-                                <h2 class="m-t20">Sutton Cheam</h2>
-                                <!-- <h4>Amman, Jordan</h4> -->
+                                <h2 class="m-t20">Sutton Cheam - London</h2>
                             </div>
                             <p align="justify">Located in the London Borough of Sutton, London, Cheam is within easy
                                 reach
@@ -486,7 +590,9 @@ include 'header.php' ?>
                                 from London Gatwick Airport and only 2 minutes from Cheam Train Station. Under 15
                                 minutes to/from Lidl House (Great Britain Head Office).
                             </p>
-                            <a href="javascript:;" class="site-button-secondry btn-half"><span>Learn More</span></a>
+                            <p class="mediumbp" align="justify">Onsite car parking is subject to availability - The
+                                management bears no responsibility for vehicles parked in our parking bay.</p>
+                            <a href="sutton-cheam.php" class="site-button-secondry btn-half"><span>Learn More</span></a>
 
                         </div>
                     </div>
@@ -565,8 +671,7 @@ include 'header.php' ?>
                     <div class="col-12">
                         <div class="our-history-content m-b30">
                             <div class="large-title">
-                                <h2 class="m-t20">New Malden</h2>
-                                <!-- <h4>Amman, Jordan</h4> -->
+                                <h2 class="m-t20">New Malden - London</h2>
                             </div>
                             <p align="justify">These contemporary apartments in New Malden, Royal Borough of Kingston
                                 upon
@@ -580,7 +685,7 @@ include 'header.php' ?>
                                 include Kingston, Norbiton, Raynes Park, Surbiton, Tolworth, and Worcester Park and only
                                 a 10 -15-minute drive to Wimbledon.
                             </p>
-                            <a href="javascript:;" class="site-button-secondry btn-half"><span>Learn More</span></a>
+                            <a href="new-malden.php" class="site-button-secondry btn-half"><span>Learn More</span></a>
 
                         </div>
                     </div>
@@ -659,8 +764,7 @@ include 'header.php' ?>
                     <div class="col-12">
                         <div class="our-history-content m-b30">
                             <div class="large-title">
-                                <h2 class="m-t20">Mitcham</h2>
-                                <!-- <h4>Amman, Jordan</h4> -->
+                                <h2 class="m-t20">Mitcham - London</h2>
                             </div>
                             <p align="justify">This brand-new sustainable Serviced Apartment building in Mitcham
                                 provides
@@ -670,7 +774,103 @@ include 'header.php' ?>
                                 and Tooting. The River Wandle bounds the town to the southwest.
                                 As a Corporate serviced apartment, you'll find everything you need for a B'leisure stay.
                             </p>
-                            <a href="javascript:;" class="site-button-secondry btn-half"><span>Learn More</span></a>
+                            <a href="mitcham.php" class="site-button-secondry btn-half"><span>Learn More</span></a>
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-12 pic-bg-border">
+                        <div class="work-carousel-outer">
+                            <div
+                                class="owl-carousel mfp-gallery project-carousel home-carousel owl-btn-vertical-center">
+                                <!-- COLUMNS 1 -->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/london/uxbridge/1-bed/2.jpg);">
+                                    </div>
+                                </div>
+
+                                <!-- COLUMNS 2 -->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/london/uxbridge/2-bed/2.jpg);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS 3 -->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/london/uxbridge/1-bed/4.jpg);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS 4 -->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/london/uxbridge/2-bed/3.jpg);">
+                                    </div>
+                                </div>
+
+                                <!-- COLUMNS 5 -->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/london/uxbridge/1-bed/7.jpg);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS 6 -->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/london/uxbridge/2-bed/4.jpg);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS 7 -->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/london/uxbridge/1-bed/8.jpg);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS 8 -->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/london/uxbridge/2-bed/15.jpg);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS 9 -->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/london/uxbridge/1-bed/11.jpg);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS 10 -->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/london/uxbridge/2-bed/17.jpg);">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12">
+                        <div class="our-history-content m-b30">
+                            <div class="large-title">
+                                <h2 class="m-t20">Uxbridge - London</h2>
+                            </div>
+                            <p align="justify">These contemporary apartments in Uxbridge, a suburban town in north-west
+                                London, provide every guest with their perfect home within Greater London with 50
+                                minutes
+                                of
+                                direct travel by Metropolitan Line to King's Cross and 30 minutes
+                                to Baker Street. Apartments are located 5 minutes' walk from Uxbridge underground
+                                station and 2 minutes from the High Street. Uxbridge station lies at the end of both the
+                                Metropolitan and Piccadilly lines.  
+                                Uxbridge is 5 minutes from the M40, 10 minutes from the M25, and 15
+                                minutes from the M4 and Heathrow. 
+                                As a Corporate serviced apartment, you'll find everything you need
+                                for a B'leisure stay.
+                            </p>
+                            <p class="mediumbp" align="justify">Onsite car parking is subject to availability - The
+                                management bears no responsibility for vehicles parked in our parking bay.</p>
+                            <a href="uxbridge.php" class="site-button-secondry btn-half"><span>Learn More</span></a>
 
                         </div>
                     </div>
@@ -678,7 +878,6 @@ include 'header.php' ?>
             </div>
         </div>
     </div>
-</div>
 </div>
 <!-- SECTION 2 END -->
 

@@ -1,6 +1,6 @@
 <?php
 $page = 'locations';
-$title = 'Hybrid Resi | Canary Wharf';
+$title = 'Hybrid Resi | Uxbridge';
 include 'header.php' ?>
 
 <!-- SLIDER START -->
@@ -86,8 +86,8 @@ include 'header.php' ?>
                     <span class="dropbtn-text">Select Apartment</span>
                 </button>
                 <div id="myDropdown" class="dropdown-content">
-                    <a href="#" data-value="cf43eb8d-7a02-45e0-9a80-b11b013ac44a">Uxbride 1 Bed Apartment </a>
-                    <a href="#" data-value="17758ea3-6509-49d4-ae84-b1280120533f">Uxbride 2 Bed Apartment </a>
+                    <a href="#" data-value="cf43eb8d-7a02-45e0-9a80-b11b013ac44a">Uxbridge 1 Bed Apartment </a>
+                    <a href="#" data-value="17758ea3-6509-49d4-ae84-b1280120533f">Uxbridge 2 Bed Apartment </a>
                     <!-- Add more options here -->
                 </div>
             </div>
@@ -159,16 +159,21 @@ include 'header.php' ?>
 
                     <div class="about-home-3 m-b30 bg-white">
                         <h3 class="m-t0 m-b20 sx-tilte text-center text-uppercase">Hybrid Resi - Uxbridge</h3>
-                        <p align="justify" class="list-angle-right anchor-line text-center">
-                            On the doorstep of Canary Wharf but with a creative dockside identity all its own, the
-                            Isle of Dogs is an atmospheric and historic corner of London. Reimagined for a new
-                            generation, this vibrant and unique riverside neighbourhood is now home to Dock East.
-
-                            Hybrid Resi – Canary Wharf supplies corporate serviced accommodation in London, 4 miles
-                            from London City Airport and only 2 minutes from Cross harbour Train Station.
-                            As an extended serviced apartment, you'll find everything you need for a B'leisure stay.
-
+                        <p align="justify">These contemporary apartments in Uxbridge, a suburban town in north-west
+                            London, provide every guest with their perfect home within Greater London with 50
+                            minutes
+                            of
+                            direct travel by Metropolitan Line to King's Cross and 30 minutes
+                            to Baker Street. Apartments are located 5 minutes' walk from Uxbridge underground
+                            station and 2 minutes from the High Street. Uxbridge station lies at the end of both the
+                            Metropolitan and Piccadilly lines.  
+                            Uxbridge is 5 minutes from the M40, 10 minutes from the M25, and 15
+                            minutes from the M4 and Heathrow. 
+                            As a Corporate serviced apartment, you'll find everything you need
+                            for a B'leisure stay.
                         </p>
+                        <p class="mediumbp" align="justify">Onsite car parking is subject to availability - The
+                            management bears no responsibility for vehicles parked in our parking bay.</p>
                     </div>
                 </div>
 
@@ -259,12 +264,6 @@ include 'header.php' ?>
                                         style="background-image:url(images/london/uxbridge/1-bed/11.jpg);">
                                     </div>
                                 </div>
-                                <!-- COLUMNS5 12-->
-                                <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/uxbridge/1-bed/12.jpg);">
-                                    </div>
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -272,15 +271,15 @@ include 'header.php' ?>
                         <div class="our-history-content m-b30">
                             <div class="large-title">
                                 <h1 class="m-t20 text-uppercase">One Bedroom Apartment</h1>
-                                <!-- <h4>Perth, Australia</h4> -->
                             </div>
-                            <p align="justify">This one-bedroom apartment features a Double bed with a Hybrid office
-                                desk & an executive chair along with LG split screen monitor, a bathroom, a living area
-                                with wooden flooring, and a fully equipped kitchen with an oven, hob, microwave, fridge
-                                freezer, dishwasher and Washing machine. Apartment facilities include a dining area,
-                                Smart TV, and free internet access.<br>
+                            <p align="justify">This one-bedroom apartment features a king-size bed
+                                with a Hybrid office desk & an executive chair, a full bathroom, and a toilet only
+                                bathroom, a living area, and a fully equipped kitchen with an oven, hob, microwave,
+                                fridge freezer and a combo Washer/Dryer machine. Apartment facilities include a dining
+                                area,
+                                Smart TV, and free internet access. <br>
                                 <span class="m-t10 badge badge-primary"><img src="images/icons/scale.png"> Area : Approx
-                                    35 Sqm</span>
+                                    55 Sqm</span>
                             </p>
 
                             <a target="_blank" href="https://my.matterport.com/show/?m=5kU8XHFSVJf&play=1&hr=1&ts=0"
@@ -522,17 +521,16 @@ include 'header.php' ?>
                             <div class="large-title">
                                 <h1 class="m-t20 text-uppercase">Three Bedrooms Apartment</h1>
                             </div>
-                            <p align="justify">This Two-bedroom apartment features a King size bed and a Double
-                                size bed
-                                with one/two bathrooms, a Hybrid office desk and an executive chair along with
-                                LG split
-                                screen monitor, a modern living area with wooden flooring, a fully equipped
-                                kitchen with
-                                oven, hob, microwave, fridge freezer and a communal garden. Apartment facilities
-                                include
-                                a dining area, Smart TV, and free internet access.<br>
+                            <p align="justify">The most spacious of our apartments, three bed apartments
+                                is perfect for families or those looking for a larger apartment for a longer stay.
+                                Flooded with natural light our beautiful three bedrooms come with a Super King (Zip &
+                                link), Double and a single bed. The apartment boasts a fully equipped kitchen with an
+                                oven,
+                                hob, microwave, fridge freezer and a combo Washer/Dryer machine, dining space and two
+                                bathrooms. These apartments are the perfect match for a family home in London, with
+                                plenty of room to relax and work. Apartments features a private balcony. <br>
                                 <span class="m-t10 badge badge-primary"><img src="images/icons/scale.png"> Area : Approx
-                                    60 Sqm</span>
+                                    90 Sqm</span>
                             </p>
                             <a target="_blank" href="https://my.matterport.com/show/?m=KcczuzViXir&play=1&hr=1&ts=0"
                                 class="site-button-secondry btn-half"><span> Virtual Tour</span></a>
@@ -672,7 +670,7 @@ include 'header.php' ?>
 <!-- CATEGORIES SECTION END -->
 
 <!-- MAPS SECTION START -->
-<div class="section-full p-b50 inner-page-padding">
+<!-- <div class="section-full p-b50 inner-page-padding">
     <div class="container">
         <div class="section-content ">
             <iframe class="map-div" frameborder="0" style="border:0" referrerpolicy="no-referrer-when-downgrade"
@@ -681,7 +679,7 @@ include 'header.php' ?>
                 allowfullscreen>></iframe>
         </div>
     </div>
-</div>
+</div> -->
 <!-- MAPS SECTION END -->
 
 
