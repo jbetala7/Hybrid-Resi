@@ -322,11 +322,16 @@ include 'header.php' ?>
                             <div class="large-title">
                                 <h1 class="m-t20 text-uppercase">One Bedroom Apartment</h1>
                             </div>
-                            <p align="justify">Explore our modern one-bedroom units nestled in Marina Dubai, ranging from approximately 57 to 80 sq.
-                                m, boasting luxurious floor finishing and accommodating up to 2 people, with select units featuring sofa
-                                beds to accommodate up to 2 guests. Each apartment includes 1 parking space. The spacious living rooms
-                                are elegantly designed in a contemporary style, while our fully equipped kitchens offer everything you
-                                need for cooking, from toasters to coffee machines. Some units offer balconies boasting iconic
+                            <p align="justify">Explore our modern one-bedroom units nestled in Marina Dubai, ranging
+                                from approximately 57 to 80 sq.
+                                m, boasting luxurious floor finishing and accommodating up to 2 people, with select
+                                units featuring sofa
+                                beds to accommodate up to 2 guests. Each apartment includes 1 parking space. The
+                                spacious living rooms
+                                are elegantly designed in a contemporary style, while our fully equipped kitchens offer
+                                everything you
+                                need for cooking, from toasters to coffee machines. Some units offer balconies boasting
+                                iconic
                                 views, while select buildings feature swimming pools for residents to enjoy.<br>
                                 <span class="m-t10 badge badge-primary"><img src="images/icons/scale.png"> Area : Approx
                                     57 -80 Sqm</span>
@@ -345,13 +350,17 @@ include 'header.php' ?>
 
                     <div class="row">
                         <div class="col-md-12" data-aos="fade-up" data-aos-duration="800">
-                            <h3 class="mt-tb20">Amenities in one bedroom
+                            <h3 class="mt-tb20">Amenities in two bedrooms
                                 apartments:</h3>
                             <div class="ambox m-b50">
                                 <div class="row">
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/guest.png"
                                             class="img-center">
                                         <p class="text-center smallp">2 Guests</p>
+                                    </div>
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/storage.png"
+                                            class="img-center">
+                                        <p class="text-center smallp">Storage Space</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/fridge.png"
                                             class="img-center">
@@ -362,8 +371,8 @@ include 'header.php' ?>
                                         <p class="text-center smallp">Microwave</p>
                                     </div>
 
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
-                                            src="images/icons/double-bed.png" class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/king-bed.png"
+                                            class="img-center">
                                         <p class="text-center smallp">King Bed</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/hairdryer.png"
@@ -376,15 +385,23 @@ include 'header.php' ?>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/smart-tv.png"
                                             class="img-center">
-                                        <p class="text-center smallp">Smart TV</p>
+                                        <p class="text-center smallp">Flat screen TV</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
                                             src="images/icons/fiber-optic.png" class="img-center">
                                         <p class="text-center smallp">Superfast WIFI</p>
                                     </div>
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/safe.png"
+                                            class="img-center">
+                                        <p class="text-center smallp">E-Safe</p>
+                                    </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/crockery.png"
                                             class="img-center">
                                         <p class="text-center smallp">Crockery & Cutlery</p>
+                                    </div>
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/coffee-machine.png" class="img-center">
+                                        <p class="text-center smallp">Coffee Machine</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
                                             src="images/icons/washing-machine.png" class="img-center">
@@ -397,6 +414,14 @@ include 'header.php' ?>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/kitchen.png"
                                             class="img-center">
                                         <p class="text-center smallp">Fully Fitted Kitchen</p>
+                                    </div>
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/dishwasher.png" class="img-center">
+                                        <p class="text-center smallp">Dishwasher</p>
+                                    </div>
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/split-monitor.png" class="img-center">
+                                        <p class="text-center smallp">LG Split Monitor Screen</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
                                             src="images/icons/welcome-kit.png" class="img-center">
@@ -412,7 +437,7 @@ include 'header.php' ?>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
                                             src="images/icons/toiletries.png" class="img-center">
-                                        <p class="text-center smallp">400ml Toiletries</p>
+                                        <p class="text-center smallp">400ml Toiletries & Towels</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/mattress.png"
                                             class="img-center">
@@ -422,9 +447,29 @@ include 'header.php' ?>
                                             src="images/icons/weekly-cleaning.png" class="img-center">
                                         <p class="text-center smallp">Weekly Housekeeping</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/check-in.png"
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/parking.png"
                                             class="img-center">
-                                        <p class="text-center smallp">Self Checkin-in</p>
+                                        <p class="text-center smallp">Car parking</p>
+                                    </div>
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/swimming-pool.png" class="img-center">
+                                        <p class="text-center smallp">Swimming Pool</p>
+                                    </div>
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/concierge.png"
+                                            class="img-center">
+                                        <p class="text-center smallp">Concierge</p>
+                                    </div>
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/ai-conditioner.png"
+                                            class="img-center">
+                                        <p class="text-center smallp">Air Conditioning</p>
+                                    </div>
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/24-hours-support.png"
+                                            class="img-center">
+                                        <p class="text-center smallp">24H Support Line</p>
+                                    </div>
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/meet-greet.png"
+                                            class="img-center">
+                                        <p class="text-center smallp">Meet and Greet</p>
                                     </div>
                                 </div>
                             </div>
@@ -542,12 +587,14 @@ include 'header.php' ?>
                             <div class="large-title">
                                 <h1 class="m-t20 text-uppercase">Two Bedrooms Apartment</h1>
                             </div>
-                            <p align="justify">Indulge in unmatched luxury in our spacious two-bedroom apartments located in Marina
+                            <p align="justify">Indulge in unmatched luxury in our spacious two-bedroom apartments
+                                located in Marina
                                 Dubai, spanning approximately from 100 to 125 sqm. Guests enjoy complimentary Wi-Fi and
                                 access to our 24/7 concierge service, along with complimentary drinks, tea, and coffee,
                                 while your valuables remain secure in the provided electronic safe. All guests benefit
                                 from complimentary parking and access to building amenities, promising an unforgettable
-                                stay in Dubai&#39;s vibrant Marina district. Some units offer balconies boasting iconic views,
+                                stay in Dubai&#39;s vibrant Marina district. Some units offer balconies boasting iconic
+                                views,
                                 while select buildings feature swimming pools for residents to enjoy.<br>
                                 <span class="m-t10 badge badge-primary"><img src="images/icons/scale.png"> Area : Approx
                                     100 - 125 Sqm</span>
@@ -572,7 +619,11 @@ include 'header.php' ?>
                                 <div class="row">
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/guest.png"
                                             class="img-center">
-                                        <p class="text-center smallp">4 Guests</p>
+                                        <p class="text-center smallp">2 Guests</p>
+                                    </div>
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/storage.png"
+                                            class="img-center">
+                                        <p class="text-center smallp">Storage Space</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/fridge.png"
                                             class="img-center">
@@ -583,8 +634,8 @@ include 'header.php' ?>
                                         <p class="text-center smallp">Microwave</p>
                                     </div>
 
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
-                                            src="images/icons/double-bed.png" class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/king-bed.png"
+                                            class="img-center">
                                         <p class="text-center smallp">King Bed</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/hairdryer.png"
@@ -597,15 +648,23 @@ include 'header.php' ?>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/smart-tv.png"
                                             class="img-center">
-                                        <p class="text-center smallp">Smart TV</p>
+                                        <p class="text-center smallp">Flat screen TV</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
                                             src="images/icons/fiber-optic.png" class="img-center">
                                         <p class="text-center smallp">Superfast WIFI</p>
                                     </div>
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/safe.png"
+                                            class="img-center">
+                                        <p class="text-center smallp">E-Safe</p>
+                                    </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/crockery.png"
                                             class="img-center">
                                         <p class="text-center smallp">Crockery & Cutlery</p>
+                                    </div>
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/coffee-machine.png" class="img-center">
+                                        <p class="text-center smallp">Coffee Machine</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
                                             src="images/icons/washing-machine.png" class="img-center">
@@ -618,6 +677,14 @@ include 'header.php' ?>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/kitchen.png"
                                             class="img-center">
                                         <p class="text-center smallp">Fully Fitted Kitchen</p>
+                                    </div>
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/dishwasher.png" class="img-center">
+                                        <p class="text-center smallp">Dishwasher</p>
+                                    </div>
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/split-monitor.png" class="img-center">
+                                        <p class="text-center smallp">LG Split Monitor Screen</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
                                             src="images/icons/welcome-kit.png" class="img-center">
@@ -633,7 +700,7 @@ include 'header.php' ?>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
                                             src="images/icons/toiletries.png" class="img-center">
-                                        <p class="text-center smallp">400ml Toiletries</p>
+                                        <p class="text-center smallp">400ml Toiletries & Towels</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/mattress.png"
                                             class="img-center">
@@ -643,9 +710,29 @@ include 'header.php' ?>
                                             src="images/icons/weekly-cleaning.png" class="img-center">
                                         <p class="text-center smallp">Weekly Housekeeping</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/check-in.png"
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/parking.png"
                                             class="img-center">
-                                        <p class="text-center smallp">Self Checkin-in</p>
+                                        <p class="text-center smallp">Car parking</p>
+                                    </div>
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/swimming-pool.png" class="img-center">
+                                        <p class="text-center smallp">Swimming Pool</p>
+                                    </div>
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/concierge.png"
+                                            class="img-center">
+                                        <p class="text-center smallp">Concierge</p>
+                                    </div>
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/ai-conditioner.png"
+                                            class="img-center">
+                                        <p class="text-center smallp">Air Conditioning</p>
+                                    </div>
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/24-hours-support.png"
+                                            class="img-center">
+                                        <p class="text-center smallp">24H Support Line</p>
+                                    </div>
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/meet-greet.png"
+                                            class="img-center">
+                                        <p class="text-center smallp">Meet and Greet</p>
                                     </div>
                                 </div>
                             </div>

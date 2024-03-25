@@ -690,19 +690,6 @@ include 'header.php' ?>
                                         style="background-image:url(images/london/mitcham/3-bed/9.jpeg);">
                                     </div>
                                 </div>
-                                <!-- COLUMNS 10 -->
-                                <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/3-bed/10.jpeg);">
-                                    </div>
-                                </div>
-
-                                <!-- COLUMNS 11 -->
-                                <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/3-bed/11.jpeg);">
-                                    </div>
-                                </div>
                             </div>
                         </div>
                     </div>

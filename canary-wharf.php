@@ -234,7 +234,7 @@ include 'header.php' ?>
                                 <!-- <h4>Perth, Australia</h4> -->
                             </div>
                             <p align="justify">This one-bedroom apartment features a Double bed with a Hybrid office
-                                desk & an executive chair along with LG split screen monitor, a bathroom, a living area
+                                desk & an executive chair along with a bathroom, a living area
                                 with wooden flooring, and a fully equipped kitchen with an oven, hob, microwave, fridge
                                 freezer, dishwasher and Washing machine. Apartment facilities include a dining area,
                                 Smart TV, and free internet access.<br>
@@ -276,8 +276,8 @@ include 'header.php' ?>
                                         <p class="text-center smallp">Microwave</p>
                                     </div>
 
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/double-bed.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/double-bed.png" class="img-center">
                                         <p class="text-center smallp">Double Bed</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/hairdryer.png"
@@ -292,8 +292,8 @@ include 'header.php' ?>
                                             class="img-center">
                                         <p class="text-center smallp">Smart TV</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/fiber-optic.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/fiber-optic.png" class="img-center">
                                         <p class="text-center smallp">Superfast WIFI</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/safe.png"
@@ -304,57 +304,57 @@ include 'header.php' ?>
                                             class="img-center">
                                         <p class="text-center smallp">Crockery & Cutlery</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/coffee-machine.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/coffee-machine.png" class="img-center">
                                         <p class="text-center smallp">Coffee Machine</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/washing-machine.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/washing-machine.png" class="img-center">
                                         <p class="text-center smallp">Washing Machine</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/work-chair-desk.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/work-chair-desk.png" class="img-center">
                                         <p class="text-center smallp">Work Desk & Chair</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/kitchen.png"
                                             class="img-center">
                                         <p class="text-center smallp">Fully Fitted Kitchen</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/dishwasher.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/dishwasher.png" class="img-center">
                                         <p class="text-center smallp">Dishwasher</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/split-monitor.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/split-monitor.png" class="img-center">
                                         <p class="text-center smallp">LG Split Monitor Screen</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/welcome-kit.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/welcome-kit.png" class="img-center">
                                         <p class="text-center smallp">Welcome Kit</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/furnitures.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/furnitures.png" class="img-center">
                                         <p class="text-center smallp">Designer Furnishing</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/ironing.png"
                                             class="img-center">
                                         <p class="text-center smallp">Iron & Ironing Board</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/toiletries.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/toiletries.png" class="img-center">
                                         <p class="text-center smallp">3 col-xs-600ml Toiletries</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/mattress.png"
                                             class="img-center">
                                         <p class="text-center smallp">Ortho Mattress</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/weekly-cleaning.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/weekly-cleaning.png" class="img-center">
                                         <p class="text-center smallp">Weekly Housekeeping</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/check-in.png"
-                                            class="img-center">
-                                        <p class="text-center smallp">Self Checkin-in</p>
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/meet-greet.png" class="img-center">
+                                        <p class="text-center smallp">Meet and Greet</p>
                                     </div>
                                 </div>
                             </div>
@@ -455,7 +455,8 @@ include 'header.php' ?>
                                 size bed
                                 with one/two bathrooms, a Hybrid office desk and an executive chair along with
                                 LG split
-                                screen monitor, a modern living area with wooden flooring, a fully equipped
+                                screen monitor (some units have it), a modern living area with wooden flooring, a fully
+                                equipped
                                 kitchen with
                                 oven, hob, microwave, fridge freezer and a communal garden. Apartment facilities
                                 include
@@ -514,8 +515,8 @@ include 'header.php' ?>
                                             class="img-center">
                                         <p class="text-center smallp">Smart TV</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/fiber-optic.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/fiber-optic.png" class="img-center">
                                         <p class="text-center smallp">Superfast WIFI</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/safe.png"
@@ -526,57 +527,57 @@ include 'header.php' ?>
                                             class="img-center">
                                         <p class="text-center smallp">Crockery & Cutlery</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/coffee-machine.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/coffee-machine.png" class="img-center">
                                         <p class="text-center smallp">Coffee Machine</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/washing-machine.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/washing-machine.png" class="img-center">
                                         <p class="text-center smallp">Washing Machine</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/work-chair-desk.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/work-chair-desk.png" class="img-center">
                                         <p class="text-center smallp">Work Desk & Chair</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/kitchen.png"
                                             class="img-center">
                                         <p class="text-center smallp">Fully Fitted Kitchen</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/dishwasher.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/dishwasher.png" class="img-center">
                                         <p class="text-center smallp">Dishwasher</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/split-monitor.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/split-monitor.png" class="img-center">
                                         <p class="text-center smallp">LG Split Monitor Screen</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/welcome-kit.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/welcome-kit.png" class="img-center">
                                         <p class="text-center smallp">Welcome Kit</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/furnitures.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/furnitures.png" class="img-center">
                                         <p class="text-center smallp">Designer Furnishing</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/ironing.png"
                                             class="img-center">
                                         <p class="text-center smallp">Iron & Ironing Board</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/toiletries.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/toiletries.png" class="img-center">
                                         <p class="text-center smallp">400ml Toiletries</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/mattress.png"
                                             class="img-center">
                                         <p class="text-center smallp">Ortho Mattress</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/weekly-cleaning.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/weekly-cleaning.png" class="img-center">
                                         <p class="text-center smallp">Weekly Housekeeping</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/check-in.png"
-                                            class="img-center">
-                                        <p class="text-center smallp">Self Checkin-in</p>
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/meet-greet.png" class="img-center">
+                                        <p class="text-center smallp">Meet and Greet</p>
                                     </div>
                                 </div>
                             </div>

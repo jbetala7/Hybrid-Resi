@@ -59,6 +59,7 @@ include 'header.php' ?>
                             <li><a href="#sutton-cheam">Sutton Cheam</a></li>
                             <li><a href="#fulham">Fulham</a></li>
                             <li><a href="#uxbridge">Uxbridge</a></li>
+                            <li><a href="#wandsworth">Wandsworth</a></li>
                         </ul>
                     </div>
 
@@ -180,9 +181,9 @@ include 'header.php' ?>
                             Boys' School and private institutions like Fulham Prep School and the esteemed London
                             Oratory School. </p>
                     </div>
-                    
 
-                    <div id="uxbridge" class="service-single-block p-tb100">
+
+                    <div id="uxbridge" class="service-single-block p-t100">
                         <div class="sx-media">
                             <img src="images/leisure/uxbridge/grand-union-canal.jpg" alt="">
                         </div>
@@ -199,6 +200,31 @@ include 'header.php' ?>
                             housing numerous international companies. To the west, the Grand Union Canal offers a scenic
                             escape, with locals often enjoying visits to Cowley Lock, a charming conservation area
                             perfect for canal cruises and leisurely strolls.</p>
+
+                    </div>
+
+                    <div id="wandsworth" class="service-single-block p-tb100">
+                        <div class="sx-media">
+                            <img src="images/leisure/wandsworth/wandsworth-town-hall.jpg" alt="">
+                        </div>
+                        <h3 class="m-t30 sx-tilte text-theme-1 text-uppercase">Wandsworth</h3>
+                        <p align="justify">Nestled in southwest London, Wandsworth embodies a captivating fusion of
+                            historical charm and contemporary energy. Its picturesque riverside, tracing the tranquil
+                            Thames, offers idyllic settings for leisurely walks and delightful riverside dining
+                            experiences. Wandsworth's tree-lined avenues and elegant Victorian architecture contribute
+                            to its quintessentially British atmosphere. A melting pot of cultures, the area boasts an
+                            eclectic mix of shops, markets, and culinary delights.
+                        </p>
+
+                        <p align="justify">The verdant expanse of Wandsworth
+                            Common provides a serene retreat for picnics and outdoor activities. With Clapham Junction
+                            and Wandsworth Town stations nearby, residents enjoy swift access to Vauxhall in a mere 7
+                            minutes and Waterloo in just 10 minutes via direct train routes. Such excellent
+                            transportation links further enhance Wandsworth's allure, making it an irresistible
+                            destination for those seeking a harmonious blend of urban convenience and natural beauty.
+                            Nearby, one can discover the Royal Hospital for Neuro-disability in East Putney, adding a
+                            touch of compassion and care to the area, while the grand Wandsworth Town Hall stands as a
+                            symbol of civic pride and heritage.</p>
 
                     </div>
 

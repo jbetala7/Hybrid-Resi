@@ -1080,6 +1080,12 @@ include 'header.php' ?>
                                         style="background-image:url(images/leisure/uxbridge/grand-union-canal.jpg);">
                                     </div>
                                 </div>
+                                <!-- COLUMNS5 7-->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/leisure/wandsworth/wandsworth-town-hall.jpg);">
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -1147,7 +1153,7 @@ include 'header.php' ?>
                                     BAR rates. </p>
                             </div>
                             <div class="figcaption-number text-center sx-text-primary animate-in-to-top-content">
-                                <span>01</span>
+                                <span>15%</span>
                             </div>
                         </div>
                     </a>
@@ -1159,11 +1165,11 @@ include 'header.php' ?>
                         <div class="number-block-one animate-in-to-top">
                             <img src="images/home-page/special-offers/2.jpg" alt="" />
                             <div class="figcaption bg-white text-center p-a20">
-                                <h4 class="m-a0">Partner Program</h4>
+                                <h4 class="m-a0">Refer a Friend</h4>
                                 <p class="p-t10" align="justify">18% incentive for booking 14+ nights on BAR rates.</p>
                             </div>
                             <div class="figcaption-number text-center sx-text-primary animate-in-to-top-content">
-                                <span>02</span>
+                                <span>18%</span>
                             </div>
                         </div>
                     </a>
@@ -1181,7 +1187,7 @@ include 'header.php' ?>
                                 <p class="p-t10" align="justify">Book direct and save 20% Off BAR Rates.</p>
                             </div>
                             <div class="figcaption-number text-center sx-text-primary animate-in-to-top-content">
-                                <span>03</span>
+                                <span>20%</span>
                             </div>
                         </div>
                     </a>
@@ -1284,7 +1290,14 @@ include 'header.php' ?>
             <!-- TITLE -->
             <div class="work-carousel-outer m-t30 hide-dots">
                 <div class="owl-carousel mfp-gallery project-carousel project-carousel1 owl-btn-vertical-center">
+
                     <!-- COLUMNS 1 -->
+                    <div class="item">
+                        <div class="sx-box   image-single-carousel bg-cover"
+                            style="background-image:url(images/gallery/1.jpg)">
+                        </div>
+                    </div>
+                    <!-- COLUMNS 2 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
                             style="background-image:url(images/london/canary-wharf/1-bed/1.jpg)">
@@ -1297,7 +1310,7 @@ include 'header.php' ?>
                             <!-- Overlay ends here -->
                         </div>
                     </div>
-                    <!-- COLUMNS 2 -->
+                    <!-- COLUMNS 3 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
                             style="background-image:url(images/london/canary-wharf/2-bed/1.jpg)">
@@ -1311,7 +1324,7 @@ include 'header.php' ?>
                             <!-- Overlay ends here -->
                         </div>
                     </div>
-                    <!-- COLUMNS 3 -->
+                    <!-- COLUMNS 4 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
                             style="background-image:url(images/london/battersea/1-bed/1.jpg)">
@@ -1324,7 +1337,7 @@ include 'header.php' ?>
                             <!-- Overlay ends here -->
                         </div>
                     </div>
-                    <!-- COLUMNS 4 -->
+                    <!-- COLUMNS 5 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
                             style="background-image:url(images/london/battersea/2-bed/1.jpg)">
@@ -1337,7 +1350,7 @@ include 'header.php' ?>
                             <!-- Overlay ends here -->
                         </div>
                     </div>
-                    <!-- COLUMNS 5 -->
+                    <!-- COLUMNS 6 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
                             style="background-image:url(images/london/battersea/3-bed/1.jpg)">
@@ -1350,7 +1363,7 @@ include 'header.php' ?>
                             <!-- Overlay ends here -->
                         </div>
                     </div>
-                    <!-- COLUMNS 6 -->
+                    <!-- COLUMNS 7 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
                             style="background-image:url(images/london/sutton-cheam/1-bed/1.jpg)">
@@ -1363,7 +1376,7 @@ include 'header.php' ?>
                             <!-- Overlay ends here -->
                         </div>
                     </div>
-                    <!-- COLUMNS 7 -->
+                    <!-- COLUMNS 8 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
                             style="background-image:url(images/london/sutton-cheam/2-bed/1.jpg)">
@@ -1371,20 +1384,6 @@ include 'header.php' ?>
                             <div class="custom-overlay">
                                 <div class="sx-info  p-t20 text-white">
                                     <p class="sx-tilte m-t0"><a href="sutton-cheam.php">Sutton Cheam Two Bedrooms</a>
-                                    </p>
-                                </div>
-                            </div>
-                            <!-- Overlay ends here -->
-                        </div>
-                    </div>
-                    <!-- COLUMNS 8 -->
-                    <div class="item">
-                        <div class="sx-box   image-single-carousel bg-cover"
-                            style="background-image:url(images/london/wandsworth/cozy-1-bed/1.jpg)">
-                            <!-- Overlay starts here -->
-                            <div class="custom-overlay">
-                                <div class="sx-info  p-t20 text-white">
-                                    <p class="sx-tilte m-t0"><a href="wandsworth.php">Wandsworth Cozy One Bedroom</a>
                                     </p>
                                 </div>
                             </div>
@@ -1404,19 +1403,21 @@ include 'header.php' ?>
                             <!-- Overlay ends here -->
                         </div>
                     </div>
-
-                    <!-- COLUMNS 10 -->
-                    <!-- <div class="item">
+                    <!-- COLUMNS 9 -->
+                    <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
-                            style="background-image:url(images/london/wandsworth/1-bed/1.jpg)">
-
-                            <div class="sx-info  p-t20 text-white">
-                                <p class="sx-tilte m-t0"><a href="wandsworth.php">Wandsworth Two Bedrooms</a></p>
+                            style="background-image:url(images/london/wandsworth/cozy-1-bed/4.jpg)">
+                            <!-- Overlay starts here -->
+                            <div class="custom-overlay">
+                                <div class="sx-info  p-t20 text-white">
+                                    <p class="sx-tilte m-t0"><a href="wandsworth.php">Wandsworth Cozy One Bedroom</a>
+                                    </p>
+                                </div>
                             </div>
-
+                            <!-- Overlay ends here -->
                         </div>
-                    </div> -->
-                    <!-- COLUMNS 11 -->
+                    </div>
+                    <!-- COLUMNS 10 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
                             style="background-image:url(images/london/fulham/1-bed/1.jpg)">
@@ -1429,7 +1430,7 @@ include 'header.php' ?>
                             <!-- Overlay ends here -->
                         </div>
                     </div>
-                    <!-- COLUMNS 12 -->
+                    <!-- COLUMNS 11 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
                             style="background-image:url(images/london/fulham/2-bed/1.jpg)">
@@ -1442,7 +1443,7 @@ include 'header.php' ?>
                             <!-- Overlay ends here -->
                         </div>
                     </div>
-                    <!-- COLUMNS 13 -->
+                    <!-- COLUMNS 12 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
                             style="background-image:url(images/london/fulham/3-bed/1.jpg)">
@@ -1455,7 +1456,7 @@ include 'header.php' ?>
                             <!-- Overlay ends here -->
                         </div>
                     </div>
-                    <!-- COLUMNS 14 -->
+                    <!-- COLUMNS 13 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
                             style="background-image:url(images/london/fulham/duplex-3-bed/1.jpg)">
@@ -1468,7 +1469,7 @@ include 'header.php' ?>
                             <!-- Overlay ends here -->
                         </div>
                     </div>
-                    <!-- COLUMNS 15 -->
+                    <!-- COLUMNS 14 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
                             style="background-image:url(images/london/new-malden/1-bed/1.jpg)">
@@ -1481,7 +1482,7 @@ include 'header.php' ?>
                             <!-- Overlay ends here -->
                         </div>
                     </div>
-                    <!-- COLUMNS 16 -->
+                    <!-- COLUMNS 15 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
                             style="background-image:url(images/london/new-malden/3-bed/1.jpg)">
@@ -1494,7 +1495,7 @@ include 'header.php' ?>
                             <!-- Overlay ends here -->
                         </div>
                     </div>
-                    <!-- COLUMNS 17 -->
+                    <!-- COLUMNS 16 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
                             style="background-image:url(images/london/mitcham/1-bed/1.jpg)">
@@ -1507,7 +1508,7 @@ include 'header.php' ?>
                             <!-- Overlay ends here -->
                         </div>
                     </div>
-                    <!-- COLUMNS 18 -->
+                    <!-- COLUMNS 17 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
                             style="background-image:url(images/london/mitcham/2-bed/1.jpg)">
@@ -1520,14 +1521,93 @@ include 'header.php' ?>
                             <!-- Overlay ends here -->
                         </div>
                     </div>
-                    <!-- COLUMNS 19 -->
+                    <!-- COLUMNS 11 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
-                            style="background-image:url(images/london/mitcham/3-bed/1.jpeg)">
+                            style="background-image:url(images/london/uxbridge/1-bed/2.jpg)">
                             <!-- Overlay starts here -->
                             <div class="custom-overlay">
                                 <div class="sx-info  p-t20 text-white">
-                                    <p class="sx-tilte m-t0"><a href="mitcham.php">Mitcham Three Bedrooms</a></p>
+                                    <p class="sx-tilte m-t0"><a href="uxbridge.php">Uxbridge One Bedrooms</a></p>
+                                </div>
+                            </div>
+                            <!-- Overlay ends here -->
+                        </div>
+                    </div>
+                    <!-- COLUMNS 12 -->
+                    <div class="item">
+                        <div class="sx-box   image-single-carousel bg-cover"
+                            style="background-image:url(images/london/uxbridge/2-bed/4.jpg)">
+                            <!-- Overlay starts here -->
+                            <div class="custom-overlay">
+                                <div class="sx-info  p-t20 text-white">
+                                    <p class="sx-tilte m-t0"><a href="uxbridge.php">Uxbridge Two Bedrooms</a></p>
+                                </div>
+                            </div>
+                            <!-- Overlay ends here -->
+                        </div>
+                    </div>
+                    <!-- COLUMNS 13 -->
+                    <div class="item">
+                        <div class="sx-box   image-single-carousel bg-cover"
+                            style="background-image:url(images/london/uxbridge/2-bed/2.jpg)">
+                            <!-- Overlay starts here -->
+                            <div class="custom-overlay">
+                                <div class="sx-info  p-t20 text-white">
+                                    <p class="sx-tilte m-t0"><a href="uxbridge.php">Uxbridge Three Bedrooms</a></p>
+                                </div>
+                            </div>
+                            <!-- Overlay ends here -->
+                        </div>
+                    </div>
+                    <!-- COLUMNS 14 -->
+                    <div class="item">
+                        <div class="sx-box   image-single-carousel bg-cover"
+                            style="background-image:url(images/dubai/marina/1-bed/5.webp)">
+                            <!-- Overlay starts here -->
+                            <div class="custom-overlay">
+                                <div class="sx-info  p-t20 text-white">
+                                    <p class="sx-tilte m-t0"><a href="marina.php">Dubai - Marina One Bedroom</a></p>
+                                </div>
+                            </div>
+                            <!-- Overlay ends here -->
+                        </div>
+                    </div>
+                    <!-- COLUMNS 15 -->
+                    <div class="item">
+                        <div class="sx-box   image-single-carousel bg-cover"
+                            style="background-image:url(images/dubai/marina/2-bed/9.jpg)">
+                            <!-- Overlay starts here -->
+                            <div class="custom-overlay">
+                                <div class="sx-info  p-t20 text-white">
+                                    <p class="sx-tilte m-t0"><a href="marina.php">Dubai - Marina Two Bedrooms</a></p>
+                                </div>
+                            </div>
+                            <!-- Overlay ends here -->
+                        </div>
+                    </div>
+                    <!-- COLUMNS 16 -->
+                    <div class="item">
+                        <div class="sx-box   image-single-carousel bg-cover"
+                            style="background-image:url(images/dubai/downtown/1-bed/3.jpg)">
+                            <!-- Overlay starts here -->
+                            <div class="custom-overlay">
+                                <div class="sx-info  p-t20 text-white">
+                                    <p class="sx-tilte m-t0"><a href="downtown.php">Dubai - Downtown One Bedroom</a></p>
+                                </div>
+                            </div>
+                            <!-- Overlay ends here -->
+                        </div>
+                    </div>
+                    <!-- COLUMNS 17 -->
+                    <div class="item">
+                        <div class="sx-box   image-single-carousel bg-cover"
+                            style="background-image:url(images/dubai/downtown/2-bed/13.jpg)">
+                            <!-- Overlay starts here -->
+                            <div class="custom-overlay">
+                                <div class="sx-info  p-t20 text-white">
+                                    <p class="sx-tilte m-t0"><a href="downtown.php">Dubai - Downtown Two Bedrooms</a>
+                                    </p>
                                 </div>
                             </div>
                             <!-- Overlay ends here -->
@@ -1564,7 +1644,6 @@ include 'header.php' ?>
                     <div class="testimonials-box testimonial-1 hover-animation-1 bg-white">
                         <div class="testimonial-detail clearfix">
                             <span class="testimonial-position">Adiuvo Adiuvo</span>
-                            <span class="fa fa-quote-right"></span>
                         </div>
                         <div class="testimonial-text">
                             <p align="justify">The building wherein the apartment is situated is in an amazing
@@ -1573,9 +1652,29 @@ include 'header.php' ?>
                                 connecting
                                 to Jubilee & Elizabeth lines and a few minutes walk to Upper Bank Street…</p>
                         </div>
-                        <a class=" p-t20 text-theme-1 testimonial-position mediump" href="" target="_blank">Google
-                            Reviews,
+                        <a class=" p-t20 text-theme-1 testimonial-position mediump"
+                            href="https://www.google.com/travel/search?q=google%20reviews%20hybrid%20resi&g2lb=2503771%2C2503781%2C2504375%2C4284970%2C4291517%2C4814050%2C4874190%2C4893075%2C4965990%2C72277293%2C72302247%2C72317059%2C72406588%2C72414906%2C72421566%2C72458066%2C72462234%2C72469155%2C72470440%2C72470899%2C72471280%2C72472051%2C72473841%2C72483525%2C72484736%2C72485656%2C72485658%2C72486593%2C72494250%2C72498532%2C72510103%2C72511833%2C72512134%2C72513422%2C72513513%2C72523972%2C72524709%2C72537851&hl=en-GB&gl=uk&ssta=1&ts=CAEaRwopEicyJTB4NDg3NjBmNWQ5OGVhODNjNToweGRmMTVkMmRjZmVkOGU0ZTkSGhIUCgcI6A8QAxgfEgcI6A8QBBgBGAEyAhAA&qs=CAEyFENnc0k2Y25qOXNfYjlJcmZBUkFCOAJCCQnp5Nj-3NIV30IJCenk2P7c0hXf&ap=ugEHcmV2aWV3cw&ictx=111&ved=0CAAQ5JsGahcKEwjo7cHmpY6FAxUAAAAAHQAAAAAQDA"
+                            target="_blank">Google
+                            Review,
                             5 <img class="star-img" src="images/home-page/star.png" width="10" height="10" alt="">
+                        </a>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="testimonials-box testimonial-1 hover-animation-1 bg-white">
+                        <div class="testimonial-detail clearfix">
+                            <span class="testimonial-position">Salvator</span>
+                        </div>
+                        <div class="testimonial-text">
+                            <p align="justify">They gave all the info before we arrived. The place was well stocked and
+                                clean. When ever we had a query, we texted them n they responded very quickly. The
+                                cleaning lady did an excellent job halfway thru our 2 weeks stay.</p>
+                        </div>
+                        <a class=" p-t20 text-theme-1 testimonial-position mediump"
+                            href="https://www.booking.com/hotel/gb/hybrid-resi-cheam-sutton.en-gb.html#tab-reviews"
+                            target="_blank">Booking.com
+                            Review,
+                            10 <img class="star-img" src="images/home-page/star.png" width="10" height="10" alt="">
                         </a>
                     </div>
                 </div>
@@ -1583,7 +1682,6 @@ include 'header.php' ?>
                     <div class="testimonials-box testimonial-1  hover-animation-1 bg-white">
                         <div class="testimonial-detail clearfix">
                             <span class="testimonial-position">Justin Williams</span>
-                            <span class="fa fa-quote-right"></span>
                         </div>
                         <div class="testimonial-text">
                             <p align="justify">I had the pleasure in staying at one of Hybrid Resi's luxury
@@ -1592,8 +1690,10 @@ include 'header.php' ?>
                                 is
                                 fully stocked with everything a home should need...</p>
                         </div>
-                        <a class=" p-t20 text-theme-1 testimonial-position mediump" href="" target="_blank">Google
-                            Reviews,
+                        <a class=" p-t20 text-theme-1 testimonial-position mediump"
+                            href="https://www.google.com/travel/search?q=google%20reviews%20hybrid%20resi&g2lb=2503771%2C2503781%2C2504375%2C4284970%2C4291517%2C4814050%2C4874190%2C4893075%2C4965990%2C72277293%2C72302247%2C72317059%2C72406588%2C72414906%2C72421566%2C72458066%2C72462234%2C72469155%2C72470440%2C72470899%2C72471280%2C72472051%2C72473841%2C72483525%2C72484736%2C72485656%2C72485658%2C72486593%2C72494250%2C72498532%2C72510103%2C72511833%2C72512134%2C72513422%2C72513513%2C72523972%2C72524709%2C72537851&hl=en-GB&gl=uk&ssta=1&ts=CAEaRwopEicyJTB4NDg3NjBmNWQ5OGVhODNjNToweGRmMTVkMmRjZmVkOGU0ZTkSGhIUCgcI6A8QAxgfEgcI6A8QBBgBGAEyAhAA&qs=CAEyFENnc0k2Y25qOXNfYjlJcmZBUkFCOAJCCQnp5Nj-3NIV30IJCenk2P7c0hXf&ap=ugEHcmV2aWV3cw&ictx=111&ved=0CAAQ5JsGahcKEwjo7cHmpY6FAxUAAAAAHQAAAAAQDA"
+                            target="_blank">Google
+                            Review,
                             5 <img class="star-img" src="images/home-page/star.png" width="10" height="10" alt="">
                         </a>
                     </div>
@@ -1601,8 +1701,24 @@ include 'header.php' ?>
                 <div class="item">
                     <div class="testimonials-box testimonial-1 hover-animation-1 bg-white">
                         <div class="testimonial-detail clearfix">
+                            <span class="testimonial-position">Paula</span>
+                        </div>
+                        <div class="testimonial-text">
+                            <p align="justify">Super accomodation, very quick response on an issues, very easy check in.
+                            </p>
+                        </div>
+                        <a class=" p-t20 text-theme-1 testimonial-position mediump"
+                            href="https://www.booking.com/hotel/gb/hybrid-resi-cheam-sutton.en-gb.html#tab-reviews"
+                            target="_blank">Booking.com
+                            Review,
+                            10 <img class="star-img" src="images/home-page/star.png" width="10" height="10" alt="">
+                        </a>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="testimonials-box testimonial-1 hover-animation-1 bg-white">
+                        <div class="testimonial-detail clearfix">
                             <span class="testimonial-position">Martyna</span>
-                            <span class="fa fa-quote-right"></span>
                         </div>
                         <div class="testimonial-text">
                             <p align="justify">The apartment has everything one could wish for. Ideal for a short
@@ -1611,9 +1727,28 @@ include 'header.php' ?>
                                 made
                                 working from home super comfortable.</p>
                         </div>
-                        <a class=" p-t20 text-theme-1 testimonial-position mediump" href="" target="_blank">Google
-                            Reviews,
+                        <a class=" p-t20 text-theme-1 testimonial-position mediump"
+                            href="https://www.google.com/travel/search?q=google%20reviews%20hybrid%20resi&g2lb=2503771%2C2503781%2C2504375%2C4284970%2C4291517%2C4814050%2C4874190%2C4893075%2C4965990%2C72277293%2C72302247%2C72317059%2C72406588%2C72414906%2C72421566%2C72458066%2C72462234%2C72469155%2C72470440%2C72470899%2C72471280%2C72472051%2C72473841%2C72483525%2C72484736%2C72485656%2C72485658%2C72486593%2C72494250%2C72498532%2C72510103%2C72511833%2C72512134%2C72513422%2C72513513%2C72523972%2C72524709%2C72537851&hl=en-GB&gl=uk&ssta=1&ts=CAEaRwopEicyJTB4NDg3NjBmNWQ5OGVhODNjNToweGRmMTVkMmRjZmVkOGU0ZTkSGhIUCgcI6A8QAxgfEgcI6A8QBBgBGAEyAhAA&qs=CAEyFENnc0k2Y25qOXNfYjlJcmZBUkFCOAJCCQnp5Nj-3NIV30IJCenk2P7c0hXf&ap=ugEHcmV2aWV3cw&ictx=111&ved=0CAAQ5JsGahcKEwjo7cHmpY6FAxUAAAAAHQAAAAAQDA"
+                            target="_blank">Google
+                            Review,
                             5 <img class="star-img" src="images/home-page/star.png" width="10" height="10" alt="">
+                        </a>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="testimonials-box testimonial-1 hover-animation-1 bg-white">
+                        <div class="testimonial-detail clearfix">
+                            <span class="testimonial-position">Andrew</span>
+                        </div>
+                        <div class="testimonial-text">
+                            <p align="justify">Couldn't have asked for better. Apartment was spotlessly clean and had
+                                everything to make the stay great.</p>
+                        </div>
+                        <a class=" p-t20 text-theme-1 testimonial-position mediump"
+                            href="https://www.booking.com/hotel/gb/hybrid-resi-cheam-sutton.en-gb.html#tab-reviews"
+                            target="_blank">Booking.com
+                            Review,
+                            10 <img class="star-img" src="images/home-page/star.png" width="10" height="10" alt="">
                         </a>
                     </div>
                 </div>
@@ -1621,7 +1756,6 @@ include 'header.php' ?>
                     <div class="testimonials-box testimonial-1  hover-animation-1 bg-white">
                         <div class="testimonial-detail clearfix">
                             <span class="testimonial-position">SMJ Aka</span>
-                            <span class="fa fa-quote-right"></span>
                         </div>
                         <div class="testimonial-text">
                             <p align="justify">We stayed here for a month in December 2022. Clean and large
@@ -1629,9 +1763,30 @@ include 'header.php' ?>
                                 Enough space for a family of 3. Provided us with extra bowls when we asked. House
                                 keeping is friendly and does a good job. Highly recommend!</p>
                         </div>
-                        <a class=" p-t20 text-theme-1 testimonial-position mediump" href="" target="_blank">Google
-                            Reviews,
+                        <a class=" p-t20 text-theme-1 testimonial-position mediump"
+                            href="https://www.google.com/travel/search?q=google%20reviews%20hybrid%20resi&g2lb=2503771%2C2503781%2C2504375%2C4284970%2C4291517%2C4814050%2C4874190%2C4893075%2C4965990%2C72277293%2C72302247%2C72317059%2C72406588%2C72414906%2C72421566%2C72458066%2C72462234%2C72469155%2C72470440%2C72470899%2C72471280%2C72472051%2C72473841%2C72483525%2C72484736%2C72485656%2C72485658%2C72486593%2C72494250%2C72498532%2C72510103%2C72511833%2C72512134%2C72513422%2C72513513%2C72523972%2C72524709%2C72537851&hl=en-GB&gl=uk&ssta=1&ts=CAEaRwopEicyJTB4NDg3NjBmNWQ5OGVhODNjNToweGRmMTVkMmRjZmVkOGU0ZTkSGhIUCgcI6A8QAxgfEgcI6A8QBBgBGAEyAhAA&qs=CAEyFENnc0k2Y25qOXNfYjlJcmZBUkFCOAJCCQnp5Nj-3NIV30IJCenk2P7c0hXf&ap=ugEHcmV2aWV3cw&ictx=111&ved=0CAAQ5JsGahcKEwjo7cHmpY6FAxUAAAAAHQAAAAAQDA"
+                            target="_blank">Google
+                            Review,
                             5 <img class="star-img" src="images/home-page/star.png" width="10" height="10" alt="">
+                        </a>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="testimonials-box testimonial-1 hover-animation-1 bg-white">
+                        <div class="testimonial-detail clearfix">
+                            <span class="testimonial-position">Michael</span>
+                        </div>
+                        <div class="testimonial-text">
+                            <p align="justify">The apartment did not provide cooked breakfast. Instead, an ample of good
+                                brand snacks were provided. These included very nice biscuits, coffee and tea as well as
+                                some fresh fruits. The bus stops were under 5 minutes' walk and the various routes
+                                connect Croydon, Sutton, Kingston and even the Heathrow Airport.</p>
+                        </div>
+                        <a class=" p-t20 text-theme-1 testimonial-position mediump"
+                            href="https://www.booking.com/hotel/gb/hybrid-resi-cheam-sutton.en-gb.html#tab-reviews"
+                            target="_blank">Booking.com
+                            Review,
+                            10 <img class="star-img" src="images/home-page/star.png" width="10" height="10" alt="">
                         </a>
                     </div>
                 </div>
@@ -1639,7 +1794,6 @@ include 'header.php' ?>
                     <div class="testimonials-box testimonial-1  hover-animation-1 bg-white">
                         <div class="testimonial-detail clearfix">
                             <span class="testimonial-position">Gordon Pang</span>
-                            <span class="fa fa-quote-right"></span>
                         </div>
                         <div class="testimonial-text">
                             <p align="justify">Stayed here for close to half a year, experience has been nothing but
@@ -1647,8 +1801,10 @@ include 'header.php' ?>
                                 every week to keep the space clean n tidy, definitely recommended for professionals
                                 looking for a hybrid working environment..</p>
                         </div>
-                        <a class=" p-t20 text-theme-1 testimonial-position mediump" href="" target="_blank">Google
-                            Reviews,
+                        <a class=" p-t20 text-theme-1 testimonial-position mediump"
+                            href="https://www.google.com/travel/search?q=google%20reviews%20hybrid%20resi&g2lb=2503771%2C2503781%2C2504375%2C4284970%2C4291517%2C4814050%2C4874190%2C4893075%2C4965990%2C72277293%2C72302247%2C72317059%2C72406588%2C72414906%2C72421566%2C72458066%2C72462234%2C72469155%2C72470440%2C72470899%2C72471280%2C72472051%2C72473841%2C72483525%2C72484736%2C72485656%2C72485658%2C72486593%2C72494250%2C72498532%2C72510103%2C72511833%2C72512134%2C72513422%2C72513513%2C72523972%2C72524709%2C72537851&hl=en-GB&gl=uk&ssta=1&ts=CAEaRwopEicyJTB4NDg3NjBmNWQ5OGVhODNjNToweGRmMTVkMmRjZmVkOGU0ZTkSGhIUCgcI6A8QAxgfEgcI6A8QBBgBGAEyAhAA&qs=CAEyFENnc0k2Y25qOXNfYjlJcmZBUkFCOAJCCQnp5Nj-3NIV30IJCenk2P7c0hXf&ap=ugEHcmV2aWV3cw&ictx=111&ved=0CAAQ5JsGahcKEwjo7cHmpY6FAxUAAAAAHQAAAAAQDA"
+                            target="_blank">Google
+                            Review,
                             5 <img class="star-img" src="images/home-page/star.png" width="10" height="10" alt="">
                         </a>
                     </div>
@@ -1657,7 +1813,6 @@ include 'header.php' ?>
                     <div class="testimonials-box testimonial-1 hover-animation-1 bg-white">
                         <div class="testimonial-detail clearfix">
                             <span class="testimonial-position">Kate Garrahy</span>
-                            <span class="fa fa-quote-right"></span>
                         </div>
                         <div class="testimonial-text">
                             <p align="justify">Wonderful stay in this perfectly located property. 2 mins from Cross
@@ -1665,8 +1820,10 @@ include 'header.php' ?>
                                 and
                                 felt really safe . Thank you</p>
                         </div>
-                        <a class=" p-t20 text-theme-1 testimonial-position mediump" href="" target="_blank">Google
-                            Reviews,
+                        <a class=" p-t20 text-theme-1 testimonial-position mediump"
+                            href="https://www.google.com/travel/search?q=google%20reviews%20hybrid%20resi&g2lb=2503771%2C2503781%2C2504375%2C4284970%2C4291517%2C4814050%2C4874190%2C4893075%2C4965990%2C72277293%2C72302247%2C72317059%2C72406588%2C72414906%2C72421566%2C72458066%2C72462234%2C72469155%2C72470440%2C72470899%2C72471280%2C72472051%2C72473841%2C72483525%2C72484736%2C72485656%2C72485658%2C72486593%2C72494250%2C72498532%2C72510103%2C72511833%2C72512134%2C72513422%2C72513513%2C72523972%2C72524709%2C72537851&hl=en-GB&gl=uk&ssta=1&ts=CAEaRwopEicyJTB4NDg3NjBmNWQ5OGVhODNjNToweGRmMTVkMmRjZmVkOGU0ZTkSGhIUCgcI6A8QAxgfEgcI6A8QBBgBGAEyAhAA&qs=CAEyFENnc0k2Y25qOXNfYjlJcmZBUkFCOAJCCQnp5Nj-3NIV30IJCenk2P7c0hXf&ap=ugEHcmV2aWV3cw&ictx=111&ved=0CAAQ5JsGahcKEwjo7cHmpY6FAxUAAAAAHQAAAAAQDA"
+                            target="_blank">Google
+                            Review,
                             5 <img class="star-img" src="images/home-page/star.png" width="10" height="10" alt="">
                         </a>
                     </div>
@@ -1699,14 +1856,17 @@ include 'header.php' ?>
             <div class="client-grid p-t50">
 
                 <div class="row justify-content-center">
-                    <div class="accolades col-lg-4 col-md-4 col-sm-4 col-4 m-b30">
+                    <div class="accolades col-lg-3 col-md-3 col-sm-3 col-3 m-b30">
                         <img src="images/home-page/accolades/1.png" alt="">
                     </div>
-                    <div class="accolades col-lg-4 col-md-4 col-sm-4 col-4 m-b30">
+                    <div class="accolades col-lg-3 col-md-3 col-sm-3 col-3 m-b30">
                         <img src="images/home-page/accolades/2.png" alt="">
                     </div>
-                    <div class="accolades col-lg-4 col-md-4 col-sm-4 col-4 m-b30">
+                    <div class="accolades col-lg-3 col-md-3 col-sm-3 col-3 m-b30">
                         <img src="images/home-page/accolades/3.png" alt="">
+                    </div>
+                    <div class="accolades col-lg-3 col-md-3 col-sm-3 col-3 m-b30">
+                        <img src="images/home-page/accolades/4.jpg" alt="">
                     </div>
                 </div>
 

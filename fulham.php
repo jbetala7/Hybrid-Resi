@@ -868,12 +868,6 @@ include 'header.php' ?>
                                         style="background-image:url(images/london/fulham/duplex-3-bed/15.jpg);">
                                     </div>
                                 </div>
-                                <!-- COLUMNS 16 -->
-                                <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/fulham/duplex-3-bed/16.jpg);">
-                                    </div>
-                                </div>
 
                             </div>
                         </div>
@@ -931,7 +925,7 @@ include 'header.php' ?>
 
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/king-bed.png"
                                             class="img-center">
-                                        <p class="text-center smallp">Super King Bed</p>
+                                        <p class="text-center smallp">King Bed</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/hairdryer.png"
                                             class="img-center">

@@ -303,13 +303,9 @@ include 'header.php' ?>
                                         <img src="images/icons/guest.png" class="img-center">
                                         <p class="text-center smallp">2 Guests</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6">
-                                        <img src="images/icons/storage.png" class="img-center">
-                                        <p class="text-center smallp">Storage Space</p>
-                                    </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/fridge.png"
                                             class="img-center">
-                                        <p class="text-center smallp">Fridge</p>
+                                        <p class="text-center smallp">Fridge & Freezer</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/microwave.png"
                                             class="img-center">
@@ -336,21 +332,13 @@ include 'header.php' ?>
                                             src="images/icons/fiber-optic.png" class="img-center">
                                         <p class="text-center smallp">Superfast WIFI</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/safe.png"
-                                            class="img-center">
-                                        <p class="text-center smallp">Safe</p>
-                                    </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/crockery.png"
                                             class="img-center">
                                         <p class="text-center smallp">Crockery & Cutlery</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
-                                            src="images/icons/coffee-machine.png" class="img-center">
-                                        <p class="text-center smallp">Coffee Machine</p>
-                                    </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
                                             src="images/icons/washing-machine.png" class="img-center">
-                                        <p class="text-center smallp">Washing Machine</p>
+                                        <p class="text-center smallp">Washing Machine & Dryer</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
                                             src="images/icons/work-chair-desk.png" class="img-center">
@@ -359,14 +347,6 @@ include 'header.php' ?>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/kitchen.png"
                                             class="img-center">
                                         <p class="text-center smallp">Fully Fitted Kitchen</p>
-                                    </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
-                                            src="images/icons/dishwasher.png" class="img-center">
-                                        <p class="text-center smallp">Dishwasher</p>
-                                    </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
-                                            src="images/icons/split-monitor.png" class="img-center">
-                                        <p class="text-center smallp">LG Split Monitor Screen</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
                                             src="images/icons/welcome-kit.png" class="img-center">
@@ -396,6 +376,10 @@ include 'header.php' ?>
                                             class="img-center">
                                         <p class="text-center smallp">Self Checkin-in</p>
                                     </div>
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/parking.png"
+                                            class="img-center">
+                                        <p class="text-center smallp">On-site Free Car parking</p>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -404,6 +388,236 @@ include 'header.php' ?>
                 <!-- ONE BEDROOM APARTMENT SECTION END -->
 
                 <!-- TWO BEDROOMS SECTION START -->
+                <div class="row">
+                    <div class="col-12 pic-bg-border theme-border">
+                        <div class="work-carousel-outer">
+                            <div class="owl-carousel mfp-gallery home-carousel owl-btn-vertical-center">
+                                <!-- COLUMNS 1 -->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/london/uxbridge/2-bed/1.jpg);">
+                                    </div>
+                                </div>
+
+                                <!-- COLUMNS 2 -->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/london/uxbridge/2-bed/2.jpg);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS 3 -->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/london/uxbridge/2-bed/3.jpg);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS 4 -->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/london/uxbridge/2-bed/4.jpg);">
+                                    </div>
+                                </div>
+
+                                <!-- COLUMNS5 5-->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/london/uxbridge/2-bed/5.jpg);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS 6 -->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/london/uxbridge/2-bed/6.jpg);">
+                                    </div>
+                                </div>
+
+                                <!-- COLUMNS 7 -->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/london/uxbridge/2-bed/7.jpg);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS 8 -->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/london/uxbridge/2-bed/8.jpg);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS 9 -->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/london/uxbridge/2-bed/9.jpg);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS5 10-->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/london/uxbridge/2-bed/10.jpg);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS5 11-->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/london/uxbridge/2-bed/11.jpg);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS5 12-->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/london/uxbridge/2-bed/12.jpg);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS 13 -->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/london/uxbridge/2-bed/13.jpg);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS5 15-->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/london/uxbridge/2-bed/15.jpg);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS5 16-->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/london/uxbridge/2-bed/16.jpg);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS5 17-->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/london/uxbridge/2-bed/17.jpg);">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12">
+                        <div class="our-history-content m-b30">
+                            <div class="large-title">
+                                <h1 class="m-t20 text-uppercase">Two Bedrooms Apartment</h1>
+                            </div>
+                            <p align="justify">Set within the brand-new red-brick build, just a stone's
+                                throw from Uxbridge station, our two bed apartments offer modern London living.
+                                Luxurious space and comfort with the similar design as our other apartments. The
+                                apartment boasts a fully equipped kitchen with an oven, hob, microwave, fridge freezer
+                                and a combo
+                                Washer/Dryer machine, dining space with two beautifully designed bathrooms. These
+                                apartments are the perfect home, with plenty of room for one to relax and work.
+                                Apartments features a private balcony.
+                                <br>
+                                <span class="m-t10 badge badge-primary"><img src="images/icons/scale.png"> Area : Approx
+                                    90 Sqm</span>
+                            </p>
+                            <a target="_blank" href="https://my.matterport.com/show/?m=KcczuzViXir&play=1&hr=1&ts=0"
+                                class="site-button-secondry btn-half"><span> Virtual Tour</span></a>
+                            <a href="#" class="site-button-secondry btn-half floor-plan-button"
+                                data-title="Two Bedrooms Apartment Floor Plan"
+                                data-floorplan="uxbridge/2-bed"><span>Floor Plan</span></a>
+
+                        </div>
+                    </div>
+                </div>
+                <!-- AMENITIES -->
+                <div class="section-content">
+
+                    <div class="row">
+                        <div class="col-md-12" data-aos="fade-up" data-aos-duration="800">
+                            <h3 class="mt-tb20">Amenities in three bedrooms
+                                apartments:</h3>
+                            <div class="ambox m-b50">
+                                <div class="row">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/guest.png"
+                                            class="img-center">
+                                        <p class="text-center smallp">5 Guests</p>
+                                    </div>
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/fridge.png"
+                                            class="img-center">
+                                        <p class="text-center smallp">Fridge & Freezer</p>
+                                    </div>
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/microwave.png"
+                                            class="img-center">
+                                        <p class="text-center smallp">Microwave</p>
+                                    </div>
+
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/king-bed.png"
+                                            class="img-center">
+                                        <p class="text-center smallp">King Bed</p>
+                                    </div>
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/hairdryer.png"
+                                            class="img-center">
+                                        <p class="text-center smallp">Hair Dryer</p>
+                                    </div>
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/hob.png"
+                                            class="img-center">
+                                        <p class="text-center smallp">Hob & Oven</p>
+                                    </div>
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/smart-tv.png"
+                                            class="img-center">
+                                        <p class="text-center smallp">Smart TV</p>
+                                    </div>
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/fiber-optic.png" class="img-center">
+                                        <p class="text-center smallp">Superfast WIFI</p>
+                                    </div>
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/crockery.png"
+                                            class="img-center">
+                                        <p class="text-center smallp">Crockery & Cutlery</p>
+                                    </div>
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/washing-machine.png" class="img-center">
+                                        <p class="text-center smallp">Washing Machine</p>
+                                    </div>
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/work-chair-desk.png" class="img-center">
+                                        <p class="text-center smallp">Work Desk & Chair</p>
+                                    </div>
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/kitchen.png"
+                                            class="img-center">
+                                        <p class="text-center smallp">Fully Fitted Kitchen</p>
+                                    </div>
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/welcome-kit.png" class="img-center">
+                                        <p class="text-center smallp">Welcome Kit</p>
+                                    </div>
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/furnitures.png" class="img-center">
+                                        <p class="text-center smallp">Designer Furnishing</p>
+                                    </div>
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/ironing.png"
+                                            class="img-center">
+                                        <p class="text-center smallp">Iron & Ironing Board</p>
+                                    </div>
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/toiletries.png" class="img-center">
+                                        <p class="text-center smallp">400ml Toiletries</p>
+                                    </div>
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/mattress.png"
+                                            class="img-center">
+                                        <p class="text-center smallp">Ortho Mattress</p>
+                                    </div>
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/weekly-cleaning.png" class="img-center">
+                                        <p class="text-center smallp">Weekly Housekeeping</p>
+                                    </div>
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/check-in.png"
+                                            class="img-center">
+                                        <p class="text-center smallp">Self Checkin-in</p>
+                                    </div>
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/parking.png"
+                                            class="img-center">
+                                        <p class="text-center smallp">On-site Free Car parking</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- TWO BEDROOMS SECTION END -->
+
+                <!-- THREE BEDROOMS SECTION START -->
                 <div class="row">
                     <div class="col-12 pic-bg-border theme-border">
                         <div class="work-carousel-outer">
@@ -552,11 +766,7 @@ include 'header.php' ?>
                                 <div class="row">
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/guest.png"
                                             class="img-center">
-                                        <p class="text-center smallp">4 Guests</p>
-                                    </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/storage.png"
-                                            class="img-center">
-                                        <p class="text-center smallp">Storage Space</p>
+                                        <p class="text-center smallp">5 Guests</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/fridge.png"
                                             class="img-center">
@@ -587,21 +797,13 @@ include 'header.php' ?>
                                             src="images/icons/fiber-optic.png" class="img-center">
                                         <p class="text-center smallp">Superfast WIFI</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/safe.png"
-                                            class="img-center">
-                                        <p class="text-center smallp">Safe</p>
-                                    </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/crockery.png"
                                             class="img-center">
                                         <p class="text-center smallp">Crockery & Cutlery</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
-                                            src="images/icons/coffee-machine.png" class="img-center">
-                                        <p class="text-center smallp">Coffee Machine</p>
-                                    </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
                                             src="images/icons/washing-machine.png" class="img-center">
-                                        <p class="text-center smallp">Washing Machine</p>
+                                        <p class="text-center smallp">Washing Machine & Dryer</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
                                             src="images/icons/work-chair-desk.png" class="img-center">
@@ -614,10 +816,6 @@ include 'header.php' ?>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
                                             src="images/icons/dishwasher.png" class="img-center">
                                         <p class="text-center smallp">Dishwasher</p>
-                                    </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
-                                            src="images/icons/split-monitor.png" class="img-center">
-                                        <p class="text-center smallp">LG Split Monitor Screen</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
                                             src="images/icons/welcome-kit.png" class="img-center">
@@ -647,12 +845,16 @@ include 'header.php' ?>
                                             class="img-center">
                                         <p class="text-center smallp">Self Checkin-in</p>
                                     </div>
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/parking.png"
+                                            class="img-center">
+                                        <p class="text-center smallp">On-site Free Car parking</p>
+                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <!-- TWO BEDROOMS SECTION END -->
+                <!-- THREE BEDROOMS SECTION END -->
 
                 <!-- MODAL STRUCTURE START -->
                 <div class="modal fade" id="floorPlanModal" tabindex="-1" role="dialog"
