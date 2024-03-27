@@ -164,15 +164,11 @@ include 'header.php' ?>
                     <div class="about-home-3 m-b30 bg-white">
                         <h3 class="m-t0 m-b20 sx-tilte text-center text-uppercase">Hybrid Resi - Fulham</h3>
                         <p align="justify" class="list-angle-right anchor-line text-center">
-                            These contemporary apartments on bustling Fulham Road provides every guest with their
-                            perfect home within London City.
-
-                            These Apartments are 4 miles from Buckingham Palace and a 7-minute walk from Putney Bridge
-                            tube station or 12-minutes to Parsons Green tube station. Fulham lies on the north bank of
-                            the River Thames, bordering Hammersmith, Kensington and Chelsea in Zone - 2.
-
-                            As a corporate housing, you'll find everything you need for your stay.
-
+                            These contemporary apartments on bustling Fulham Road provide every guest with their perfect
+                            home within London City. These Apartments are 4 miles from Buckingham Palace and a 7-minute
+                            walk from Putney Bridge tube station or 12 minutes to Parsons Green tube station. Fulham
+                            lies on the north bank of the River Thames, bordering Hammersmith, Kensington, and Chelsea
+                            in Zone - 2. As a corporate housing, you'll find everything you need for your stay.
                         </p>
                     </div>
                 </div>
@@ -240,12 +236,12 @@ include 'header.php' ?>
                                 <h1 class="m-t20 text-uppercase">One Bedroom Apartment</h1>
                                 <!-- <h4>Perth, Australia</h4> -->
                             </div>
-                            <p align="justify">Each of our individually designed one bed apartments in the heart of
-                                Fulham are perfect for the extended stay or those looking for a larger space to unwind
-                                after a busy day. Relax in a separate lounge incorporating a fully fitted kitchen,
-                                dining area, and living room before you retreat to your bedroom.
+                            <p align="justify">Each of our individually designed one-bed apartments in the heart of
+                                Fulham is perfect for extended stays or those looking for a larger space to unwind after
+                                a busy day. Relax in a separate lounge incorporating a fully fitted kitchen, dining
+                                area, and living room before you retreat to your bedroom.
                                 <br>
-                                The apartment boasts a fully fitted kitchen, dining space with beautifully designed
+                                The apartment boasts a fully fitted kitchen and dining space with beautifully designed
                                 bathrooms.<br>
                                 <span class="m-t10 badge badge-primary"><img src="images/icons/scale.png"> Area : Approx
                                     60 Sqm</span>
@@ -254,8 +250,8 @@ include 'header.php' ?>
                             <a target="_blank" href="https://my.matterport.com/show/?m=GiwSG3bBTF7&play=1&hr=1&ts=0"
                                 class="site-button-secondry btn-half"><span> Virtual Tour</span></a>
                             <a href="#" class="site-button-secondry btn-half floor-plan-button"
-                                data-title="One Bedroom Apartment Floor Plan"
-                                data-floorplan="fulham/1-bed"><span>Floor Plan</span></a>
+                                data-title="One Bedroom Apartment Floor Plan" data-floorplan="fulham/1-bed"><span>Floor
+                                    Plan</span></a>
                         </div>
                     </div>
                 </div>
@@ -264,8 +260,7 @@ include 'header.php' ?>
 
                     <div class="row">
                         <div class="col-md-12" data-aos="fade-up" data-aos-duration="800">
-                            <h3 class="mt-tb20">Amenities in one bedroom
-                                apartments:</h3>
+                            <h3 class="mt-tb20">Amenities in one-bedroom apartments:</h3>
                             <div class="ambox m-b50">
                                 <div class="row">
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/guest.png"
@@ -285,9 +280,9 @@ include 'header.php' ?>
                                         <p class="text-center smallp">Microwave</p>
                                     </div>
 
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/double-bed.png"
-                                            class="img-center">
-                                        <p class="text-center smallp">Double Bed</p>
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/double-bed.png" class="img-center">
+                                        <p class="text-center smallp">Double Size Bed</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/hairdryer.png"
                                             class="img-center">
@@ -301,9 +296,9 @@ include 'header.php' ?>
                                             class="img-center">
                                         <p class="text-center smallp">Smart TV</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/fiber-optic.png"
-                                            class="img-center">
-                                        <p class="text-center smallp">Superfast WIFI</p>
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/fiber-optic.png" class="img-center">
+                                        <p class="text-center smallp">Superfast Wi-fi</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/safe.png"
                                             class="img-center">
@@ -313,52 +308,52 @@ include 'header.php' ?>
                                             class="img-center">
                                         <p class="text-center smallp">Crockery & Cutlery</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/coffee-machine.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/coffee-machine.png" class="img-center">
                                         <p class="text-center smallp">Coffee Machine</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/washing-machine.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/washing-machine.png" class="img-center">
                                         <p class="text-center smallp">Washing Machine</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/work-chair-desk.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/work-chair-desk.png" class="img-center">
                                         <p class="text-center smallp">Work Desk & Chair</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/kitchen.png"
                                             class="img-center">
                                         <p class="text-center smallp">Fully Fitted Kitchen</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/dishwasher.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/dishwasher.png" class="img-center">
                                         <p class="text-center smallp">Dishwasher</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/split-monitor.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/split-monitor.png" class="img-center">
                                         <p class="text-center smallp">LG Split Monitor Screen</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/welcome-kit.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/welcome-kit.png" class="img-center">
                                         <p class="text-center smallp">Welcome Kit</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/furnitures.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/furnitures.png" class="img-center">
                                         <p class="text-center smallp">Designer Furnishing</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/ironing.png"
                                             class="img-center">
                                         <p class="text-center smallp">Iron & Ironing Board</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/toiletries.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/toiletries.png" class="img-center">
                                         <p class="text-center smallp">400ml Toiletries</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/mattress.png"
                                             class="img-center">
                                         <p class="text-center smallp">Ortho Mattress</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/weekly-cleaning.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/weekly-cleaning.png" class="img-center">
                                         <p class="text-center smallp">Weekly Housekeeping</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/check-in.png"
@@ -434,12 +429,12 @@ include 'header.php' ?>
                     <div class="col-12">
                         <div class="our-history-content m-b30">
                             <div class="large-title">
-                                <h1 class="m-t20 text-uppercase">Two Bedrooms Apartment</h1>
+                                <h1 class="m-t20 text-uppercase">Two Bedroom Apartment</h1>
                             </div>
                             <p align="justify">Set within traditional red-brick townhouses, just a stone's throw from
-                                London's top football clubs, our two bed apartments offer modern London living from
-                                buildings rooted in history. Luxurious space and comfort with the similar design as our
-                                other apartments. The apartment boasts a fully fitted kitchen, dining space with
+                                London's top football clubs, our two-bed apartments offer modern London living from
+                                buildings rooted in history. Luxurious space and comfort with a similar design as our
+                                other apartments. The apartment boasts a fully fitted kitchen and dining space with
                                 beautifully designed bathrooms.
                                 <br>
                                 These apartments are the perfect home in London, with plenty of room for one to relax
@@ -450,8 +445,8 @@ include 'header.php' ?>
                             <a target="_blank" href="https://my.matterport.com/show/?m=RitgfCMB1qD&play=1&hr=1&ts=0"
                                 class="site-button-secondry btn-half"><span> Virtual Tour</span></a>
                             <a href="#" class="site-button-secondry btn-half floor-plan-button"
-                                data-title="Two Bedrooms Apartment Floor Plan"
-                                data-floorplan="fulham/2-bed"><span>Floor Plan</span></a>
+                                data-title="Two Bedroom Apartment Floor Plan" data-floorplan="fulham/2-bed"><span>Floor
+                                    Plan</span></a>
 
                         </div>
                     </div>
@@ -461,8 +456,7 @@ include 'header.php' ?>
 
                     <div class="row">
                         <div class="col-md-12" data-aos="fade-up" data-aos-duration="800">
-                            <h3 class="mt-tb20">Amenities in two bedrooms
-                                apartments:</h3>
+                            <h3 class="mt-tb20">Amenities in two-bedroom apartments:</h3>
                             <div class="ambox m-b50">
                                 <div class="row">
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/guest.png"
@@ -484,7 +478,7 @@ include 'header.php' ?>
 
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/king-bed.png"
                                             class="img-center">
-                                        <p class="text-center smallp">King Bed</p>
+                                        <p class="text-center smallp">King Size Bed</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/hairdryer.png"
                                             class="img-center">
@@ -498,9 +492,9 @@ include 'header.php' ?>
                                             class="img-center">
                                         <p class="text-center smallp">Smart TV</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/fiber-optic.png"
-                                            class="img-center">
-                                        <p class="text-center smallp">Superfast WIFI</p>
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/fiber-optic.png" class="img-center">
+                                        <p class="text-center smallp">Superfast Wi-fi</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/safe.png"
                                             class="img-center">
@@ -510,52 +504,52 @@ include 'header.php' ?>
                                             class="img-center">
                                         <p class="text-center smallp">Crockery & Cutlery</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/coffee-machine.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/coffee-machine.png" class="img-center">
                                         <p class="text-center smallp">Coffee Machine</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/washing-machine.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/washing-machine.png" class="img-center">
                                         <p class="text-center smallp">Washing Machine</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/work-chair-desk.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/work-chair-desk.png" class="img-center">
                                         <p class="text-center smallp">Work Desk & Chair</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/kitchen.png"
                                             class="img-center">
                                         <p class="text-center smallp">Fully Fitted Kitchen</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/dishwasher.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/dishwasher.png" class="img-center">
                                         <p class="text-center smallp">Dishwasher</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/split-monitor.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/split-monitor.png" class="img-center">
                                         <p class="text-center smallp">LG Split Monitor Screen</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/welcome-kit.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/welcome-kit.png" class="img-center">
                                         <p class="text-center smallp">Welcome Kit</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/furnitures.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/furnitures.png" class="img-center">
                                         <p class="text-center smallp">Designer Furnishing</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/ironing.png"
                                             class="img-center">
                                         <p class="text-center smallp">Iron & Ironing Board</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/toiletries.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/toiletries.png" class="img-center">
                                         <p class="text-center smallp">400ml Toiletries</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/mattress.png"
                                             class="img-center">
                                         <p class="text-center smallp">Ortho Mattress</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/weekly-cleaning.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/weekly-cleaning.png" class="img-center">
                                         <p class="text-center smallp">Weekly Housekeeping</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/check-in.png"
@@ -632,13 +626,13 @@ include 'header.php' ?>
                     <div class="col-12">
                         <div class="our-history-content m-b30">
                             <div class="large-title">
-                                <h1 class="m-t20 text-uppercase">Three Bedrooms Apartment</h1>
+                                <h1 class="m-t20 text-uppercase">Three Bedroom Apartment</h1>
                             </div>
-                            <p align="justify">The most spacious of our apartments, three bed apartments is perfect for
+                            <p align="justify">The most spacious of our apartments, three-bed apartments are perfect for
                                 families or those looking for a larger apartment for a longer stay. Flooded with natural
-                                light through the skylight windows our three beautiful bedrooms come with a Super King
-                                (Zip & link), King and double beds. The apartment boasts a fully fitted kitchen, dining
-                                space and two bathrooms.
+                                light through the skylight windows, our three beautiful bedrooms come with a Super King
+                                (Zip & link), King, and double beds. The apartment boasts a fully fitted kitchen, dining
+                                space, and two bathrooms.
                                 <br>
                                 These apartments are the perfect family home in London, with plenty of room for the
                                 whole family to relax and work.<br>
@@ -648,7 +642,7 @@ include 'header.php' ?>
                             <a target="_blank" href="https://my.matterport.com/show/?m=8sYXuXCZ6KL&play=1&hr=1&ts=0"
                                 class="site-button-secondry btn-half"><span> Virtual Tour</span></a>
                             <a href="#" class="site-button-secondry btn-half floor-plan-button"
-                                data-title="Three Bedrooms Apartment Floor Plan"
+                                data-title="Three Bedroom Apartment Floor Plan"
                                 data-floorplan="fulham/3-bed"><span>Floor Plan</span></a>
 
                         </div>
@@ -659,8 +653,7 @@ include 'header.php' ?>
 
                     <div class="row">
                         <div class="col-md-12" data-aos="fade-up" data-aos-duration="800">
-                            <h3 class="mt-tb20">Amenities in three bedrooms
-                                apartments:</h3>
+                            <h3 class="mt-tb20">Amenities in three-bedroom apartments:</h3>
                             <div class="ambox m-b50">
                                 <div class="row">
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/guest.png"
@@ -682,7 +675,7 @@ include 'header.php' ?>
 
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/king-bed.png"
                                             class="img-center">
-                                        <p class="text-center smallp">Super King Bed</p>
+                                        <p class="text-center smallp">Super King Size Bed</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/hairdryer.png"
                                             class="img-center">
@@ -696,9 +689,9 @@ include 'header.php' ?>
                                             class="img-center">
                                         <p class="text-center smallp">Smart TV</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/fiber-optic.png"
-                                            class="img-center">
-                                        <p class="text-center smallp">Superfast WIFI</p>
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/fiber-optic.png" class="img-center">
+                                        <p class="text-center smallp">Superfast Wi-fi</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/safe.png"
                                             class="img-center">
@@ -708,52 +701,52 @@ include 'header.php' ?>
                                             class="img-center">
                                         <p class="text-center smallp">Crockery & Cutlery</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/coffee-machine.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/coffee-machine.png" class="img-center">
                                         <p class="text-center smallp">Coffee Machine</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/washing-machine.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/washing-machine.png" class="img-center">
                                         <p class="text-center smallp">Washing Machine</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/work-chair-desk.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/work-chair-desk.png" class="img-center">
                                         <p class="text-center smallp">Work Desk & Chair</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/kitchen.png"
                                             class="img-center">
                                         <p class="text-center smallp">Fully Fitted Kitchen</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/dishwasher.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/dishwasher.png" class="img-center">
                                         <p class="text-center smallp">Dishwasher</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/split-monitor.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/split-monitor.png" class="img-center">
                                         <p class="text-center smallp">LG Split Monitor Screen</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/welcome-kit.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/welcome-kit.png" class="img-center">
                                         <p class="text-center smallp">Welcome Kit</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/furnitures.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/furnitures.png" class="img-center">
                                         <p class="text-center smallp">Designer Furnishing</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/ironing.png"
                                             class="img-center">
                                         <p class="text-center smallp">Iron & Ironing Board</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/toiletries.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/toiletries.png" class="img-center">
                                         <p class="text-center smallp">400ml Toiletries</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/mattress.png"
                                             class="img-center">
                                         <p class="text-center smallp">Ortho Mattress</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/weekly-cleaning.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/weekly-cleaning.png" class="img-center">
                                         <p class="text-center smallp">Weekly Housekeeping</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/check-in.png"
@@ -869,23 +862,24 @@ include 'header.php' ?>
                     <div class="col-12">
                         <div class="our-history-content m-b30">
                             <div class="large-title">
-                                <h1 class="m-t20 text-uppercase">Duplex Three Bedrooms Apartment</h1>
+                                <h1 class="m-t20 text-uppercase">Duplex Three Bedroom Apartment</h1>
                             </div>
                             <p align="justify">Set within traditional red-brick townhouses, just a stone's throw from
-                                London's top football clubs, our three bed duplex apartments offer modern London living
-                                from buildings rooted in history. Luxurious space and comfort with the similar design as
-                                our other apartments. The apartment boasts a fully fitted kitchen, dining space with
-                                beautifully designed bathrooms.
-
-                                These apartments are the perfect home in London, with plenty of room for one to relax
-                                and work.<br>
+                                London's top football clubs, our three-bed duplex apartments offer modern London living
+                                from buildings rooted in history. Luxurious space and comfort with a similar design as
+                                our other apartments. The apartment boasts a fully fitted kitchen and dining space with
+                                beautifully designed bathrooms. These apartments are the perfect home in London, with
+                                plenty of room to relax and work.
+                                <br>
+                                These apartments are the perfect family home in London, with plenty of room for the
+                                whole family to relax and work.<br>
                                 <span class="m-t10 badge badge-primary"><img src="images/icons/scale.png"> Area : Approx
                                     151 Sqm</span>
                             </p>
                             <a target="_blank" href="https://my.matterport.com/show/?m=wS1gk2p2ybE&play=1&hr=1&ts=0"
                                 class="site-button-secondry btn-half"><span> Virtual Tour</span></a>
                             <a href="#" class="site-button-secondry btn-half floor-plan-button"
-                                data-title="Duplex Three Bedrooms Apartment Floor Plan"
+                                data-title="Duplex Three Bedroom Apartment Floor Plan"
                                 data-floorplan="fulham/duplex-3-bed"><span>Floor Plan</span></a>
 
                         </div>
@@ -896,8 +890,7 @@ include 'header.php' ?>
 
                     <div class="row">
                         <div class="col-md-12" data-aos="fade-up" data-aos-duration="800">
-                            <h3 class="mt-tb20">Amenities in duplex three bedrooms
-                                apartments:</h3>
+                            <h3 class="mt-tb20">Amenities in duplex three-bedroom apartments:</h3>
                             <div class="ambox m-b50">
                                 <div class="row">
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/guest.png"
@@ -919,7 +912,7 @@ include 'header.php' ?>
 
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/king-bed.png"
                                             class="img-center">
-                                        <p class="text-center smallp">King Bed</p>
+                                        <p class="text-center smallp">King Size Bed</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/hairdryer.png"
                                             class="img-center">
@@ -933,9 +926,9 @@ include 'header.php' ?>
                                             class="img-center">
                                         <p class="text-center smallp">Smart TV</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/fiber-optic.png"
-                                            class="img-center">
-                                        <p class="text-center smallp">Superfast WIFI</p>
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/fiber-optic.png" class="img-center">
+                                        <p class="text-center smallp">Superfast Wi-fi</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/safe.png"
                                             class="img-center">
@@ -945,52 +938,52 @@ include 'header.php' ?>
                                             class="img-center">
                                         <p class="text-center smallp">Crockery & Cutlery</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/coffee-machine.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/coffee-machine.png" class="img-center">
                                         <p class="text-center smallp">Coffee Machine</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/washing-machine.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/washing-machine.png" class="img-center">
                                         <p class="text-center smallp">Washing Machine</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/work-chair-desk.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/work-chair-desk.png" class="img-center">
                                         <p class="text-center smallp">Work Desk & Chair</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/kitchen.png"
                                             class="img-center">
                                         <p class="text-center smallp">Fully Fitted Kitchen</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/dishwasher.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/dishwasher.png" class="img-center">
                                         <p class="text-center smallp">Dishwasher</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/split-monitor.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/split-monitor.png" class="img-center">
                                         <p class="text-center smallp">LG Split Monitor Screen</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/welcome-kit.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/welcome-kit.png" class="img-center">
                                         <p class="text-center smallp">Welcome Kit</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/furnitures.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/furnitures.png" class="img-center">
                                         <p class="text-center smallp">Designer Furnishing</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/ironing.png"
                                             class="img-center">
                                         <p class="text-center smallp">Iron & Ironing Board</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/toiletries.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/toiletries.png" class="img-center">
                                         <p class="text-center smallp">400ml Toiletries</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/mattress.png"
                                             class="img-center">
                                         <p class="text-center smallp">Ortho Mattress</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/weekly-cleaning.png"
-                                            class="img-center">
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
+                                            src="images/icons/weekly-cleaning.png" class="img-center">
                                         <p class="text-center smallp">Weekly Housekeeping</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/check-in.png"

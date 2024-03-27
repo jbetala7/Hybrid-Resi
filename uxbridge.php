@@ -159,21 +159,19 @@ include 'header.php' ?>
 
                     <div class="about-home-3 m-b30 bg-white">
                         <h3 class="m-t0 m-b20 sx-tilte text-center text-uppercase">Hybrid Resi - Uxbridge</h3>
-                        <p align="justify">These contemporary apartments in Uxbridge, a suburban town in north-west
-                            London, provide every guest with their perfect home within Greater London with 50
-                            minutes
-                            of
-                            direct travel by Metropolitan Line to King's Cross and 30 minutes
-                            to Baker Street. Apartments are located 5 minutes' walk from Uxbridge underground
-                            station and 2 minutes from the High Street. Uxbridge station lies at the end of both the
-                            Metropolitan and Piccadilly lines.  
-                            Uxbridge is 5 minutes from the M40, 10 minutes from the M25, and 15
-                            minutes from the M4 and Heathrow. 
-                            As a Corporate serviced apartment, you'll find everything you need
-                            for a B'leisure stay.
+                        <p align="justify" class="list-angle-right anchor-line text-center">These contemporary
+                            apartments in Uxbridge offer guests an ideal home within Greater London. They boast direct
+                            travel to King's Cross in 50 minutes and to Baker Street in 30 minutes via the Metropolitan
+                            Line. Conveniently located just a 5-minute walk from Uxbridge underground station and 2
+                            minutes from the High Street, these apartments are situated near major transportation hubs.
+                            Uxbridge station serves as the terminus for both the Metropolitan and Piccadilly lines.
+                            Additionally, Uxbridge is within 5 minutes of the M40, 10 minutes of the M25, and 15 minutes
+                            of the M4 and Heathrow Airport. As corporate serviced apartments, they cater to all your
+                            'Bleisure' needs.
                         </p>
-                        <p class="mediumbp" align="justify">Onsite car parking is subject to availability - The
-                            management bears no responsibility for vehicles parked in our parking bay.</p>
+                        <p class="mediumbp list-angle-right anchor-line text-center" align="justify">Onsite car parking
+                            is subject to availability - The management bears no responsibility for vehicles parked in
+                            our parking bay.</p>
                     </div>
                 </div>
 
@@ -272,12 +270,11 @@ include 'header.php' ?>
                             <div class="large-title">
                                 <h1 class="m-t20 text-uppercase">One Bedroom Apartment</h1>
                             </div>
-                            <p align="justify">This one-bedroom apartment features a king-size bed
-                                with a Hybrid office desk & an executive chair, a full bathroom, and a toilet only
-                                bathroom, a living area, and a fully equipped kitchen with an oven, hob, microwave,
-                                fridge freezer and a combo Washer/Dryer machine. Apartment facilities include a dining
-                                area,
-                                Smart TV, and free internet access. <br>
+                            <p align="justify">These one-bedroom apartments include a king-size bed with a hybrid office
+                                desk and an executive chair, a full bathroom, and an additional toilet-only bathroom, a
+                                living area, and a fully equipped kitchen with an oven, hob, microwave, fridge freezer,
+                                and a washer/dryer combo machine. Apartment facilities include a dining area, Smart TV,
+                                and complimentary internet access.<br>
                                 <span class="m-t10 badge badge-primary"><img src="images/icons/scale.png"> Area : Approx
                                     55 Sqm</span>
                             </p>
@@ -295,7 +292,7 @@ include 'header.php' ?>
 
                     <div class="row">
                         <div class="col-md-12" data-aos="fade-up" data-aos-duration="800">
-                            <h3 class="mt-tb20">Amenities in one bedroom
+                            <h3 class="mt-tb20">Amenities in one-bedroom
                                 apartments:</h3>
                             <div class="ambox m-b50">
                                 <div class="row">
@@ -312,9 +309,9 @@ include 'header.php' ?>
                                         <p class="text-center smallp">Microwave</p>
                                     </div>
 
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
-                                            src="images/icons/double-bed.png" class="img-center">
-                                        <p class="text-center smallp">Double Bed</p>
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/king-bed.png"
+                                            class="img-center">
+                                        <p class="text-center smallp">King Size Bed</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/hairdryer.png"
                                             class="img-center">
@@ -330,7 +327,7 @@ include 'header.php' ?>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
                                             src="images/icons/fiber-optic.png" class="img-center">
-                                        <p class="text-center smallp">Superfast WIFI</p>
+                                        <p class="text-center smallp">Superfast Wi-fi</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/crockery.png"
                                             class="img-center">
@@ -378,7 +375,7 @@ include 'header.php' ?>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/parking.png"
                                             class="img-center">
-                                        <p class="text-center smallp">On-site Free Car parking</p>
+                                        <p class="text-center smallp">On-site Car parking</p>
                                     </div>
                                 </div>
                             </div>
@@ -497,16 +494,15 @@ include 'header.php' ?>
                     <div class="col-12">
                         <div class="our-history-content m-b30">
                             <div class="large-title">
-                                <h1 class="m-t20 text-uppercase">Two Bedrooms Apartment</h1>
+                                <h1 class="m-t20 text-uppercase">Two Bedroom Apartment</h1>
                             </div>
-                            <p align="justify">Set within the brand-new red-brick build, just a stone's
-                                throw from Uxbridge station, our two bed apartments offer modern London living.
-                                Luxurious space and comfort with the similar design as our other apartments. The
-                                apartment boasts a fully equipped kitchen with an oven, hob, microwave, fridge freezer
-                                and a combo
-                                Washer/Dryer machine, dining space with two beautifully designed bathrooms. These
-                                apartments are the perfect home, with plenty of room for one to relax and work.
-                                Apartments features a private balcony.
+                            <p align="justify">Set within the brand-new red-brick building, just a stone's throw from
+                                Uxbridge station, our two-bedroom apartments offer modern London living. Luxurious space
+                                and comfort with a design similar to our other apartments. Each apartment boasts a fully
+                                equipped kitchen with an oven, hob, microwave, fridge freezer, and a washer/dryer combo
+                                machine, along with dining space and two beautifully designed bathrooms. These
+                                apartments are the perfect home, with plenty of room to relax and work. The apartments
+                                feature a private balcony.
                                 <br>
                                 <span class="m-t10 badge badge-primary"><img src="images/icons/scale.png"> Area : Approx
                                     90 Sqm</span>
@@ -514,7 +510,7 @@ include 'header.php' ?>
                             <a target="_blank" href="https://my.matterport.com/show/?m=KcczuzViXir&play=1&hr=1&ts=0"
                                 class="site-button-secondry btn-half"><span> Virtual Tour</span></a>
                             <a href="#" class="site-button-secondry btn-half floor-plan-button"
-                                data-title="Two Bedrooms Apartment Floor Plan"
+                                data-title="Two Bedroom Apartment Floor Plan"
                                 data-floorplan="uxbridge/2-bed"><span>Floor Plan</span></a>
 
                         </div>
@@ -525,7 +521,7 @@ include 'header.php' ?>
 
                     <div class="row">
                         <div class="col-md-12" data-aos="fade-up" data-aos-duration="800">
-                            <h3 class="mt-tb20">Amenities in three bedrooms
+                            <h3 class="mt-tb20">Amenities in two-bedroom
                                 apartments:</h3>
                             <div class="ambox m-b50">
                                 <div class="row">
@@ -544,7 +540,7 @@ include 'header.php' ?>
 
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/king-bed.png"
                                             class="img-center">
-                                        <p class="text-center smallp">King Bed</p>
+                                        <p class="text-center smallp">King Size Bed</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/hairdryer.png"
                                             class="img-center">
@@ -560,7 +556,7 @@ include 'header.php' ?>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
                                             src="images/icons/fiber-optic.png" class="img-center">
-                                        <p class="text-center smallp">Superfast WIFI</p>
+                                        <p class="text-center smallp">Superfast Wi-fi</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/crockery.png"
                                             class="img-center">
@@ -608,7 +604,7 @@ include 'header.php' ?>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/parking.png"
                                             class="img-center">
-                                        <p class="text-center smallp">On-site Free Car parking</p>
+                                        <p class="text-center smallp">On-site Car parking</p>
                                     </div>
                                 </div>
                             </div>
@@ -733,23 +729,23 @@ include 'header.php' ?>
                     <div class="col-12">
                         <div class="our-history-content m-b30">
                             <div class="large-title">
-                                <h1 class="m-t20 text-uppercase">Three Bedrooms Apartment</h1>
+                                <h1 class="m-t20 text-uppercase">Three Bedroom Apartment</h1>
                             </div>
-                            <p align="justify">The most spacious of our apartments, three bed apartments
-                                is perfect for families or those looking for a larger apartment for a longer stay.
-                                Flooded with natural light our beautiful three bedrooms come with a Super King (Zip &
-                                link), Double and a single bed. The apartment boasts a fully equipped kitchen with an
-                                oven,
-                                hob, microwave, fridge freezer and a combo Washer/Dryer machine, dining space and two
-                                bathrooms. These apartments are the perfect match for a family home in London, with
-                                plenty of room to relax and work. Apartments features a private balcony. <br>
+                            <p align="justify">The most spacious of our apartments, three-bedroom apartments are perfect
+                                for families or those seeking a larger space for an extended stay. Flooded with natural
+                                light, our beautiful three-bedroom units feature a super king-size bed (zip & link), a
+                                double bed, and a single bed. Each apartment boasts a fully equipped kitchen with an
+                                oven, hob, microwave, fridge freezer, and a washer/dryer combo machine, along with
+                                dining space and one or two bathrooms. These apartments are the perfect choice for a
+                                family home in London, offering plenty of room to relax and work. The apartments feature
+                                a private balcony. <br>
                                 <span class="m-t10 badge badge-primary"><img src="images/icons/scale.png"> Area : Approx
                                     90 Sqm</span>
                             </p>
                             <a target="_blank" href="https://my.matterport.com/show/?m=KcczuzViXir&play=1&hr=1&ts=0"
                                 class="site-button-secondry btn-half"><span> Virtual Tour</span></a>
                             <a href="#" class="site-button-secondry btn-half floor-plan-button"
-                                data-title="Three Bedrooms Apartment Floor Plan"
+                                data-title="Three Bedroom Apartment Floor Plan"
                                 data-floorplan="uxbridge/2-bed"><span>Floor Plan</span></a>
 
                         </div>
@@ -760,7 +756,7 @@ include 'header.php' ?>
 
                     <div class="row">
                         <div class="col-md-12" data-aos="fade-up" data-aos-duration="800">
-                            <h3 class="mt-tb20">Amenities in three bedrooms
+                            <h3 class="mt-tb20">Amenities in three-bedroom
                                 apartments:</h3>
                             <div class="ambox m-b50">
                                 <div class="row">
@@ -779,7 +775,7 @@ include 'header.php' ?>
 
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/king-bed.png"
                                             class="img-center">
-                                        <p class="text-center smallp">King Bed</p>
+                                        <p class="text-center smallp">King Size Bed</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/hairdryer.png"
                                             class="img-center">
@@ -795,7 +791,7 @@ include 'header.php' ?>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
                                             src="images/icons/fiber-optic.png" class="img-center">
-                                        <p class="text-center smallp">Superfast WIFI</p>
+                                        <p class="text-center smallp">Superfast Wi-fi</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/crockery.png"
                                             class="img-center">
@@ -847,7 +843,7 @@ include 'header.php' ?>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/parking.png"
                                             class="img-center">
-                                        <p class="text-center smallp">On-site Free Car parking</p>
+                                        <p class="text-center smallp">On-site Car parking</p>
                                     </div>
                                 </div>
                             </div>

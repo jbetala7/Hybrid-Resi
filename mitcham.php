@@ -179,18 +179,11 @@ include 'header.php' ?>
                     <div class="about-home-3 m-b30 bg-white">
                         <h3 class="m-t0 m-b20 sx-tilte text-center text-uppercase">Hybrid Resi - Mitcham</h3>
                         <p align="justify" class="list-angle-right anchor-line text-center">
-                            This brand-new sustainable Serviced Apartment building in Mitcham provides every guest with
-                            their perfect home within London City. Mitcham is in the east of the London Borough of
-                            Merton. Mitcham is close to Streatham, Croydon, Norbury, Morden, Sutton, Wimbledon, and
-                            Tooting. The River Wandle bounds the town to the southwest.
-
-                            As a Corporate serviced apartment, you'll find everything you need for a B'leisure stay.
-
-                            Mitcham is home to a large area (460 acres) of South London's open green space in the form
-                            of Mitcham Common, studded with a few ponds and buildings. Mitcham is served by two railway
-                            stations: Mitcham Junction and Mitcham Eastfields. Trains on the Thameslink route from
-                            Central London continue on via the Sutton Loop Line to Sutton and Wimbledon back towards
-                            Central London.
+                            Located in Mitcham, this newly constructed sustainable serviced apartment building offers
+                            guests their ideal home within London City. Situated in the eastern part of the London
+                            Borough of Merton, Mitcham is conveniently close to Streatham, Croydon, Norbury, Morden,
+                            Sutton, Wimbledon, and Tooting. The town is bounded by the river Wandle to the southwest. As
+                            a corporate serviced apartment, you'll find everything you need for a 'Bleisure' stay.
 
                         </p>
                     </div>
@@ -297,11 +290,12 @@ include 'header.php' ?>
                                 <h1 class="m-t20 text-uppercase">One Bedroom Apartment</h1>
                                 <!-- <h4>Perth, Australia</h4> -->
                             </div>
-                            <p align="justify">Each of our individually designed one bed apartments in the heart of
-                                Mitcham are perfect for the extended stay or those looking for a larger space to unwind
-                                after a busy day. Relax in a separate lounge incorporating a fully fitted kitchen,
-                                dining area, and living room before you retreat to your bedroom. The apartment boasts a
-                                fully fitted kitchen, dining space with bathtub in bathroom.<br>
+                            <p align="justify">Our individually designed one-bedroom apartments, situated in the heart
+                                of Mitcham, are perfect for extended stays or for those seeking a spacious retreat after
+                                a busy day. Each apartment features a separate lounge area that includes a fully fitted
+                                kitchen, dining area, and living room for relaxation before retiring to the bedroom.
+                                Additionally, the apartment is equipped with a fully fitted kitchen and dining space,
+                                complete with a bathtub in the bathroom.<br>
                                 <span class="m-t10 badge badge-primary"><img src="images/icons/scale.png"> Area : Approx
                                     46 Sqm</span>
                             </p>
@@ -319,7 +313,7 @@ include 'header.php' ?>
 
                     <div class="row">
                         <div class="col-md-12" data-aos="fade-up" data-aos-duration="800">
-                            <h3 class="mt-tb20">Amenities in one bedroom
+                            <h3 class="mt-tb20">Amenities in one-bedroom
                                 apartments:</h3>
                             <div class="ambox m-b50">
                                 <div class="row">
@@ -338,7 +332,7 @@ include 'header.php' ?>
 
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
                                             src="images/icons/double-bed.png" class="img-center">
-                                        <p class="text-center smallp">King Bed</p>
+                                        <p class="text-center smallp">King Size Bed</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/hairdryer.png"
                                             class="img-center">
@@ -354,7 +348,7 @@ include 'header.php' ?>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
                                             src="images/icons/fiber-optic.png" class="img-center">
-                                        <p class="text-center smallp">Superfast WIFI</p>
+                                        <p class="text-center smallp">Superfast Wi-fi</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/crockery.png"
                                             class="img-center">
@@ -514,22 +508,23 @@ include 'header.php' ?>
                     <div class="col-12">
                         <div class="our-history-content m-b30">
                             <div class="large-title">
-                                <h1 class="m-t20 text-uppercase">Two Bedrooms Apartment</h1>
+                                <h1 class="m-t20 text-uppercase">Two Bedroom Apartment</h1>
                             </div>
-                            <p align="justify">Set within the brand new red-brick build, just a stone's throw from
-                                Mitcham shopping district our two bed apartments offer modern London living from
-                                buildings rooted in history. Luxurious space and comfort with the similar design as our
-                                other apartments. The apartment boasts a fully fitted kitchen, dining space with
-                                beautifully designed bathrooms. These apartments are the perfect home in London, with
-                                plenty of room for one to relax and work. Some with private balcony.<br>
+                            <p align="justify">Set within a newly constructed red-brick building, just a stone's throw
+                                from Mitcham's shopping district, our two-bedroom apartments offer modern London living
+                                in buildings steeped in history. These luxurious spaces provide comfort and style,
+                                featuring a design like our other apartments. Each apartment boasts a fully fitted
+                                kitchen, dining area, and beautifully designed bathrooms. With plenty of room to relax
+                                and work, these apartments serve as the perfect home in London. Additionally, some
+                                apartments come with a private balcony.<br>
                                 <span class="m-t10 badge badge-primary"><img src="images/icons/scale.png"> Area : Approx
                                     68 Sqm</span>
                             </p>
                             <a target="_blank" href="https://my.matterport.com/show/?m=yhzDGSqUz3g&play=1&hr=1&ts=0"
                                 class="site-button-secondry btn-half"><span> Virtual Tour</span></a>
                             <a href="#" class="site-button-secondry btn-half floor-plan-button"
-                                data-title="Two Bedrooms Apartment Floor Plan"
-                                data-floorplan="mitcham/2-bed"><span>Floor Plan</span></a>
+                                data-title="Two Bedroom Apartment Floor Plan" data-floorplan="mitcham/2-bed"><span>Floor
+                                    Plan</span></a>
 
                         </div>
                     </div>
@@ -539,7 +534,7 @@ include 'header.php' ?>
 
                     <div class="row">
                         <div class="col-md-12" data-aos="fade-up" data-aos-duration="800">
-                            <h3 class="mt-tb20">Amenities in two bedrooms
+                            <h3 class="mt-tb20">Amenities in two-bedroom
                                 apartments:</h3>
                             <div class="ambox m-b50">
                                 <div class="row">
@@ -558,7 +553,7 @@ include 'header.php' ?>
 
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
                                             src="images/icons/double-bed.png" class="img-center">
-                                        <p class="text-center smallp">King Bed</p>
+                                        <p class="text-center smallp">King Size Bed</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/hairdryer.png"
                                             class="img-center">
@@ -574,7 +569,7 @@ include 'header.php' ?>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
                                             src="images/icons/fiber-optic.png" class="img-center">
-                                        <p class="text-center smallp">Superfast WIFI</p>
+                                        <p class="text-center smallp">Superfast Wi-fi</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/crockery.png"
                                             class="img-center">
@@ -696,7 +691,7 @@ include 'header.php' ?>
                     <div class="col-12">
                         <div class="our-history-content m-b30">
                             <div class="large-title">
-                                <h1 class="m-t20 text-uppercase">Three Bedrooms Apartment</h1>
+                                <h1 class="m-t20 text-uppercase">Three Bedroom Apartment</h1>
                             </div>
                             <p align="justify">The most spacious of our apartments, three bed apartments is perfect for
                                 families or those looking for a larger apartment for a longer stay. Flooded with natural
@@ -716,7 +711,7 @@ include 'header.php' ?>
 
                     <div class="row">
                         <div class="col-md-12" data-aos="fade-up" data-aos-duration="800">
-                            <h3 class="mt-tb20">Amenities in three bedrooms
+                            <h3 class="mt-tb20">Amenities in three-bedroom
                                 apartments:</h3>
                             <div class="ambox m-b50">
                                 <div class="row">
@@ -735,7 +730,7 @@ include 'header.php' ?>
 
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
                                             src="images/icons/double-bed.png" class="img-center">
-                                        <p class="text-center smallp">King Bed</p>
+                                        <p class="text-center smallp">King Size Bed</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/hairdryer.png"
                                             class="img-center">
@@ -751,7 +746,7 @@ include 'header.php' ?>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
                                             src="images/icons/fiber-optic.png" class="img-center">
-                                        <p class="text-center smallp">Superfast WIFI</p>
+                                        <p class="text-center smallp">Superfast Wi-fi</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/crockery.png"
                                             class="img-center">

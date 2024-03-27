@@ -246,9 +246,9 @@ include 'header.php' ?>
                                 <h1 class="m-t20 text-uppercase">Cozy One Bedroom Apartment</h1>
                                 <!-- <h4>Perth, Australia</h4> -->
                             </div>
-                            <p align="justify">This cozy one-bedroom apartment features a Double size bed with a Hybrid
-                                office desk & an executive chair, bathroom, a living area with wooden flooring, and a
-                                fully equipped kitchen with an oven, hob, microwave, fridge and Washing machine.
+                            <p align="justify">These cozy one-bedroom apartments feature a double-size bed with a Hybrid
+                                office desk and an executive chair, a bathroom, a living area with wooden flooring, and
+                                a fully equipped kitchen with an oven, hob, microwave, fridge, and washing machine.
                                 Apartment facilities include a dining area, Smart TV, and free internet access.<br>
                                 <span class="m-t10 badge badge-primary"><img src="images/icons/scale.png"> Area : Approx
                                     34 Sqm</span>
@@ -267,8 +267,7 @@ include 'header.php' ?>
 
                     <div class="row">
                         <div class="col-md-12" data-aos="fade-up" data-aos-duration="800">
-                            <h3 class="mt-tb20">Amenities in cozy one bedroom
-                                apartments:</h3>
+                            <h3 class="mt-tb20">Amenities in cozy one-bedroom apartments:</h3>
                             <div class="ambox m-b50">
                                 <div class="row">
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/guest.png"
@@ -290,7 +289,7 @@ include 'header.php' ?>
 
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
                                             src="images/icons/double-bed.png" class="img-center">
-                                        <p class="text-center smallp">Double Bed</p>
+                                        <p class="text-center smallp">Double Size Bed</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/hairdryer.png"
                                             class="img-center">
@@ -306,7 +305,7 @@ include 'header.php' ?>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
                                             src="images/icons/fiber-optic.png" class="img-center">
-                                        <p class="text-center smallp">Superfast WIFI</p>
+                                        <p class="text-center smallp">Superfast Wi-fi</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/crockery.png"
                                             class="img-center">
@@ -417,9 +416,9 @@ include 'header.php' ?>
                             <div class="large-title">
                                 <h1 class="m-t20 text-uppercase">One Bedroom Apartment</h1>
                             </div>
-                            <p align="justify">This one-bedroom apartment features a king size bed with a Hybrid office
-                                desk & an executive chair, bathroom, a living area with wooden flooring, and a fully
-                                equipped kitchen with an oven, hob, microwave, fridge and Washing machine. Apartment
+                            <p align="justify">These one-bedroom apartments feature a king-size bed with a Hybrid office
+                                desk and an executive chair, a bathroom, a living area with wooden flooring, and a fully
+                                equipped kitchen with an oven, hob, microwave, fridge, and washing machine. Apartment
                                 facilities include a dining area, Smart TV, and free internet access.<br>
                                 <span class="m-t10 badge badge-primary"><img src="images/icons/scale.png"> Area : Approx
                                     45 Sqm</span>
@@ -427,7 +426,7 @@ include 'header.php' ?>
                             <a target="_blank" href="https://my.matterport.com/show/?m=sAPer35bsTV&play=1&hr=1&ts=0"
                                 class="site-button-secondry btn-half"><span> Virtual Tour</span></a>
                             <a href="#" class="site-button-secondry btn-half floor-plan-button"
-                                data-title="One Bedrooms Apartment Floor Plan"
+                                data-title="One Bedroom Apartment Floor Plan"
                                 data-floorplan="wandsworth/1-bed"><span>Floor Plan</span></a>
 
                         </div>
@@ -438,8 +437,7 @@ include 'header.php' ?>
 
                     <div class="row">
                         <div class="col-md-12" data-aos="fade-up" data-aos-duration="800">
-                            <h3 class="mt-tb20">Amenities in one bedroom
-                                apartments:</h3>
+                            <h3 class="mt-tb20">Amenities in one-bedroom apartments:</h3>
                             <div class="ambox m-b50">
                                 <div class="row">
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/guest.png"
@@ -461,7 +459,7 @@ include 'header.php' ?>
 
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/king-bed.png"
                                             class="img-center">
-                                        <p class="text-center smallp">King Bed</p>
+                                        <p class="text-center smallp">King Size Bed</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/hairdryer.png"
                                             class="img-center">
@@ -477,7 +475,7 @@ include 'header.php' ?>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
                                             src="images/icons/fiber-optic.png" class="img-center">
-                                        <p class="text-center smallp">Superfast WIFI</p>
+                                        <p class="text-center smallp">Superfast Wi-fi</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/crockery.png"
                                             class="img-center">

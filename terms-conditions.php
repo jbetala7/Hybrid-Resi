@@ -702,7 +702,7 @@ include 'header.php' ?>
                             </p>
                             <p class="text-theme-1">13.4 Internet / Wi-Fi access
                             <ul align="justify" class="list-angle-right font-mbold">
-                                <li><a href="javascript:void(0)"> High-speed WIFI internet is available free of
+                                <li><a href="javascript:void(0)"> High-speed Wi-fi internet is available free of
                                         charge throughout every area of the Property. Information about Internet
                                         access will be provided at the time of booking and on arrival. Internet
                                         access is subject to the Hybrid Resi's acceptable use policy. At peak times,

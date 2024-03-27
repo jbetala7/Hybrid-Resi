@@ -168,14 +168,11 @@ include 'header.php' ?>
                         <p align="justify" class="list-angle-right anchor-line text-center">
                             This characterful Victorian-era building with curlicue trims, bright colours, and
                             asymmetrical designs situated in southwest London, Battersea close to the river Thames
-                            offers every guest their luxurious and capacious home within the City.
-
-                            Hybrid Resi - Battersea provides corporate serviced accommodation in London, 16 miles from
-                            London Heathrow Airport and less than a mile to either Battersea Park Station or Clapham
-                            Junction Train Station.
-
-                            As an extended serviced apartment, you'll find everything you need for a B'leisure stay.
-
+                            offers every guest their luxurious and capacious home within the city. Hybrid Resi -
+                            Battersea provides corporate serviced accommodation in London, 16 miles from London Heathrow
+                            Airport and less than a mile to either Battersea Park Station or Clapham Junction Train
+                            Station. As an extended serviced apartment, you'll find everything you need for a B'leisure
+                            stay.
                         </p>
                     </div>
                 </div>
@@ -243,10 +240,10 @@ include 'header.php' ?>
                                 <h1 class="m-t20 text-uppercase">One Bedroom Apartment</h1>
                                 <!-- <h4>Perth, Australia</h4> -->
                             </div>
-                            <p align="justify">This one-bedroom apartment features a king-size bed with a Hybrid office
+                            <p align="justify">These one-bedroom apartments feature a king-size bed with a Hybrid office
                                 desk & an executive chair along with LG split screen monitor, a bathroom, a living area
                                 with wooden flooring, and a fully equipped kitchen with an oven, hob, microwave, fridge
-                                freezer, dishwasher and Washing machine. Apartment facilities include a dining area,
+                                freezer, dishwasher and a washing machine. Apartment facilities include a dining area,
                                 Smart TV, and free internet access.<br>
                                 <span class="m-t10 badge badge-primary"><img src="images/icons/scale.png"> Area : Approx
                                     60 Sqm</span>
@@ -265,8 +262,7 @@ include 'header.php' ?>
 
                     <div class="row">
                         <div class="col-md-12" data-aos="fade-up" data-aos-duration="800">
-                            <h3 class="mt-tb20">Amenities in one bedroom
-                                apartments:</h3>
+                            <h3 class="mt-tb20">Amenities in one-bedroom apartments:</h3>
                             <div class="ambox m-b50">
                                 <div class="row">
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/guest.png"
@@ -288,7 +284,7 @@ include 'header.php' ?>
 
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
                                             src="images/icons/double-bed.png" class="img-center">
-                                        <p class="text-center smallp">Double Bed</p>
+                                        <p class="text-center smallp">Double Size Bed</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/hairdryer.png"
                                             class="img-center">
@@ -304,7 +300,7 @@ include 'header.php' ?>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
                                             src="images/icons/fiber-optic.png" class="img-center">
-                                        <p class="text-center smallp">Superfast WIFI</p>
+                                        <p class="text-center smallp">Superfast Wi-fi</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/safe.png"
                                             class="img-center">
@@ -435,10 +431,10 @@ include 'header.php' ?>
                     <div class="col-12">
                         <div class="our-history-content m-b30">
                             <div class="large-title">
-                                <h1 class="m-t20 text-uppercase">Two Bedrooms Apartment</h1>
+                                <h1 class="m-t20 text-uppercase">Two Bedroom Apartment</h1>
                             </div>
-                            <p align="justify">This Two-bedroom on mezzanine floor apartment features a King size bed
-                                and a Super king size bed with two bathrooms, a Hybrid office desk and an executive
+                            <p align="justify">These Two-bedroom on mezzanine floor apartments feature a king-size bed
+                                and a super king-size bed with two bathrooms, a Hybrid office desk and an executive
                                 chair along with LG split screen monitor, a modern living area with wooden flooring, a
                                 fully equipped kitchen with oven, hob, microwave, fridge freezer and a communal garden.
                                 Apartment facilities include a dining area, Smart TV, and free internet access.<br>
@@ -448,7 +444,7 @@ include 'header.php' ?>
                             <a target="_blank" href="https://my.matterport.com/show/?m=SnBhLdjXgGC&play=1&hr=1&ts=0"
                                 class="site-button-secondry btn-half"><span> Virtual Tour</span></a>
                             <a href="#" class="site-button-secondry btn-half floor-plan-button"
-                                data-title="Two Bedrooms Apartment Floor Plan"
+                                data-title="Two Bedroom Apartment Floor Plan"
                                 data-floorplan="battersea/2-bed"><span>Floor Plan</span></a>
 
                         </div>
@@ -459,8 +455,7 @@ include 'header.php' ?>
 
                     <div class="row">
                         <div class="col-md-12" data-aos="fade-up" data-aos-duration="800">
-                            <h3 class="mt-tb20">Amenities in two bedrooms
-                                apartments:</h3>
+                            <h3 class="mt-tb20">Amenities in two-bedroom apartments:</h3>
                             <div class="ambox m-b50">
                                 <div class="row">
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/guest.png"
@@ -482,7 +477,7 @@ include 'header.php' ?>
 
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/king-bed.png"
                                             class="img-center">
-                                        <p class="text-center smallp">King Bed</p>
+                                        <p class="text-center smallp">King Size Bed</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/hairdryer.png"
                                             class="img-center">
@@ -498,7 +493,7 @@ include 'header.php' ?>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
                                             src="images/icons/fiber-optic.png" class="img-center">
-                                        <p class="text-center smallp">Superfast WIFI</p>
+                                        <p class="text-center smallp">Superfast Wi-fi</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/safe.png"
                                             class="img-center">
@@ -610,7 +605,7 @@ include 'header.php' ?>
                     <div class="col-12">
                         <div class="our-history-content m-b30">
                             <div class="large-title">
-                                <h1 class="m-t20 text-uppercase">Three Bedrooms Apartment</h1>
+                                <h1 class="m-t20 text-uppercase">Three Bedroom Apartment</h1>
                             </div>
                             <p align="justify">This three-bedroom on mezzanine floor apartment features a King size bed,
                                 Super king size bed and a double sofa-bed with two bathrooms, a Hybrid office desk and
@@ -624,7 +619,7 @@ include 'header.php' ?>
                             <a target="_blank" href="https://my.matterport.com/show/?m=Sj8Yn1vt6Vx&play=1&hr=1&ts=0"
                                 class="site-button-secondry btn-half"><span> Virtual Tour</span></a>
                             <a href="#" class="site-button-secondry btn-half floor-plan-button"
-                                data-title="Three Bedrooms Apartment Floor Plan"
+                                data-title="Three Bedroom Apartment Floor Plan"
                                 data-floorplan="battersea/3-bed"><span>Floor Plan</span></a>
 
                         </div>
@@ -635,7 +630,7 @@ include 'header.php' ?>
 
                     <div class="row">
                         <div class="col-md-12" data-aos="fade-up" data-aos-duration="800">
-                            <h3 class="mt-tb20">Amenities in three bedrooms
+                            <h3 class="mt-tb20">Amenities in three-bedroom
                                 apartments:</h3>
                             <div class="ambox m-b50">
                                 <div class="row">
@@ -658,7 +653,7 @@ include 'header.php' ?>
 
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/king-bed.png"
                                             class="img-center">
-                                        <p class="text-center smallp">Super King Bed</p>
+                                        <p class="text-center smallp">Super King Size Bed</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/hairdryer.png"
                                             class="img-center">
@@ -674,7 +669,7 @@ include 'header.php' ?>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
                                             src="images/icons/fiber-optic.png" class="img-center">
-                                        <p class="text-center smallp">Superfast WIFI</p>
+                                        <p class="text-center smallp">Superfast Wi-fi</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/safe.png"
                                             class="img-center">

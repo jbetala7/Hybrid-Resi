@@ -796,14 +796,14 @@ include 'header.php' ?>
 
                 <div class="col-lg-12 col-md-12 col-sm-12">
                     <div class="about-home-left no-border">
-                        <h2 class="about-heading m-t0 m-b20 sx-tilte">Hybrid Resi is formed on the key principle of
-                            ‘Hotelisation’
-                        </h2>
-                        <p align="justify">We offer sustainable hospitality in the real estate world, whilst, creating
-                            the right
-                            environment for guest experience to thrive within our flexible Hybrid work-stay business
-                            model. We are the UK based serviced accommodation company, which owns and operates serviced
-                            apartments within the Greater London region of the United Kingdom.
+                        <h2 class="about-heading m-t0 m-b20 sx-tilte">Hybrid Resi' is founded on the key principle of
+                            'Hotelisation'</h2>
+                        <p align="justify">We are a UK-based serviced accommodation company that owns and operates
+                            serviced apartments within the Greater London region of the United Kingdom.
+                            We provide guests with an experience that amalgamates all the modern conveniences of hotel
+                            service with larger accommodations, comfort, and privacy. All our serviced apartments offer
+                            contemporary furnishings, featuring modern amenities and appliances, along with split-screen
+                            monitors for remote work.
                         </p>
                         <div class="text-left">
                             <a href="about-us.php" class="site-button-secondry btn-half"><span>Read
@@ -911,10 +911,10 @@ include 'header.php' ?>
                                 <!-- <h4>Perth, Australia</h4> -->
                             </div>
                             <p align="justify">Located in the heart of London, Hybrid Resi gives you more than luxury
-                                amenities with a
-                                feeling of being at home when you choose to stay with us. Nothing compares to the
-                                comfort of a luxuriously furnished apartment giving you an experience with a space to
-                                call home that includes unparallel services with unrivalled amenities.</p>
+                                amenities with a feeling of being at home when you choose to stay with us. Nothing
+                                compares to the comfort of a luxuriously furnished apartment giving you an experience
+                                with a space to call home that includes unparalleled services with unrivalled amenities.
+                            </p>
                             <a href="stay.php" class="site-button-secondry btn-half"><span> Learn More</span></a>
 
                         </div>
@@ -1227,7 +1227,7 @@ include 'header.php' ?>
                         <div class="row">
                             <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/icons/fiber-optic.png"
                                     class="img-center">
-                                <p class="text-center">Fiber Optic Fast Wifi</p>
+                                <p class="text-center">Fiber Optic Fast Wi-fi</p>
                             </div>
                             <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/icons/larger.png"
                                     class="img-center">

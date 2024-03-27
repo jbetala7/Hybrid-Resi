@@ -51,30 +51,27 @@ include 'header.php' ?>
                     <div class="about-home-3 m-b30 bg-white">
                         <h3 class="m-t0 m-b20 sx-tilte">Most trusted integrator and solutions provider</h3>
                         <ul align="justify" class="list-angle-right anchor-line">
-                            <p align="justify">'Hybrid Resi' is formed on the key principle of 'Hotelisation' to offer
-                                sustainable hospitality in the real estate world, whilst, creating the right environment
+                            <p align="justify">Hybrid Resi' is founded on the key principle of 'Hotelisation' to offer
+                                sustainable hospitality in the real estate world, while creating the right environment
                                 for guest experience to thrive within our flexible Hybrid work-stay business model.</p>
-                            <p align="justify">We are a UK-based serviced accommodation company, which owns and operates
-                                serviced
-                                apartments within the Greater London region of the United Kingdom.</p>
-                            <p align="justify">We provide guests with an experience that amalgams all the modern
-                                conveniences of hotel
-                                service with larger accommodations, comfort, and privacy. All our serviced apartments
-                                offer contemporary interior design furnishings, featuring modern amenities and
-                                appliances throughout along with split screen monitors to work from your own office away
-                                from the office.</p>
+                            <p align="justify">We are a UK-based serviced accommodation company that owns and operates
+                                serviced apartments within the Greater London region of the United Kingdom.</p>
+                            <p align="justify">We provide guests with an experience that amalgamates all the modern
+                                conveniences of hotel service with larger accommodations, comfort, and privacy. All our
+                                serviced apartments offer contemporary furnishings, featuring modern amenities and
+                                appliances, along with split-screen monitors for remote work.</p>
                             <p align="justify">Whether you are looking for a corporate stay, relocation, a family
-                                holiday, or an
-                                extended stay, Hybrid Resi will be your perfect home-from-home, but a bit better!</p>
+                                holiday, or an extended stay, 'Hybrid Resi' will be your perfect home-from-home, but a
+                                bit better!</p>
                             <p align="justify">As we continue to grow and evolve, we will create more innovative and
-                                sustainable guest
-                                stays by reducing our carbon emissions, managing waste, and conserving and preserving
-                                natural resources, in conjunction with our suppliers and industry partners.</p>
+                                sustainable guest stays by reducing our carbon emissions, managing waste, and conserving
+                                and preserving natural resources, in conjunction with our suppliers and industry
+                                partners.</p>
                             <p align="justify">'Hybrid Resi' aims to shape the future of responsible travel together
-                                with those who
-                                stay, work and associate with us. We continue to embrace and implement ESG practices in
-                                our ongoing journey to sustainable development and climate resilience and play our part
-                                to support future-proof hospitality businesses globally.</p>
+                                with those who stay, work, and associate with us. We continue to embrace and implement
+                                ESG practices in our ongoing journey toward sustainable development and climate
+                                resilience, playing our part to support future-proof hospitality businesses globally.
+                            </p>
                         </ul>
                     </div>
                 </div>
@@ -192,7 +189,7 @@ include 'header.php' ?>
                         <div class="row">
                             <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/icons/fiber-optic.png"
                                     class="img-center">
-                                <p class="text-center">Fiber Optic Fast Wifi</p>
+                                <p class="text-center">Fiber Optic Fast Wi-fi</p>
                             </div>
                             <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/icons/larger.png"
                                     class="img-center">

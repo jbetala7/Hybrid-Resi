@@ -162,14 +162,12 @@ include 'header.php' ?>
                     <div class="about-home-3 m-b30 bg-white">
                         <h3 class="m-t0 m-b20 sx-tilte text-center text-uppercase">Hybrid Resi - Canary Wharf</h3>
                         <p align="justify" class="list-angle-right anchor-line text-center">
-                            On the doorstep of Canary Wharf but with a creative dockside identity all its own, the
-                            Isle of Dogs is an atmospheric and historic corner of London. Reimagined for a new
-                            generation, this vibrant and unique riverside neighbourhood is now home to Dock East.
-
-                            Hybrid Resi – Canary Wharf supplies corporate serviced accommodation in London, 4 miles
-                            from London City Airport and only 2 minutes from Cross harbour Train Station.
-                            As an extended serviced apartment, you'll find everything you need for a B'leisure stay.
-
+                            On the doorstep of Canary Wharf but with a creative dockside identity all its own, the Isle
+                            of Dogs is an atmospheric and historic corner of London. Reimagined for a new generation,
+                            this vibrant and unique riverside neighbourhood is now home to Dock East. Hybrid Resi –
+                            Canary Wharf supplies corporate serviced accommodation in London, 4 miles from London City
+                            Airport and only 2 minutes from Cross harbour Train Station. As an extended serviced
+                            apartment, you'll find everything you need for a B'leisure stay.
                         </p>
                     </div>
                 </div>
@@ -220,11 +218,11 @@ include 'header.php' ?>
                                 <h1 class="m-t20 text-uppercase">One Bedroom Apartment</h1>
                                 <!-- <h4>Perth, Australia</h4> -->
                             </div>
-                            <p align="justify">This one-bedroom apartment features a Double bed with a Hybrid office
-                                desk & an executive chair along with a bathroom, a living area
-                                with wooden flooring, and a fully equipped kitchen with an oven, hob, microwave, fridge
-                                freezer, dishwasher and Washing machine. Apartment facilities include a dining area,
-                                Smart TV, and free internet access.<br>
+                            <p align="justify">These one-bedroom apartments feature a double-size bed with a Hybrid
+                                office desk and an executive chair along with a bathroom, a living area with wooden
+                                flooring, and a fully equipped kitchen with an oven, hob, microwave, fridge freezer,
+                                dishwasher and washing machine. Apartment facilities include a dining area, Smart TV and
+                                free internet access.<br>
                                 <span class="m-t10 badge badge-primary"><img src="images/icons/scale.png"> Area : Approx
                                     35 Sqm</span>
                             </p>
@@ -242,7 +240,7 @@ include 'header.php' ?>
 
                     <div class="row">
                         <div class="col-md-12" data-aos="fade-up" data-aos-duration="800">
-                            <h3 class="mt-tb20">Amenities in one bedroom
+                            <h3 class="mt-tb20">Amenities in one-bedroom
                                 apartments:</h3>
                             <div class="ambox m-b50">
                                 <div class="row">
@@ -265,7 +263,7 @@ include 'header.php' ?>
 
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
                                             src="images/icons/double-bed.png" class="img-center">
-                                        <p class="text-center smallp">Double Bed</p>
+                                        <p class="text-center smallp">Double Size Bed</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/hairdryer.png"
                                             class="img-center">
@@ -281,7 +279,7 @@ include 'header.php' ?>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
                                             src="images/icons/fiber-optic.png" class="img-center">
-                                        <p class="text-center smallp">Superfast WIFI</p>
+                                        <p class="text-center smallp">Superfast Wi-fi</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/safe.png"
                                             class="img-center">
@@ -436,25 +434,21 @@ include 'header.php' ?>
                     <div class="col-12">
                         <div class="our-history-content m-b30">
                             <div class="large-title">
-                                <h1 class="m-t20 text-uppercase">Two Bedrooms Apartment</h1>
+                                <h1 class="m-t20 text-uppercase">Two Bedroom Apartment</h1>
                             </div>
-                            <p align="justify">This Two-bedroom apartment features a King size bed and a Double
-                                size bed
-                                with one/two bathrooms, a Hybrid office desk and an executive chair along with
-                                LG split
-                                screen monitor (some units have it), a modern living area with wooden flooring, a fully
-                                equipped
-                                kitchen with
-                                oven, hob, microwave, fridge freezer and a communal garden. Apartment facilities
-                                include
-                                a dining area, Smart TV, and free internet access.<br>
+                            <p align="justify">These two-bedroom apartments feature a king-size bed and a double-size
+                                bed with one or two bathrooms, a hybrid office desk, and an executive chair, along with
+                                an LG split-screen monitor (only some units may include it). Additionally, they offer a
+                                modern living area with wooden flooring, a fully equipped kitchen including an oven,
+                                hob, microwave, and fridge freezer, as well as a balcony or private terrace. Apartment
+                                facilities include a dining area, smart TV, and free internet access.<br>
                                 <span class="m-t10 badge badge-primary"><img src="images/icons/scale.png"> Area : Approx
                                     60 Sqm</span>
                             </p>
                             <a target="_blank" href="https://my.matterport.com/show/?m=A4THEf9JDeT&play=1&hr=1&ts=0"
                                 class="site-button-secondry btn-half"><span> Virtual Tour</span></a>
                             <a href="#" class="site-button-secondry btn-half floor-plan-button"
-                                data-title="Two Bedrooms Apartment Floor Plan"
+                                data-title="Two Bedroom Apartment Floor Plan"
                                 data-floorplan="canary-wharf/2-bed"><span>Floor Plan</span></a>
 
                         </div>
@@ -465,7 +459,7 @@ include 'header.php' ?>
 
                     <div class="row">
                         <div class="col-md-12" data-aos="fade-up" data-aos-duration="800">
-                            <h3 class="mt-tb20">Amenities in two bedrooms
+                            <h3 class="mt-tb20">Amenities in two-bedroom
                                 apartments:</h3>
                             <div class="ambox m-b50">
                                 <div class="row">
@@ -488,7 +482,7 @@ include 'header.php' ?>
 
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/king-bed.png"
                                             class="img-center">
-                                        <p class="text-center smallp">King Bed</p>
+                                        <p class="text-center smallp">King Size Bed</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/hairdryer.png"
                                             class="img-center">
@@ -504,7 +498,7 @@ include 'header.php' ?>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
                                             src="images/icons/fiber-optic.png" class="img-center">
-                                        <p class="text-center smallp">Superfast WIFI</p>
+                                        <p class="text-center smallp">Superfast Wi-fi</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/safe.png"
                                             class="img-center">
