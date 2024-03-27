@@ -237,12 +237,6 @@ include 'header.php' ?>
                                         style="background-image:url(images/london/wandsworth/cozy-1-bed/8.jpg);">
                                     </div>
                                 </div>
-                                <!-- COLUMNS 8 -->
-                                <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/wandsworth/cozy-1-bed/9.jpg);">
-                                    </div>
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -423,13 +417,12 @@ include 'header.php' ?>
                             <div class="large-title">
                                 <h1 class="m-t20 text-uppercase">One Bedroom Apartment</h1>
                             </div>
-                            <p align="justify">This Two-bedroom on mezzanine floor apartment features a King size bed
-                                and a Super king size bed with two bathrooms, a Hybrid office desk and an executive
-                                chair along with LG split screen monitor, a modern living area with wooden flooring, a
-                                fully equipped kitchen with oven, hob, microwave, fridge freezer and a communal garden.
-                                Apartment facilities include a dining area, Smart TV, and free internet access.<br>
+                            <p align="justify">This one-bedroom apartment features a king size bed with a Hybrid office
+                                desk & an executive chair, bathroom, a living area with wooden flooring, and a fully
+                                equipped kitchen with an oven, hob, microwave, fridge and Washing machine. Apartment
+                                facilities include a dining area, Smart TV, and free internet access.<br>
                                 <span class="m-t10 badge badge-primary"><img src="images/icons/scale.png"> Area : Approx
-                                    105 Sqm</span>
+                                    45 Sqm</span>
                             </p>
                             <a target="_blank" href="https://my.matterport.com/show/?m=sAPer35bsTV&play=1&hr=1&ts=0"
                                 class="site-button-secondry btn-half"><span> Virtual Tour</span></a>

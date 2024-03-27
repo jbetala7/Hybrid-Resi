@@ -211,19 +211,6 @@ include 'header.php' ?>
                                         style="background-image:url(images/london/canary-wharf/1-bed/3.jpg);">
                                     </div>
                                 </div>
-                                <!-- COLUMNS 4 -->
-                                <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/canary-wharf/1-bed/4.jpg);">
-                                    </div>
-                                </div>
-
-                                <!-- COLUMNS5 5-->
-                                <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/canary-wharf/1-bed/5.jpg);">
-                                    </div>
-                                </div>
                             </div>
                         </div>
                     </div>

@@ -820,49 +820,43 @@ include 'header.php' ?>
                                 <!-- COLUMNS 8 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/fulham/duplex-3-bed/8.jpg);">
-                                    </div>
-                                </div>
-                                <!-- COLUMNS 9 -->
-                                <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
                                         style="background-image:url(images/london/fulham/duplex-3-bed/9.jpg);">
                                     </div>
                                 </div>
 
-                                <!-- COLUMNS 10 -->
+                                <!-- COLUMNS 9 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
                                         style="background-image:url(images/london/fulham/duplex-3-bed/10.jpg);">
                                     </div>
                                 </div>
-                                <!-- COLUMNS 11 -->
+                                <!-- COLUMNS 10 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
                                         style="background-image:url(images/london/fulham/duplex-3-bed/11.jpg);">
                                     </div>
                                 </div>
-                                <!-- COLUMNS 12 -->
+                                <!-- COLUMNS 11 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
                                         style="background-image:url(images/london/fulham/duplex-3-bed/12.jpg);">
                                     </div>
                                 </div>
 
-                                <!-- COLUMNS5 13 -->
+                                <!-- COLUMNS5 12 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
                                         style="background-image:url(images/london/fulham/duplex-3-bed/13.jpg);">
                                     </div>
                                 </div>
-                                <!-- COLUMNS 14 -->
+                                <!-- COLUMNS 13 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
                                         style="background-image:url(images/london/fulham/duplex-3-bed/14.jpg);">
                                     </div>
                                 </div>
 
-                                <!-- COLUMNS 15 -->
+                                <!-- COLUMNS 14 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
                                         style="background-image:url(images/london/fulham/duplex-3-bed/15.jpg);">

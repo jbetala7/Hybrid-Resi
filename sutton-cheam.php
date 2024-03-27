@@ -397,12 +397,6 @@ include 'header.php' ?>
                                         style="background-image:url(images/london/sutton-cheam/2-bed/5.jpg);">
                                     </div>
                                 </div>
-                                <!-- COLUMNS 6 -->
-                                <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/sutton-cheam/2-bed/6.jpg);">
-                                    </div>
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -475,7 +469,7 @@ include 'header.php' ?>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/parking.png"
                                             class="img-center">
-                                        <p class="text-center smallp">On-site Free Car parking</p>
+                                        <p class="text-center smallp">On-site Car parking</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/washing-machine.png"
                                             class="img-center">

@@ -240,7 +240,7 @@ include 'header.php' ?>
                                 <!-- COLUMNS 5 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/battersea/1-bed/7.jpg);">
+                                        style="background-image:url(images/london/battersea/1-bed/6.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 6 -->
@@ -291,23 +291,10 @@ include 'header.php' ?>
                                         style="background-image:url(images/london/canary-wharf/2-bed/2.jpg);">
                                     </div>
                                 </div>
-                                <!-- COLUMNS 3 -->
-                                <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/canary-wharf/1-bed/2.jpg);">
-                                    </div>
-                                </div>
                                 <!-- COLUMNS 4 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
                                         style="background-image:url(images/london/canary-wharf/2-bed/6.jpg);">
-                                    </div>
-                                </div>
-
-                                <!-- COLUMNS 5 -->
-                                <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/canary-wharf/1-bed/5.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 6 -->
@@ -384,16 +371,10 @@ include 'header.php' ?>
                                 <!-- COLUMNS 5 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/sutton-cheam/2-bed/6.jpg);">
-                                    </div>
-                                </div>
-                                <!-- COLUMNS 6 -->
-                                <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
                                         style="background-image:url(images/london/sutton-cheam/1-bed/5.jpg);">
                                     </div>
                                 </div>
-                                <!-- COLUMNS 7 -->
+                                <!-- COLUMNS 6 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
                                         style="background-image:url(images/london/sutton-cheam/1-bed/6.jpg);">
@@ -542,7 +523,7 @@ include 'header.php' ?>
                                 <!-- COLUMNS 3 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/3-bed/2.jpeg);">
+                                        style="background-image:url(images/london/mitcham/1-bed/6.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 4 -->
@@ -561,25 +542,25 @@ include 'header.php' ?>
                                 <!-- COLUMNS 6 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/3-bed/8.jpeg);">
+                                        style="background-image:url(images/london/mitcham/1-bed/10.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 7 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/1-bed/10.jpg);">
+                                        style="background-image:url(images/london/mitcham/2-bed/12.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 8 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/2-bed/13.jpg);">
+                                        style="background-image:url(images/london/mitcham/2-bed/8.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 9 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/3-bed/11.jpeg);">
+                                        style="background-image:url(images/london/mitcham/1-bed/8.jpg);">
                                     </div>
                                 </div>
                             </div>

@@ -404,7 +404,7 @@ include 'header.php' ?>
                                 <!-- COLUMNS 7 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/battersea/1-bed/7.jpg);">
+                                        style="background-image:url(images/london/battersea/1-bed/6.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 8 -->
@@ -465,13 +465,6 @@ include 'header.php' ?>
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
                                         style="background-image:url(images/london/canary-wharf/2-bed/6.jpg);">
-                                    </div>
-                                </div>
-
-                                <!-- COLUMNS 5 -->
-                                <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/canary-wharf/1-bed/5.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 6 -->
@@ -562,12 +555,6 @@ include 'header.php' ?>
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
                                         style="background-image:url(images/london/sutton-cheam/1-bed/6.jpg);">
-                                    </div>
-                                </div>
-                                <!-- COLUMNS 8 -->
-                                <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/sutton-cheam/2-bed/6.jpg);">
                                     </div>
                                 </div>
                             </div>
