@@ -3,45 +3,79 @@ $page = 'terms-conditions';
 $title = 'Hybrid Resi | Terms &amp; Conditions';
 include 'header.php' ?>
 
-<!-- INNER PAGE BANNER -->
-<div class="mobile-size sx-bnr-inr overlay-wraper bg-parallax"
-    style="background-image:url(images/banner-images/apartments/stay.jpg);">
-    <div class="overlay-main bg-black opacity-05"></div>
-    <div class="container">
-        <div class="sx-bnr-inr-entry">
-            <!-- <div class="banner-title-outer">
-                <div class="banner-title-name">
-                    <h2 class="m-tb0">Terms &amp; Conditions</h2>
+<!-- SLIDER START -->
+<div id="rev_slider_346_1_wrapper" class="rev_slider_wrapper fullscreen-container" data-alias="beforeafterslider1"
+    data-source="gallery" style="background:#252525;padding:0px;">
+    <!-- START REVOLUTION SLIDER 5.4.3.3 fullscreen mode -->
+    <div id="rev_slider_346_1" class="rev_slider fullscreenbanner" style="display:none;" data-version="5.4.3.3">
+        <ul>
+            <!-- SLIDE 1 -->
+            <li data-index="rs-964" data-transition="fade" data-slotamount="default" data-hideafterloop="0"
+                data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="default"
+                data-thumb="" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1=""
+                data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8=""
+                data-param9=""
+                data-param10="{&quot;revslider-weather-addon&quot; : { &quot;type&quot; : &quot;&quot; ,&quot;name&quot; : &quot;&quot; ,&quot;woeid&quot; : &quot;&quot; ,&quot;unit&quot; : &quot;&quot; }}"
+                data-description=""
+                data-beforeafter='{"moveto":"50%|50%|50%|50%","bgColor":"#e7e7e7","bgType":"image","bgImage":"images/term-conditions/banner.jpg",
+                        "bgFit":"cover","bgPos":"center center","bgRepeat":"no-repeat","direction":"horizontal","easing":"Power2.easeInOut","delay":"500","time":"750","out":"fade","carousel":false}'>
+                <!-- MAIN IMAGE -->
+                <img src="images/term-conditions/banner-black.jpg" data-beforeafter="after" data-bgcolor='' alt=""
+                    data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off"
+                    class="rev-slidebg" data-no-retina>
+                <!-- LAYERS -->
+
+                <!-- LAYER NR. 1 text -->
+                <div class="tp-caption   tp-resizeme rs-parallaxlevel-5" id="slide-964-layer-1"
+                    data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                    data-y="['middle','middle','middle','middle']" data-voffset="['-100','-100','-100','0']"
+                    data-fontsize="['120','120','120','60']" data-lineheight="['120','120','120','60']"
+                    data-letterspacing="['50','50','50','5']" data-width="['960','960','960','960']" data-height="none"
+                    data-whitespace="normal" data-type="text" data-beforeafter="before" data-responsive_offset="on"
+                    data-frames='[{"delay":600,"speed":2000,"frame":"0","from":"sX:1;sY:1;opacity:0;fb:40px;","to":"o:1;fb:0;","ease":"Power4.easeInOut"},
+                        {"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
+                    data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]"
+                    data-paddingright="[0,0,0,50]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[50,50,50,50]"
+                    style="z-index: 16; white-space: nowrap; font-size: 120px; line-height: 120px; font-weight: 900; color: #fff; letter-spacing: 10px;font-family: 'montserratregular', sans-serif; text-transform: uppercase;">
+                    T & C </div>
+
+                <!-- LAYER 1  right image overlay dark-->
+                <div class="tp-caption tp-shape tp-shapewrapper  rs-parallaxlevel-tobggroup" id="slide-72-layer-1"
+                    data-x="['right','right','right','center']" data-hoffset="['0','0','0','0']"
+                    data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']"
+                    data-fontweight="['100','100','400','400']" data-width="['full','full','full','full']"
+                    data-height="['full','full','full','full']" data-whitespace="nowrap" data-type="shape"
+                    data-basealign="slide" data-responsive_offset="off" data-responsive="off"
+                    data-frames='[{"from":"opacity:0;","speed":1500,"to":"o:1;","delay":150,"ease":"Power2.easeInOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power2.easeInOut"}]'
+                    data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]"
+                    data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
+                    style="z-index: 6;background-color:rgba(0,0,0,0.4);">
                 </div>
-            </div> -->
-            <!-- BREADCRUMB ROW -->
 
-            <div>
-                <ul class="sx-breadcrumb breadcrumb-style-2">
-                    <li><a class="underline-transition text-thin-ice" href="index.php">Home</a></li>
-                    <li>Terms &amp; Conditions</li>
-                </ul>
-            </div>
+                <!-- SLIDE RIGHT PART START-->
 
-            <!-- BREADCRUMB ROW END -->
-        </div>
+                <!-- LAYER NR. 1  text-->
+                <div class="tp-caption   tp-resizeme  tp-blackshadow rs-parallaxlevel-5" id="slide-964-layer-4"
+                    data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                    data-y="['middle','middle','middle','middle']" data-voffset="['-100','-100','-100','0']"
+                    data-fontsize="['120','120','120','60']" data-lineheight="['120','120','120','60']"
+                    data-letterspacing="['50','50','50','5']" data-width="['960','960','960','960']" data-height="none"
+                    data-whitespace="normal" data-type="text" data-beforeafter="after" data-responsive_offset="on"
+                    data-frames='[{"delay":2000,"speed":2000,"frame":"0","from":"sX:1;sY:1;opacity:0;fb:40px;","to":"o:1;fb:0;","ease":"Power4.easeInOut"},
+                        {"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
+                    data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]"
+                    data-paddingright="[0,0,0,50]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[50,50,50,50]"
+                    style="z-index: 16; white-space: nowrap; font-size: 120px; line-height: 120px; font-weight: 900; color: #000; letter-spacing: 10px;
+                        font-family: 'montserratregular', sans-serif; text-transform: uppercase;">T & C </div>
+            </li>
+
+        </ul>
     </div>
 </div>
-<!-- INNER PAGE BANNER END -->
+<!-- SLIDER END -->
 
 <!-- SECTION CONTENT START -->
 <div class="section-full mobile-page-padding">
-    <!-- TITLE -->
-    <div class="large-title-block full-content bg-theme bg-moving bg-repeat-x" style="background-image:url(images/background/green-leaves-pattern.png);">
-        <div class="row">
-            <div class="col-lg-12 col-md-12 col-sm-12">
-                <div class="large-title text-white text-center">
-                    <h1 class="m-tb0 text-uppercase">Our Terms &amp; Conditions</h1>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- TITLE -->
     <div class="container">
 
         <!-- GALLERY CONTENT START -->
@@ -83,21 +117,13 @@ include 'header.php' ?>
                 <div class="section-content">
 
                     <div class="service-single-block p-t50">
-                        <div class="sx-media">
-                            <img src="images/term-conditions/1.jpg" alt="">
-                        </div>
-                        <div class="sx-post-meta  m-t20">
-                            <ul>
-                                <li class="post-date"><strong>These conditions govern all bookings made with The Hybrid
-                                        Resi
-                                        (The Hybrid Residences Ltd.) registered in England under number 13830829 whose
-                                        registered office is at Ambe House, Commerce Way, Edenbridge, Kent, TN8 6ED. You
-                                        accept these conditions yourself and on behalf of all members of your party
-                                        whether
-                                        you are booking as a guest or on behalf of others. In addition, by visiting or
-                                        using
-                                        our website you agree to comply with the Site Terms.</span> </li>
-                            </ul>
+                        <div class="sx-post-text">
+                            <p align="justify">These conditions govern all bookings made with The Hybrid Resi (The
+                                Hybrid Residences Ltd.) registered in England under number 13830829 whose registered
+                                office is at Ambe House, Commerce Way, Edenbridge, Kent, TN8 6ED. You accept these
+                                conditions yourself and on behalf of all members of your party whether you are booking
+                                as a guest or on behalf of others. In addition, by visiting or using our website you
+                                agree to comply with the Site Terms.</p>
                         </div>
                     </div>
                     <div id="summary" class="service-single-block p-t100">
@@ -105,15 +131,18 @@ include 'header.php' ?>
                             <h4 class="post-title text-center">1. SUMMARY</h4>
                         </div>
                         <div class="sx-post-text">
-                            <p align="justify">This website is operated by Hybrid Resi, as part of The Hybrid Residences Ltd. We are a
+                            <p align="justify">This website is operated by Hybrid Resi, as part of The Hybrid Residences
+                                Ltd. We are a
                                 serviced accommodation providing company with properties across the UK - our mission is
                                 to
                                 become a leader in offering Sustainable Hospitality.</p>
-                            <p align="justify">These Terms and Conditions describe the legal framework under which you agree to
+                            <p align="justify">These Terms and Conditions describe the legal framework under which you
+                                agree to
                                 participate
                                 when placing a booking with The Hybrid Resi – Fulham or one of our Partner Properties.
                             </p>
-                            <p align="justify">You accept these conditions yourself and on behalf of all members of your party whether
+                            <p align="justify">You accept these conditions yourself and on behalf of all members of your
+                                party whether
                                 you
                                 are booking as a guest or on behalf of others. In addition, by visiting or using our
                                 website
@@ -121,32 +150,16 @@ include 'header.php' ?>
                                 inconsistency
                                 between the Booking Terms and Conditions and the Site Terms and Conditions, the Booking
                                 Terms and Conditions prevail.</p>
-                            <p align="justify">In brief, you agree to the following Booking Terms and Conditions when you place a
+                            <p align="justify">In brief, you agree to the following Booking Terms and Conditions when
+                                you place a
                                 booking through The Hybrid Resi:
-                            <ul align="justify"class="list-angle-right font-mbold">
+                            <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> The Hybrid Resi may change, update, or delete the
                                         Booking Terms and Conditions without prior notice.</a></li>
                                 <li><a href="javascript:void(0)">You must be over the age of 18 to place a booking.</a>
                                 </li>
                             </ul>
                             </p>
-
-                            <div class="row">
-                                <div class="col-md-6">
-                                    <div class="sx-box m-b30">
-                                        <div class="sx-media">
-                                            <img src="images/term-conditions/2.jpg" alt="">
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="sx-box m-b30">
-                                        <div class="sx-media">
-                                            <img src="images/term-conditions/3.jpg" alt="">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
                         </div>
                     </div>
 
@@ -155,7 +168,8 @@ include 'header.php' ?>
                             <h4 class="post-title text-center">2. DEFINITIONS</h4>
                         </div>
                         <div class="sx-post-text">
-                            <p align="justify">Terms and conditions need definitions, so everyone knows what is happening. These
+                            <p align="justify">Terms and conditions need definitions, so everyone knows what is
+                                happening. These
                                 are the definitions that apply:
                             <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> The Hybrid Resi/us/we/our: The Hybrid Residences
@@ -178,10 +192,12 @@ include 'header.php' ?>
                             <h4 class="post-title text-center">3. A BRIEF DISCLAIMER</h4>
                         </div>
                         <div class="sx-post-text">
-                            <p align="justify">All the information on this contract is written in good faith, but sometimes things
+                            <p align="justify">All the information on this contract is written in good faith, but
+                                sometimes things
                                 happen, and we can’t always guarantee its completeness and accuracy. We do not
                                 accept any liability to you or any third party for any error or omission.</p>
-                            <p align="justify"> The Hybrid Resi is also not liable for any direct or indirect loss resulting from
+                            <p align="justify"> The Hybrid Resi is also not liable for any direct or indirect loss
+                                resulting from
                                 your use of the information on this contract.</p>
                             <p class="text-theme-1">3.1 Details of your Booking
                             <ul align="justify" class="list-angle-right font-mbold">
@@ -445,10 +461,10 @@ include 'header.php' ?>
                                         give us as much notice as possible so we can facilitate your request. All
                                         extensions are subject to availability and rate change.</a></li>
                                 <li><a href="javascript:void(0)">Where notice to extend a stay has been given,
-                                    we reserve the right to take
-                                    all additional payments and charges from any credit/debit card that was used
-                                    to make the original booking, or an invoice for the extended period will be
-                                    sent to your billing address and payment must be made by return.</a></li>
+                                        we reserve the right to take
+                                        all additional payments and charges from any credit/debit card that was used
+                                        to make the original booking, or an invoice for the extended period will be
+                                        sent to your billing address and payment must be made by return.</a></li>
                             </ul>
                             </p>
                             <p class="text-theme-1">7.3 Early Departures and Cancellations
@@ -461,8 +477,8 @@ include 'header.php' ?>
                                         treated as a cancellation, and they will not be entitled to any refunds.
                                         Transaction fees are not refundable in the event of a cancellation.</a></li>
                                 <li><a href="javascript:void(0)">The Hybrid Resi's cancellation policy and
-                                    corresponding cancellation charges
-                                    may vary depending upon the rate type selected.</a></li>
+                                        corresponding cancellation charges
+                                        may vary depending upon the rate type selected.</a></li>
                                 <li><a href="javascript:void(0)"> We need a written cancellation 30 days before your
                                         departure date.</a></li>
                             </ul>
@@ -487,13 +503,13 @@ include 'header.php' ?>
                                         alternative apartment is advertised at a lower price, we will refund the
                                         price difference.</a></li>
                                 <li><a href="javascript:void(0)">However, if the alternative apartment is at a
-                                    higher price the new price
-                                    will be payable. If you do not wish to accept a change or any alternative
-                                    apartment offered or we cannot offer you a suitable alternative apartment,
-                                    you may be entitled to cancel your booking and receive a refund.</a></li>
+                                        higher price the new price
+                                        will be payable. If you do not wish to accept a change or any alternative
+                                        apartment offered or we cannot offer you a suitable alternative apartment,
+                                        you may be entitled to cancel your booking and receive a refund.</a></li>
                                 <li><a href="javascript:void(0)">You should tell us as soon as possible whether
-                                    you wish to accept any change
-                                    or alternative apartment offered, or if you would like a refund.</a></li>
+                                        you wish to accept any change
+                                        or alternative apartment offered, or if you would like a refund.</a></li>
                             </ul>
                         </div>
                     </div>
@@ -515,12 +531,12 @@ include 'header.php' ?>
                                         for the data policies, content, or security of those linked websites.</a>
                                 </li>
                                 <li><a href="javascript:void(0)">Our website (and/or other means of promotion or
-                                    advertising) will only have
-                                    a general representation of the accommodation shown. The actual apartment
-                                    size, floor plan, design, fixtures, furnishings, and facilities might be
-                                    different. Our website does not constitute and should not be regarded as a
-                                    recommendation or endorsement of the quality, service level, qualification
-                                    or (star) rating of any available accommodations.</a></li>
+                                        advertising) will only have
+                                        a general representation of the accommodation shown. The actual apartment
+                                        size, floor plan, design, fixtures, furnishings, and facilities might be
+                                        different. Our website does not constitute and should not be regarded as a
+                                        recommendation or endorsement of the quality, service level, qualification
+                                        or (star) rating of any available accommodations.</a></li>
                             </ul>
                         </div>
                     </div>
@@ -551,16 +567,16 @@ include 'header.php' ?>
                                 <li><a href="javascript:void(0)">We are responsible for our operated apartments,
                                         subject to the following conditions.</a></li>
                                 <li><a href="javascript:void(0)">We shall only be liable to you for direct
-                                    damages suffered, paid, or
-                                    incurred by you due to an attributable shortcoming of our obligations in
-                                    respect to our services, up to an amount of the aggregate cost of your
-                                    reservation as set out in the confirmation email (whether for one event or
-                                    series of connected events).</a></li>
+                                        damages suffered, paid, or
+                                        incurred by you due to an attributable shortcoming of our obligations in
+                                        respect to our services, up to an amount of the aggregate cost of your
+                                        reservation as set out in the confirmation email (whether for one event or
+                                        series of connected events).</a></li>
                                 <li><a href="javascript:void(0)">Nothing in these terms and conditions limits or
-                                    excludes our liability for
-                                    death or personal injury resulting from negligence; or for any damage or
-                                    liability incurred by you because of fraud or fraudulent misrepresentation
-                                    by us.</a></li>
+                                        excludes our liability for
+                                        death or personal injury resulting from negligence; or for any damage or
+                                        liability incurred by you because of fraud or fraudulent misrepresentation
+                                        by us.</a></li>
                             </ul>
                             </p>
                             <p class="text-theme-1">11.2 Our responsibility for loss or damage suffered by you if
@@ -598,9 +614,9 @@ include 'header.php' ?>
                                         arising out of or in connection with the use, inability to use or delay of
                                         our website; or</a></li>
                                 <li><a href="javascript:void(0)"> Any (personal) injury, death, property damage,
-                                    or other (direct, indirect,
-                                    special, consequential, or punitive) damages, losses or costs suffered,
-                                    incurred, or paid by you.</a></li>
+                                        or other (direct, indirect,
+                                        special, consequential, or punitive) damages, losses or costs suffered,
+                                        incurred, or paid by you.</a></li>
                                 <li><a href="javascript:void(0)">This is whether due to (legal) acts, errors,
                                         breaches, (gross) negligence,
                                         wilful misconduct, omissions, non- performance, misrepresentations, tort or
@@ -633,12 +649,12 @@ include 'header.php' ?>
                                         guests have the right to use the apartment.</a>
                                 </li>
                                 <li><a href="javascript:void(0)">These conditions constitute an excluded
-                                    agreement under S(3A) (7)(a) of the Protection from Eviction Act 1977 (as
-                                    amended) and cannot be construed as an assured tenancy under the Housing Act
-                                    1988 (as amended). The maximum guest in an apartment is determined by the number
-                                    of beds in the apartment. If the maximum number is exceeded, then we may refuse
-                                    access to the accommodation and/or reserve the right to charge for additional
-                                    apartments.</a></li>
+                                        agreement under S(3A) (7)(a) of the Protection from Eviction Act 1977 (as
+                                        amended) and cannot be construed as an assured tenancy under the Housing Act
+                                        1988 (as amended). The maximum guest in an apartment is determined by the number
+                                        of beds in the apartment. If the maximum number is exceeded, then we may refuse
+                                        access to the accommodation and/or reserve the right to charge for additional
+                                        apartments.</a></li>
                             </ul>
                             <p class="text-theme-1">12.1 Arriving and Departing
                             <ul align="justify" class="list-angle-right font-mbold">
@@ -674,9 +690,9 @@ include 'header.php' ?>
                                         dirty condition, an extra cleaning charge may be incurred. Charges may be
                                         made for any damage to the apartment or furnishings.</a></li>
                                 <li><a href="javascript:void(0)">Weekly full housekeeping includes linen/towel
-                                    change and additional cleaning
-                                    will be charged at an additional cost of £50.00 per request 'subject to
-                                    availability.</a></li>
+                                        change and additional cleaning
+                                        will be charged at an additional cost of £50.00 per request 'subject to
+                                        availability.</a></li>
                             </ul>
                             </p>
                             <p class="text-theme-1">13.2 Maintenance
@@ -712,19 +728,19 @@ include 'header.php' ?>
                                         bandwidth such as Skype/Teams/Zoom, or Movie/TV streaming are limited.</a>
                                 </li>
                                 <li><a href="javascript:void(0)">Support service is available to help guests who
-                                    are having trouble
-                                    connecting to the internet. But, if in The Hybrid Resi's opinion, the fault
-                                    is deemed to be with the guest's equipment, then no support can be provided.
-                                    Guests must not interfere, move, or disconnect any equipment relating to the
-                                    provision of Internet access and must not use the connection for any illegal
-                                    or immoral purpose (including but not limited to file sharing). We reserve
-                                    the right to pass on any record to the authorities should we be made aware
-                                    of any such use.</a></li>
+                                        are having trouble
+                                        connecting to the internet. But, if in The Hybrid Resi's opinion, the fault
+                                        is deemed to be with the guest's equipment, then no support can be provided.
+                                        Guests must not interfere, move, or disconnect any equipment relating to the
+                                        provision of Internet access and must not use the connection for any illegal
+                                        or immoral purpose (including but not limited to file sharing). We reserve
+                                        the right to pass on any record to the authorities should we be made aware
+                                        of any such use.</a></li>
                                 <li><a href="javascript:void(0)">We reserve the right to disconnect a guest at
-                                    any time without notice if, in
-                                    our opinion, they breach any of these Booking Terms and Conditions
-                                    (including exceeding the download limit) or fail to pay for the connection
-                                    at the agreed rate.
+                                        any time without notice if, in
+                                        our opinion, they breach any of these Booking Terms and Conditions
+                                        (including exceeding the download limit) or fail to pay for the connection
+                                        at the agreed rate.
                                     </a></li>
                             </ul>
                             </p>
@@ -847,7 +863,8 @@ include 'header.php' ?>
                             </p>
                             <p class="text-theme-1">14.8 Lost Property
                             <ul align="justify" class="list-angle-right font-mbold">
-                                <li><a href="mailto:info@hybridresi.com"> All your possessions should be removed from the
+                                <li><a href="mailto:info@hybridresi.com"> All your possessions should be removed from
+                                        the
                                         apartment on the date of departure. We will do our best to hold onto any
                                         lost items for up to 1 week after your departure date. Email us at
                                         info@hybridresi.com for any enquiries relating to lost items.
@@ -990,4 +1007,4 @@ include 'header.php' ?>
 </div>
 <!-- SECTION CONTENT END  -->
 
-<?php include 'footer.php'?>
+<?php include 'locations-footer.php' ?>

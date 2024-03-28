@@ -288,7 +288,7 @@ include 'header.php' ?>
                         <div class="our-history-content m-b30">
                             <div class="large-title">
                                 <h1 class="m-t20 text-uppercase">One-Bedroom Apartments</h1>
-                                <!-- <h4>Perth, Australia</h4> -->
+                                 
                             </div>
                             <p align="justify">Our individually designed one-bedroom apartments, situated in the heart
                                 of Mitcham, are perfect for extended stays or for those seeking a spacious retreat after
@@ -820,7 +820,7 @@ include 'header.php' ?>
         <div class="section-content ">
             <iframe class="map-div" frameborder="0" style="border:0" referrerpolicy="no-referrer-when-downgrade"
                 loading="async"
-                src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBYgzaO9qjb5n9DnMIyIpmK1eu6uAmF1Lg&q=Hybrid+Resi+18+Lombard+Rd+London+SW113RR,UK"
+                src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBYgzaO9qjb5n9DnMIyIpmK1eu6uAmF1Lg&q=Hybrid+Resi+Mitcham+Love+Ln+CR43YA,UK"
                 allowfullscreen>></iframe>
         </div>
     </div>

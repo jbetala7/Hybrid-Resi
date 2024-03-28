@@ -1,6 +1,10 @@
 </div>
 <!-- CONTENT END -->
 
+<a target="_blank" rel="nofollow" href="https://wa.link/hyozj2"
+    onClick="gtag('event', 'WhatsApp', { event_category: 'WhatsApp', event_action: 'WhatsApp'}); " class="whatsapp"><img
+        src="images/wb-logo.png" class="img-responsive"></a>
+
 <!-- FOOTER START -->
 <footer class="site-footer footer-large footer-dark footer-wide">
 

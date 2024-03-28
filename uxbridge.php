@@ -87,7 +87,8 @@ include 'header.php' ?>
                 </button>
                 <div id="myDropdown" class="dropdown-content">
                     <a href="#" data-value="cf43eb8d-7a02-45e0-9a80-b11b013ac44a">Uxbridge 1 Bed Apartment </a>
-                    <a href="#" data-value="17758ea3-6509-49d4-ae84-b1280120533f">Uxbridge 2 Bed Apartment </a>
+                    <a href="#" data-value="92b748ef-6c50-4f3b-af8c-b11b01449c78">Uxbridge 2 Bed Apartment </a>
+                    <a href="#" data-value="17758ea3-6509-49d4-ae84-b1280120533f">Uxbridge 3 Bed Apartment </a>
                     <!-- Add more options here -->
                 </div>
             </div>
@@ -868,16 +869,16 @@ include 'header.php' ?>
 <!-- CATEGORIES SECTION END -->
 
 <!-- MAPS SECTION START -->
-<!-- <div class="section-full p-b50 inner-page-padding">
+<div class="section-full p-b50 inner-page-padding">
     <div class="container">
         <div class="section-content ">
             <iframe class="map-div" frameborder="0" style="border:0" referrerpolicy="no-referrer-when-downgrade"
                 loading="async"
-                src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBYgzaO9qjb5n9DnMIyIpmK1eu6uAmF1Lg&q=Hybrid+Resi+2+Selsdon+Way+London+E149GL,UK"
+                src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBYgzaO9qjb5n9DnMIyIpmK1eu6uAmF1Lg&q=Hybrid+Resi+Uxbridge+Warwick+Pl+UB81WT,UK"
                 allowfullscreen>></iframe>
         </div>
     </div>
-</div> -->
+</div>
 <!-- MAPS SECTION END -->
 
 

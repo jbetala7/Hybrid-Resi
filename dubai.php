@@ -92,57 +92,50 @@ include 'header.php' ?>
                                         style="background-image:url(images/dubai/marina/1-bed/2.webp);">
                                     </div>
                                 </div>
-
                                 <!-- COLUMNS 2 -->
-                                <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/dubai/marina/2-bed/2.jpg);">
-                                    </div>
-                                </div>
-                                <!-- COLUMNS 3 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
                                         style="background-image:url(images/dubai/marina/1-bed/4.webp);">
                                     </div>
                                 </div>
-                                <!-- COLUMNS 4 -->
+                                <!-- COLUMNS 3 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
                                         style="background-image:url(images/dubai/marina/2-bed/4.webp);">
                                     </div>
                                 </div>
 
-                                <!-- COLUMNS 5 -->
+                                <!-- COLUMNS 4 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
                                         style="background-image:url(images/dubai/marina/1-bed/6.webp);">
                                     </div>
                                 </div>
-                                <!-- COLUMNS 6 -->
+                                <!-- COLUMNS 5 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
                                         style="background-image:url(images/dubai/marina/2-bed/6.webp);">
                                     </div>
                                 </div>
-                                <!-- COLUMNS 7 -->
+                                <!-- COLUMNS 6 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
                                         style="background-image:url(images/dubai/marina/1-bed/8.jpg);">
                                     </div>
                                 </div>
-                                <!-- COLUMNS 8 -->
+                                <!-- COLUMNS 7 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
                                         style="background-image:url(images/dubai/marina/2-bed/8.webp);">
                                     </div>
                                 </div>
-                                <!-- COLUMNS 9 -->
+                                <!-- COLUMNS 8 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
                                         style="background-image:url(images/dubai/marina/1-bed/12.webp);">
                                     </div>
                                 </div>
-                                <!-- COLUMNS 10 -->
+                                <!-- COLUMNS 9 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
                                         style="background-image:url(images/dubai/marina/2-bed/12.webp);">
@@ -156,24 +149,11 @@ include 'header.php' ?>
                             <div class="large-title">
                                 <h2 class="m-t20">Marina - Dubai</h2>
                             </div>
-                            <p align="justify">Welcome to the epitome of luxury living at our serviced apartments in
-                                Marina Dubai.
-                                Nestled amidst the glimmering waters of the Arabian Gulf, these vibrant properties
-                                offer a haven of opulence and sophistication. Immerse yourself in the breathtaking
-                                views of the iconic Dubai Marina skyline from the comfort of your elegantly furnished
-                                apartment. Indulge in the seamless blend of contemporary design and lavish
-                                amenities, where every detail has been meticulously crafted to cater to your every
-                                need. Whether you choose to unwind by the infinity pool, rejuvenate at the state-of-
-                                the-art spa, or savor delectable cuisine at the exquisite restaurants, our Marina Dubai
-                                serviced apartments promise an unforgettable experience that will leave you longing
-                                to return.
-                                Additionally, select apartments, one-bedroom units and two-bedroom units in Dubai
-                                Marina offer close proximity to JBR, The Beach, The Palm, and various golf courses,
-                                along with an array of amenities such as a fully equipped gym, marina-view
-                                swimming pools, a kids's play area, tennis court, and boxing bag area. Positioned in
-                                Marina Quays Condominium, near Marina Mall and Pier 7, and just steps away from
-                                JBR, our apartments overlook the beach and provide convenient access to the vibrant
-                                dining and leisure scene.
+                            <p align="justify">Welcome to our luxurious serviced apartments in Marina Dubai, where
+                                opulence and sophistication meet amidst the glimmering waters of the Arabian Gulf.
+                                Immerse yourself in breathtaking views of the iconic Dubai Marina skyline from your
+                                elegantly furnished apartment, offering a seamless blend of contemporary design and
+                                lavish amenities tailored to your every need.
                             </p>
                             <a href="marina.php" class="site-button-secondry btn-half"><span>Learn More</span></a>
 
@@ -189,60 +169,53 @@ include 'header.php' ?>
                                 <!-- COLUMNS 1 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/dubai/downtown/1-bed/2.jpg);">
-                                    </div>
-                                </div>
-
-                                <!-- COLUMNS 2 -->
-                                <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
                                         style="background-image:url(images/dubai/downtown/2-bed/2.jpg);">
                                     </div>
                                 </div>
-                                <!-- COLUMNS 3 -->
+                                <!-- COLUMNS 2 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/dubai/downtown/1-bed/4.jpg);">
+                                        style="background-image:url(images/dubai/downtown/1-bed/2.jpg);">
                                     </div>
                                 </div>
-                                <!-- COLUMNS 4 -->
+                                <!-- COLUMNS 3 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
                                         style="background-image:url(images/dubai/downtown/2-bed/4.jpg);">
                                     </div>
                                 </div>
 
-                                <!-- COLUMNS 5 -->
+                                <!-- COLUMNS 4 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
                                         style="background-image:url(images/dubai/downtown/1-bed/6.jpg);">
                                     </div>
                                 </div>
-                                <!-- COLUMNS 6 -->
+                                <!-- COLUMNS 5 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
                                         style="background-image:url(images/dubai/downtown/2-bed/6.jpg);">
                                     </div>
                                 </div>
-                                <!-- COLUMNS 7 -->
+                                <!-- COLUMNS 6 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
                                         style="background-image:url(images/dubai/downtown/1-bed/8.jpg);">
                                     </div>
                                 </div>
-                                <!-- COLUMNS 8 -->
+                                <!-- COLUMNS 7 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
                                         style="background-image:url(images/dubai/downtown/2-bed/8.jpg);">
                                     </div>
                                 </div>
-                                <!-- COLUMNS 9 -->
+                                <!-- COLUMNS 8 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
                                         style="background-image:url(images/dubai/downtown/1-bed/12.jpg);">
                                     </div>
                                 </div>
-                                <!-- COLUMNS 10 -->
+                                <!-- COLUMNS 9 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
                                         style="background-image:url(images/dubai/downtown/2-bed/12.jpg);">
@@ -256,21 +229,11 @@ include 'header.php' ?>
                             <div class="large-title">
                                 <h2 class="m-t20">Downtown - Dubai</h2>
                             </div>
-                            <p align="justify">Experience the pinnacle of luxury living in Dubai Downtown! Set amidst
-                                the vibrant
-                                energy of the city, our serviced apartments redefine urban sophistication. Select units
-                                of One- bedroom apartments and Two- bedroom apartments, offer a direct link to
-                                the iconic Dubai Mall and Metro, granting you unparalleled convenience. Enjoy
-                                exclusive access to a lavish fitness center, tennis courts, kid's area, squash
-                                courts, and
-                                two luxurious swimming pools and gymnasiums, ensuring every indulgence is within
-                                reach. Some of our apartments, just a 7-minute walk from the renowned fountains of
-                                Dubai Mall, feature additional amenities like swimming pools, squash courts, a
-                                barbecue area, and a fully equipped gym, providing a lifestyle of opulence and
-                                convenience. For those seeking the ultimate downtown living experience, our select
-                                units are strategically located just footsteps away from Dubai Mall, boasting two
-                                swimming pools and a gym right at your doorstep. Discover a new level of luxury in
-                                the heart of Dubai at our exclusive serviced apartments.
+                            <p align="justify">Experience unparalleled luxury living in Dubai Downtown with our serviced
+                                apartments, redefining urban sophistication amidst the vibrant city energy. Enjoy direct
+                                access to Dubai Mall and Metro from select One-bedroom and Two-bedroom units, along with
+                                exclusive amenities like fitness centers, tennis courts, kids' areas, and swimming
+                                pools, ensuring every indulgence is within reach.
                             </p>
                             <a href="downtown.php" class="site-button-secondry btn-half"><span>Learn More</span></a>
 

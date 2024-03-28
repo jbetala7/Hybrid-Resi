@@ -238,7 +238,7 @@ include 'header.php' ?>
                         <div class="our-history-content m-b30">
                             <div class="large-title">
                                 <h1 class="m-t20 text-uppercase">One-Bedroom Apartments</h1>
-                                <!-- <h4>Perth, Australia</h4> -->
+                                 
                             </div>
                             <p align="justify">These one-bedroom apartments feature a king-size bed with a Hybrid office
                                 desk & an executive chair along with LG split screen monitor, a bathroom, a living area
@@ -772,7 +772,7 @@ include 'header.php' ?>
         <div class="section-content ">
             <iframe class="map-div" frameborder="0" style="border:0" referrerpolicy="no-referrer-when-downgrade"
                 loading="async"
-                src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBYgzaO9qjb5n9DnMIyIpmK1eu6uAmF1Lg&q=Battersea+Park+Road+445+447+London,UK"
+                src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBYgzaO9qjb5n9DnMIyIpmK1eu6uAmF1Lg&q=Hybrid+Resi+Battersea+Park+Road+445+447+London,UK"
                 allowfullscreen>></iframe>
         </div>
     </div>

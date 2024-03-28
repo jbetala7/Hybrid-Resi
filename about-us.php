@@ -867,7 +867,7 @@ include 'header.php' ?>
                         </div>
 
                         <div class="item">
-                            <img src="images/home-page/partners/bt-business.png" alt="">
+                            <img src="images/home-page/partners/bt-business.jpg" alt="">
                         </div>
 
                         <div class="item">

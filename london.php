@@ -4,68 +4,31 @@ $title = 'Hybrid Resi | London';
 include 'header.php' ?>
 
 <!-- SLIDER START -->
-<div id="rev_slider_346_1_wrapper" class="rev_slider_wrapper fullscreen-container" data-alias="beforeafterslider1"
-    data-source="gallery" style="background:#252525;padding:0px;">
+<div id="rev_slider_346_1_wrapper" class="rev_slider_wrapper fullscreen-container" data-alias="beforeafterslider1" data-source="gallery" style="background:#252525;padding:0px;">
     <!-- START REVOLUTION SLIDER 5.4.3.3 fullscreen mode -->
     <div id="rev_slider_346_1" class="rev_slider fullscreenbanner" style="display:none;" data-version="5.4.3.3">
         <ul>
             <!-- SLIDE 1 -->
-            <li data-index="rs-964" data-transition="fade" data-slotamount="default" data-hideafterloop="0"
-                data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="default"
-                data-thumb="" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1=""
-                data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8=""
-                data-param9=""
-                data-param10="{&quot;revslider-weather-addon&quot; : { &quot;type&quot; : &quot;&quot; ,&quot;name&quot; : &quot;&quot; ,&quot;woeid&quot; : &quot;&quot; ,&quot;unit&quot; : &quot;&quot; }}"
-                data-description=""
-                data-beforeafter='{"moveto":"50%|50%|50%|50%","bgColor":"#e7e7e7","bgType":"image","bgImage":"images/london/banner.jpg",
+            <li data-index="rs-964" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="{&quot;revslider-weather-addon&quot; : { &quot;type&quot; : &quot;&quot; ,&quot;name&quot; : &quot;&quot; ,&quot;woeid&quot; : &quot;&quot; ,&quot;unit&quot; : &quot;&quot; }}" data-description="" data-beforeafter='{"moveto":"50%|50%|50%|50%","bgColor":"#e7e7e7","bgType":"image","bgImage":"images/london/banner.jpg",
                         "bgFit":"cover","bgPos":"center center","bgRepeat":"no-repeat","direction":"horizontal","easing":"Power2.easeInOut","delay":"500","time":"750","out":"fade","carousel":false}'>
                 <!-- MAIN IMAGE -->
-                <img src="images/london/banner-black.jpg" data-beforeafter="after" data-bgcolor='' alt=""
-                    data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off"
-                    class="rev-slidebg" data-no-retina>
+                <img src="images/london/banner-black.jpg" data-beforeafter="after" data-bgcolor='' alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
                 <!-- LAYERS -->
 
                 <!-- LAYER NR. 1 text -->
-                <div class="tp-caption   tp-resizeme rs-parallaxlevel-5" id="slide-964-layer-1"
-                    data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
-                    data-y="['middle','middle','middle','middle']" data-voffset="['-100','-100','-100','0']"
-                    data-fontsize="['120','120','120','60']" data-lineheight="['120','120','120','60']"
-                    data-letterspacing="['50','50','50','5']" data-width="['960','960','960','960']" data-height="none"
-                    data-whitespace="normal" data-type="text" data-beforeafter="before" data-responsive_offset="on"
-                    data-frames='[{"delay":600,"speed":2000,"frame":"0","from":"sX:1;sY:1;opacity:0;fb:40px;","to":"o:1;fb:0;","ease":"Power4.easeInOut"},
-                        {"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
-                    data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]"
-                    data-paddingright="[0,0,0,50]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[50,50,50,50]"
-                    style="z-index: 16; white-space: nowrap; font-size: 120px; line-height: 120px; font-weight: 900; color: #fff; letter-spacing: 10px;font-family: 'montserratregular', sans-serif; text-transform: uppercase;">
+                <div class="tp-caption   tp-resizeme rs-parallaxlevel-5" id="slide-964-layer-1" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-100','-100','-100','0']" data-fontsize="['120','120','120','60']" data-lineheight="['120','120','120','60']" data-letterspacing="['50','50','50','5']" data-width="['960','960','960','960']" data-height="none" data-whitespace="normal" data-type="text" data-beforeafter="before" data-responsive_offset="on" data-frames='[{"delay":600,"speed":2000,"frame":"0","from":"sX:1;sY:1;opacity:0;fb:40px;","to":"o:1;fb:0;","ease":"Power4.easeInOut"},
+                        {"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]' data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,50]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[50,50,50,50]" style="z-index: 16; white-space: nowrap; font-size: 120px; line-height: 120px; font-weight: 900; color: #fff; letter-spacing: 10px;font-family: 'montserratregular', sans-serif; text-transform: uppercase;">
                     London </div>
 
                 <!-- LAYER 1  right image overlay dark-->
-                <div class="tp-caption tp-shape tp-shapewrapper  rs-parallaxlevel-tobggroup" id="slide-72-layer-1"
-                    data-x="['right','right','right','center']" data-hoffset="['0','0','0','0']"
-                    data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']"
-                    data-fontweight="['100','100','400','400']" data-width="['full','full','full','full']"
-                    data-height="['full','full','full','full']" data-whitespace="nowrap" data-type="shape"
-                    data-basealign="slide" data-responsive_offset="off" data-responsive="off"
-                    data-frames='[{"from":"opacity:0;","speed":1500,"to":"o:1;","delay":150,"ease":"Power2.easeInOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power2.easeInOut"}]'
-                    data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]"
-                    data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-                    style="z-index: 6;background-color:rgba(0,0,0,0.2);">
+                <div class="tp-caption tp-shape tp-shapewrapper  rs-parallaxlevel-tobggroup" id="slide-72-layer-1" data-x="['right','right','right','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" data-fontweight="['100','100','400','400']" data-width="['full','full','full','full']" data-height="['full','full','full','full']" data-whitespace="nowrap" data-type="shape" data-basealign="slide" data-responsive_offset="off" data-responsive="off" data-frames='[{"from":"opacity:0;","speed":1500,"to":"o:1;","delay":150,"ease":"Power2.easeInOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power2.easeInOut"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 6;background-color:rgba(0,0,0,0.2);">
                 </div>
 
                 <!-- SLIDE RIGHT PART START-->
 
                 <!-- LAYER NR. 1  text-->
-                <div class="tp-caption   tp-resizeme  tp-blackshadow rs-parallaxlevel-5" id="slide-964-layer-4"
-                    data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
-                    data-y="['middle','middle','middle','middle']" data-voffset="['-100','-100','-100','0']"
-                    data-fontsize="['120','120','120','60']" data-lineheight="['120','120','120','60']"
-                    data-letterspacing="['50','50','50','5']" data-width="['960','960','960','960']" data-height="none"
-                    data-whitespace="normal" data-type="text" data-beforeafter="after" data-responsive_offset="on"
-                    data-frames='[{"delay":2000,"speed":2000,"frame":"0","from":"sX:1;sY:1;opacity:0;fb:40px;","to":"o:1;fb:0;","ease":"Power4.easeInOut"},
-                        {"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
-                    data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]"
-                    data-paddingright="[0,0,0,50]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[50,50,50,50]"
-                    style="z-index: 16; white-space: nowrap; font-size: 120px; line-height: 120px; font-weight: 900; color: #000; letter-spacing: 10px;
+                <div class="tp-caption   tp-resizeme  tp-blackshadow rs-parallaxlevel-5" id="slide-964-layer-4" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-100','-100','-100','0']" data-fontsize="['120','120','120','60']" data-lineheight="['120','120','120','60']" data-letterspacing="['50','50','50','5']" data-width="['960','960','960','960']" data-height="none" data-whitespace="normal" data-type="text" data-beforeafter="after" data-responsive_offset="on" data-frames='[{"delay":2000,"speed":2000,"frame":"0","from":"sX:1;sY:1;opacity:0;fb:40px;","to":"o:1;fb:0;","ease":"Power4.easeInOut"},
+                        {"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]' data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,50]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[50,50,50,50]" style="z-index: 16; white-space: nowrap; font-size: 120px; line-height: 120px; font-weight: 900; color: #000; letter-spacing: 10px;
                         font-family: 'montserratregular', sans-serif; text-transform: uppercase;">London </div>
             </li>
 
@@ -76,8 +39,7 @@ include 'header.php' ?>
 
 <!-- MEWS FORM SECTION START -->
 <div class="section-full justify-content-center flex-display">
-    <div id="myForm" class="form-booking booking-form large-title-block full-content bg-repeat"
-        style="background-image:url(images/background/transparent-leaves-pattern.png);">
+    <div id="myForm" class="form-booking booking-form large-title-block full-content bg-repeat" style="background-image:url(images/background/transparent-leaves-pattern.png);">
         <div class="form-item">
             <label for="checkout">Apartments*</label>
             <div class="custom-dropdown">
@@ -171,9 +133,7 @@ include 'header.php' ?>
         </div>
 
         <div class="form-item">
-            <a href="#"
-                onClick="gtag('event', 'Check Availability', { event_category: 'Check Availability', event_action: 'Check Availability'});"
-                class="site-button-secondry btn-half text-center" id="checkavailibilityBTN"><span>Check
+            <a href="#" onClick="gtag('event', 'Check Availability', { event_category: 'Check Availability', event_action: 'Check Availability'});" class="site-button-secondry btn-half text-center" id="checkavailibilityBTN"><span>Check
                     Availability</span></a>
         </div>
         <span class="error-message"></span>
@@ -192,68 +152,57 @@ include 'header.php' ?>
                 <div class="row">
                     <div class="col-12 pic-bg-border">
                         <div class="work-carousel-outer">
-                            <div
-                                class="owl-carousel mfp-gallery project-carousel home-carousel owl-btn-vertical-center">
+                            <div class="owl-carousel mfp-gallery project-carousel home-carousel owl-btn-vertical-center">
                                 <!-- COLUMNS 1 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/fulham/1-bed/2.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/fulham/1-bed/2.jpg);">
                                     </div>
                                 </div>
 
                                 <!-- COLUMNS 2 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/fulham/2-bed/2.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/fulham/2-bed/2.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 3 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/fulham/3-bed/2.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/fulham/3-bed/2.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 4 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/fulham/duplex-3-bed/2.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/fulham/duplex-3-bed/2.jpg);">
                                     </div>
                                 </div>
 
                                 <!-- COLUMNS 5 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/fulham/1-bed/5.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/fulham/1-bed/5.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 6 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/fulham/2-bed/6.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/fulham/2-bed/6.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 7 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/fulham/3-bed/6.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/fulham/3-bed/6.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 8 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/fulham/duplex-3-bed/13.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/fulham/duplex-3-bed/13.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 9 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/fulham/3-bed/7.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/fulham/3-bed/7.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 10 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/fulham/duplex-3-bed/15.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/fulham/duplex-3-bed/15.jpg);">
                                     </div>
                                 </div>
                             </div>
@@ -264,15 +213,12 @@ include 'header.php' ?>
                             <div class="large-title">
                                 <h2 class="m-t20">Fulham - London</h2>
                             </div>
-                            <p align="justify">These contemporary apartments on bustling Fulham Road provides every
-                                guest
-                                with their
-                                perfect home within London City.
-                                These Apartments are 4 miles from Buckingham Palace and a 7-minute walk from Putney
-                                Bridge tube station or 12-minutes to Parsons Green tube station. Fulham lies on the
-                                north bank of the River Thames, bordering Hammersmith, Kensington and Chelsea in Zone -
-                                2.
-                                As a corporate housing, you'll find everything you need for your stay.
+                            <p align="justify">These contemporary apartments on bustling Fulham Road provide every guest
+                                with their perfect home within London City. These Apartments are 4 miles from Buckingham
+                                Palace and a 7-minute walk from Putney Bridge tube station or 12 minutes to Parsons
+                                Green tube station. Fulham lies on the north bank of the River Thames, bordering
+                                Hammersmith, Kensington, and Chelsea in Zone - 2. As a corporate housing, you'll find
+                                everything you need for your stay.
                             </p>
                             <a href="fulham.php" class="site-button-secondry btn-half"><span> Learn More</span></a>
 
@@ -284,56 +230,47 @@ include 'header.php' ?>
                 <div class="row">
                     <div class="col-12 pic-bg-border">
                         <div class="work-carousel-outer">
-                            <div
-                                class="owl-carousel mfp-gallery project-carousel home-carousel owl-btn-vertical-center">
+                            <div class="owl-carousel mfp-gallery project-carousel home-carousel owl-btn-vertical-center">
                                 <!-- COLUMNS 1 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/wandsworth/cozy-1-bed/3.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/wandsworth/cozy-1-bed/3.jpg);">
                                     </div>
                                 </div>
 
                                 <!-- COLUMNS 2 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/wandsworth/1-bed/2.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/wandsworth/1-bed/2.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 3 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/wandsworth/cozy-1-bed/7.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/wandsworth/cozy-1-bed/7.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 4 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/wandsworth/1-bed/5.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/wandsworth/1-bed/5.jpg);">
                                     </div>
                                 </div>
 
                                 <!-- COLUMNS 5 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/wandsworth/cozy-1-bed/8.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/wandsworth/cozy-1-bed/8.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 6 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/wandsworth/1-bed/6.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/wandsworth/1-bed/6.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 7 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/wandsworth/cozy-1-bed/9.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/wandsworth/1-bed/4.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 8 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/wandsworth/1-bed/7.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/wandsworth/1-bed/7.jpg);">
                                     </div>
                                 </div>
                             </div>
@@ -361,56 +298,37 @@ include 'header.php' ?>
                 <div class="row">
                     <div class="col-12 pic-bg-border">
                         <div class="work-carousel-outer">
-                            <div
-                                class="owl-carousel mfp-gallery project-carousel home-carousel owl-btn-vertical-center">
+                            <div class="owl-carousel mfp-gallery project-carousel home-carousel owl-btn-vertical-center">
                                 <!-- COLUMNS 1 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/battersea/1-bed/5.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/battersea/1-bed/5.jpg);">
                                     </div>
                                 </div>
 
                                 <!-- COLUMNS 2 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/battersea/2-bed/5.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/battersea/2-bed/5.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 3 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/battersea/3-bed/2.jpg);">
-                                    </div>
-                                </div>
-                                <!-- COLUMNS 4 -->
-                                <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/battersea/1-bed/3.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/battersea/3-bed/2.jpg);">
                                     </div>
                                 </div>
 
+                                <!-- COLUMNS 4 -->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/battersea/2-bed/6.jpg);">
+                                    </div>
+                                </div>
                                 <!-- COLUMNS 5 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/battersea/2-bed/6.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/battersea/1-bed/6.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 6 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/battersea/3-bed/4.jpg);">
-                                    </div>
-                                </div>
-                                <!-- COLUMNS 7 -->
-                                <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/battersea/1-bed/6.jpg);">
-                                    </div>
-                                </div>
-                                <!-- COLUMNS 8 -->
-                                <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/battersea/2-bed/8.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/battersea/2-bed/8.jpg);">
                                     </div>
                                 </div>
                             </div>
@@ -422,14 +340,12 @@ include 'header.php' ?>
                                 <h2 class="m-t20">Battersea - London</h2>
                             </div>
                             <p align="justify">This characterful Victorian-era building with curlicue trims, bright
-                                colours,
-                                and
-                                asymmetrical designs situated in southwest London, Battersea close to the river Thames
-                                offers every guest their luxurious and capacious home within the City.
+                                colours, and asymmetrical designs situated in southwest London, Battersea close to the
+                                river Thames offers every guest their luxurious and capacious home within the city.
                                 Hybrid Resi - Battersea provides corporate serviced accommodation in London, 16 miles
                                 from London Heathrow Airport and less than a mile to either Battersea Park Station or
-                                Clapham Junction Train Station.
-                                As an extended serviced apartment, you'll find everything you need for a B'leisure stay.
+                                Clapham Junction Train Station. As an extended serviced apartment, you'll find
+                                everything you need for a B'leisure stay.
                             </p>
                             <a href="battersea.php" class="site-button-secondry btn-half"><span>Learn More</span></a>
 
@@ -440,49 +356,36 @@ include 'header.php' ?>
                 <div class="row">
                     <div class="col-12 pic-bg-border">
                         <div class="work-carousel-outer">
-                            <div
-                                class="owl-carousel mfp-gallery project-carousel home-carousel owl-btn-vertical-center">
+                            <div class="owl-carousel mfp-gallery project-carousel home-carousel owl-btn-vertical-center">
                                 <!-- COLUMNS 1 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/canary-wharf/1-bed/3.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/canary-wharf/1-bed/3.jpg);">
                                     </div>
                                 </div>
 
                                 <!-- COLUMNS 2 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/canary-wharf/2-bed/2.jpg);">
-                                    </div>
-                                </div>
-                                <!-- COLUMNS 3 -->
-                                <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/canary-wharf/1-bed/2.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/canary-wharf/2-bed/2.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 4 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/canary-wharf/2-bed/6.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/canary-wharf/2-bed/6.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 6 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/canary-wharf/2-bed/5.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/canary-wharf/2-bed/5.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 7 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/canary-wharf/2-bed/9.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/canary-wharf/2-bed/9.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 8 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/canary-wharf/2-bed/12.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/canary-wharf/2-bed/12.jpg);">
                                     </div>
                                 </div>
                             </div>
@@ -494,13 +397,12 @@ include 'header.php' ?>
                                 <h2 class="m-t20">Canary Wharf - London</h2>
                             </div>
                             <p align="justify">On the doorstep of Canary Wharf but with a creative dockside identity all
-                                its
-                                own, the
-                                Isle of Dogs is an atmospheric and historic corner of London. Reimagined for a new
-                                generation, this vibrant and unique riverside neighbourhood is now home to Dock East.
-                                Hybrid Resi – Canary Wharf supplies corporate serviced accommodation in London, 4 miles
-                                from London City Airport and only 2 minutes from Cross harbour Train Station.
-                                As an extended serviced apartment, you'll find everything you need for a B'leisure stay.
+                                its own, the Isle of Dogs is an atmospheric and historic corner of London. Reimagined
+                                for a new generation, this vibrant and unique riverside neighbourhood is now home to
+                                Dock East. Hybrid Resi – Canary Wharf supplies corporate serviced accommodation in
+                                London, 4 miles from London City Airport and only 2 minutes from Cross harbour Train
+                                Station. As an extended serviced apartment, you'll find everything you need for a
+                                B'leisure stay.
                             </p>
                             <a href="canary-wharf.php" class="site-button-secondry btn-half"><span>Learn More</span></a>
 
@@ -511,52 +413,39 @@ include 'header.php' ?>
                 <div class="row">
                     <div class="col-12 pic-bg-border">
                         <div class="work-carousel-outer">
-                            <div
-                                class="owl-carousel mfp-gallery project-carousel home-carousel owl-btn-vertical-center">
+                            <div class="owl-carousel mfp-gallery project-carousel home-carousel owl-btn-vertical-center">
                                 <!-- COLUMNS 1 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/sutton-cheam/1-bed/3.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/sutton-cheam/1-bed/3.jpg);">
                                     </div>
                                 </div>
 
                                 <!-- COLUMNS 2 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/sutton-cheam/2-bed/3.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/sutton-cheam/2-bed/3.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 3 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/sutton-cheam/1-bed/4.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/sutton-cheam/1-bed/4.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 4 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/sutton-cheam/2-bed/4.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/sutton-cheam/2-bed/4.jpg);">
                                     </div>
                                 </div>
-
                                 <!-- COLUMNS 5 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/sutton-cheam/1-bed/5.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/sutton-cheam/1-bed/5.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 6 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/sutton-cheam/2-bed/5.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/sutton-cheam/1-bed/6.jpg);">
                                     </div>
                                 </div>
-                                <!-- COLUMNS 7 -->
-                                <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/sutton-cheam/1-bed/6.jpg);">
-                                    </div>
-                                </div>
+
                             </div>
                         </div>
                     </div>
@@ -565,17 +454,15 @@ include 'header.php' ?>
                             <div class="large-title">
                                 <h2 class="m-t20">Sutton Cheam - London</h2>
                             </div>
-                            <p align="justify">Located in the London Borough of Sutton, London, Cheam is within easy
-                                reach
-                                of
-                                surrounding towns and central London.
-                                Cheam has excellent transport links and is well connected to surrounding towns, and
-                                further afield. London Victoria station in as little as 40 minutes by direct train,
-                                making it ideal for busy professionals looking to live away from the hustle and bustle
-                                of city life, without the time-consuming commute.
-                                Hybrid Resi – Sutton Cheam supplies corporate serviced accommodation in London, 19 miles
-                                from London Gatwick Airport and only 2 minutes from Cheam Train Station. Under 15
-                                minutes to/from Lidl House (Great Britain Head Office).
+                            <p align="justify">Located in the London Borough of Sutton, Cheam is within easy reach of
+                                surrounding towns and central London. It boasts excellent transport links and is well
+                                connected to surrounding towns and beyond. London Victoria station is reachable in as
+                                little as 36 minutes by direct train, making it ideal for busy professionals seeking to
+                                live away from the hustle and bustle of city life without enduring a lengthy commute.
+                                Hybrid Resi – Sutton Cheam offers corporate serviced accommodation in London, situated
+                                19 miles from London Gatwick Airport and only 2 minutes from Cheam Train Station. It is
+                                less than 15 minutes away from Lidl House (Great Britain Head Office) and just a
+                                15-minute drive from Wimbledon.
                             </p>
                             <p class="mediumbp" align="justify">Onsite car parking is subject to availability - The
                                 management bears no responsibility for vehicles parked in our parking bay.</p>
@@ -588,68 +475,57 @@ include 'header.php' ?>
                 <div class="row">
                     <div class="col-12 pic-bg-border">
                         <div class="work-carousel-outer">
-                            <div
-                                class="owl-carousel mfp-gallery project-carousel home-carousel owl-btn-vertical-center">
+                            <div class="owl-carousel mfp-gallery project-carousel home-carousel owl-btn-vertical-center">
                                 <!-- COLUMNS 1 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/new-malden/1-bed/2.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/new-malden/3-bed/2.jpg);">
                                     </div>
                                 </div>
 
                                 <!-- COLUMNS 2 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/new-malden/3-bed/2.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/new-malden/1-bed/2.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 3 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/new-malden/1-bed/4.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/new-malden/1-bed/4.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 4 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/new-malden/3-bed/3.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/new-malden/3-bed/3.jpg);">
                                     </div>
                                 </div>
 
                                 <!-- COLUMNS 5 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/new-malden/1-bed/6.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/new-malden/1-bed/6.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 6 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/new-malden/3-bed/7.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/new-malden/3-bed/7.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 7 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/new-malden/3-bed/14.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/new-malden/1-bed/7.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 8 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/new-malden/3-bed/9.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/new-malden/3-bed/14.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 9 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/new-malden/1-bed/8.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/new-malden/3-bed/9.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 10 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/new-malden/3-bed/11.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/new-malden/3-bed/11.jpg);">
                                     </div>
                                 </div>
                             </div>
@@ -660,17 +536,15 @@ include 'header.php' ?>
                             <div class="large-title">
                                 <h2 class="m-t20">New Malden - London</h2>
                             </div>
-                            <p align="justify">These contemporary apartments in New Malden, Royal Borough of Kingston
-                                upon
-                                Thames,
-                                provides every guest with their perfect home within Greater London with 30 minutes
-                                direct train to London Waterloo. Apartments are located next to the New Malden train
-                                station.
-                                These Apartments are in a pleasant suburb of southwest London, New Malden is just under
-                                10 miles from Charing Cross. Richmond Park with its herd of deer is 15 minutes away by
-                                car, just off the A3 - giving a real country feel to the area. Neighbouring localities
-                                include Kingston, Norbiton, Raynes Park, Surbiton, Tolworth, and Worcester Park and only
-                                a 10 -15-minute drive to Wimbledon.
+                            <p align="justify">These contemporary apartments in New Malden, located in the Royal Borough
+                                of Kingston upon Thames, provide every guest with their perfect home within Greater
+                                London, with a direct 30-minute train ride to London Waterloo. The apartments are
+                                conveniently situated next to New Malden train station. Positioned in the pleasant
+                                suburb of southwest London, New Malden is just under 10 miles from Charing Cross.
+                                Richmond Park, with its herd of deer, is a 15-minute drive away, just off the A3, giving
+                                the area a true countryside feels. Neighbouring localities include Kingston, Norbiton,
+                                Raynes Park, Surbiton, Tolworth, and Worcester Park, with Wimbledon only a 10-15-minute
+                                drive away.
                             </p>
                             <a href="new-malden.php" class="site-button-secondry btn-half"><span>Learn More</span></a>
 
@@ -681,68 +555,52 @@ include 'header.php' ?>
                 <div class="row">
                     <div class="col-12 pic-bg-border">
                         <div class="work-carousel-outer">
-                            <div
-                                class="owl-carousel mfp-gallery project-carousel home-carousel owl-btn-vertical-center">
+                            <div class="owl-carousel mfp-gallery project-carousel home-carousel owl-btn-vertical-center">
                                 <!-- COLUMNS 1 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/1-bed/2.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/mitcham/1-bed/2.jpg);">
                                     </div>
                                 </div>
 
                                 <!-- COLUMNS 2 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/2-bed/2.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/mitcham/2-bed/2.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 3 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/3-bed/2.jpeg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/mitcham/1-bed/6.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 4 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/1-bed/7.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/mitcham/1-bed/7.jpg);">
                                     </div>
                                 </div>
 
                                 <!-- COLUMNS 5 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/2-bed/10.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/mitcham/2-bed/10.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 6 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/3-bed/8.jpeg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/mitcham/1-bed/10.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 7 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/1-bed/10.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/mitcham/2-bed/12.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 8 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/2-bed/13.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/mitcham/2-bed/8.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 9 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/3-bed/11.jpeg);">
-                                    </div>
-                                </div>
-                                <!-- COLUMNS 10 -->
-                                <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/mitcham/1-bed/11.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/mitcham/1-bed/8.jpg);">
                                     </div>
                                 </div>
                             </div>
@@ -753,13 +611,12 @@ include 'header.php' ?>
                             <div class="large-title">
                                 <h2 class="m-t20">Mitcham - London</h2>
                             </div>
-                            <p align="justify">This brand-new sustainable Serviced Apartment building in Mitcham
-                                provides
-                                every guest
-                                with their perfect home within London City. Mitcham is in the east of the London Borough
-                                of Merton. Mitcham is close to Streatham, Croydon, Norbury, Morden, Sutton, Wimbledon,
-                                and Tooting. The River Wandle bounds the town to the southwest.
-                                As a Corporate serviced apartment, you'll find everything you need for a B'leisure stay.
+                            <p align="justify">Located in Mitcham, this newly constructed sustainable serviced apartment
+                                building offers guests their ideal home within London City. Situated in the eastern part
+                                of the London Borough of Merton, Mitcham is conveniently close to Streatham, Croydon,
+                                Norbury, Morden, Sutton, Wimbledon, and Tooting. The town is bounded by the river Wandle
+                                to the southwest. As a corporate serviced apartment, you'll find everything you need for
+                                a 'Bleisure' stay.
                             </p>
                             <a href="mitcham.php" class="site-button-secondry btn-half"><span>Learn More</span></a>
 
@@ -770,68 +627,57 @@ include 'header.php' ?>
                 <div class="row">
                     <div class="col-12 pic-bg-border">
                         <div class="work-carousel-outer">
-                            <div
-                                class="owl-carousel mfp-gallery project-carousel home-carousel owl-btn-vertical-center">
+                            <div class="owl-carousel mfp-gallery project-carousel home-carousel owl-btn-vertical-center">
                                 <!-- COLUMNS 1 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/uxbridge/1-bed/2.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/uxbridge/1-bed/2.jpg);">
                                     </div>
                                 </div>
 
                                 <!-- COLUMNS 2 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/uxbridge/2-bed/2.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/uxbridge/2-bed/2.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 3 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/uxbridge/1-bed/4.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/uxbridge/1-bed/4.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 4 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/uxbridge/2-bed/3.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/uxbridge/2-bed/3.jpg);">
                                     </div>
                                 </div>
 
                                 <!-- COLUMNS 5 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/uxbridge/1-bed/7.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/uxbridge/1-bed/7.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 6 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/uxbridge/2-bed/4.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/uxbridge/2-bed/4.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 7 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/uxbridge/1-bed/8.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/uxbridge/1-bed/8.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 8 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/uxbridge/2-bed/15.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/uxbridge/2-bed/15.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 9 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/uxbridge/1-bed/11.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/uxbridge/1-bed/11.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 10 -->
                                 <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/uxbridge/2-bed/17.jpg);">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/london/uxbridge/2-bed/17.jpg);">
                                     </div>
                                 </div>
                             </div>
@@ -842,18 +688,15 @@ include 'header.php' ?>
                             <div class="large-title">
                                 <h2 class="m-t20">Uxbridge - London</h2>
                             </div>
-                            <p align="justify">These contemporary apartments in Uxbridge, a suburban town in north-west
-                                London, provide every guest with their perfect home within Greater London with 50
-                                minutes
-                                of
-                                direct travel by Metropolitan Line to King's Cross and 30 minutes
-                                to Baker Street. Apartments are located 5 minutes' walk from Uxbridge underground
-                                station and 2 minutes from the High Street. Uxbridge station lies at the end of both the
-                                Metropolitan and Piccadilly lines.  
-                                Uxbridge is 5 minutes from the M40, 10 minutes from the M25, and 15
-                                minutes from the M4 and Heathrow. 
-                                As a Corporate serviced apartment, you'll find everything you need
-                                for a B'leisure stay.
+                            <p align="justify">These contemporary apartments in Uxbridge offer guests an ideal home
+                                within Greater London. They boast direct travel to King's Cross in 50 minutes and to
+                                Baker Street in 30 minutes via the Metropolitan Line. Conveniently located just a
+                                5-minute walk from Uxbridge underground station and 2 minutes from the High Street,
+                                these apartments are situated near major transportation hubs. Uxbridge station serves as
+                                the terminus for both the Metropolitan and Piccadilly lines. Additionally, Uxbridge is
+                                within 5 minutes of the M40, 10 minutes of the M25, and 15 minutes of the M4 and
+                                Heathrow Airport. As corporate serviced apartments, they cater to all your 'Bleisure'
+                                needs.
                             </p>
                             <p class="mediumbp" align="justify">Onsite car parking is subject to availability - The
                                 management bears no responsibility for vehicles parked in our parking bay.</p>

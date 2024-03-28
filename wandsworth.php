@@ -244,7 +244,7 @@ include 'header.php' ?>
                         <div class="our-history-content m-b30">
                             <div class="large-title">
                                 <h1 class="m-t20 text-uppercase">Cozy One-Bedroom Apartments</h1>
-                                <!-- <h4>Perth, Australia</h4> -->
+                                 
                             </div>
                             <p align="justify">These cozy one-bedroom apartments feature a double-size bed with a Hybrid
                                 office desk and an executive chair, a bathroom, a living area with wooden flooring, and

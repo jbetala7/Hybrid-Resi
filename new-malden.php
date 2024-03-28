@@ -243,7 +243,7 @@ include 'header.php' ?>
                         <div class="our-history-content m-b30">
                             <div class="large-title">
                                 <h1 class="m-t20 text-uppercase">One-Bedroom Apartments</h1>
-                                <!-- <h4>Perth, Australia</h4> -->
+                                 
                             </div>
                             <p align="justify">These one-bedroom apartments feature a double-size bed, a hybrid office
                                 desk, and an executive chair. Additionally, each unit includes a bathroom, a living area

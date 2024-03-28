@@ -234,7 +234,7 @@ include 'header.php' ?>
                         <div class="our-history-content m-b30">
                             <div class="large-title">
                                 <h1 class="m-t20 text-uppercase">One-Bedroom Apartments</h1>
-                                <!-- <h4>Perth, Australia</h4> -->
+                                 
                             </div>
                             <p align="justify">Each of our individually designed one-bed apartments in the heart of
                                 Fulham is perfect for extended stays or those looking for a larger space to unwind after

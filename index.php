@@ -711,7 +711,8 @@ include 'header.php' ?>
                     <a href="#" data-value="1c916087-2e2f-42a9-bb94-b09000ddbddd">Mitcham 3 Bed
                         Apartment </a>
                     <a href="#" data-value="cf43eb8d-7a02-45e0-9a80-b11b013ac44a">Uxbridge 1 Bed Apartment </a>
-                    <a href="#" data-value="17758ea3-6509-49d4-ae84-b1280120533f">Uxbridge 2 Bed Apartment </a>
+                    <a href="#" data-value="92b748ef-6c50-4f3b-af8c-b11b01449c78">Uxbridge 2 Bed Apartment </a>
+                    <a href="#" data-value="17758ea3-6509-49d4-ae84-b1280120533f">Uxbridge 3 Bed Apartment </a>
                     <!-- Add more options here -->
                 </div>
             </div>
@@ -796,7 +797,7 @@ include 'header.php' ?>
 
                 <div class="col-lg-12 col-md-12 col-sm-12">
                     <div class="about-home-left no-border">
-                        <h2 class="about-heading m-t0 m-b20 sx-tilte">Hybrid Resi' is founded on the key principle of
+                        <h2 class="about-heading m-t0 m-b20 sx-tilte">'Hybrid Resi' is founded on the key principle of
                             'Hotelisation'</h2>
                         <p align="justify">We are a UK-based serviced accommodation company that owns and operates
                             serviced apartments within the Greater London region of the United Kingdom.
@@ -908,7 +909,7 @@ include 'header.php' ?>
                         <div class="our-history-content m-b30">
                             <div class="large-title">
                                 <h1 class="m-t20 text-uppercase">Stay</h1>
-                                <!-- <h4>Perth, Australia</h4> -->
+                                 
                             </div>
                             <p align="justify">Located in the heart of London, Hybrid Resi gives you more than luxury
                                 amenities with a feeling of being at home when you choose to stay with us. Nothing
@@ -1906,7 +1907,7 @@ include 'header.php' ?>
                         </div>
 
                         <div class="item">
-                            <img src="images/home-page/partners/bt-business.png" alt="">
+                            <img src="images/home-page/partners/bt-business.jpg" alt="">
                         </div>
 
                         <div class="item">
