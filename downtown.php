@@ -312,7 +312,7 @@ include 'header.php' ?>
                     <div class="col-12">
                         <div class="our-history-content m-b30">
                             <div class="large-title">
-                                <h1 class="m-t20 text-uppercase">One Bedroom Apartment</h1>
+                                <h1 class="m-t20 text-uppercase">One-Bedroom Apartments</h1>
                                 <!-- <h4>Perth, Australia</h4> -->
                             </div>
                             <p align="justify">Located in the most prestigious buildings of Downtown Dubai, these
@@ -331,7 +331,7 @@ include 'header.php' ?>
                             <!-- <a target="_blank" href="https://my.matterport.com/show/?m=D7yu75N2zjn&play=1&hr=1&ts=0"
                                 class="site-button-secondry btn-half"><span> Virtual Tour</span></a>
                             <a href="#" class="site-button-secondry btn-half floor-plan-button"
-                                data-title="One Bedroom Apartment Floor Plan" data-floorplan="mitcham/1-bed"><span>Floor
+                                data-title="One-Bedroom Apartments Floor Plan" data-floorplan="mitcham/1-bed"><span>Floor
                                     Plan</span></a> -->
                         </div>
                     </div>
@@ -524,7 +524,7 @@ include 'header.php' ?>
                     <div class="col-12">
                         <div class="our-history-content m-b30">
                             <div class="large-title">
-                                <h1 class="m-t20 text-uppercase">Two Bedroom Apartment</h1>
+                                <h1 class="m-t20 text-uppercase">Two-Bedroom Apartments</h1>
                             </div>
                             <p align="justify">These luxurious apartments offer breathtaking panoramic views. Situated
                                 in the
@@ -542,7 +542,7 @@ include 'header.php' ?>
                             <!-- <a target="_blank" href="https://my.matterport.com/show/?m=yhzDGSqUz3g&play=1&hr=1&ts=0"
                                 class="site-button-secondry btn-half"><span> Virtual Tour</span></a>
                             <a href="#" class="site-button-secondry btn-half floor-plan-button"
-                                data-title="Two Bedroom Apartment Floor Plan"
+                                data-title="Two-Bedroom Apartments Floor Plan"
                                 data-floorplan="mitcham/2-bed"><span>Floor Plan</span></a> -->
 
                         </div>

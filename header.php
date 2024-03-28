@@ -73,7 +73,7 @@
 
         <!-- HEADER START -->
         <header class="site-header header-style-1 nav-wide mobile-sider-drawer-menu">
-            <div class="top-bar bg-thin-ice">
+            <div class="top-bar">
                 <div class="container">
                     <div class="d-flex justify-content-between ">
                         <ul class="list-unstyled e-p-bx text-theme">

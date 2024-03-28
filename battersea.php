@@ -237,7 +237,7 @@ include 'header.php' ?>
                     <div class="col-12">
                         <div class="our-history-content m-b30">
                             <div class="large-title">
-                                <h1 class="m-t20 text-uppercase">One Bedroom Apartment</h1>
+                                <h1 class="m-t20 text-uppercase">One-Bedroom Apartments</h1>
                                 <!-- <h4>Perth, Australia</h4> -->
                             </div>
                             <p align="justify">These one-bedroom apartments feature a king-size bed with a Hybrid office
@@ -252,7 +252,7 @@ include 'header.php' ?>
                             <a target="_blank" href="https://my.matterport.com/show/?m=5JSD7WcaQxH&play=1&hr=1&ts=0"
                                 class="site-button-secondry btn-half"><span> Virtual Tour</span></a>
                             <a href="#" class="site-button-secondry btn-half floor-plan-button"
-                                data-title="One Bedroom Apartment Floor Plan"
+                                data-title="One-Bedroom Apartments Floor Plan"
                                 data-floorplan="battersea/1-bed"><span>Floor Plan</span></a>
                         </div>
                     </div>
@@ -431,7 +431,7 @@ include 'header.php' ?>
                     <div class="col-12">
                         <div class="our-history-content m-b30">
                             <div class="large-title">
-                                <h1 class="m-t20 text-uppercase">Two Bedroom Apartment</h1>
+                                <h1 class="m-t20 text-uppercase">Two-Bedroom Apartments</h1>
                             </div>
                             <p align="justify">These Two-bedroom on mezzanine floor apartments feature a king-size bed
                                 and a super king-size bed with two bathrooms, a Hybrid office desk and an executive
@@ -444,7 +444,7 @@ include 'header.php' ?>
                             <a target="_blank" href="https://my.matterport.com/show/?m=SnBhLdjXgGC&play=1&hr=1&ts=0"
                                 class="site-button-secondry btn-half"><span> Virtual Tour</span></a>
                             <a href="#" class="site-button-secondry btn-half floor-plan-button"
-                                data-title="Two Bedroom Apartment Floor Plan"
+                                data-title="Two-Bedroom Apartments Floor Plan"
                                 data-floorplan="battersea/2-bed"><span>Floor Plan</span></a>
 
                         </div>
@@ -605,7 +605,7 @@ include 'header.php' ?>
                     <div class="col-12">
                         <div class="our-history-content m-b30">
                             <div class="large-title">
-                                <h1 class="m-t20 text-uppercase">Three Bedroom Apartment</h1>
+                                <h1 class="m-t20 text-uppercase">Three-Bedroom Apartments</h1>
                             </div>
                             <p align="justify">This three-bedroom on mezzanine floor apartment features a King size bed,
                                 Super king size bed and a double sofa-bed with two bathrooms, a Hybrid office desk and
@@ -619,7 +619,7 @@ include 'header.php' ?>
                             <a target="_blank" href="https://my.matterport.com/show/?m=Sj8Yn1vt6Vx&play=1&hr=1&ts=0"
                                 class="site-button-secondry btn-half"><span> Virtual Tour</span></a>
                             <a href="#" class="site-button-secondry btn-half floor-plan-button"
-                                data-title="Three Bedroom Apartment Floor Plan"
+                                data-title="Three-Bedroom Apartments Floor Plan"
                                 data-floorplan="battersea/3-bed"><span>Floor Plan</span></a>
 
                         </div>

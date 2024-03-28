@@ -49,9 +49,8 @@ include 'header.php' ?>
                 <div class="col-xl-12 col-lg-12 col-md-12">
 
                     <div class="about-home-3 m-b30 bg-white">
-                        <h3 class="m-t0 m-b20 sx-tilte">Most trusted integrator and solutions provider</h3>
                         <ul align="justify" class="list-angle-right anchor-line">
-                            <p align="justify">Hybrid Resi' is founded on the key principle of 'Hotelisation' to offer
+                            <p align="justify"><b>'Hybrid Resi'</b> is founded on the key principle of 'Hotelisation' to offer
                                 sustainable hospitality in the real estate world, while creating the right environment
                                 for guest experience to thrive within our flexible Hybrid work-stay business model.</p>
                             <p align="justify">We are a UK-based serviced accommodation company that owns and operates

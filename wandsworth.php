@@ -243,7 +243,7 @@ include 'header.php' ?>
                     <div class="col-12">
                         <div class="our-history-content m-b30">
                             <div class="large-title">
-                                <h1 class="m-t20 text-uppercase">Cozy One Bedroom Apartment</h1>
+                                <h1 class="m-t20 text-uppercase">Cozy One-Bedroom Apartments</h1>
                                 <!-- <h4>Perth, Australia</h4> -->
                             </div>
                             <p align="justify">These cozy one-bedroom apartments feature a double-size bed with a Hybrid
@@ -257,7 +257,7 @@ include 'header.php' ?>
                             <a target="_blank" href="https://my.matterport.com/show/?m=3fsnTqD8EL5&play=1&hr=1&ts=0"
                                 class="site-button-secondry btn-half"><span> Virtual Tour</span></a>
                             <a href="#" class="site-button-secondry btn-half floor-plan-button"
-                                data-title="Cozy One Bedroom Apartment Floor Plan"
+                                data-title="Cozy One-Bedroom Apartments Floor Plan"
                                 data-floorplan="wandsworth/cozy-1-bed"><span>Floor Plan</span></a>
                         </div>
                     </div>
@@ -414,7 +414,7 @@ include 'header.php' ?>
                     <div class="col-12">
                         <div class="our-history-content m-b30">
                             <div class="large-title">
-                                <h1 class="m-t20 text-uppercase">One Bedroom Apartment</h1>
+                                <h1 class="m-t20 text-uppercase">One-Bedroom Apartments</h1>
                             </div>
                             <p align="justify">These one-bedroom apartments feature a king-size bed with a Hybrid office
                                 desk and an executive chair, a bathroom, a living area with wooden flooring, and a fully
@@ -426,7 +426,7 @@ include 'header.php' ?>
                             <a target="_blank" href="https://my.matterport.com/show/?m=sAPer35bsTV&play=1&hr=1&ts=0"
                                 class="site-button-secondry btn-half"><span> Virtual Tour</span></a>
                             <a href="#" class="site-button-secondry btn-half floor-plan-button"
-                                data-title="One Bedroom Apartment Floor Plan"
+                                data-title="One-Bedroom Apartments Floor Plan"
                                 data-floorplan="wandsworth/1-bed"><span>Floor Plan</span></a>
 
                         </div>

@@ -268,7 +268,7 @@ include 'header.php' ?>
                     <div class="col-12">
                         <div class="our-history-content m-b30">
                             <div class="large-title">
-                                <h1 class="m-t20 text-uppercase">One Bedroom Apartment</h1>
+                                <h1 class="m-t20 text-uppercase">One-Bedroom Apartments</h1>
                             </div>
                             <p align="justify">These one-bedroom apartments include a king-size bed with a hybrid office
                                 desk and an executive chair, a full bathroom, and an additional toilet-only bathroom, a
@@ -282,7 +282,7 @@ include 'header.php' ?>
                             <a target="_blank" href="https://my.matterport.com/show/?m=5kU8XHFSVJf&play=1&hr=1&ts=0"
                                 class="site-button-secondry btn-half"><span> Virtual Tour</span></a>
                             <a href="#" class="site-button-secondry btn-half floor-plan-button"
-                                data-title="One Bedroom Apartment Floor Plan"
+                                data-title="One-Bedroom Apartments Floor Plan"
                                 data-floorplan="uxbridge/1-bed"><span>Floor Plan</span></a>
                         </div>
                     </div>
@@ -494,7 +494,7 @@ include 'header.php' ?>
                     <div class="col-12">
                         <div class="our-history-content m-b30">
                             <div class="large-title">
-                                <h1 class="m-t20 text-uppercase">Two Bedroom Apartment</h1>
+                                <h1 class="m-t20 text-uppercase">Two-Bedroom Apartments</h1>
                             </div>
                             <p align="justify">Set within the brand-new red-brick building, just a stone's throw from
                                 Uxbridge station, our two-bedroom apartments offer modern London living. Luxurious space
@@ -510,7 +510,7 @@ include 'header.php' ?>
                             <a target="_blank" href="https://my.matterport.com/show/?m=KcczuzViXir&play=1&hr=1&ts=0"
                                 class="site-button-secondry btn-half"><span> Virtual Tour</span></a>
                             <a href="#" class="site-button-secondry btn-half floor-plan-button"
-                                data-title="Two Bedroom Apartment Floor Plan"
+                                data-title="Two-Bedroom Apartments Floor Plan"
                                 data-floorplan="uxbridge/2-bed"><span>Floor Plan</span></a>
 
                         </div>
@@ -729,7 +729,7 @@ include 'header.php' ?>
                     <div class="col-12">
                         <div class="our-history-content m-b30">
                             <div class="large-title">
-                                <h1 class="m-t20 text-uppercase">Three Bedroom Apartment</h1>
+                                <h1 class="m-t20 text-uppercase">Three-Bedroom Apartments</h1>
                             </div>
                             <p align="justify">The most spacious of our apartments, three-bedroom apartments are perfect
                                 for families or those seeking a larger space for an extended stay. Flooded with natural
@@ -745,7 +745,7 @@ include 'header.php' ?>
                             <a target="_blank" href="https://my.matterport.com/show/?m=KcczuzViXir&play=1&hr=1&ts=0"
                                 class="site-button-secondry btn-half"><span> Virtual Tour</span></a>
                             <a href="#" class="site-button-secondry btn-half floor-plan-button"
-                                data-title="Three Bedroom Apartment Floor Plan"
+                                data-title="Three-Bedroom Apartments Floor Plan"
                                 data-floorplan="uxbridge/2-bed"><span>Floor Plan</span></a>
 
                         </div>

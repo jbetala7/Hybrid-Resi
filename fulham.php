@@ -233,7 +233,7 @@ include 'header.php' ?>
                     <div class="col-12">
                         <div class="our-history-content m-b30">
                             <div class="large-title">
-                                <h1 class="m-t20 text-uppercase">One Bedroom Apartment</h1>
+                                <h1 class="m-t20 text-uppercase">One-Bedroom Apartments</h1>
                                 <!-- <h4>Perth, Australia</h4> -->
                             </div>
                             <p align="justify">Each of our individually designed one-bed apartments in the heart of
@@ -250,7 +250,7 @@ include 'header.php' ?>
                             <a target="_blank" href="https://my.matterport.com/show/?m=GiwSG3bBTF7&play=1&hr=1&ts=0"
                                 class="site-button-secondry btn-half"><span> Virtual Tour</span></a>
                             <a href="#" class="site-button-secondry btn-half floor-plan-button"
-                                data-title="One Bedroom Apartment Floor Plan" data-floorplan="fulham/1-bed"><span>Floor
+                                data-title="One-Bedroom Apartments Floor Plan" data-floorplan="fulham/1-bed"><span>Floor
                                     Plan</span></a>
                         </div>
                     </div>
@@ -429,7 +429,7 @@ include 'header.php' ?>
                     <div class="col-12">
                         <div class="our-history-content m-b30">
                             <div class="large-title">
-                                <h1 class="m-t20 text-uppercase">Two Bedroom Apartment</h1>
+                                <h1 class="m-t20 text-uppercase">Two-Bedroom Apartments</h1>
                             </div>
                             <p align="justify">Set within traditional red-brick townhouses, just a stone's throw from
                                 London's top football clubs, our two-bed apartments offer modern London living from
@@ -445,7 +445,7 @@ include 'header.php' ?>
                             <a target="_blank" href="https://my.matterport.com/show/?m=RitgfCMB1qD&play=1&hr=1&ts=0"
                                 class="site-button-secondry btn-half"><span> Virtual Tour</span></a>
                             <a href="#" class="site-button-secondry btn-half floor-plan-button"
-                                data-title="Two Bedroom Apartment Floor Plan" data-floorplan="fulham/2-bed"><span>Floor
+                                data-title="Two-Bedroom Apartments Floor Plan" data-floorplan="fulham/2-bed"><span>Floor
                                     Plan</span></a>
 
                         </div>
@@ -626,7 +626,7 @@ include 'header.php' ?>
                     <div class="col-12">
                         <div class="our-history-content m-b30">
                             <div class="large-title">
-                                <h1 class="m-t20 text-uppercase">Three Bedroom Apartment</h1>
+                                <h1 class="m-t20 text-uppercase">Three-Bedroom Apartments</h1>
                             </div>
                             <p align="justify">The most spacious of our apartments, three-bed apartments are perfect for
                                 families or those looking for a larger apartment for a longer stay. Flooded with natural
@@ -642,7 +642,7 @@ include 'header.php' ?>
                             <a target="_blank" href="https://my.matterport.com/show/?m=8sYXuXCZ6KL&play=1&hr=1&ts=0"
                                 class="site-button-secondry btn-half"><span> Virtual Tour</span></a>
                             <a href="#" class="site-button-secondry btn-half floor-plan-button"
-                                data-title="Three Bedroom Apartment Floor Plan"
+                                data-title="Three-Bedroom Apartments Floor Plan"
                                 data-floorplan="fulham/3-bed"><span>Floor Plan</span></a>
 
                         </div>
@@ -862,7 +862,7 @@ include 'header.php' ?>
                     <div class="col-12">
                         <div class="our-history-content m-b30">
                             <div class="large-title">
-                                <h1 class="m-t20 text-uppercase">Duplex Three Bedroom Apartment</h1>
+                                <h1 class="m-t20 text-uppercase">Duplex Three-Bedroom Apartments</h1>
                             </div>
                             <p align="justify">Set within traditional red-brick townhouses, just a stone's throw from
                                 London's top football clubs, our three-bed duplex apartments offer modern London living
@@ -879,7 +879,7 @@ include 'header.php' ?>
                             <a target="_blank" href="https://my.matterport.com/show/?m=wS1gk2p2ybE&play=1&hr=1&ts=0"
                                 class="site-button-secondry btn-half"><span> Virtual Tour</span></a>
                             <a href="#" class="site-button-secondry btn-half floor-plan-button"
-                                data-title="Duplex Three Bedroom Apartment Floor Plan"
+                                data-title="Duplex Three-Bedroom Apartments Floor Plan"
                                 data-floorplan="fulham/duplex-3-bed"><span>Floor Plan</span></a>
 
                         </div>

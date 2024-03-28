@@ -238,7 +238,7 @@ include 'header.php' ?>
                     <div class="col-12">
                         <div class="our-history-content m-b30">
                             <div class="large-title">
-                                <h1 class="m-t20 text-uppercase">One Bedroom Apartment</h1>
+                                <h1 class="m-t20 text-uppercase">One-Bedroom Apartments</h1>
                                 <!-- <h4>Perth, Australia</h4> -->
                             </div>
                             <p align="justify">These one-bedroom apartments feature a king-size bed with a hybrid office
@@ -253,7 +253,7 @@ include 'header.php' ?>
                             <a target="_blank" href="https://my.matterport.com/show/?m=prsb6VQ5w67&play=1&hr=1&ts=0"
                                 class="site-button-secondry btn-half"><span> Virtual Tour</span></a>
                             <a href="#" class="site-button-secondry btn-half floor-plan-button"
-                                data-title="One Bedroom Apartment Floor Plan"
+                                data-title="One-Bedroom Apartments Floor Plan"
                                 data-floorplan="sutton-cheam/1-bed"><span>Floor Plan</span></a>
                         </div>
                     </div>
@@ -358,7 +358,7 @@ include 'header.php' ?>
                 </div>
                 <!-- ONE BEDROOM APARTMENT SECTION END -->
 
-                <!-- Two Bedroom Apartment SECTION START -->
+                <!-- Two-Bedroom Apartments SECTION START -->
                 <div class="row">
                     <div class="col-12 pic-bg-border theme-border">
                         <div class="work-carousel-outer">
@@ -401,7 +401,7 @@ include 'header.php' ?>
                     <div class="col-12">
                         <div class="our-history-content m-b30">
                             <div class="large-title">
-                                <h1 class="m-t20 text-uppercase">Two Bedroom Apartment</h1>
+                                <h1 class="m-t20 text-uppercase">Two-Bedroom Apartments</h1>
                             </div>
                             <p align="justify">These two-bedroom apartments feature a super king-size bed and a double
                                 or king-size bed, along with one or two bathrooms, a hybrid office desk, and an
@@ -415,7 +415,7 @@ include 'header.php' ?>
                             <a target="_blank" href="https://my.matterport.com/show/?m=ngL3NoBEaoG&play=1&hr=1&ts=0"
                                 class="site-button-secondry btn-half"><span> Virtual Tour</span></a>
                             <a href="#" class="site-button-secondry btn-half floor-plan-button"
-                                data-title="Two Bedroom Apartment Floor Plan"
+                                data-title="Two-Bedroom Apartments Floor Plan"
                                 data-floorplan="sutton-cheam/2-bed"><span>Floor Plan</span></a>
 
                         </div>
@@ -519,7 +519,7 @@ include 'header.php' ?>
                         </div>
                     </div>
                 </div>
-                <!-- Two Bedroom Apartment SECTION END -->
+                <!-- Two-Bedroom Apartments SECTION END -->
 
                 <!-- MODAL STRUCTURE START -->
                 <div class="modal fade" id="floorPlanModal" tabindex="-1" role="dialog"
