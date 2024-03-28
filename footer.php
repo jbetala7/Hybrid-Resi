@@ -1,6 +1,10 @@
 </div>
 <!-- CONTENT END -->
 
+<a target="_blank" rel="nofollow" href="https://wa.link/hyozj2"
+    onClick="gtag('event', 'WhatsApp', { event_category: 'WhatsApp', event_action: 'WhatsApp'}); " class="whatsapp"><img
+        src="images/wb-logo.png" class="img-responsive"></a>
+
 <!-- FOOTER START -->
 <footer class="site-footer footer-large footer-dark footer-wide">
 
@@ -104,7 +108,9 @@
             <div id="copyright-text" class="row">
                 <div class="sx-footer-bot-left">
                     <span class="copyrights-text">&COPY;
-                        <script>document.write(new Date().getFullYear());</script> Hybrid Resi is Developed by <a
+                        <script>
+                            document.write(new Date().getFullYear());
+                        </script> Hybrid Resi is Developed by <a
                             class="underline-transition text-theme1 copyright-strong" href="https://jayeshbetala.com/"
                             target="_blank">
                             Jayesh Betala </a> and Proudly Powered by <a
