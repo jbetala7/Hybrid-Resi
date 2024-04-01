@@ -29,15 +29,15 @@ include 'header.php' ?>
                 <div class="tp-caption   tp-resizeme rs-parallaxlevel-5" id="slide-964-layer-1"
                     data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
                     data-y="['middle','middle','middle','middle']" data-voffset="['-100','-100','-100','0']"
-                    data-fontsize="['120','120','120','60']" data-lineheight="['120','120','120','60']"
+                    data-fontsize="['100','100','100','40']" data-lineheight="['120','120','120','60']"
                     data-letterspacing="['50','50','50','5']" data-width="['960','960','960','960']" data-height="none"
                     data-whitespace="normal" data-type="text" data-beforeafter="before" data-responsive_offset="on"
                     data-frames='[{"delay":600,"speed":2000,"frame":"0","from":"sX:1;sY:1;opacity:0;fb:40px;","to":"o:1;fb:0;","ease":"Power4.easeInOut"},
                         {"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
                     data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]"
-                    data-paddingright="[0,0,0,50]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[50,50,50,50]"
+                    data-paddingright="[0,0,0,50]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,50]"
                     style="z-index: 16; white-space: nowrap; font-size: 120px; line-height: 120px; font-weight: 900; color: #fff; letter-spacing: 10px;font-family: 'montserratregular', sans-serif; text-transform: uppercase;">
-                    T & C </div>
+                    Terms & <br> Conditions </div>
 
                 <!-- LAYER 1  right image overlay dark-->
                 <div class="tp-caption tp-shape tp-shapewrapper  rs-parallaxlevel-tobggroup" id="slide-72-layer-1"
@@ -58,15 +58,15 @@ include 'header.php' ?>
                 <div class="tp-caption   tp-resizeme  tp-blackshadow rs-parallaxlevel-5" id="slide-964-layer-4"
                     data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
                     data-y="['middle','middle','middle','middle']" data-voffset="['-100','-100','-100','0']"
-                    data-fontsize="['120','120','120','60']" data-lineheight="['120','120','120','60']"
+                    data-fontsize="['100','100','100','40']" data-lineheight="['120','120','120','60']"
                     data-letterspacing="['50','50','50','5']" data-width="['960','960','960','960']" data-height="none"
                     data-whitespace="normal" data-type="text" data-beforeafter="after" data-responsive_offset="on"
                     data-frames='[{"delay":2000,"speed":2000,"frame":"0","from":"sX:1;sY:1;opacity:0;fb:40px;","to":"o:1;fb:0;","ease":"Power4.easeInOut"},
                         {"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
                     data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]"
-                    data-paddingright="[0,0,0,50]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[50,50,50,50]"
+                    data-paddingright="[0,0,0,50]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,50]"
                     style="z-index: 16; white-space: nowrap; font-size: 120px; line-height: 120px; font-weight: 900; color: #000; letter-spacing: 10px;
-                        font-family: 'montserratregular', sans-serif; text-transform: uppercase;">T & C </div>
+                        font-family: 'montserratregular', sans-serif; text-transform: uppercase;">Terms & <br> Conditions </div>
             </li>
 
         </ul>

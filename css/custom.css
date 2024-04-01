@@ -92,6 +92,9 @@
     a.text-theme-1.testimonial-position.mediump {
         align-items: center !important;
     }
+    .whatsapp{
+        width: 10% !important;
+    }
 
 }
 
