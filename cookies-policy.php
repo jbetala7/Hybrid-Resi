@@ -37,7 +37,7 @@ include 'header.php' ?>
                     data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]"
                     data-paddingright="[0,0,0,50]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[50,50,50,50]"
                     style="z-index: 16; white-space: nowrap; font-size: 100px; line-height: 120px; font-weight: 900; color: #fff; letter-spacing: 10px;font-family: 'montserratregular', sans-serif; text-transform: uppercase;">
-                    Cookie Policy </div>
+                    Cookies Policy </div>
 
                 <!-- LAYER 1  right image overlay dark-->
                 <div class="tp-caption tp-shape tp-shapewrapper  rs-parallaxlevel-tobggroup" id="slide-72-layer-1"
@@ -66,7 +66,7 @@ include 'header.php' ?>
                     data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]"
                     data-paddingright="[0,0,0,50]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[50,50,50,50]"
                     style="z-index: 16; white-space: nowrap; font-size: 100px; line-height: 120px; font-weight: 900; color: #000; letter-spacing: 10px;
-                        font-family: 'montserratregular', sans-serif; text-transform: uppercase;">Cookie Policy </div>
+                        font-family: 'montserratregular', sans-serif; text-transform: uppercase;">Cookies Policy </div>
             </li>
 
         </ul>
@@ -75,17 +75,6 @@ include 'header.php' ?>
 <!-- SLIDER END -->
 
 <div class="section-full mobile-page-padding">
-    <!-- TITLE -->
-    <div class="large-title-block full-content bg-theme bg-moving bg-repeat-x" style="background-image:url(images/background/green-leaves-pattern.png);">
-        <div class="row">
-            <div class="col-lg-12 col-md-12 col-sm-12">
-                <div class="large-title text-white text-center">
-                    <h1 class="m-tb0 text-uppercase">Cookies Policy</h1>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- TITLE -->
 
     <div class="container">
         <!-- GALLERY CONTENT START -->
@@ -279,4 +268,4 @@ include 'header.php' ?>
     </div>
 </div>
 
-<?php include 'footer.php' ?>
+<?php include 'footer-1.php' ?>
