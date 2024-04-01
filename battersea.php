@@ -779,4 +779,4 @@ include 'header.php' ?>
 </div>
 <!-- MAPS 2 SECTION END -->
 
-<?php include 'locations-footer.php' ?>
+<?php include 'footer-1.php' ?>

@@ -3,31 +3,76 @@ $page = 'contact-us';
 $title = 'Hybrid Resi | Contact Us';
 include 'header.php' ?>
 
-<!-- INNER PAGE BANNER -->
-<div class="mobile-size sx-bnr-inr overlay-wraper bg-parallax"
-    style="background-image:url(images/banner-images/apartments/stay.jpg);">
-    <div class="overlay-main bg-black opacity-05"></div>
-    <div class="container">
-        <div class="sx-bnr-inr-entry">
-            <!-- <div class="banner-title-outer">
-                <div class="banner-title-name">
-                    <h2 class="m-tb0">Contact Us</h2>
+<!-- SLIDER START -->
+<div id="rev_slider_346_1_wrapper" class="rev_slider_wrapper fullscreen-container" data-alias="beforeafterslider1"
+    data-source="gallery" style="background:#252525;padding:0px;">
+    <!-- START REVOLUTION SLIDER 5.4.3.3 fullscreen mode -->
+    <div id="rev_slider_346_1" class="rev_slider fullscreenbanner" style="display:none;" data-version="5.4.3.3">
+        <ul>
+            <!-- SLIDE 1 -->
+            <li data-index="rs-964" data-transition="fade" data-slotamount="default" data-hideafterloop="0"
+                data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="default"
+                data-thumb="" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1=""
+                data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8=""
+                data-param9=""
+                data-param10="{&quot;revslider-weather-addon&quot; : { &quot;type&quot; : &quot;&quot; ,&quot;name&quot; : &quot;&quot; ,&quot;woeid&quot; : &quot;&quot; ,&quot;unit&quot; : &quot;&quot; }}"
+                data-description=""
+                data-beforeafter='{"moveto":"50%|50%|50%|50%","bgColor":"#e7e7e7","bgType":"image","bgImage":"images/banner-images/other/4.jpg",
+                        "bgFit":"cover","bgPos":"center center","bgRepeat":"no-repeat","direction":"horizontal","easing":"Power2.easeInOut","delay":"500","time":"750","out":"fade","carousel":false}'>
+                <!-- MAIN IMAGE -->
+                <img src="images/banner-images/other/4-modified.jpg" data-beforeafter="after" data-bgcolor='' alt=""
+                    data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off"
+                    class="rev-slidebg" data-no-retina>
+                <!-- LAYERS -->
+
+                <!-- LAYER NR. 1 text -->
+                <div class="tp-caption   tp-resizeme rs-parallaxlevel-5" id="slide-964-layer-1"
+                    data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                    data-y="['middle','middle','middle','middle']" data-voffset="['-100','-100','-100','0']"
+                    data-fontsize="['120','120','120','60']" data-lineheight="['120','120','120','60']"
+                    data-letterspacing="['50','50','50','5']" data-width="['960','960','960','960']" data-height="none"
+                    data-whitespace="normal" data-type="text" data-beforeafter="before" data-responsive_offset="on"
+                    data-frames='[{"delay":600,"speed":2000,"frame":"0","from":"sX:1;sY:1;opacity:0;fb:40px;","to":"o:1;fb:0;","ease":"Power4.easeInOut"},
+                        {"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
+                    data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]"
+                    data-paddingright="[0,0,0,50]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[50,50,50,50]"
+                    style="z-index: 16; white-space: nowrap; font-size: 120px; line-height: 120px; font-weight: 900; color: #fff; letter-spacing: 10px;font-family: 'montserratregular', sans-serif; text-transform: uppercase;">
+                    Contact Us </div>
+
+                <!-- LAYER 1  right image overlay dark-->
+                <div class="tp-caption tp-shape tp-shapewrapper  rs-parallaxlevel-tobggroup" id="slide-72-layer-1"
+                    data-x="['right','right','right','center']" data-hoffset="['0','0','0','0']"
+                    data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']"
+                    data-fontweight="['100','100','400','400']" data-width="['full','full','full','full']"
+                    data-height="['full','full','full','full']" data-whitespace="nowrap" data-type="shape"
+                    data-basealign="slide" data-responsive_offset="off" data-responsive="off"
+                    data-frames='[{"from":"opacity:0;","speed":1500,"to":"o:1;","delay":150,"ease":"Power2.easeInOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power2.easeInOut"}]'
+                    data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]"
+                    data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
+                    style="z-index: 6;background-color:rgba(0,0,0,0.2);">
                 </div>
-            </div> -->
-            <!-- BREADCRUMB ROW -->
 
-            <div>
-                <ul class="sx-breadcrumb breadcrumb-style-2">
-                    <li><a class="underline-transition text-thin-ice" href="index.php">Home</a></li>
-                    <li>Contact Us </li>
-                </ul>
-            </div>
+                <!-- SLIDE RIGHT PART START-->
 
-            <!-- BREADCRUMB ROW END -->
-        </div>
+                <!-- LAYER NR. 1  text-->
+                <div class="tp-caption   tp-resizeme  tp-blackshadow rs-parallaxlevel-5" id="slide-964-layer-4"
+                    data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                    data-y="['middle','middle','middle','middle']" data-voffset="['-100','-100','-100','0']"
+                    data-fontsize="['120','120','120','60']" data-lineheight="['120','120','120','60']"
+                    data-letterspacing="['50','50','50','5']" data-width="['960','960','960','960']" data-height="none"
+                    data-whitespace="normal" data-type="text" data-beforeafter="after" data-responsive_offset="on"
+                    data-frames='[{"delay":2000,"speed":2000,"frame":"0","from":"sX:1;sY:1;opacity:0;fb:40px;","to":"o:1;fb:0;","ease":"Power4.easeInOut"},
+                        {"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
+                    data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]"
+                    data-paddingright="[0,0,0,50]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[50,50,50,50]"
+                    style="z-index: 16; white-space: nowrap; font-size: 120px; line-height: 120px; font-weight: 900; color: #000; letter-spacing: 10px;
+                        font-family: 'montserratregular', sans-serif; text-transform: uppercase;">Contact Us </div>
+            </li>
+
+        </ul>
     </div>
 </div>
-<!-- INNER PAGE BANNER END -->
+<!-- SLIDER END -->
 
 <!-- SECTION CONTENTG START -->
 <div class="section-full p-tb80 inner-page-padding">
@@ -132,4 +177,4 @@ include 'header.php' ?>
 <!-- SECTION CONTENT END -->
 
 
-<?php include 'footer.php' ?>
+<?php include 'footer-1.php' ?>

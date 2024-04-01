@@ -883,4 +883,4 @@ include 'header.php' ?>
 
 
 
-<?php include 'locations-footer.php' ?>
+<?php include 'footer-1.php' ?>

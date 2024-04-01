@@ -548,4 +548,4 @@ include 'header.php' ?>
 </div>
 <!-- MAP SECTION END -->
 
-<?php include 'locations-footer.php' ?>
+<?php include 'footer-1.php' ?>

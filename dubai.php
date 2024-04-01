@@ -89,7 +89,7 @@ include 'header.php' ?>
                                 <!-- COLUMNS 1 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/dubai/marina/1-bed/2.webp);">
+                                        style="background-image:url(images/dubai/marina/1-bed/12.webp);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 2 -->
@@ -132,7 +132,7 @@ include 'header.php' ?>
                                 <!-- COLUMNS 8 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/dubai/marina/1-bed/12.webp);">
+                                        style="background-image:url(images/dubai/marina/1-bed/2.webp);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 9 -->
@@ -169,7 +169,7 @@ include 'header.php' ?>
                                 <!-- COLUMNS 1 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/dubai/downtown/2-bed/2.jpg);">
+                                        style="background-image:url(images/dubai/downtown/1-bed/12.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 2 -->
@@ -181,7 +181,7 @@ include 'header.php' ?>
                                 <!-- COLUMNS 3 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/dubai/downtown/2-bed/4.jpg);">
+                                        style="background-image:url(images/dubai/downtown/2-bed/3.jpg);">
                                     </div>
                                 </div>
 
@@ -212,7 +212,7 @@ include 'header.php' ?>
                                 <!-- COLUMNS 8 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/dubai/downtown/1-bed/12.jpg);">
+                                        style="background-image:url(images/dubai/downtown/2-bed/2.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 9 -->
@@ -247,4 +247,4 @@ include 'header.php' ?>
 </div>
 <!-- SECTION 2 END -->
 
-<?php include 'locations-footer.php' ?>
+<?php include 'footer-1.php' ?>

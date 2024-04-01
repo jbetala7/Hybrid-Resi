@@ -1301,317 +1301,157 @@ include 'header.php' ?>
                     <!-- COLUMNS 2 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
-                            style="background-image:url(images/london/canary-wharf/1-bed/1.jpg)">
-                            <!-- Overlay starts here -->
-                            <div class="custom-overlay">
-                                <div class="sx-info  p-t20 text-white">
-                                    <p class="sx-tilte m-t0"><a href="canary-wharf.php">Canary Wharf One Bedroom</a></p>
-                                </div>
-                            </div>
-                            <!-- Overlay ends here -->
+                            style="background-image:url(images/gallery/2.jpg)">
                         </div>
                     </div>
                     <!-- COLUMNS 3 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
-                            style="background-image:url(images/london/canary-wharf/2-bed/1.jpg)">
-                            <!-- Overlay starts here -->
-                            <div class="custom-overlay">
-                                <div class="sx-info  p-t20 text-white">
-                                    <p class="sx-tilte m-t0"><a href="canary-wharf.php">Canary Wharf Two Bedrooms</a>
-                                    </p>
-                                </div>
-                            </div>
-                            <!-- Overlay ends here -->
+                            style="background-image:url(images/gallery/3.jpg)">
                         </div>
                     </div>
                     <!-- COLUMNS 4 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
-                            style="background-image:url(images/london/battersea/1-bed/1.jpg)">
-                            <!-- Overlay starts here -->
-                            <div class="custom-overlay">
-                                <div class="sx-info  p-t20 text-white">
-                                    <p class="sx-tilte m-t0"><a href="battersea.php">Battersea One Bedroom</a></p>
-                                </div>
-                            </div>
-                            <!-- Overlay ends here -->
+                            style="background-image:url(images/gallery/4.jpg)">
                         </div>
                     </div>
                     <!-- COLUMNS 5 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
-                            style="background-image:url(images/london/battersea/2-bed/1.jpg)">
-                            <!-- Overlay starts here -->
-                            <div class="custom-overlay">
-                                <div class="sx-info  p-t20 text-white">
-                                    <p class="sx-tilte m-t0"><a href="battersea.php">Battersea Two Bedrooms</a></p>
-                                </div>
-                            </div>
-                            <!-- Overlay ends here -->
+                            style="background-image:url(images/gallery/5.jpg)">
                         </div>
                     </div>
                     <!-- COLUMNS 6 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
-                            style="background-image:url(images/london/battersea/3-bed/1.jpg)">
-                            <!-- Overlay starts here -->
-                            <div class="custom-overlay">
-                                <div class="sx-info  p-t20 text-white">
-                                    <p class="sx-tilte m-t0"><a href="battersea.php">Battersea Three Bedrooms</a></p>
-                                </div>
-                            </div>
-                            <!-- Overlay ends here -->
+                            style="background-image:url(images/gallery/6.jpg)">
                         </div>
                     </div>
                     <!-- COLUMNS 7 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
-                            style="background-image:url(images/london/sutton-cheam/1-bed/1.jpg)">
-                            <!-- Overlay starts here -->
-                            <div class="custom-overlay">
-                                <div class="sx-info  p-t20 text-white">
-                                    <p class="sx-tilte m-t0"><a href="sutton-cheam.php">Sutton Cheam One Bedroom</a></p>
-                                </div>
-                            </div>
-                            <!-- Overlay ends here -->
+                            style="background-image:url(images/gallery/7.jpg)">
                         </div>
                     </div>
                     <!-- COLUMNS 8 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
-                            style="background-image:url(images/london/sutton-cheam/2-bed/1.jpg)">
-                            <!-- Overlay starts here -->
-                            <div class="custom-overlay">
-                                <div class="sx-info  p-t20 text-white">
-                                    <p class="sx-tilte m-t0"><a href="sutton-cheam.php">Sutton Cheam Two Bedrooms</a>
-                                    </p>
-                                </div>
-                            </div>
-                            <!-- Overlay ends here -->
+                            style="background-image:url(images/gallery/8.jpg)">
                         </div>
                     </div>
                     <!-- COLUMNS 9 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
-                            style="background-image:url(images/london/wandsworth/1-bed/1.jpg)">
-                            <!-- Overlay starts here -->
-                            <div class="custom-overlay">
-                                <div class="sx-info  p-t20 text-white">
-                                    <p class="sx-tilte m-t0"><a href="wandsworth.php">Wandsworth One Bedroom</a></p>
-                                </div>
-                            </div>
-                            <!-- Overlay ends here -->
-                        </div>
-                    </div>
-                    <!-- COLUMNS 9 -->
-                    <div class="item">
-                        <div class="sx-box   image-single-carousel bg-cover"
-                            style="background-image:url(images/london/wandsworth/cozy-1-bed/4.jpg)">
-                            <!-- Overlay starts here -->
-                            <div class="custom-overlay">
-                                <div class="sx-info  p-t20 text-white">
-                                    <p class="sx-tilte m-t0"><a href="wandsworth.php">Wandsworth Cozy One Bedroom</a>
-                                    </p>
-                                </div>
-                            </div>
-                            <!-- Overlay ends here -->
+                            style="background-image:url(images/gallery/9.jpg)">
                         </div>
                     </div>
                     <!-- COLUMNS 10 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
-                            style="background-image:url(images/london/fulham/1-bed/1.jpg)">
-                            <!-- Overlay starts here -->
-                            <div class="custom-overlay">
-                                <div class="sx-info  p-t20 text-white">
-                                    <p class="sx-tilte m-t0"><a href="fulham.php">Fulham One Bedroom</a></p>
-                                </div>
-                            </div>
-                            <!-- Overlay ends here -->
+                            style="background-image:url(images/gallery/10.jpg)">
                         </div>
                     </div>
                     <!-- COLUMNS 11 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
-                            style="background-image:url(images/london/fulham/2-bed/1.jpg)">
-                            <!-- Overlay starts here -->
-                            <div class="custom-overlay">
-                                <div class="sx-info  p-t20 text-white">
-                                    <p class="sx-tilte m-t0"><a href="fulham.php">Fulham Two Bedrooms</a></p>
-                                </div>
-                            </div>
-                            <!-- Overlay ends here -->
+                            style="background-image:url(images/gallery/11.jpg)">
                         </div>
                     </div>
                     <!-- COLUMNS 12 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
-                            style="background-image:url(images/london/fulham/3-bed/1.jpg)">
-                            <!-- Overlay starts here -->
-                            <div class="custom-overlay">
-                                <div class="sx-info  p-t20 text-white">
-                                    <p class="sx-tilte m-t0"><a href="fulham.php">Fulham Three Bedrooms</a></p>
-                                </div>
-                            </div>
-                            <!-- Overlay ends here -->
+                            style="background-image:url(images/gallery/12.jpg)">
                         </div>
                     </div>
                     <!-- COLUMNS 13 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
-                            style="background-image:url(images/london/fulham/duplex-3-bed/1.jpg)">
-                            <!-- Overlay starts here -->
-                            <div class="custom-overlay">
-                                <div class="sx-info  p-t20 text-white">
-                                    <p class="sx-tilte m-t0"><a href="fulham.php">Fulham Duplex Three Bedrooms</a></p>
-                                </div>
-                            </div>
-                            <!-- Overlay ends here -->
+                            style="background-image:url(images/gallery/13.jpg)">
                         </div>
                     </div>
                     <!-- COLUMNS 14 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
-                            style="background-image:url(images/london/new-malden/1-bed/1.jpg)">
-                            <!-- Overlay starts here -->
-                            <div class="custom-overlay">
-                                <div class="sx-info  p-t20 text-white">
-                                    <p class="sx-tilte m-t0"><a href="new-malden.php">New Malden One Bedroom</a></p>
-                                </div>
-                            </div>
-                            <!-- Overlay ends here -->
+                            style="background-image:url(images/gallery/14.jpg)">
                         </div>
                     </div>
                     <!-- COLUMNS 15 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
-                            style="background-image:url(images/london/new-malden/3-bed/1.jpg)">
-                            <!-- Overlay starts here -->
-                            <div class="custom-overlay">
-                                <div class="sx-info  p-t20 text-white">
-                                    <p class="sx-tilte m-t0"><a href="new-malden.php">New Malden Three Bedrooms</a></p>
-                                </div>
-                            </div>
-                            <!-- Overlay ends here -->
+                            style="background-image:url(images/gallery/15.jpg)">
                         </div>
                     </div>
                     <!-- COLUMNS 16 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
-                            style="background-image:url(images/london/mitcham/1-bed/1.jpg)">
-                            <!-- Overlay starts here -->
-                            <div class="custom-overlay">
-                                <div class="sx-info  p-t20 text-white">
-                                    <p class="sx-tilte m-t0"><a href="mitcham.php">Mitcham One Bedroom</a></p>
-                                </div>
-                            </div>
-                            <!-- Overlay ends here -->
+                            style="background-image:url(images/gallery/16.jpg)">
                         </div>
                     </div>
                     <!-- COLUMNS 17 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
-                            style="background-image:url(images/london/mitcham/2-bed/1.jpg)">
-                            <!-- Overlay starts here -->
-                            <div class="custom-overlay">
-                                <div class="sx-info  p-t20 text-white">
-                                    <p class="sx-tilte m-t0"><a href="mitcham.php">Mitcham Two Bedrooms</a></p>
-                                </div>
-                            </div>
-                            <!-- Overlay ends here -->
+                            style="background-image:url(images/gallery/17.jpg)">
                         </div>
                     </div>
-                    <!-- COLUMNS 11 -->
+                    <!-- COLUMNS 18 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
-                            style="background-image:url(images/london/uxbridge/1-bed/2.jpg)">
-                            <!-- Overlay starts here -->
-                            <div class="custom-overlay">
-                                <div class="sx-info  p-t20 text-white">
-                                    <p class="sx-tilte m-t0"><a href="uxbridge.php">Uxbridge One Bedrooms</a></p>
-                                </div>
-                            </div>
-                            <!-- Overlay ends here -->
+                            style="background-image:url(images/gallery/18.jpg)">
                         </div>
                     </div>
-                    <!-- COLUMNS 12 -->
+                    <!-- COLUMNS 19 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
-                            style="background-image:url(images/london/uxbridge/2-bed/4.jpg)">
-                            <!-- Overlay starts here -->
-                            <div class="custom-overlay">
-                                <div class="sx-info  p-t20 text-white">
-                                    <p class="sx-tilte m-t0"><a href="uxbridge.php">Uxbridge Two Bedrooms</a></p>
-                                </div>
-                            </div>
-                            <!-- Overlay ends here -->
+                            style="background-image:url(images/gallery/19.jpg)">
                         </div>
                     </div>
-                    <!-- COLUMNS 13 -->
+                    <!-- COLUMNS 20 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
-                            style="background-image:url(images/london/uxbridge/2-bed/2.jpg)">
-                            <!-- Overlay starts here -->
-                            <div class="custom-overlay">
-                                <div class="sx-info  p-t20 text-white">
-                                    <p class="sx-tilte m-t0"><a href="uxbridge.php">Uxbridge Three Bedrooms</a></p>
-                                </div>
-                            </div>
-                            <!-- Overlay ends here -->
+                            style="background-image:url(images/gallery/20.jpg)">
                         </div>
                     </div>
-                    <!-- COLUMNS 14 -->
+                    <!-- COLUMNS 21 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
-                            style="background-image:url(images/dubai/marina/1-bed/5.webp)">
-                            <!-- Overlay starts here -->
-                            <div class="custom-overlay">
-                                <div class="sx-info  p-t20 text-white">
-                                    <p class="sx-tilte m-t0"><a href="marina.php">Dubai - Marina One Bedroom</a></p>
-                                </div>
-                            </div>
-                            <!-- Overlay ends here -->
+                            style="background-image:url(images/gallery/21.jpg)">
                         </div>
                     </div>
-                    <!-- COLUMNS 15 -->
+                    <!-- COLUMNS 22 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
-                            style="background-image:url(images/dubai/marina/2-bed/9.jpg)">
-                            <!-- Overlay starts here -->
-                            <div class="custom-overlay">
-                                <div class="sx-info  p-t20 text-white">
-                                    <p class="sx-tilte m-t0"><a href="marina.php">Dubai - Marina Two Bedrooms</a></p>
-                                </div>
-                            </div>
-                            <!-- Overlay ends here -->
+                            style="background-image:url(images/gallery/22.jpg)">
                         </div>
                     </div>
-                    <!-- COLUMNS 16 -->
+                    <!-- COLUMNS 23 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
-                            style="background-image:url(images/dubai/downtown/1-bed/3.jpg)">
-                            <!-- Overlay starts here -->
-                            <div class="custom-overlay">
-                                <div class="sx-info  p-t20 text-white">
-                                    <p class="sx-tilte m-t0"><a href="downtown.php">Dubai - Downtown One Bedroom</a></p>
-                                </div>
-                            </div>
-                            <!-- Overlay ends here -->
+                            style="background-image:url(images/gallery/23.jpg)">
                         </div>
                     </div>
-                    <!-- COLUMNS 17 -->
+                    <!-- COLUMNS 24 -->
                     <div class="item">
                         <div class="sx-box   image-single-carousel bg-cover"
-                            style="background-image:url(images/dubai/downtown/2-bed/13.jpg)">
-                            <!-- Overlay starts here -->
-                            <div class="custom-overlay">
-                                <div class="sx-info  p-t20 text-white">
-                                    <p class="sx-tilte m-t0"><a href="downtown.php">Dubai - Downtown Two Bedrooms</a>
-                                    </p>
-                                </div>
-                            </div>
-                            <!-- Overlay ends here -->
+                            style="background-image:url(images/gallery/24.png)">
+                        </div>
+                    </div>
+                    <!-- COLUMNS 25 -->
+                    <div class="item">
+                        <div class="sx-box   image-single-carousel bg-cover"
+                            style="background-image:url(images/gallery/25.jpg)">
+                        </div>
+                    </div>
+                    <!-- COLUMNS 26 -->
+                    <div class="item">
+                        <div class="sx-box   image-single-carousel bg-cover"
+                            style="background-image:url(images/gallery/26.jpg)">
+                        </div>
+                    </div>
+                    <!-- COLUMNS 27 -->
+                    <div class="item">
+                        <div class="sx-box   image-single-carousel bg-cover"
+                            style="background-image:url(images/gallery/27.png)">
                         </div>
                     </div>
 

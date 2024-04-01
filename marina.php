@@ -639,4 +639,4 @@ include 'header.php' ?>
 </div> -->
 <!-- MAPS 1 SECTION END -->
 
-<?php include 'locations-footer.php' ?>
+<?php include 'footer-1.php' ?>
