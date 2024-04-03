@@ -29,7 +29,7 @@ include 'header.php' ?>
                 <div class="tp-caption   tp-resizeme rs-parallaxlevel-5" id="slide-964-layer-1"
                     data-x="['center','center','center','center']" data-hoffset="['-150','-120','-120','0']"
                     data-y="['middle','middle','middle','middle']" data-voffset="['-100','-100','-100','0']"
-                    data-fontsize="['100','80','80','50']" data-lineheight="['120','120','120','60']"
+                    data-fontsize="['100','80','80','40']" data-lineheight="['120','120','120','60']"
                     data-letterspacing="['50','50','50','5']" data-width="['960','960','960','960']" data-height="none"
                     data-whitespace="normal" data-type="text" data-beforeafter="before" data-responsive_offset="on"
                     data-frames='[{"delay":600,"speed":2000,"frame":"0","from":"sX:1;sY:1;opacity:0;fb:40px;","to":"o:1;fb:0;","ease":"Power4.easeInOut"},
@@ -58,7 +58,7 @@ include 'header.php' ?>
                 <div class="tp-caption   tp-resizeme  tp-blackshadow rs-parallaxlevel-5" id="slide-964-layer-4"
                     data-x="['center','center','center','center']" data-hoffset="['-150','-120','-120','0']"
                     data-y="['middle','middle','middle','middle']" data-voffset="['-100','-100','-100','0']"
-                    data-fontsize="['100','80','80','50']" data-lineheight="['120','120','120','60']"
+                    data-fontsize="['100','80','80','40']" data-lineheight="['120','120','120','60']"
                     data-letterspacing="['50','50','50','5']" data-width="['960','960','960','960']" data-height="none"
                     data-whitespace="normal" data-type="text" data-beforeafter="after" data-responsive_offset="on"
                     data-frames='[{"delay":2000,"speed":2000,"frame":"0","from":"sX:1;sY:1;opacity:0;fb:40px;","to":"o:1;fb:0;","ease":"Power4.easeInOut"},

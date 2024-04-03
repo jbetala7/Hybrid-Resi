@@ -1693,27 +1693,33 @@ include 'header.php' ?>
             </div>
         </div>
         <!-- TITLE -->
-        <div class="section-content">
-            <div class="client-grid p-t50">
+        <!-- CLIENT LOGO SECTION START -->
+        <div class="section-full mobile-page-padding p-tb50 ">
+            <div class="container">
+                <div class="section-content owl-btn-vertical-center">
+                    <div class="owl-carousel home-client-carousel-3">
 
-                <div class="row justify-content-center">
-                    <div class="accolades col-lg-3 col-md-3 col-sm-3 col-3 m-b30">
-                        <img src="images/home-page/accolades/1.png" alt="">
-                    </div>
-                    <div class="accolades col-lg-3 col-md-3 col-sm-3 col-3 m-b30">
-                        <img src="images/home-page/accolades/2.png" alt="">
-                    </div>
-                    <div class="accolades col-lg-3 col-md-3 col-sm-3 col-3 m-b30">
-                        <img src="images/home-page/accolades/3.png" alt="">
-                    </div>
-                    <div class="accolades col-lg-3 col-md-3 col-sm-3 col-3 m-b30">
-                        <img src="images/home-page/accolades/4.jpg" alt="">
+                        <div class="item">
+                            <img src="images/home-page/accolades/1.png" alt="">
+                        </div>
+
+                        <div class="item">
+                            <img src="images/home-page/accolades/2.png" alt="">
+                        </div>
+
+                        <div class="item">
+                            <img src="images/home-page/accolades/3.png" alt="">
+                        </div>
+
+                        <div class="item">
+                            <img src="images//home-page/accolades/4.jpg" alt="">
+                        </div>
+
                     </div>
                 </div>
-
-
             </div>
         </div>
+        <!-- CLIENT LOGO  SECTION End -->
     </div>
 </div>
 <!-- OUR ACCOLADES SECTION END -->

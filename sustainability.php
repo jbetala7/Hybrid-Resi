@@ -90,18 +90,13 @@ include 'header.php' ?>
 
     <div class="container p-t50">
         <div class="section-content ">
-            <div class="our-history text-black">
+            <div class="text-black">
                 <div class="row">
-                    <div class="col-12 pic-bg-border">
-                        <div class="mb-6 our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/sustainability/1.jpg);">
-
-                        </div>
-                    </div>
                     <div class="col-12">
                         <div class="sx-post-title ">
                             <h4 class="post-title text-center">ABOUT US</h4>
                         </div>
-                        <div class="our-history-content m-b30">
+                        <div class="m-b30">
                             <p align="justify">The ‘Hybrid Resi’ is the UK based serviced accommodation company. We own and operate
                                 serviced apartments within Greater London of the United Kingdom. We continue to embrace
                                 and implement ESG practice in our ongoing journey to sustainable development, and
@@ -120,16 +115,11 @@ include 'header.php' ?>
                 </div>
 
                 <div class="row">
-                    <div class="col-12 pic-bg-border">
-                        <div class="mb-6 our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/sustainability/2.jpg);">
-
-                        </div>
-                    </div>
                     <div class="col-12">
                         <div class="sx-post-title ">
                             <h4 class="post-title text-center">ESG GOVERNANCE</h4>
                         </div>
-                        <div class="our-history-content m-b30">
+                        <div class="m-b30">
                             <p align="justify">Our corporate sustainability committee oversees our policies and operational controls for
                                 environmental, health, safety and social risks, and is led by the founders of the
                                 company. The Committee meets regularly to set goals, budgets, and implementation
@@ -141,16 +131,11 @@ include 'header.php' ?>
                 </div>
 
                 <div class="row">
-                    <div class="col-12 pic-bg-border">
-                        <div class="mb-6 our-history-pic bg-no-repeat bg-center bg-cover" style="background-image:url(images/sustainability/3.jpg);">
-
-                        </div>
-                    </div>
                     <div class="col-12">
                         <div class="sx-post-title ">
                             <h4 class="post-title text-center">ESG COMMITMENT</h4>
                         </div>
-                        <div class="our-history-content m-b30">
+                        <div class="m-b30">
                             <p align="justify">We strive to build sustainable, equitable, healthy, and diverse communities through a
                                 combination of innovative hospitality solutions and exemplary environmental, social and
                                 governance (ESG) performance. This commitment informs every aspect of our business,
@@ -277,7 +262,7 @@ include 'header.php' ?>
                         </div>
                     </div>
 
-                    <div id="social-responsibility" class="service-single-block p-tb100">
+                    <div id="social-responsibility" class="service-single-block p-t100">
                         <div class="sx-post-title ">
                             <h4 class="post-title text-center">2. SOCIAL RESPONSIBILITY</h4>
                         </div>

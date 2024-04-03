@@ -122,23 +122,6 @@ include 'header.php' ?>
                                         are protected.
                                     </a></li>
                             </ul>
-
-                            <div class="row">
-                                <div class="col-md-6">
-                                    <div class="sx-box m-b30">
-                                        <div class="sx-media">
-                                            <img src="images/pirvacy-policy/1.jpg" alt="">
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="sx-box m-b30">
-                                        <div class="sx-media">
-                                            <img src="images/pirvacy-policy/2.jpg" alt="">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
                         </div>
                     </div>
                     <div id="our-policy" class="service-single-block p-t100">
@@ -161,15 +144,6 @@ include 'header.php' ?>
                                         Protection Regulations) are protected.
                                     </a></li>
                             </ul>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-12">
-                            <div class="sx-box m-b30">
-                                <div class="sx-media">
-                                    <img src="images/pirvacy-policy/3.jpg" alt="">
-                                </div>
-                            </div>
                         </div>
                     </div>
                     <div id="information-we-collect" class="service-single-block p-t100">

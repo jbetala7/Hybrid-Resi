@@ -78,16 +78,10 @@ include 'header.php' ?>
 
     <div class="container p-t50">
         <div class="section-content ">
-            <div class="our-history text-black">
+            <div class="text-black">
                 <div class="row">
-                    <div class="col-12 pic-bg-border">
-                        <div class="mb-6 our-history-pic bg-no-repeat bg-center bg-cover"
-                            style="background-image:url(images/property-management/1.jpg);">
-
-                        </div>
-                    </div>
                     <div class="col-12">
-                        <div class="our-history-content m-b30">
+                        <div class=" m-b30">
                             <p align="justify">The Hybrid Residences Ltd. not only do we have an extensive portfolio of serviced
                                 apartments available to rent throughout London and its surrounding areas, but we also
                                 cover the lifecycle of an asset from development consultancy to Operating under the
@@ -98,14 +92,8 @@ include 'header.php' ?>
                 </div>
 
                 <div class="row">
-                    <div class="col-12 pic-bg-border">
-                        <div class="mb-6 our-history-pic bg-no-repeat bg-center bg-cover"
-                            style="background-image:url(images/property-management/2.jpg);">
-
-                        </div>
-                    </div>
                     <div class="col-12">
-                        <div class="our-history-content m-b30">
+                        <div class=" m-b30">
                             <p align="justify">We recognise the demand for 'Hotelisation' in the Real Estate markets, which spans across
                                 Serviced Apartments, Aparthotels, and Co-Living are fast-moving and hold some of the
                                 great opportunities. As specialist consultants and operators, we unlock these
@@ -118,14 +106,8 @@ include 'header.php' ?>
                 </div>
 
                 <div class="row">
-                    <div class="col-12 pic-bg-border">
-                        <div class="mb-6 our-history-pic bg-no-repeat bg-center bg-cover"
-                            style="background-image:url(images/property-management/3.jpg);">
-
-                        </div>
-                    </div>
                     <div class="col-12">
-                        <div class="our-history-content m-b30">
+                        <div class="m-b30">
                             <ul align="justify" class="list-angle-right font-mbold">
                                 <li><a href="javascript:void(0)"> A Market we know and understand with a collective
                                         experience of 50+ years in the industry.</a></li>

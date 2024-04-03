@@ -97,15 +97,10 @@ include 'header.php' ?>
             </div>
             <div class="col-lg-8 col-md-12">
                 <div class="section-content">
-                    <div class="service-single-block p-t50">
-                        <div class="sx-media">
-                            <img src="images/cookies-policy/1.jpg" alt="">
-                        </div>
-                        <div class="sx-post-meta  m-t20">
-                            <ul>
-                                <li class="post-date"><strong>We use cookies on this website. You are free to manage
-                                        this via your browser setting at any time.</span> </li>
-                            </ul>
+                <div class="service-single-block p-t50">
+                        <div class="sx-post-text">
+                            <p align="justify">We use cookies on this website. You are free to manage
+                                        this via your browser setting at any time.</p>
                         </div>
                     </div>
                     <div id="policy" class="service-single-block p-t100">
@@ -130,23 +125,6 @@ include 'header.php' ?>
                                         cookies may be necessary to provide customers with certain features.
                                     </a></li>
                             </ul>
-
-                            <div class="row">
-                                <div class="col-md-6">
-                                    <div class="sx-box m-b30">
-                                        <div class="sx-media">
-                                            <img src="images/cookies-policy/2.jpg" alt="">
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="sx-box m-b30">
-                                        <div class="sx-media">
-                                            <img src="images/cookies-policy/3.jpg" alt="">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
                         </div>
                     </div>
                     <div id="what-are-cookies" class="service-single-block p-t100">

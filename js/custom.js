@@ -360,6 +360,33 @@ All JavaScript fuctions Start
 		});
 	}
 
+	//________home_client_carouse function by = owl.carousel.js________//	
+
+	function home_client_carousel_3() {
+		jQuery('.home-client-carousel-3').owlCarousel({
+			loop: true,
+			margin: 30,
+			autoplay: true,
+			nav: false,
+			dots: false,
+			navText: ['<i class="fa fa-angle-left"></i>', '<i class="fa fa-angle-right"></i>'],
+			responsive: {
+				0: {
+					items: 2
+				},
+				480: {
+					items: 2
+				},
+				767: {
+					items: 3
+				},
+				1000: {
+					items: 3
+				}
+			}
+		});
+	}
+
 
 	//________ Project carousel  function by = owl.carousel.js________//	
 
@@ -853,6 +880,7 @@ All JavaScript fuctions Start
 			//________Client logo Carousel function by = owl.carousel.js________//	
 			home_client_carousel_2(),
 			//________ Login Signup Form function by = custom.js ________//		
+			home_client_carousel_3(),
 			Get_in_touch()
 
 
