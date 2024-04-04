@@ -214,25 +214,27 @@ All JavaScript fuctions Start
 		});
 	}
 
-
 	//________Nav submenu show hide on mobile by = custom.js________//
 	function mobile_nav() {
 		jQuery(".sub-menu, .mega-menu").parent('li').addClass('has-child');
-		jQuery("<div class='fa fa-angle-right submenu-toogle'></div>").insertAfter(".has-child > a");
+		// Insert toggle span (you could also use a button or other elements as per your design)
+		jQuery("<span class='submenu-toogle'><i class='fa fa-angle-right'></i></span>").insertAfter(".has-child > a");
 
-		jQuery('.has-child a+.submenu-toogle').on('click', function (ev) {
+		// Attach click event to both the link and the toggle
+		jQuery('.has-child > a, .has-child > .submenu-toogle').on('click', function (ev) {
+			var parent = jQuery(this).closest('.has-child');
 
-			jQuery(this).parent().siblings(".has-child ").children(".sub-menu, .mega-menu").slideUp(500, function () {
+			parent.siblings(".has-child").children(".sub-menu, .mega-menu").slideUp(500, function () {
 				jQuery(this).parent().removeClass('nav-active');
 			});
 
-			jQuery(this).next(jQuery('.sub-menu, .mega-menu ')).slideToggle(500, function () {
-				jQuery(this).parent().toggleClass('nav-active');
+			parent.children(".sub-menu, .mega-menu").slideToggle(500, function () {
+				parent.toggleClass('nav-active');
 			});
 
+			ev.preventDefault(); // prevent the default action (navigation)
 			ev.stopPropagation();
 		});
-
 	}
 
 	//________Mobile side drawer function by = custom.js________//

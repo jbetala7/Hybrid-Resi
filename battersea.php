@@ -225,12 +225,6 @@ include 'header.php' ?>
                                         style="background-image:url(images/london/battersea/1-bed/5.jpg);">
                                     </div>
                                 </div>
-                                <!-- COLUMNS 6 -->
-                                <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/battersea/1-bed/6.jpg);">
-                                    </div>
-                                </div>
                             </div>
                         </div>
                     </div>

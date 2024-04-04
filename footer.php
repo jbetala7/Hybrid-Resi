@@ -21,7 +21,7 @@
                         <ul>
                             <li><a href="stay.php">Stay</a></li>
                             <li><a href="work.php">Work</a></li>
-                            <li><a href="offers.php">Offers</a></li>
+                            <li><a href="https://app.mews.com/distributor/63c1028b-e611-405d-bc62-af3500786b74" target="_blank">Offers</a></li>
                         </ul>
                     </div>
                 </div>

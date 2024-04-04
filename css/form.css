@@ -227,12 +227,11 @@
     background-color: #F1F5FF;
     width: 100%;
     /* Adjust as needed */
-    max-height: 300px;
+    max-height: 315px;
     /* Set a max-height for your dropdown */
     overflow-y: scroll;
     /* Allows scrolling */
     box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
-    z-index: 1;
     border-radius: 4px;
     margin-top: 2px;
     box-sizing: border-box;

@@ -8967,7 +8967,7 @@ HEADER (top part of page)
 }
 
 .header-nav .nav i {
-	font-size: 9px;
+	font-size: 30px;
 	margin-left: 3px;
 	margin-top: -3px;
 	vertical-align: middle;
@@ -9247,7 +9247,7 @@ HEADER (top part of page)
 
 .has-child .submenu-toogle {
 	position: absolute;
-	top: 50%;
+	top: 40%;
 	right: 0;
 	transform: translateY(-50%);
 	color: #000;

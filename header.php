@@ -10,7 +10,8 @@
     <meta name="keywords" content="" />
     <meta name="author" content="Jayesh Betala" />
     <meta name="robots" content="" />
-    <meta name="description" content="Book Luxury Serviced Apartments in London. Available for both short & long term corporate stays. Enjoy suites and furnished apartments with full kitchens and amenities." />
+    <meta name="description"
+        content="Book Luxury Serviced Apartments in London. Available for both short & long term corporate stays. Enjoy suites and furnished apartments with full kitchens and amenities." />
 
 
     <!-- FAVICONS ICON -->
@@ -21,6 +22,30 @@
     <link rel="mask-icon" href="images/favicon/safari-pinned-tab.svg" color="#5bbad5">
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
+
+    <!-- Google Tag Manager -->
+    <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-WR7WPP6Q');</script>
+    <!-- End Google Tag Manager -->
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-GX9FHTFEXR"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-GX9FHTFEXR');
+    </script>
 
     <!-- PAGE TITLE HERE -->
     <title>
@@ -68,6 +93,10 @@
 </head>
 
 <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WR7WPP6Q" height="0" width="0"
+            style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
 
     <div class="page-wraper">
 
@@ -77,13 +106,19 @@
                 <div class="container">
                     <div class="d-flex justify-content-between ">
                         <ul class="list-unstyled e-p-bx text-theme">
-                            <li><span>Send an e-mail:</span> <a class="underline-transition hover-change-theme text-theme" href="mailto:info@hybridresi.com">info@hybridresi.com</a></li>
-                            <li><span>Call now:</span><a class="underline-transition hover-change-theme text-theme" href="tel://+442034882904">+44 20 3488 2904 </a></li>
+                            <li><span>Send an e-mail:</span> <a
+                                    class="underline-transition hover-change-theme text-theme"
+                                    href="mailto:info@hybridresi.com">info@hybridresi.com</a></li>
+                            <li><span>Call now:</span><a class="underline-transition hover-change-theme text-theme"
+                                    href="tel://+442034882904">+44 20 3488 2904 </a></li>
                         </ul>
                         <ul class="list-unstyled social-bx text-theme d-flex flex-wrap align-content-center">
-                            <li><a target="_blank" href="https://www.instagram.com/hybridresi/" class="fa fa-instagram"></a></li>
-                            <li><a target="_blank" href="https://www.facebook.com/HybridResi/" class="fa fa-facebook"></a></li>
-                            <li><a target="_blank" href="https://www.linkedin.com/company/hybrid-resi" class="fa fa-linkedin"></a></li>
+                            <li><a target="_blank" href="https://www.instagram.com/hybridresi/"
+                                    class="fa fa-instagram"></a></li>
+                            <li><a target="_blank" href="https://www.facebook.com/HybridResi/"
+                                    class="fa fa-facebook"></a></li>
+                            <li><a target="_blank" href="https://www.linkedin.com/company/hybrid-resi"
+                                    class="fa fa-linkedin"></a></li>
                         </ul>
                     </div>
                 </div>
@@ -99,7 +134,8 @@
                             </div>
                         </div>
                         <!-- NAV Toggle Button -->
-                        <button id="mobile-side-drawer" data-target=".header-nav" data-toggle="collapse" type="button" class="navbar-toggler collapsed">
+                        <button id="mobile-side-drawer" data-target=".header-nav" data-toggle="collapse" type="button"
+                            class="navbar-toggler collapsed">
                             <span class="sr-only">Toggle navigation</span>
                             <span class="icon-bar icon-bar-first"></span>
                             <span class="icon-bar icon-bar-two"></span>
@@ -109,7 +145,10 @@
                         <!-- EXTRA NAV -->
                         <div class="extra-nav">
                             <div class="extra-cell">
-                                <div class="contact-slide-show"><a target="_blank" rel="nofollow" href="https://app.mews.com/distributor/63c1028b-e611-405d-bc62-af3500786b74" onClick="gtag('event', 'Book Now', { event_category: 'Book Now', event_action: 'Book Now'}); " class="get-in-touch-btn from-top">Book Now</a></div>
+                                <div class="contact-slide-show"><a target="_blank" rel="nofollow"
+                                        href="https://app.mews.com/distributor/63c1028b-e611-405d-bc62-af3500786b74"
+                                        onClick="gtag('event', 'Book Now', { event_category: 'Book Now', event_action: 'Book Now'}); "
+                                        class="get-in-touch-btn from-top">Book Now</a></div>
                             </div>
                         </div>
                         <!-- EXTRA Nav -->
@@ -140,19 +179,11 @@
                                     <ul class="sub-menu">
                                         <li><a href="london.php">London</a></li>
                                         <li><a href="dubai.php">Dubai</a></li>
-                                        <!-- <li><a href="canary-wharf.php">Canary Wharf</a></li>
-                                        <li><a href="battersea.php">Battersea</a></li>
-                                        <li><a href="sutton-cheam.php">Sutton Cheam</a></li>
-                                        <li><a href="wandsworth.php">Wandsworth</a></li>
-                                        <li><a href="fulham.php">Fulham</a></li>
-                                        <li><a href="new-malden.php">New Malden</a></li>
-                                        <li><a href="mitcham.php">Mitcham</a></li>
-                                        <li><a href="uxbridge.php">Uxbridge</a></li> -->
                                     </ul>
                                 </li>
                                 <li class="<?php if ($page == 'offers') {
                                                 echo 'active';
-                                            } ?>"><a href="offers.php">Offers</a></li>
+                                            } ?>"><a href="https://app.mews.com/distributor/63c1028b-e611-405d-bc62-af3500786b74" target="_blank">Offers</a></li>
                                 <li class="<?php if ($page == 'contact-us') {
                                                 echo 'active';
                                             } ?>"><a href="contact-us.php">Contact Us</a></li>

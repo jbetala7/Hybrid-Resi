@@ -46,7 +46,7 @@ include 'header.php' ?>
                     data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]"
                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
                     style="z-index: 10;white-space: normal;font-weight: 900; color: #fff;font-family: 'montserratregular', sans-serif; text-transform: uppercase;">
-                    Extended Stays, Work &amp; Relax</div>
+                    Extended Stay, Work &amp; Relax</div>
 
                 <!-- LAYER 3  Paragraph-->
                 <div class="tp-caption   tp-resizeme" id="slide-72-layer-5" data-x="['left','left','center','center']"
@@ -126,7 +126,7 @@ include 'header.php' ?>
                     data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]"
                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
                     style="z-index: 10;white-space: normal;font-weight: 900; color: #fff;font-family: 'montserratregular', sans-serif; text-transform: uppercase;">
-                    Extended Stays, Work &amp; Relax</div>
+                    Extended Stay, Work &amp; Relax</div>
 
                 <!-- LAYER 3  Paragraph-->
                 <div class="tp-caption   tp-resizeme" id="slide-73-layer-5" data-x="['left','left','center','center']"
@@ -205,7 +205,7 @@ include 'header.php' ?>
                     data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]"
                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
                     style="z-index: 10;white-space: normal;font-weight: 900; color: #fff;font-family: 'montserratregular', sans-serif; text-transform: uppercase;">
-                    Extended Stays, Work &amp; Relax</div>
+                    Extended Stay, Work &amp; Relax</div>
 
                 <!-- LAYER 3  Paragraph-->
                 <div class="tp-caption   tp-resizeme" id="slide-74-layer-5" data-x="['left','left','center','center']"
@@ -284,7 +284,7 @@ include 'header.php' ?>
                     data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]"
                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
                     style="z-index: 10;white-space: normal;font-weight: 900; color: #fff;font-family: 'montserratregular', sans-serif; text-transform: uppercase;">
-                    Extended Stays, Work &amp; Relax</div>
+                    Extended Stay, Work &amp; Relax</div>
 
                 <!-- LAYER 3  Paragraph-->
                 <div class="tp-caption   tp-resizeme" id="slide-75-layer-5" data-x="['left','left','center','center']"
@@ -363,7 +363,7 @@ include 'header.php' ?>
                     data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]"
                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
                     style="z-index: 10;white-space: normal;font-weight: 900; color: #fff;font-family: 'montserratregular', sans-serif; text-transform: uppercase;">
-                    Extended Stays, Work &amp; Relax</div>
+                    Extended Stay, Work &amp; Relax</div>
 
                 <!-- LAYER 3  Paragraph-->
                 <div class="tp-caption   tp-resizeme" id="slide-76-layer-5" data-x="['left','left','center','center']"
@@ -442,7 +442,7 @@ include 'header.php' ?>
                     data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]"
                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
                     style="z-index: 10;white-space: normal;font-weight: 900; color: #fff;font-family: 'montserratregular', sans-serif; text-transform: uppercase;">
-                    Extended Stays, Work &amp; Relax</div>
+                    Extended Stay, Work &amp; Relax</div>
 
                 <!-- LAYER 3  Paragraph-->
                 <div class="tp-caption   tp-resizeme" id="slide-77-layer-5" data-x="['left','left','center','center']"
@@ -522,7 +522,7 @@ include 'header.php' ?>
                     data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]"
                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
                     style="z-index: 10;white-space: normal;font-weight: 900; color: #fff;font-family: 'montserratregular', sans-serif; text-transform: uppercase;">
-                    Extended Stays, Work &amp; Relax</div>
+                    Extended Stay, Work &amp; Relax</div>
 
                 <!-- LAYER 3  Paragraph-->
                 <div class="tp-caption   tp-resizeme" id="slide-78-layer-5" data-x="['left','left','center','center']"
@@ -601,7 +601,7 @@ include 'header.php' ?>
                     data-textAlign="['left','left','center','center']" data-paddingtop="[0,0,0,0]"
                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
                     style="z-index: 10;white-space: normal;font-weight: 900; color: #fff;font-family: 'montserratregular', sans-serif; text-transform: uppercase;">
-                    Extended Stays, Work &amp; Relax</div>
+                    Extended Stay, Work &amp; Relax</div>
 
                 <!-- LAYER 3  Paragraph-->
                 <div class="tp-caption   tp-resizeme" id="slide-79-layer-5" data-x="['left','left','center','center']"
@@ -1145,11 +1145,11 @@ include 'header.php' ?>
         <div class="section-content">
             <div class="row number-block-one-outer justify-content-center">
                 <div class="col-lg-4 col-md-6 col-sm-6 m-b30">
-                    <a href="offers.php">
+                    <a href="https://app.mews.com/distributor/63c1028b-e611-405d-bc62-af3500786b74" target="_blank">
                         <div class="number-block-one animate-in-to-top">
                             <img src="images/home-page/special-offers/1.jpg" alt="" />
                             <div class="figcaption bg-white text-center p-a20">
-                                <h4 class="m-a0">Extended Stays</h4>
+                                <h4 class="m-a0">Extended Stay</h4>
                                 <p class="p-t10" align="justify">Stay longer, save more. Stay 30+ nights and save 15% on
                                     BAR rates. </p>
                             </div>
@@ -1162,7 +1162,7 @@ include 'header.php' ?>
                 </div>
 
                 <div class="col-lg-4 col-md-6 col-sm-6 m-b30">
-                    <a href="offers.php">
+                    <a href="https://app.mews.com/distributor/63c1028b-e611-405d-bc62-af3500786b74" target="_blank">
                         <div class="number-block-one animate-in-to-top">
                             <img src="images/home-page/special-offers/2.jpg" alt="" />
                             <div class="figcaption bg-white text-center p-a20">

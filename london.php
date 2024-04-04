@@ -363,7 +363,7 @@ include 'header.php' ?>
                                 <!-- COLUMNS 1 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/battersea/1-bed/5.jpg);">
+                                        style="background-image:url(images/london/battersea/1-bed/2.jpg);">
                                     </div>
                                 </div>
 
@@ -383,19 +383,19 @@ include 'header.php' ?>
                                 <!-- COLUMNS 4 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/battersea/2-bed/6.jpg);">
+                                        style="background-image:url(images/london/battersea/2-bed/8.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 5 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/battersea/1-bed/6.jpg);">
+                                        style="background-image:url(images/london/battersea/1-bed/3.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 6 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/battersea/2-bed/8.jpg);">
+                                        style="background-image:url(images/london/battersea/2-bed/6.jpg);">
                                     </div>
                                 </div>
                             </div>
