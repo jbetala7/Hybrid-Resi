@@ -177,10 +177,10 @@ include 'header.php' ?>
                             Additionally, select apartments, one-bedroom units and two-bedroom units in Dubai
                             Marina offer close proximity to JBR, The Beach, The Palm, and various golf courses,
                             along with an array of amenities such as a fully equipped gym, marina-view
-                            swimming pools, a kid's play area, tennis court, and boxing bag area. Positioned in
+                            swimming pools, a kids play area, tennis court, and boxing bag area. Positioned in
                             Marina Quays Condominium, near Marina Mall and Pier 7, and just steps away from
-                            JBR, our apartments overlook
-
+                            JBR, our apartments overlook the beach and provide convenient access to the vibrant
+                            dining and leisure scene.
                         </p>
                     </div>
                 </div>
@@ -551,7 +551,7 @@ include 'header.php' ?>
                             <h3 class="mt-tb20">Amenities in two-bedroom
                                 apartments:</h3>
                             <div class="ambox m-b50">
-                            <div class="row">
+                                <div class="row">
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/guest.png"
                                             class="img-center">
                                         <p class="text-center smallp">2 Guests</p>
