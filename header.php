@@ -47,6 +47,18 @@
         gtag('config', 'G-GX9FHTFEXR');
     </script>
 
+     <!-- Hotjar Tracking Code for Site 3819239 (name missing) -->
+     <script>
+        (function (h, o, t, j, a, r) {
+            h.hj = h.hj || function () { (h.hj.q = h.hj.q || []).push(arguments) };
+            h._hjSettings = { hjid: 3819239, hjsv: 6 };
+            a = o.getElementsByTagName('head')[0];
+            r = o.createElement('script'); r.async = 1;
+            r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;
+            a.appendChild(r);
+        })(window, document, 'https://static.hotjar.com/c/hotjar-', '.js?sv=');
+    </script>
+
     <!-- PAGE TITLE HERE -->
     <title>
         <?php echo $title ?>
@@ -183,7 +195,9 @@
                                 </li>
                                 <li class="<?php if ($page == 'offers') {
                                                 echo 'active';
-                                            } ?>"><a href="https://app.mews.com/distributor/63c1028b-e611-405d-bc62-af3500786b74" target="_blank">Offers</a></li>
+                                            } ?>"><a
+                                        href="https://app.mews.com/distributor/63c1028b-e611-405d-bc62-af3500786b74"
+                                        target="_blank">Offers</a></li>
                                 <li class="<?php if ($page == 'contact-us') {
                                                 echo 'active';
                                             } ?>"><a href="contact-us.php">Contact Us</a></li>

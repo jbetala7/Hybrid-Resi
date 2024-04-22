@@ -471,24 +471,6 @@ include 'header.php' ?>
                                         style="background-image:url(images/london/uxbridge/2-bed/13.jpg);">
                                     </div>
                                 </div>
-                                <!-- COLUMNS5 15-->
-                                <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/uxbridge/2-bed/15.jpg);">
-                                    </div>
-                                </div>
-                                <!-- COLUMNS5 16-->
-                                <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/uxbridge/2-bed/16.jpg);">
-                                    </div>
-                                </div>
-                                <!-- COLUMNS5 17-->
-                                <div class="item">
-                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/uxbridge/2-bed/17.jpg);">
-                                    </div>
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -622,106 +604,106 @@ include 'header.php' ?>
                                 <!-- COLUMNS 1 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/uxbridge/2-bed/1.jpg);">
+                                        style="background-image:url(images/london/uxbridge/3-bed/1.jpg);">
                                     </div>
                                 </div>
 
                                 <!-- COLUMNS 2 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/uxbridge/2-bed/2.jpg);">
+                                        style="background-image:url(images/london/uxbridge/3-bed/2.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 3 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/uxbridge/2-bed/3.jpg);">
+                                        style="background-image:url(images/london/uxbridge/3-bed/3.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 4 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/uxbridge/2-bed/4.jpg);">
+                                        style="background-image:url(images/london/uxbridge/3-bed/4.jpg);">
                                     </div>
                                 </div>
 
                                 <!-- COLUMNS5 5-->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/uxbridge/2-bed/5.jpg);">
+                                        style="background-image:url(images/london/uxbridge/3-bed/5.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 6 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/uxbridge/2-bed/6.jpg);">
+                                        style="background-image:url(images/london/uxbridge/3-bed/6.jpg);">
                                     </div>
                                 </div>
 
                                 <!-- COLUMNS 7 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/uxbridge/2-bed/7.jpg);">
+                                        style="background-image:url(images/london/uxbridge/3-bed/7.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 8 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/uxbridge/2-bed/8.jpg);">
+                                        style="background-image:url(images/london/uxbridge/3-bed/8.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 9 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/uxbridge/2-bed/9.jpg);">
+                                        style="background-image:url(images/london/uxbridge/3-bed/9.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS5 10-->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/uxbridge/2-bed/10.jpg);">
+                                        style="background-image:url(images/london/uxbridge/3-bed/10.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS5 11-->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/uxbridge/2-bed/11.jpg);">
+                                        style="background-image:url(images/london/uxbridge/3-bed/11.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS5 12-->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/uxbridge/2-bed/12.jpg);">
+                                        style="background-image:url(images/london/uxbridge/3-bed/12.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 13 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/uxbridge/2-bed/13.jpg);">
+                                        style="background-image:url(images/london/uxbridge/3-bed/13.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 14 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/uxbridge/2-bed/14.jpg);">
+                                        style="background-image:url(images/london/uxbridge/3-bed/14.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS5 15-->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/uxbridge/2-bed/15.jpg);">
+                                        style="background-image:url(images/london/uxbridge/3-bed/15.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS5 16-->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/uxbridge/2-bed/16.jpg);">
+                                        style="background-image:url(images/london/uxbridge/3-bed/16.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS5 17-->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/uxbridge/2-bed/17.jpg);">
+                                        style="background-image:url(images/london/uxbridge/3-bed/17.jpg);">
                                     </div>
                                 </div>
                             </div>

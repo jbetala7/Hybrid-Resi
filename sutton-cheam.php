@@ -548,4 +548,6 @@ include 'header.php' ?>
 </div>
 <!-- MAP SECTION END -->
 
+<script src='https://www.thehotelsnetwork.com/js/loader.js?property_id=1052502&account_key=255B00A554F56568133CAA8CCC2B16CF' async></script>
+
 <?php include 'footer-1.php' ?>

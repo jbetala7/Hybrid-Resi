@@ -209,6 +209,62 @@ include 'header.php' ?>
                                         style="background-image:url(images/london/canary-wharf/1-bed/3.jpg);">
                                     </div>
                                 </div>
+                                <!-- COLUMNS 4 -->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/london/canary-wharf/1-bed/4.jpg);">
+                                    </div>
+                                </div>
+
+                                <!-- COLUMNS5 5-->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/london/canary-wharf/1-bed/5.jpg);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS 6 -->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/london/canary-wharf/1-bed/6.jpg);">
+                                    </div>
+                                </div>
+
+                                <!-- COLUMNS 7 -->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/london/canary-wharf/1-bed/7.jpg);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS 8 -->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/london/canary-wharf/1-bed/8.jpg);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS 9 -->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/london/canary-wharf/1-bed/9.jpg);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS5 10-->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/london/canary-wharf/1-bed/10.jpg);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS5 11-->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/london/canary-wharf/1-bed/11.jpg);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS5 12-->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/london/canary-wharf/1-bed/12.jpg);">
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -310,10 +366,6 @@ include 'header.php' ?>
                                         <p class="text-center smallp">Dishwasher</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
-                                            src="images/icons/split-monitor.png" class="img-center">
-                                        <p class="text-center smallp">LG Split Monitor Screen</p>
-                                    </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
                                             src="images/icons/welcome-kit.png" class="img-center">
                                         <p class="text-center smallp">Welcome Kit</p>
                                     </div>
@@ -327,7 +379,7 @@ include 'header.php' ?>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
                                             src="images/icons/toiletries.png" class="img-center">
-                                        <p class="text-center smallp">3 col-xs-600ml Toiletries</p>
+                                        <p class="text-center smallp">400ml Toiletries</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/mattress.png"
                                             class="img-center">
@@ -426,6 +478,30 @@ include 'header.php' ?>
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
                                         style="background-image:url(images/london/canary-wharf/2-bed/12.jpg);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS 13 -->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/london/canary-wharf/2-bed/13.jpg);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS5 14-->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/london/canary-wharf/2-bed/14.jpg);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS5 15-->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/london/canary-wharf/2-bed/15.jpg);">
+                                    </div>
+                                </div>
+                                <!-- COLUMNS5 16-->
+                                <div class="item">
+                                    <div class="our-history-pic bg-no-repeat bg-center bg-cover"
+                                        style="background-image:url(images/london/canary-wharf/2-bed/16.jpg);">
                                     </div>
                                 </div>
                             </div>
@@ -530,7 +606,7 @@ include 'header.php' ?>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
                                             src="images/icons/split-monitor.png" class="img-center">
-                                        <p class="text-center smallp">LG Split Monitor Screen</p>
+                                        <p class="text-center smallp">LG Split-Screen Monitor </p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
                                             src="images/icons/welcome-kit.png" class="img-center">
@@ -595,6 +671,6 @@ include 'header.php' ?>
 </div>
 <!-- MAPS SECTION END -->
 
-
+<script src='https://www.thehotelsnetwork.com/js/loader.js?property_id=1052498&account_key=255B00A554F56568133CAA8CCC2B16CF' async></script>
 
 <?php include 'footer-1.php' ?>

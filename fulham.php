@@ -330,7 +330,7 @@ include 'header.php' ?>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
                                             src="images/icons/split-monitor.png" class="img-center">
-                                        <p class="text-center smallp">LG Split Monitor Screen</p>
+                                        <p class="text-center smallp">LG Split-Screen Monitor </p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
                                             src="images/icons/welcome-kit.png" class="img-center">
@@ -478,7 +478,7 @@ include 'header.php' ?>
 
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/king-bed.png"
                                             class="img-center">
-                                        <p class="text-center smallp">King Size Bed</p>
+                                        <p class="text-center smallp">Super King Size Bed</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/hairdryer.png"
                                             class="img-center">
@@ -526,7 +526,7 @@ include 'header.php' ?>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
                                             src="images/icons/split-monitor.png" class="img-center">
-                                        <p class="text-center smallp">LG Split Monitor Screen</p>
+                                        <p class="text-center smallp">LG Split-Screen Monitor </p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
                                             src="images/icons/welcome-kit.png" class="img-center">
@@ -675,7 +675,7 @@ include 'header.php' ?>
 
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/king-bed.png"
                                             class="img-center">
-                                        <p class="text-center smallp">Super King Size Bed</p>
+                                        <p class="text-center smallp">Super Super King Size Bed</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/hairdryer.png"
                                             class="img-center">
@@ -723,7 +723,7 @@ include 'header.php' ?>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
                                             src="images/icons/split-monitor.png" class="img-center">
-                                        <p class="text-center smallp">LG Split Monitor Screen</p>
+                                        <p class="text-center smallp">LG Split-Screen Monitor </p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
                                             src="images/icons/welcome-kit.png" class="img-center">
@@ -912,7 +912,7 @@ include 'header.php' ?>
 
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/king-bed.png"
                                             class="img-center">
-                                        <p class="text-center smallp">King Size Bed</p>
+                                        <p class="text-center smallp">Super King Size Bed</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/hairdryer.png"
                                             class="img-center">
@@ -960,7 +960,7 @@ include 'header.php' ?>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
                                             src="images/icons/split-monitor.png" class="img-center">
-                                        <p class="text-center smallp">LG Split Monitor Screen</p>
+                                        <p class="text-center smallp">LG Split-Screen Monitor </p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
                                             src="images/icons/welcome-kit.png" class="img-center">
@@ -1024,5 +1024,7 @@ include 'header.php' ?>
     </div>
 </div>
 <!-- MAPS SECTION END -->
+
+<script src='https://www.thehotelsnetwork.com/js/loader.js?property_id=1052501&account_key=255B00A554F56568133CAA8CCC2B16CF' async></script>
 
 <?php include 'footer-1.php' ?>

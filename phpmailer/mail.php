@@ -32,22 +32,18 @@ try {
     //Server settings
     $mail->SMTPDebug = SMTP::DEBUG_SERVER;                      //Enable verbose debug output
     $mail->isSMTP();                                            //Send using SMTP
-   /* $mail->Host       = 'smtp.hostinger.com';                     //Set the SMTP server to send through
-    $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
-    $mail->Username   = 'mahak@artncraftsonline.com';                     //SMTP username
-    $mail->Password   = 'Mahak124##2023';  */                             //SMTP password
 	$mail->Host       = 'smtp.hostinger.com';                     //Set the SMTP server to send through
     $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
-    $mail->Username   = 'username';                     //SMTP username
+    $mail->Username   = 'info@hybridresi.com';                     //SMTP username
     $mail->Password   = 'password';  
     $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;            //Enable implicit TLS encryption
     $mail->Port       = 465;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
 	$mail->SMTPDebug  = 0;
 
     //Recipients
-    $mail->setFrom('help@theme7x.com', '7xtheme');
-    $mail->addAddress('7xthemehelp@gmail.com', 'The 7xtheme Support');     //Add a recipient
-    $mail->addReplyTo('7xthemehelp@gmail.com', 'Information');
+    $mail->setFrom('info@hybridresi.com', 'Hybrid Resi');
+    $mail->addAddress('info@hybridresi.com', 'Hybrid Resi Support');     //Add a recipient
+    $mail->addReplyTo('info@hybridresi.com', 'Information');
 
     //Content
     $mail->isHTML(true);                                  //Set email format to HTML

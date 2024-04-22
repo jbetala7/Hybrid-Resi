@@ -351,7 +351,7 @@ include 'header.php' ?>
                                 <!-- COLUMNS 8 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/canary-wharf/2-bed/12.jpg);">
+                                        style="background-image:url(images/london/canary-wharf/2-bed/10.jpg);">
                                     </div>
                                 </div>
                             </div>
@@ -670,7 +670,7 @@ include 'header.php' ?>
                                 <!-- COLUMNS 8 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/uxbridge/2-bed/15.jpg);">
+                                        style="background-image:url(images/london/uxbridge/2-bed/10.jpg);">
                                     </div>
                                 </div>
                                 <!-- COLUMNS 9 -->
@@ -682,7 +682,7 @@ include 'header.php' ?>
                                 <!-- COLUMNS 10 -->
                                 <div class="item">
                                     <div class="our-history-pic bg-no-repeat bg-center bg-cover"
-                                        style="background-image:url(images/london/uxbridge/2-bed/17.jpg);">
+                                        style="background-image:url(images/london/uxbridge/2-bed/12.jpg);">
                                     </div>
                                 </div>
                             </div>

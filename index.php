@@ -1029,8 +1029,8 @@ include 'header.php' ?>
                             <p align="justify">Hybrid Resi blends the facilities of a modern office with the comforts of
                                 a contemporary
                                 hotel room.
-                                Free, fast, and secure Wi-Fi connection makes remote working easy. The LG wide split
-                                monitor screen in each workspace allows you to enhance your productivity and use two
+                                Free, fast, and secure Wi-Fi connection makes remote working easy. The LG wide split-screen
+                                monitor in each workspace allows you to enhance your productivity and use two
                                 inputs for the monitor. The desk also has a desk lamp for adequate light and easy access
                                 to power points
                             </p>

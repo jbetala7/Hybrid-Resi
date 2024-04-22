@@ -205,7 +205,7 @@
 <!-- Include Bootstrap JS -->
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 
-
+<script src='https://www.thehotelsnetwork.com/js/loader.js?partnership_id=450' async></script>
 
 
 
