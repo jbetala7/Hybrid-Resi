@@ -442,7 +442,7 @@ include 'header.php' ?>
                                 <div class="row">
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/guest.png"
                                             class="img-center">
-                                        <p class="text-center smallp">4 Guests</p>
+                                        <p class="text-center smallp">2 Guests</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/storage.png"
                                             class="img-center">

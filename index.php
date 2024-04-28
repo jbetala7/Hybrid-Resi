@@ -20,7 +20,7 @@ include 'header.php' ?>
                 <!-- MAIN IMAGE -->
                 <img src="images/banner-images/home-page/1.jpg" data-bgcolor='#f8f8f8' alt=""
                     data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off"
-                    class="rev-slidebg" data-no-retina>
+                    class="banner-images rev-slidebg" data-no-retina>
 
                 <!-- LAYER 1  right image overlay dark-->
                 <div class="tp-caption tp-shape tp-shapewrapper  rs-parallaxlevel-tobggroup" id="slide-72-layer-1"
