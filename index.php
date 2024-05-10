@@ -909,7 +909,7 @@ include 'header.php' ?>
                         <div class="our-history-content m-b30">
                             <div class="large-title">
                                 <h1 class="m-t20 text-uppercase">Stay</h1>
-                                 
+
                             </div>
                             <p align="justify">Located in the heart of London, Hybrid Resi gives you more than luxury
                                 amenities with a feeling of being at home when you choose to stay with us. Nothing
@@ -1029,7 +1029,8 @@ include 'header.php' ?>
                             <p align="justify">Hybrid Resi blends the facilities of a modern office with the comforts of
                                 a contemporary
                                 hotel room.
-                                Free, fast, and secure Wi-Fi connection makes remote working easy. The LG wide split-screen
+                                Free, fast, and secure Wi-Fi connection makes remote working easy. The LG wide
+                                split-screen
                                 monitor in each workspace allows you to enhance your productivity and use two
                                 inputs for the monitor. The desk also has a desk lamp for adequate light and easy access
                                 to power points
@@ -1162,22 +1163,6 @@ include 'header.php' ?>
                 </div>
 
                 <div class="col-lg-4 col-md-6 col-sm-6 m-b30">
-                    <a href="https://app.mews.com/distributor/63c1028b-e611-405d-bc62-af3500786b74" target="_blank">
-                        <div class="number-block-one animate-in-to-top">
-                            <img src="images/home-page/special-offers/2.jpg" alt="" />
-                            <div class="figcaption bg-white text-center p-a20">
-                                <h4 class="m-a0">Refer a Friend</h4>
-                                <p class="p-t10" align="justify">18% incentive for booking 14+ nights on BAR rates.</p>
-                            </div>
-                            <div class="figcaption-number text-center sx-text-primary animate-in-to-top-content">
-                                <span>18%</span>
-                            </div>
-                        </div>
-                    </a>
-
-                </div>
-
-                <div class="col-lg-4 col-md-6 col-sm-6 m-b30">
                     <a target="_blank" rel="nofollow"
                         href="https://app.mews.com/distributor/63c1028b-e611-405d-bc62-af3500786b74"
                         onClick="gtag('event', 'Book Now', { event_category: 'Book Now', event_action: 'Book Now'}); ">
@@ -1189,6 +1174,22 @@ include 'header.php' ?>
                             </div>
                             <div class="figcaption-number text-center sx-text-primary animate-in-to-top-content">
                                 <span>20%</span>
+                            </div>
+                        </div>
+                    </a>
+
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-sm-6 m-b30">
+                    <a href="https://app.mews.com/distributor/63c1028b-e611-405d-bc62-af3500786b74" target="_blank">
+                        <div class="number-block-one animate-in-to-top">
+                            <img src="images/home-page/special-offers/2.jpg" alt="" />
+                            <div class="figcaption bg-white text-center p-a20">
+                                <h4 class="m-a0">Summer Promotion</h4>
+                                <p class="p-t10" align="justify">30% off BAR, 28+ night's stay</p>
+                            </div>
+                            <div class="figcaption-number text-center sx-text-primary animate-in-to-top-content">
+                                <span>30%</span>
                             </div>
                         </div>
                     </a>
