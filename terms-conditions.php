@@ -388,14 +388,6 @@ include 'header.php' ?>
                                         meet your needs. We’ll do our best to meet any reasonable</a></li>
                             </ul>
                             </p>
-                            <p class="text-theme-1">3.3 Group Bookings
-                            <ul align="justify" class="list-angle-right font-mbold">
-                                <li><a href="javascript:void(0)"> Special conditions might apply, and we’ll let you
-                                        know at the time of booking. Cancellation charges and notice periods may
-                                        differ from those in Early departures and cancellations section and will be
-                                        advised at the time of the request.</a></li>
-                            </ul>
-                            </p>
                         </div>
                     </div>
 
@@ -410,23 +402,6 @@ include 'header.php' ?>
                                 <li><a href="javascript:void(0)"> Monthly charges will be collected in advance
                                         unless 30 days of credit are offered from the check-in date.</a></li>
                             </ul>
-                            <p class="text-theme-1">5.2 Security Deposits
-                            <ul align="justify" class="list-angle-right font-mbold">
-                                <li><a href="javascript:void(0)"> We want to make your stay with us a special one,
-                                        so we’ll do everything we can to help guests with special requirements or
-                                        requests. If you have a special requirement, please let us know when you
-                                        book (in writing) so we can help you choose the most suitable apartment to
-                                        meet your needs. We’ll do our best to meet any reasonable</a></li>
-                            </ul>
-                            </p>
-                            <p class="text-theme-1">3.3 Group Bookings
-                            <ul align="justify" class="list-angle-right font-mbold">
-                                <li><a href="javascript:void(0)"> Special conditions might apply, and we’ll let you
-                                        know at the time of booking. Cancellation charges and notice periods may
-                                        differ from those in Early departures and cancellations section and will be
-                                        advised at the time of the request.</a></li>
-                            </ul>
-                            </p>
                         </div>
                     </div>
 

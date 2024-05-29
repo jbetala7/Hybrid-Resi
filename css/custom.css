@@ -1,5 +1,4 @@
 @import url(../custom-font/stylesheet.css);
-
 .bg-theme {
     background-color: #004C86 !important;
 }
@@ -93,8 +92,7 @@
     a.text-theme-1.testimonial-position.mediump {
         align-items: center !important;
     }
-
-    .whatsapp {
+    .whatsapp{
         width: 10% !important;
     }
 
@@ -326,8 +324,7 @@
     .about-heading {
         font-size: 30px !important;
     }
-
-    h1 {
+    h1{
         font-size: 45px !important;
     }
 }
@@ -484,16 +481,15 @@ a.text-theme-1.testimonial-position.mediump {
 
 @media only screen and (min-device-width: 834px) and (max-device-width: 1400px) {
 
-    .slide-left-social {
+    .slide-left-social{
         display: none;
     }
 }
 
-.mediumbp {
+.mediumbp{
     font-size: 14px;
     font-family: 'montserratbold', sans-serif;
 }
-
 .whatsapp {
     position: fixed;
     bottom: 10px;
@@ -501,19 +497,3 @@ a.text-theme-1.testimonial-position.mediump {
     z-index: 999;
     width: 3%;
 }
-
-@keyframes zoomOut {
-    0% {
-      transform: scale(1.1);
-    }
-    100% {
-      transform: scale(1.0);
-    }
-  }
-  
-  .banner-images {
-    width: 100%; /* Adjust based on your specific needs */
-    height: 100vh; /* Adjust based on your specific needs */
-    object-fit: cover; /* Ensures the image covers the area without distortion */
-    animation: zoomOut 5s infinite alternate;
-  }
