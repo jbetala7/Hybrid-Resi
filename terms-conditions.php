@@ -64,9 +64,9 @@ include 'header.php' ?>
                     data-frames='[{"delay":2000,"speed":2000,"frame":"0","from":"sX:1;sY:1;opacity:0;fb:40px;","to":"o:1;fb:0;","ease":"Power4.easeInOut"},
                         {"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
                     data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]"
-                    data-paddingright="[0,0,0,50]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,50]"
-                    style="z-index: 16; white-space: nowrap; font-size: 120px; line-height: 120px; font-weight: 900; color: #000; letter-spacing: 10px;
-                        font-family: 'montserratregular', sans-serif; text-transform: uppercase;">Terms & <br> Conditions </div>
+                    data-paddingright="[0,0,0,50]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,50]" style="z-index: 16; white-space: nowrap; font-size: 120px; line-height: 120px; font-weight: 900; color: #000; letter-spacing: 10px;
+                        font-family: 'montserratregular', sans-serif; text-transform: uppercase;">Terms & <br>
+                    Conditions </div>
             </li>
 
         </ul>
@@ -381,11 +381,25 @@ include 'header.php' ?>
                             </p>
                             <p class="text-theme-1">5.2 Security Deposits
                             <ul align="justify" class="list-angle-right font-mbold">
-                                <li><a href="javascript:void(0)"> We want to make your stay with us a special one,
-                                        so we’ll do everything we can to help guests with special requirements or
-                                        requests. If you have a special requirement, please let us know when you
-                                        book (in writing) so we can help you choose the most suitable apartment to
-                                        meet your needs. We’ll do our best to meet any reasonable</a></li>
+                                <li><a href="javascript:void(0)"> We know that sometimes things happen. That’s what
+                                        security deposits are for. A security deposit that covers “additional charges
+                                        “(see clause 15), including breakages, damages, extra cleaning, and further
+                                        accommodation charges incurred during your stay, maybe taken and you will be
+                                        advised whether this is payable. We will let you know whether a security deposit
+                                        is required at the time of booking. </a></li>
+                            </ul>
+                            </p>
+                            <p class="text-theme-1">5.3 Payment of additional charges
+                            <ul align="justify" class="list-angle-right font-mbold">
+                                <li><a href="javascript:void(0)"> Valid credit or debit card details must be supplied at
+                                        the time of booking and/or upon arrival at the apartments to cover any potential
+                                        “additional charges” (see clause 15). If we need to, we will deduct these
+                                        charges from any security deposit held or from a debit/credit card supplied and
+                                        any balance on the security deposit will be refunded. We will send you a written
+                                        statement of the “additional charges”, so you know what you were charged for. If
+                                        payment under a debit/credit card is declined, or no card details are provided,
+                                        we reserve the right to invoice the booker or guest direct for these charges</a>
+                                </li>
                             </ul>
                             </p>
                         </div>
