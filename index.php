@@ -912,7 +912,7 @@ include 'header.php' ?>
 
                             </div>
                             <p align="justify">Located in the heart of London, Hybrid Resi gives you more than luxury
-                                amenities with a feeling of being at home when you choose to stay with us. Nothing
+                                amenities with a feeling of being at home when you choose to stay with us, prices start from £99. Nothing
                                 compares to the comfort of a luxuriously furnished apartment giving you an experience
                                 with a space to call home that includes unparalleled services with unrivalled amenities.
                             </p>
