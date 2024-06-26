@@ -668,57 +668,7 @@ include 'header.php' ?>
 <div class="section-full justify-content-center flex-display">
     <div id="myForm" class="form-booking booking-form large-title-block full-content bg-repeat"
         style="background-image:url(images/background/transparent-leaves-pattern.png);">
-        <div class="form-item">
-            <label for="checkout">Apartments*</label>
-            <div class="custom-dropdown">
-                <button type="button" class="dropbtn">
-                    <!-- Replace with your actual icon -->
-                    <span class="dropbtn-text">Select Apartment</span>
-                </button>
-                <div id="myDropdown" class="dropdown-content">
-                    <a href="#" data-value="cd309169-8d29-4fc3-bd34-af35007a5f9d">Fulham 1 Bed
-                        Apartment</a>
-                    <a href="#" data-value="4f067641-dc29-4de9-bcb9-af35007a5f9d"> Fulham 2 Bed
-                        Apartment </a>
-                    <a href="#" data-value="7b38b08e-9642-42ba-b657-af35007a5f9d"> Fulham 3 Bed
-                        Apartment </a>
-                    <a href="#" data-value="87ad2a03-c757-4589-9131-af35007a5f9d"> Wandsworth 1
-                        Bed Apartment </a>
-                    <a href="#" data-value="a36923f2-eb5b-4145-b59a-af35007a5f9d"> Wandsworth 2
-                        Bed Apartment </a>
-                    <a href="#" data-value="1c7c022b-3f7e-4640-af5f-af4900c50cf1">Battersea 1 Bed
-                        Apartment </a>
-                    <a href="#" data-value="c0cd7d37-7f1a-4107-a02b-af4900c0bccd">Battersea 2 Bed
-                        Apartment </a>
-                    <a href="#" data-value="b9cb985e-c46b-451b-a898-af4900c6669f">Battersea 3 Bed
-                        Apartment </a>
-                    <a href="#" data-value="7953b35c-8460-4be6-8ac2-af9a00b493b9">Canary Wharf 1
-                        Bed Apartment </a>
-                    <a href="#" data-value="b2bce49e-49ba-4bd5-b52e-af9a00ba3405">Canary Wharf 2
-                        Bed Apartment </a>
-                    <a href="#" data-value="94b521d7-fe52-4575-8ff7-af9e00cf2fb3">Sutton Cheam 1
-                        Bed Apartment </a>
-                    <a href="#" data-value="6d21b484-418b-486c-a1d0-af9e00d1db7c">Sutton Cheam 2
-                        Bed Apartment </a>
-                    <a href="#" data-value="f93093c6-ba5b-4631-96a4-afd100b305bf">New Malden 1 Bed
-                        Apartment </a>
-                    <a href="#" data-value="d21f44dc-119f-4184-a562-afd100b6c0e2">New Malden 3 Bed
-                        Apartment </a>
-                    <a href="#" data-value="916ccc0f-b398-4812-808f-b09000d170e9">Mitcham 1 Bed
-                        Apartment </a>
-                    <a href="#" data-value="1253e90e-3881-46b2-b075-b09000dd27f2">Mitcham 2 Bed
-                        Apartment </a>
-                    <a href="#" data-value="1c916087-2e2f-42a9-bb94-b09000ddbddd">Mitcham 3 Bed
-                        Apartment </a>
-                    <a href="#" data-value="cf43eb8d-7a02-45e0-9a80-b11b013ac44a">Uxbridge 1 Bed Apartment </a>
-                    <a href="#" data-value="92b748ef-6c50-4f3b-af8c-b11b01449c78">Uxbridge 2 Bed Apartment </a>
-                    <a href="#" data-value="17758ea3-6509-49d4-ae84-b1280120533f">Uxbridge 3 Bed Apartment </a>
-                    <!-- Add more options here -->
-                </div>
-            </div>
-
-        </div>
-
+        
         <div class="form-item dp-none">
             <input type="hidden" id="selected-apartment-id" name="apartment_id">
         </div>
@@ -768,7 +718,7 @@ include 'header.php' ?>
                     Availability</span></a>
         </div>
         <span class="error-message"></span>
-        <span class="form-message">Minimum 7 nights stay required*</span>
+
 
     </div>
 </div>

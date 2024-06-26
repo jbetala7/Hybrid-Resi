@@ -305,7 +305,7 @@ include 'header.php' ?>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/parking.png"
                                             class="img-center">
-                                        <p class="text-center smallp">On-site Free Car parking</p>
+                                        <p class="text-center smallp">On-site Car parking</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
                                             src="images/icons/washing-machine.png" class="img-center">

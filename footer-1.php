@@ -192,7 +192,7 @@
 <!-- <script src='//eu.fw-cdn.com/12629429/648241.js' chat='true'></script> -->
 <!-- MEW FORM -->
 <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
-<script src="js/form.js"></script>
+<script src="js/form-1.js"></script>
 
 <!-- Include jQuery -->
 <!-- <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script> -->
