@@ -347,7 +347,7 @@ include 'header.php' ?>
 
                     <div id="payments" class="service-single-block p-t100">
                         <div class="sx-post-title ">
-                            <h4 class="post-title text-center">5. PAYTMENTS</h4>
+                            <h4 class="post-title text-center">5. PAYMENTS</h4>
                         </div>
                         <div class="sx-post-text">
                             <p class="text-theme-1">5.1 General Payment Terms
