@@ -148,8 +148,8 @@ include 'header.php' ?>
 
             <!-- <button class="site-button-secondry btn-half" type="submit" id="checkavailibilityBTN">Check Availability</button> -->
         </div>
-        <span class="form-message">Minimum 7 nights stay required</span>
-        <span class="error-message"></span>
+        <!-- <span class="form-message">Minimum 7 nights stay required</span>
+        <span class="error-message"></span> -->
     </div>
 </div>
 <!-- MEWS FORM SECTION END -->
