@@ -360,10 +360,6 @@ include 'header.php' ?>
                                             class="img-center">
                                         <p class="text-center smallp">Self Checkin-in</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/parking.png"
-                                            class="img-center">
-                                        <p class="text-center smallp">On-site Car parking</p>
-                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -591,10 +587,6 @@ include 'header.php' ?>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/check-in.png"
                                             class="img-center">
                                         <p class="text-center smallp">Self Checkin-in</p>
-                                    </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/parking.png"
-                                            class="img-center">
-                                        <p class="text-center smallp">On-site Car parking</p>
                                     </div>
                                 </div>
                             </div>

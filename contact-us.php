@@ -83,48 +83,7 @@ include 'header.php' ?>
         <div class="section-content">
             <!-- CONTACT FORM-->
             <div class="row">
-                <div class="col-lg-8 col-md-12 col-sm-12">
-                    <form class="contact-form cons-contact-form bg-gray p-a30" method="post" action="form-handler.php">
-                        <div class="contact-one">
-
-                            <!-- TITLE START -->
-                            <div class="section-head">
-                                <div class="sx-separator-outer separator-left">
-                                    <div class="sx-separator bg-white bg-moving bg-repeat-x bg-theme pattern-bg2">
-                                        <h3 class="sep-line-one text-thin-ice hide-lines">Contact Us</h3>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- TITLE END -->
-
-                            <div class="form-group">
-                                <input name="username" type="text" required class="form-control" placeholder="Name">
-                            </div>
-
-                            <div class="form-group">
-                                <input name="number" type="text" class="form-control" required placeholder="Phone number">
-                            </div>
-
-                            <div class="form-group">
-                                <input name="email" type="text" class="form-control" required placeholder="Email">
-                            </div>
-
-                            <div class="form-group">
-                                <textarea name="message" rows="4" class="form-control " required
-                                    placeholder="Message"></textarea>
-                            </div>
-
-                            <div class="text-right">
-                                <button name="submit" type="submit" value="Submit" class="site-button btn-half"><span>
-                                        submit</span>
-
-                                </button>
-                            </div>
-
-                        </div>
-                    </form>
-                </div>
-                <div class="col-lg-4 col-md-12 col-sm-12">
+                <div class="col-lg-12 col-md-12 col-sm-12">
                     <div class="contact-info block-shadow bg-white bg-center p-a40"
                         style="background-image:url(images/background/bg-map.png)">
 
