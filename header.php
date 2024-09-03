@@ -10,8 +10,7 @@
     <meta name="keywords" content="" />
     <meta name="author" content="Jayesh Betala" />
     <meta name="robots" content="" />
-    <meta name="description"
-        content="Book Luxury Serviced Apartments in London. Available for both short & long term corporate stays. Enjoy suites and furnished apartments with full kitchens and amenities." />
+    <meta name="description" content="<?php echo isset($description) ? $description : 'Book luxury serviced apartments in London, perfect for corporate stays. Enjoy fully furnished suites with kitchens and top amenities for both short and long-term rentals.'; ?>" />
 
 
     <!-- FAVICONS ICON -->
@@ -141,7 +140,7 @@
                         <div class="logo-header">
                             <div class="logo-header-inner logo-header-one">
                                 <a href="index.php">
-                                    <img src="images/logo.png" alt="" />
+                                    <img src="images/logo.webp" alt="hybridresi logo" />
                                 </a>
                             </div>
                         </div>
@@ -218,7 +217,7 @@
                     <p align="justify">
                         We use cookies to provide and improve our services. By using our site, you consent to cookies.
                         <a class="banner-accept" href="#" style="background: #004C86">Accept</a>
-                        <a class="banner-learn" href="/terms/privacy-policy.html">Learn more</a>
+                        <a class="banner-learn" href="/terms/privacy-policy.php">Learn more</a>
                     </p>
                 </div>
             </div>

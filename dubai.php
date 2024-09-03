@@ -1,6 +1,7 @@
 <?php
 $page = 'locations';
 $title = 'Hybrid Resi | Dubai';
+$description = 'Find luxury apartments in Dubai with Hybrid Resi. Find stylish, fully furnished residences with top-notch amenities and stunning city views for premium living experience.';
 include 'header.php' ?>
 
 <!-- SLIDER START -->
@@ -147,7 +148,7 @@ include 'header.php' ?>
                     <div class="col-12">
                         <div class="our-history-content m-b30">
                             <div class="large-title">
-                                <h2 class="m-t20">Marina - Dubai</h2>
+                                <h1 class="m-t20">Marina - Dubai</h1>
                             </div>
                             <p align="justify">Welcome to our luxurious serviced apartments in Marina Dubai, where
                                 opulence and sophistication meet amidst the glimmering waters of the Arabian Gulf.

@@ -1,6 +1,7 @@
 <?php
 $page = 'apartments';
 $title = 'Hybrid Resi | The Apartments';
+$description = 'Find short stay accommodation in London including short stay apartments, extended stay apartments, and London stay apartments. Enjoy comfort and convenience for stay!';
 include 'header.php' ?>
 
 <!-- SLIDER START -->
@@ -154,7 +155,7 @@ include 'header.php' ?>
                     <div class="col-12">
                         <div class="our-history-content m-b30">
                             <div class="large-title">
-                                <h2 class="m-t20">Fulham - London</h2>
+                                <h1 class="m-t20">Fulham - London</h1>
                             </div>
                             <p align="justify">These contemporary apartments on bustling Fulham Road provide every guest
                                 with their perfect home within London City. These Apartments are 4 miles from Buckingham

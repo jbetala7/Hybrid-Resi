@@ -1,0 +1,3 @@
+RewriteCond %{HTTP_HOST} ^hybridresi.com [NC,OR]
+
+RewriteRule ^(.*)$ https://hybridresi.com/$1 [L,R=301,NC]

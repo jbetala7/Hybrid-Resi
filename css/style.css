@@ -8715,7 +8715,7 @@ HEADER (top part of page)
 .header-style-1 .is-fixed.color-fill .main-bar {
 	background: #F1F5FF;
 	padding: 0px 0px;
-	background: url(../images/background/transparent-leaves-pattern.png) repeat;
+	background: url(../images/background/transparent-leaves-pattern.webp) repeat;
 }
 
 .nav-transparent .is-fixed.color-fill .main-bar {
@@ -8736,7 +8736,7 @@ HEADER (top part of page)
 
 .header-style-1 .main-bar {
 	border-bottom: 1px solid #F1F5FF;
-	background: url(../images/background/transparent-leaves-pattern.png) repeat;
+	background: url(../images/background/transparent-leaves-pattern.webp) repeat;
 }
 
 /* .header-style-1 .top-bar {
@@ -8747,7 +8747,7 @@ HEADER (top part of page)
 .top-bar.bg-thin-ice {
 	color: inherit;
 	padding: 0px 0;
-	/* background: url(../images/background/transparent-leaves-pattern.png) repeat; */
+	/* background: url(../images/background/transparent-leaves-pattern.webp) repeat; */
 }
 
 
@@ -16059,7 +16059,7 @@ large-title-block
 	right: 15px;
 	bottom: 40px;
 	border: 10px solid #004C86;
-	background-image: url(../images/background/transparent-leaves-pattern.png);
+	background-image: url(../images/background/transparent-leaves-pattern.webp);
 }
 
 .our-history .our-history-content {
@@ -16267,7 +16267,7 @@ New Menu Style for mobile device (august/2021)
 		height: 100%;
 		padding-top: 5px;
 		background-color: #F1F5FF;
-		background-image: url(../images/background/transparent-leaves-pattern.png);
+		background-image: url(../images/background/transparent-leaves-pattern.webp);
 		background-repeat: repeat;
 		overflow-y: scroll;
 		-webkit-overflow-scrolling: touch;
@@ -16462,7 +16462,7 @@ New Menu Style for mobile device (august/2021)
 		padding-top: 95px;
 		background-color: #F1F5FF;
 		/* Keep the color as a fallback */
-		background-image: url('../images/background/transparent-leaves-pattern.png');
+		background-image: url('../images/background/transparent-leaves-pattern.webp');
 		/* Check this path */
 		background-repeat: repeat;
 		overflow-y: scroll;

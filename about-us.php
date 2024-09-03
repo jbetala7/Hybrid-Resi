@@ -120,7 +120,7 @@ include 'header.php' ?>
     <div class="container">
         <!-- TITLE -->
         <div class="large-title-block full-content bg-theme bg-moving bg-repeat-x"
-            style="background-image:url(images/background/green-leaves-pattern.png);">
+            style="background-image:url(images/background/green-leaves-pattern.webp);">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12">
                     <div class="large-title text-white text-center">
@@ -140,7 +140,7 @@ include 'header.php' ?>
                 <div class="col-lg-4 col-md-6 col-sm-6 m-b30">
                     <a href="https://app.mews.com/distributor/63c1028b-e611-405d-bc62-af3500786b74" target="_blank">
                         <div class="number-block-one animate-in-to-top">
-                            <img src="images/home-page/special-offers/1.jpg" alt="" />
+                            <img src="images/home-page/special-offers/1.jpg" alt="Hybrid Resi luxury amenities" />
                             <div class="figcaption bg-white text-center p-a20">
                                 <h4 class="m-a0">Extended Stay</h4>
                                 <p class="p-t10" align="justify">Stay longer, save more. Stay 30+ nights and save 15% on
@@ -159,7 +159,7 @@ include 'header.php' ?>
                         href="https://app.mews.com/distributor/63c1028b-e611-405d-bc62-af3500786b74"
                         onClick="gtag('event', 'Book Now', { event_category: 'Book Now', event_action: 'Book Now'}); ">
                         <div class="number-block-one animate-in-to-top">
-                            <img src="images/home-page/special-offers/3.jpg" alt="" />
+                            <img src="images/home-page/special-offers/3.jpg" alt="Hybrid Resi luxury amenities" />
                             <div class="figcaption bg-white text-center p-a20">
                                 <h4 class="m-a0">Book Direct</h4>
                                 <p class="p-t10" align="justify">Book direct and save 20% Off BAR Rates.</p>
@@ -175,7 +175,7 @@ include 'header.php' ?>
                 <div class="col-lg-4 col-md-6 col-sm-6 m-b30">
                     <a href="https://app.mews.com/distributor/63c1028b-e611-405d-bc62-af3500786b74" target="_blank">
                         <div class="number-block-one animate-in-to-top">
-                            <img src="images/home-page/special-offers/2.jpg" alt="" />
+                            <img src="images/home-page/special-offers/2.jpg" alt="Hybrid Resi furnished apartment" />
                             <div class="figcaption bg-white text-center p-a20">
                                 <h4 class="m-a0">Summer Promotion</h4>
                                 <p class="p-t10" align="justify">30% off BAR, 28+ night's stay</p>
@@ -202,7 +202,7 @@ include 'header.php' ?>
     <div class="container">
         <!-- TITLE -->
         <div class="large-title-block full-content bg-theme bg-moving bg-repeat-x"
-            style="background-image:url(images/background/green-leaves-pattern.png);">
+            style="background-image:url(images/background/green-leaves-pattern.webp);">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12">
                     <div class="large-title text-white text-center">
@@ -219,39 +219,39 @@ include 'header.php' ?>
                 <div class="col-md-12" data-aos="fade-up" data-aos-duration="800">
                     <div class="ambox m-t30">
                         <div class="row">
-                            <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/icons/fiber-optic.png"
+                            <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/icons/fiber-optic.png" alt="Hybrid Resi fiber-optic"
                                     class="img-center">
                                 <p class="text-center">Fiber Optic Fast Wi-fi</p>
                             </div>
-                            <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/icons/larger.png"
+                            <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/icons/larger.png" alt="Hybrid Resi larger Icon"
                                     class="img-center">
                                 <p class="text-center">Larger than most Apartments</p>
                             </div>
-                            <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/icons/king-bed.png"
+                            <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/icons/king-bed.png" alt="Hybrid Resi king-bed Icon"
                                     class="img-center">
                                 <p class="text-center">Super King & King Size Beds</p>
                             </div>
-                            <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/icons/washing-machine.png"
+                            <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/icons/washing-machine.png" alt="Hybrid Resi washing-machine Icon"
                                     class="img-center">
                                 <p class="text-center">Washing Machine</p>
                             </div>
-                            <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/icons/kitchen.png"
+                            <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/icons/kitchen.png" alt="Icon kitchen"
                                     class="img-center">
                                 <p class="text-center">Fully Equipped Kitchen</p>
                             </div>
-                            <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/icons/work-chair-desk.png"
+                            <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/icons/work-chair-desk.png" alt="Icon work-chair-desk"
                                     class="img-center">
                                 <p class="text-center">Working Desk & Executive Chair</p>
                             </div>
-                            <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/icons/pet-friendly.png"
+                            <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/icons/pet-friendly.png" alt="Icon pet-friendly"
                                     class="img-center">
                                 <p class="text-center">Pet Friendly</p>
                             </div>
-                            <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/icons/weekly-cleaning.png"
+                            <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/icons/weekly-cleaning.png" alt="Icon weekly-cleaning"
                                     class="img-center">
                                 <p class="text-center">Weekly Housekeeping</p>
                             </div>
-                            <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/icons/bills-inclusive.png"
+                            <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/icons/bills-inclusive.png" alt="Icon bills-inclusive"
                                     class="img-center">
                                 <p class="text-center">All Bills & Utilities Inclusive</p>
                             </div>
@@ -272,7 +272,7 @@ include 'header.php' ?>
         <div class="section-content">
             <!-- TITLE -->
             <div class="large-title-block full-content bg-theme bg-moving bg-repeat-x"
-                style="background-image:url(images/background/green-leaves-pattern.png);">
+                style="background-image:url(images/background/green-leaves-pattern.webp);">
                 <div class="row">
                     <div class="col-lg-12 col-md-12 col-sm-12">
                         <div class="large-title text-white text-center">
@@ -461,7 +461,7 @@ include 'header.php' ?>
         <div class="container">
             <!-- TITLE -->
             <div class="large-title-block full-content bg-theme bg-moving bg-repeat-x"
-                style="background-image:url(images/background/green-leaves-pattern.png);">
+                style="background-image:url(images/background/green-leaves-pattern.webp);">
                 <div class="row">
                     <div class="col-lg-12 col-md-12 col-sm-12">
                         <div class="large-title text-white text-center">
@@ -676,7 +676,7 @@ include 'header.php' ?>
 
         <!-- TITLE -->
         <div class="large-title-block full-content bg-theme bg-moving bg-repeat-x"
-            style="background-image:url(images/background/green-leaves-pattern.png);">
+            style="background-image:url(images/background/green-leaves-pattern.webp);">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12">
                     <div class="large-title text-white text-center">
@@ -725,7 +725,7 @@ include 'header.php' ?>
 
         <!-- TITLE -->
         <div class="large-title-block full-content bg-theme bg-moving bg-repeat-x"
-            style="background-image:url(images/background/green-leaves-pattern.png);">
+            style="background-image:url(images/background/green-leaves-pattern.webp);">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12">
                     <div class="large-title text-white text-center">

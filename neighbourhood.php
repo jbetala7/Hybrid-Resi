@@ -78,7 +78,7 @@ include 'header.php' ?>
 <div class="section-full mobile-page-padding">
     <!-- TITLE -->
     <div class="large-title-block full-content bg-theme bg-moving bg-repeat-x"
-        style="background-image:url(images/background/green-leaves-pattern.png);">
+        style="background-image:url(images/background/green-leaves-pattern.webp);">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12">
                 <div class="large-title text-white text-center">

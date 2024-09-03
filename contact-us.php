@@ -85,7 +85,7 @@ include 'header.php' ?>
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12">
                     <div class="contact-info block-shadow bg-white bg-center p-a40"
-                        style="background-image:url(images/background/bg-map.png)">
+                        style="background-image:url(images/background/bg-map.webp)">
 
                         <div>
                             <!-- TITLE START -->

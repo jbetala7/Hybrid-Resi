@@ -1,6 +1,7 @@
 <?php
 $page = 'locations';
 $title = 'Hybrid Resi | Canary Wharf';
+$description = 'Discover luxury apartments in Canary Wharf with Hybrid Resi. Explore modern, fully furnished residences offering top amenities and stunning views in London’s financial hub.';
 include 'header.php' ?>
 
 <!-- SLIDER START -->
@@ -77,7 +78,7 @@ include 'header.php' ?>
 <!-- MEWS FORM SECTION START -->
 <div class="section-full justify-content-center flex-display">
     <div id="myForm" class="form-booking booking-form large-title-block full-content bg-repeat"
-        style="background-image:url(images/background/transparent-leaves-pattern.png);">
+        style="background-image:url(images/background/transparent-leaves-pattern.webp);">
         <div class="form-item">
             <label for="checkout">Apartments*</label>
             <div class="custom-dropdown">
@@ -160,7 +161,7 @@ include 'header.php' ?>
                 <div class="col-xl-12 col-lg-12 col-md-12">
 
                     <div class="about-home-3 m-b30 bg-white">
-                        <h3 class="m-t0 m-b20 sx-tilte text-center text-uppercase">Hybrid Resi - Canary Wharf</h3>
+                        <h1 class="m-t0 m-b20 sx-tilte text-center text-uppercase">Hybrid Resi - Canary Wharf</h1>
                         <p align="justify" class="list-angle-right anchor-line text-center">
                             On the doorstep of Canary Wharf but with a creative dockside identity all its own, the Isle
                             of Dogs is an atmospheric and historic corner of London. Reimagined for a new generation,
@@ -271,7 +272,7 @@ include 'header.php' ?>
                     <div class="col-12">
                         <div class="our-history-content m-b30">
                             <div class="large-title">
-                                <h1 class="m-t20 text-uppercase">One-Bedroom Apartments</h1>
+                                <h2 class="m-t20 text-uppercase">One-Bedroom Apartments</h2>
                                  
                             </div>
                             <p align="justify">These one-bedroom apartments feature a double-size bed with a Hybrid
@@ -279,7 +280,7 @@ include 'header.php' ?>
                                 flooring, and a fully equipped kitchen with an oven, hob, microwave, fridge freezer,
                                 dishwasher and washing machine. Apartment facilities include a dining area, Smart TV and
                                 free internet access.<br>
-                                <span class="m-t10 badge badge-primary"><img src="images/icons/scale.png"> Area : Approx
+                                <span class="m-t10 badge badge-primary"><img src="images/icons/scale.png" alt="Icon scale"> Area : Approx
                                     35 Sqm</span>
                             </p>
 
@@ -301,31 +302,31 @@ include 'header.php' ?>
                             <div class="ambox m-b50">
                                 <div class="row">
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
-                                        <img src="images/icons/guest.png" class="img-center">
+                                        <img src="images/icons/guest.png" alt="Icon guest" class="img-center">
                                         <p class="text-center smallp">2 Guests</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
-                                        <img src="images/icons/storage.png" class="img-center">
+                                        <img src="images/icons/storage.png" alt="storage Icon" class="img-center">
                                         <p class="text-center smallp">Storage Space</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/fridge.png"
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/fridge.png" alt="fridge Icon"
                                             class="img-center">
                                         <p class="text-center smallp">Fridge</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/microwave.png"
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/microwave.png" alt="microwave Icon"
                                             class="img-center">
                                         <p class="text-center smallp">Microwave</p>
                                     </div>
 
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
-                                            src="images/icons/double-bed.png" class="img-center">
+                                            src="images/icons/double-bed.png" alt="Icon double-bed" class="img-center">
                                         <p class="text-center smallp">Double Size Bed</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/hairdryer.png"
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/hairdryer.png" alt="hairdryer Icon"
                                             class="img-center">
                                         <p class="text-center smallp">Hair Dryer</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/hob.png"
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/hob.png" alt="hob Icon"
                                             class="img-center">
                                         <p class="text-center smallp">Hob & Oven</p>
                                     </div>
@@ -334,7 +335,7 @@ include 'header.php' ?>
                                         <p class="text-center smallp">Smart TV</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
-                                            src="images/icons/fiber-optic.png" class="img-center">
+                                            src="images/icons/fiber-optic.png" alt="Hybrid Resi fiber-optic" class="img-center">
                                         <p class="text-center smallp">Superfast Wi-fi</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/safe.png"
@@ -350,14 +351,14 @@ include 'header.php' ?>
                                         <p class="text-center smallp">Coffee Machine</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
-                                            src="images/icons/washing-machine.png" class="img-center">
+                                            src="images/icons/washing-machine.png" alt="Hybrid Resi washing-machine Icon" class="img-center">
                                         <p class="text-center smallp">Washing Machine</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
-                                            src="images/icons/work-chair-desk.png" class="img-center">
+                                            src="images/icons/work-chair-desk.png" alt="Icon work-chair-desk" class="img-center">
                                         <p class="text-center smallp">Work Desk & Chair</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/kitchen.png"
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/kitchen.png" alt="Icon kitchen"
                                             class="img-center">
                                         <p class="text-center smallp">Fully Fitted Kitchen</p>
                                     </div>
@@ -386,7 +387,7 @@ include 'header.php' ?>
                                         <p class="text-center smallp">Ortho Mattress</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
-                                            src="images/icons/weekly-cleaning.png" class="img-center">
+                                            src="images/icons/weekly-cleaning.png" alt="Icon weekly-cleaning" class="img-center">
                                         <p class="text-center smallp">Weekly Housekeeping</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
@@ -510,15 +511,15 @@ include 'header.php' ?>
                     <div class="col-12">
                         <div class="our-history-content m-b30">
                             <div class="large-title">
-                                <h1 class="m-t20 text-uppercase">Two-Bedroom Apartments</h1>
-                            </div>
+                                <h2 class="m-t20 text-uppercase">Two-Bedroom Apartments</h2>
+                            </div>2
                             <p align="justify">These two-bedroom apartments feature a king-size bed and a double-size
                                 bed with one or two bathrooms, a hybrid office desk, and an executive chair, along with
                                 an LG split-screen monitor (only some units may include it). Additionally, they offer a
                                 modern living area with wooden flooring, a fully equipped kitchen including an oven,
                                 hob, microwave, and fridge freezer, as well as a balcony or private terrace. Apartment
                                 facilities include a dining area, smart TV, and free internet access.<br>
-                                <span class="m-t10 badge badge-primary"><img src="images/icons/scale.png"> Area : Approx
+                                <span class="m-t10 badge badge-primary"><img src="images/icons/scale.png" alt="Icon scale"> Area : Approx
                                     60 Sqm</span>
                             </p>
                             <a target="_blank" href="https://my.matterport.com/show/?m=A4THEf9JDeT&play=1&hr=1&ts=0"
@@ -539,32 +540,32 @@ include 'header.php' ?>
                                 apartments:</h3>
                             <div class="ambox m-b50">
                                 <div class="row">
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/guest.png"
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/guest.png" alt="Icon guest"
                                             class="img-center">
                                         <p class="text-center smallp">4 Guests</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/storage.png"
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/storage.png" alt="storage Icon"
                                             class="img-center">
                                         <p class="text-center smallp">Storage Space</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/fridge.png"
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/fridge.png" alt="fridge Icon"
                                             class="img-center">
                                         <p class="text-center smallp">Fridge</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/microwave.png"
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/microwave.png" alt="microwave Icon"
                                             class="img-center">
                                         <p class="text-center smallp">Microwave</p>
                                     </div>
 
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/king-bed.png"
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/king-bed.png" alt="Hybrid Resi king-bed Icon"
                                             class="img-center">
                                         <p class="text-center smallp">King Size Bed</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/hairdryer.png"
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/hairdryer.png" alt="hairdryer Icon"
                                             class="img-center">
                                         <p class="text-center smallp">Hair Dryer</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/hob.png"
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/hob.png" alt="hob Icon"
                                             class="img-center">
                                         <p class="text-center smallp">Hob & Oven</p>
                                     </div>
@@ -573,7 +574,7 @@ include 'header.php' ?>
                                         <p class="text-center smallp">Smart TV</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
-                                            src="images/icons/fiber-optic.png" class="img-center">
+                                            src="images/icons/fiber-optic.png" alt="Hybrid Resi fiber-optic" class="img-center">
                                         <p class="text-center smallp">Superfast Wi-fi</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/safe.png"
@@ -589,14 +590,14 @@ include 'header.php' ?>
                                         <p class="text-center smallp">Coffee Machine</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
-                                            src="images/icons/washing-machine.png" class="img-center">
+                                            src="images/icons/washing-machine.png" alt="Hybrid Resi washing-machine Icon" class="img-center">
                                         <p class="text-center smallp">Washing Machine</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
-                                            src="images/icons/work-chair-desk.png" class="img-center">
+                                            src="images/icons/work-chair-desk.png" alt="Icon work-chair-desk" class="img-center">
                                         <p class="text-center smallp">Work Desk & Chair</p>
                                     </div>
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/kitchen.png"
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/kitchen.png" alt="Icon kitchen"
                                             class="img-center">
                                         <p class="text-center smallp">Fully Fitted Kitchen</p>
                                     </div>
@@ -629,7 +630,7 @@ include 'header.php' ?>
                                         <p class="text-center smallp">Ortho Mattress</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
-                                            src="images/icons/weekly-cleaning.png" class="img-center">
+                                            src="images/icons/weekly-cleaning.png" alt="Icon weekly-cleaning" class="img-center">
                                         <p class="text-center smallp">Weekly Housekeeping</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img

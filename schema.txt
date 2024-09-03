@@ -1,0 +1,9 @@
+<script type='application/ld+json'> 
+{
+  "@context": "https://www.schema.org/",
+  "@type": "WebSite",
+  "name": "Hybrid Resi",
+  "alternateName": "hybridresi",
+  "url": "https://hybridresi.com/"
+}
+ </script>

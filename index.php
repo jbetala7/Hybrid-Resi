@@ -1,6 +1,6 @@
 <?php
 $page = 'home';
-$title = 'Hybrid Resi | Home';
+$title = 'Luxury Serviced Apartments in London | Corporate Apartments - Hybrid Resi';
 include 'header.php' ?>
 
 
@@ -14,11 +14,11 @@ include 'header.php' ?>
             <!-- SLIDE 1 -->
             <li data-index="rs-72" data-transition="fade" data-slotamount="default" data-hideafterloop="0"
                 data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300"
-                data-thumb="images/banner-images/home-page/1.jpg" data-rotate="0" data-saveperformance="off"
+                data-thumb="images/banner-images/home-page/1.webp" data-rotate="0" data-saveperformance="off"
                 data-title="" data-param1="1" data-param2="" data-param3="" data-param4="" data-param5="" data-param6=""
                 data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                 <!-- MAIN IMAGE -->
-                <img src="images/banner-images/home-page/1.jpg" data-bgcolor='#f8f8f8' alt=""
+                <img src="images/banner-images/home-page/1.webp" data-bgcolor='#f8f8f8' alt=""
                     data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off"
                     class="banner-images rev-slidebg" data-no-retina>
 
@@ -94,11 +94,11 @@ include 'header.php' ?>
             <!-- SLIDE 2 -->
             <li data-index="rs-73" data-transition="fade" data-slotamount="default" data-hideafterloop="0"
                 data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300"
-                data-thumb="images/banner-images/home-page/2.jpg" data-rotate="0" data-saveperformance="off"
+                data-thumb="images/banner-images/home-page/2.webp" data-rotate="0" data-saveperformance="off"
                 data-title="" data-param1="1" data-param2="" data-param3="" data-param4="" data-param5="" data-param6=""
                 data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                 <!-- MAIN IMAGE -->
-                <img src="images/banner-images/home-page/2.jpg" data-bgcolor='#f8f8f8' alt=""
+                <img src="images/banner-images/home-page/2.webp" data-bgcolor='#f8f8f8' alt=""
                     data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off"
                     class="rev-slidebg" data-no-retina>
 
@@ -173,11 +173,11 @@ include 'header.php' ?>
             <!-- SLIDE 3 -->
             <li data-index="rs-74" data-transition="fade" data-slotamount="default" data-hideafterloop="0"
                 data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300"
-                data-thumb="images/banner-images/home-page/3.jpg" data-rotate="0" data-saveperformance="off"
+                data-thumb="images/banner-images/home-page/3.webp" data-rotate="0" data-saveperformance="off"
                 data-title="" data-param1="1" data-param2="" data-param3="" data-param4="" data-param5="" data-param6=""
                 data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                 <!-- MAIN IMAGE -->
-                <img src="images/banner-images/home-page/3.jpg" data-bgcolor='#f8f8f8' alt=""
+                <img src="images/banner-images/home-page/3.webp" data-bgcolor='#f8f8f8' alt=""
                     data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off"
                     class="rev-slidebg" data-no-retina>
 
@@ -252,11 +252,11 @@ include 'header.php' ?>
             <!-- SLIDE 4 -->
             <li data-index="rs-75" data-transition="fade" data-slotamount="default" data-hideafterloop="0"
                 data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300"
-                data-thumb="images/banner-images/home-page/4.jpg" data-rotate="0" data-saveperformance="off"
+                data-thumb="images/banner-images/home-page/4.webp" data-rotate="0" data-saveperformance="off"
                 data-title="" data-param1="1" data-param2="" data-param3="" data-param4="" data-param5="" data-param6=""
                 data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                 <!-- MAIN IMAGE -->
-                <img src="images/banner-images/home-page/4.jpg" data-bgcolor='#f8f8f8' alt=""
+                <img src="images/banner-images/home-page/4.webp" data-bgcolor='#f8f8f8' alt=""
                     data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off"
                     class="rev-slidebg" data-no-retina>
 
@@ -331,11 +331,11 @@ include 'header.php' ?>
             <!-- SLIDE 5 -->
             <li data-index="rs-76" data-transition="fade" data-slotamount="default" data-hideafterloop="0"
                 data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300"
-                data-thumb="images/banner-images/home-page/5.jpg" data-rotate="0" data-saveperformance="off"
+                data-thumb="images/banner-images/home-page/5.webp" data-rotate="0" data-saveperformance="off"
                 data-title="" data-param1="1" data-param2="" data-param3="" data-param4="" data-param5="" data-param6=""
                 data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                 <!-- MAIN IMAGE -->
-                <img src="images/banner-images/home-page/5.jpg" data-bgcolor='#f8f8f8' alt=""
+                <img src="images/banner-images/home-page/5.webp" data-bgcolor='#f8f8f8' alt=""
                     data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off"
                     class="rev-slidebg" data-no-retina>
 
@@ -410,11 +410,11 @@ include 'header.php' ?>
             <!-- SLIDE 6 -->
             <li data-index="rs-77" data-transition="fade" data-slotamount="default" data-hideafterloop="0"
                 data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300"
-                data-thumb="images/banner-images/home-page/6.jpg" data-rotate="0" data-saveperformance="off"
+                data-thumb="images/banner-images/home-page/6.webp" data-rotate="0" data-saveperformance="off"
                 data-title="" data-param1="1" data-param2="" data-param3="" data-param4="" data-param5="" data-param6=""
                 data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                 <!-- MAIN IMAGE -->
-                <img src="images/banner-images/home-page/6.jpg" data-bgcolor='#f8f8f8' alt=""
+                <img src="images/banner-images/home-page/6.webp" data-bgcolor='#f8f8f8' alt=""
                     data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off"
                     class="rev-slidebg" data-no-retina>
 
@@ -490,11 +490,11 @@ include 'header.php' ?>
             <!-- SLIDE 7 -->
             <li data-index="rs-78" data-transition="fade" data-slotamount="default" data-hideafterloop="0"
                 data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300"
-                data-thumb="images/banner-images/home-page/7.jpg" data-rotate="0" data-saveperformance="off"
+                data-thumb="images/banner-images/home-page/7.webp" data-rotate="0" data-saveperformance="off"
                 data-title="" data-param1="1" data-param2="" data-param3="" data-param4="" data-param5="" data-param6=""
                 data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                 <!-- MAIN IMAGE -->
-                <img src="images/banner-images/home-page/7.jpg" data-bgcolor='#f8f8f8' alt=""
+                <img src="images/banner-images/home-page/7.webp" data-bgcolor='#f8f8f8' alt=""
                     data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off"
                     class="rev-slidebg" data-no-retina>
 
@@ -569,11 +569,11 @@ include 'header.php' ?>
             <!-- SLIDE 8 -->
             <li data-index="rs-79" data-transition="fade" data-slotamount="default" data-hideafterloop="0"
                 data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300"
-                data-thumb="images/banner-images/home-page/8.jpg" data-rotate="0" data-saveperformance="off"
+                data-thumb="images/banner-images/home-page/8.webp" data-rotate="0" data-saveperformance="off"
                 data-title="" data-param1="1" data-param2="" data-param3="" data-param4="" data-param5="" data-param6=""
                 data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                 <!-- MAIN IMAGE -->
-                <img src="images/banner-images/home-page/8.jpg" data-bgcolor='#f8f8f8' alt=""
+                <img src="images/banner-images/home-page/8.webp" data-bgcolor='#f8f8f8' alt=""
                     data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off"
                     class="rev-slidebg" data-no-retina>
 
@@ -665,10 +665,10 @@ include 'header.php' ?>
 
 
 <!-- MEWS FORM SECTION START -->
-<div class="section-full justify-content-center flex-display">
+<div class="section-full justify-content-center flex-display p-b50">
     <div id="myForm" class="form-booking booking-form large-title-block full-content bg-repeat"
-        style="background-image:url(images/background/transparent-leaves-pattern.png);">
-        
+        style="background-image:url(images/background/transparent-leaves-pattern.webp);">
+
         <div class="form-item dp-none">
             <input type="hidden" id="selected-apartment-id" name="apartment_id">
         </div>
@@ -724,13 +724,27 @@ include 'header.php' ?>
 </div>
 <!-- MEWS FORM SECTION END -->
 
+<!-- DIVISION START -->
+<a href="https://app.mews.com/distributor/63c1028b-e611-405d-bc62-af3500786b74" target="_blank" style="text-decoration: none; color: inherit;">
+    <div class="section-full bg-light-gray p-tb20">
+        <div class="container text-center">
+            <p class="m-b0 main-text">Stay Longer, Save More</p>
+            <div class="offer-text">
+                <span>30% off for 30+ Nights</span> |
+                <span>25% off for 14+ Nights</span> |
+                <span>15% Cash Back offer for 7+ Nights</span>
+            </div>
+        </div>
+    </div>
+</a>
+<!-- DIVISION END -->
 
 <!-- ABOUT SECTION START -->
-<div class="section-full mobile-page-padding p-t80 p-b50 bg-no-repeat bg-bottom-left"
-    style="background-image:url(images/background/building-sketch.png)">
+<div class="section-full mobile-page-padding p-t50 p-b50 bg-no-repeat bg-bottom-left"
+    style="background-image:url(images/background/building-sketch.webp)">
     <!-- TITLE -->
     <div class="large-title-block full-content bg-theme bg-moving bg-repeat-x"
-        style="background-image:url(images/background/green-leaves-pattern.png);">
+        style="background-image:url(images/background/green-leaves-pattern.webp);">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12">
                 <div class="large-title text-white text-center">
@@ -775,11 +789,11 @@ include 'header.php' ?>
 
 <!-- BREADCRUMB -->
 <div class="large-title-block full-content bg-theme bg-moving bg-repeat-x"
-    style="background-image:url(images/background/green-leaves-pattern.png);">
+    style="background-image:url(images/background/green-leaves-pattern.webp);">
     <div class="row">
         <div class="col-lg-12 col-md-12 col-sm-12">
             <div class="large-title text-white text-center">
-                <h1 class="m-t0 m-b20">FUTURE - SUSTAINABLE WAY OF LIVING</h1>
+                <h2 class="m-t0 m-b20">FUTURE - SUSTAINABLE WAY OF LIVING</h2>
             </div>
         </div>
         <div class="col-lg-12 col-md-12	col-sm-12">
@@ -858,11 +872,12 @@ include 'header.php' ?>
                     <div class="col-12">
                         <div class="our-history-content m-b30">
                             <div class="large-title">
-                                <h1 class="m-t20 text-uppercase">Stay</h1>
+                                <h2 class="m-t20 text-uppercase">Stay</h2>
 
                             </div>
                             <p align="justify">Located in the heart of London, Hybrid Resi gives you more than luxury
-                                amenities with a feeling of being at home when you choose to stay with us, prices start from £99. Nothing
+                                amenities with a feeling of being at home when you choose to stay with us, prices start
+                                from £99. Nothing
                                 compares to the comfort of a luxuriously furnished apartment giving you an experience
                                 with a space to call home that includes unparalleled services with unrivalled amenities.
                             </p>
@@ -974,7 +989,7 @@ include 'header.php' ?>
                     <div class="col-12">
                         <div class="our-history-content m-b30">
                             <div class="large-title">
-                                <h1 class="m-t20 text-uppercase">Work</h1>
+                                <h2 class="m-t20 text-uppercase">Work</h2>
                             </div>
                             <p align="justify">Hybrid Resi blends the facilities of a modern office with the comforts of
                                 a contemporary
@@ -1044,7 +1059,7 @@ include 'header.php' ?>
                     <div class="col-12">
                         <div class="our-history-content m-b30">
                             <div class="large-title">
-                                <h1 class="m-t20 text-uppercase">Leisure</h1>
+                                <h2 class="m-t20 text-uppercase">Leisure</h2>
                                 <!-- <h4>Amman, Jordan</h4> -->
                             </div>
                             <p align="justify" class="m-b20">Hybrid Resi provides every guest with their perfect home in
@@ -1078,11 +1093,11 @@ include 'header.php' ?>
     <div class="container">
         <!-- TITLE -->
         <div class="large-title-block full-content bg-theme bg-moving bg-repeat-x"
-            style="background-image:url(images/background/green-leaves-pattern.png);">
+            style="background-image:url(images/background/green-leaves-pattern.webp);">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12">
                     <div class="large-title text-white text-center">
-                        <h1 class="m-tb0 text-uppercase">Special Offers</h1>
+                        <h2 class="m-tb0 text-uppercase">Special Offers</h2>
                     </div>
                 </div>
             </div>
@@ -1098,7 +1113,7 @@ include 'header.php' ?>
                 <div class="col-lg-4 col-md-6 col-sm-6 m-b30">
                     <a href="https://app.mews.com/distributor/63c1028b-e611-405d-bc62-af3500786b74" target="_blank">
                         <div class="number-block-one animate-in-to-top">
-                            <img src="images/home-page/special-offers/1.jpg" alt="" />
+                            <img src="images/home-page/special-offers/1.jpg" alt="Hybrid Resi UK-based serviced" />
                             <div class="figcaption bg-white text-center p-a20">
                                 <h4 class="m-a0">Extended Stay</h4>
                                 <p class="p-t10" align="justify">Stay longer, save more. Stay 30+ nights and save 15% on
@@ -1117,7 +1132,7 @@ include 'header.php' ?>
                         href="https://app.mews.com/distributor/63c1028b-e611-405d-bc62-af3500786b74"
                         onClick="gtag('event', 'Book Now', { event_category: 'Book Now', event_action: 'Book Now'}); ">
                         <div class="number-block-one animate-in-to-top">
-                            <img src="images/home-page/special-offers/3.jpg" alt="" />
+                            <img src="images/home-page/special-offers/3.jpg" alt="Hybrid Resi luxury amenities" />
                             <div class="figcaption bg-white text-center p-a20">
                                 <h4 class="m-a0">Book Direct</h4>
                                 <p class="p-t10" align="justify">Book direct and save 20% Off BAR Rates.</p>
@@ -1133,7 +1148,7 @@ include 'header.php' ?>
                 <div class="col-lg-4 col-md-6 col-sm-6 m-b30">
                     <a href="https://app.mews.com/distributor/63c1028b-e611-405d-bc62-af3500786b74" target="_blank">
                         <div class="number-block-one animate-in-to-top">
-                            <img src="images/home-page/special-offers/2.jpg" alt="" />
+                            <img src="images/home-page/special-offers/2.jpg" alt="Hybrid Resi luxury amenities" />
                             <div class="figcaption bg-white text-center p-a20">
                                 <h4 class="m-a0">Summer Promotion</h4>
                                 <p class="p-t10" align="justify">30% off BAR, 28+ night's stay</p>
@@ -1160,11 +1175,11 @@ include 'header.php' ?>
     <div class="container">
         <!-- TITLE -->
         <div class="large-title-block full-content bg-theme bg-moving bg-repeat-x"
-            style="background-image:url(images/background/green-leaves-pattern.png);">
+            style="background-image:url(images/background/green-leaves-pattern.webp);">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12">
                     <div class="large-title text-white text-center">
-                        <h1 class="m-tb0 text-uppercase">Perks</h1>
+                        <h2 class="m-tb0 text-uppercase">Perks</h2>
                     </div>
                 </div>
             </div>
@@ -1178,39 +1193,39 @@ include 'header.php' ?>
                     <div class="ambox m-t30">
                         <div class="row">
                             <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/icons/fiber-optic.png"
-                                    class="img-center">
+                                    alt="Hybrid Resi fiber-optic" class="img-center">
                                 <p class="text-center">Fiber Optic Fast Wi-fi</p>
                             </div>
                             <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/icons/larger.png"
-                                    class="img-center">
+                                    alt="Hybrid Resi larger Icon" class="img-center">
                                 <p class="text-center">Larger than most Apartments</p>
                             </div>
                             <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/icons/king-bed.png"
-                                    class="img-center">
+                                    alt="Hybrid Resi king-bed Icon" class="img-center">
                                 <p class="text-center">Super King & King Size Beds</p>
                             </div>
                             <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/icons/washing-machine.png"
-                                    class="img-center">
+                                    alt="Hybrid Resi washing-machine Icon" class="img-center">
                                 <p class="text-center">Washing Machine</p>
                             </div>
                             <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/icons/kitchen.png"
-                                    class="img-center">
+                                    alt="Icon kitchen" class="img-center">
                                 <p class="text-center">Fully Equipped Kitchen</p>
                             </div>
                             <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/icons/work-chair-desk.png"
-                                    class="img-center">
+                                    alt="Icon work-chair-desk" class="img-center">
                                 <p class="text-center">Working Desk & Executive Chair</p>
                             </div>
                             <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/icons/pet-friendly.png"
-                                    class="img-center">
+                                    alt="Icon pet-friendly" class="img-center">
                                 <p class="text-center">Pet Friendly</p>
                             </div>
                             <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/icons/weekly-cleaning.png"
-                                    class="img-center">
+                                    alt="Icon weekly-cleaning" class="img-center">
                                 <p class="text-center">Weekly Housekeeping</p>
                             </div>
                             <div class="col-md-4 col-sm-4 col-xs-6"> <img src="images/icons/bills-inclusive.png"
-                                    class="img-center">
+                                    alt="Icon bills-inclusive" class="img-center">
                                 <p class="text-center">All Bills & Utilities Inclusive</p>
                             </div>
 
@@ -1230,11 +1245,11 @@ include 'header.php' ?>
         <div class="section-content">
             <!-- TITLE -->
             <div class="large-title-block full-content bg-theme bg-moving bg-repeat-x"
-                style="background-image:url(images/background/green-leaves-pattern.png);">
+                style="background-image:url(images/background/green-leaves-pattern.webp);">
                 <div class="row">
                     <div class="col-lg-12 col-md-12 col-sm-12">
                         <div class="large-title text-white text-center">
-                            <h1 class="m-tb0 text-uppercase">Gallery</h1>
+                            <h2 class="m-tb0 text-uppercase">Gallery</h2>
                         </div>
                     </div>
                 </div>
@@ -1419,11 +1434,11 @@ include 'header.php' ?>
         <div class="container">
             <!-- TITLE -->
             <div class="large-title-block full-content bg-theme bg-moving bg-repeat-x"
-                style="background-image:url(images/background/green-leaves-pattern.png);">
+                style="background-image:url(images/background/green-leaves-pattern.webp);">
                 <div class="row">
                     <div class="col-lg-12 col-md-12 col-sm-12">
                         <div class="large-title text-white text-center">
-                            <h1 class="m-tb0 text-uppercase">Guest Reviews</h1>
+                            <h2 class="m-tb0 text-uppercase">Guest Reviews</h2>
                         </div>
                     </div>
                 </div>
@@ -1634,11 +1649,11 @@ include 'header.php' ?>
 
         <!-- TITLE -->
         <div class="large-title-block full-content bg-theme bg-moving bg-repeat-x"
-            style="background-image:url(images/background/green-leaves-pattern.png);">
+            style="background-image:url(images/background/green-leaves-pattern.webp);">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12">
                     <div class="large-title text-white text-center">
-                        <h1 class="m-tb0 text-uppercase">Our Accolades</h1>
+                        <h2 class="m-tb0 text-uppercase">Our Accolades</h2>
                     </div>
                 </div>
             </div>
@@ -1683,11 +1698,11 @@ include 'header.php' ?>
 
         <!-- TITLE -->
         <div class="large-title-block full-content bg-theme bg-moving bg-repeat-x"
-            style="background-image:url(images/background/green-leaves-pattern.png);">
+            style="background-image:url(images/background/green-leaves-pattern.webp);">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12">
                     <div class="large-title text-white text-center">
-                        <h1 class="m-tb0 text-uppercase">Our Partners</h1>
+                        <h2 class="m-tb0 text-uppercase">Our Partners</h2>
                     </div>
                 </div>
             </div>

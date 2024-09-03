@@ -244,7 +244,7 @@ include 'header.php' ?>
                                 units offer balconies boasting iconic views on the famous Dubai Downtown
                                 Boulevard &amp; Dubai Opera, while select buildings feature swimming pools for
                                 residents to enjoy.<br>
-                                <span class="m-t10 badge badge-primary"><img src="images/icons/scale.png"> Area : Approx
+                                <span class="m-t10 badge badge-primary"><img src="images/icons/scale.png" alt="Icon scale"> Area : Approx
                                     46 Sqm</span>
                             </p>
 
@@ -265,7 +265,7 @@ include 'header.php' ?>
                                 apartments:</h3>
                             <div class="ambox m-b50">
                                 <div class="row">
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/guest.png"
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/guest.png" alt="Icon guest"
                                             class="img-center">
                                         <p class="text-center smallp">2 Guests</p>
                                     </div>
@@ -274,7 +274,7 @@ include 'header.php' ?>
                                         <p class="text-center smallp">Flat screen TV</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
-                                            src="images/icons/fiber-optic.png" class="img-center">
+                                            src="images/icons/fiber-optic.png" alt="Hybrid Resi fiber-optic" class="img-center">
                                         <p class="text-center smallp">Free Wi-fi</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/safe.png"
@@ -456,7 +456,7 @@ include 'header.php' ?>
                                 convenient meal preparation and serving. Some units offer balconies boasting iconic
                                 views of the Burj Khalifa and the dancing fountain while select buildings feature
                                 swimming pools for residents to enjoy.<br>
-                                <span class="m-t10 badge badge-primary"><img src="images/icons/scale.png"> Area : Approx
+                                <span class="m-t10 badge badge-primary"><img src="images/icons/scale.png" alt="Icon scale"> Area : Approx
                                     110 to 150 Sqm</span>
                             </p>
                             <!-- <a target="_blank" href="https://my.matterport.com/show/?m=yhzDGSqUz3g&play=1&hr=1&ts=0"
@@ -477,7 +477,7 @@ include 'header.php' ?>
                                 apartments:</h3>
                             <div class="ambox m-b50">
                                 <div class="row">
-                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/guest.png"
+                                    <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/guest.png" alt="Icon guest"
                                             class="img-center">
                                         <p class="text-center smallp">2 Guests</p>
                                     </div>
@@ -486,7 +486,7 @@ include 'header.php' ?>
                                         <p class="text-center smallp">Flat screen TV</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img
-                                            src="images/icons/fiber-optic.png" class="img-center">
+                                            src="images/icons/fiber-optic.png" alt="Hybrid Resi fiber-optic" class="img-center">
                                         <p class="text-center smallp">Free Wi-fi</p>
                                     </div>
                                     <div class="col-lg-2 col-md-3 col-sm-6 col-6"> <img src="images/icons/safe.png"

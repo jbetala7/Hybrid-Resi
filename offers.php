@@ -5,7 +5,7 @@ include 'header.php' ?>
 
 <!-- INNER PAGE BANNER -->
 <div class="mobile-size sx-bnr-inr overlay-wraper bg-parallax"
-    style="background-image:url(images/banner-images/apartments/stay.jpg);">
+    style="background-image:url(images/banner-images/apartments/stay.webp);">
     <div class="overlay-main bg-black opacity-05"></div>
     <div class="container">
         <div class="sx-bnr-inr-entry">
@@ -32,7 +32,7 @@ include 'header.php' ?>
 <!-- OFFERS SECTION START-->
 <div class="section-full text-center bg-repeat p-b80 mobile-page-padding">
     <!-- TITLE -->
-    <div class="large-title-block full-content bg-theme bg-moving bg-repeat-x" style="background-image:url(images/background/green-leaves-pattern.png);">
+    <div class="large-title-block full-content bg-theme bg-moving bg-repeat-x" style="background-image:url(images/background/green-leaves-pattern.webp);">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12">
                 <div class="large-title text-white text-center">

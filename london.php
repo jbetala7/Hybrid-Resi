@@ -1,6 +1,7 @@
 <?php
 $page = 'locations';
 $title = 'Hybrid Resi | London';
+$description = 'Book  premium London apartments with Hybrid Resi. Explore a range of luxurious, fully furnished residences in prime locations, offering top amenities and sophisticated living.';
 include 'header.php' ?>
 
 <!-- SLIDER START -->
@@ -77,7 +78,7 @@ include 'header.php' ?>
 <!-- MEWS FORM SECTION START -->
 <div class="section-full justify-content-center flex-display">
     <div id="myForm" class="form-booking booking-form large-title-block full-content bg-repeat"
-        style="background-image:url(images/background/transparent-leaves-pattern.png);">
+        style="background-image:url(images/background/transparent-leaves-pattern.webp);">
         <div class="form-item">
             <label for="checkout">Apartments*</label>
             <div class="custom-dropdown">
@@ -262,7 +263,7 @@ include 'header.php' ?>
                     <div class="col-12">
                         <div class="our-history-content m-b30">
                             <div class="large-title">
-                                <h2 class="m-t20">Fulham - London</h2>
+                                <h1 class="m-t20">Fulham - London</h1>
                             </div>
                             <p align="justify">These contemporary apartments on bustling Fulham Road provide every guest
                                 with their perfect home within London City. These Apartments are 4 miles from Buckingham
