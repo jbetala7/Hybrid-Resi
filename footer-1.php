@@ -32,7 +32,6 @@
                         <h5 class="widget-title">Explore More</h5>
                         <ul>
                             <li><a href="stay.php">Locations</a></li>
-                            <li><a href="neighbourhood.php">Neighbourhood</a></li>
                             <li><a href="contact-us.php">Contact Us</a></li>
                         </ul>
                     </div>
